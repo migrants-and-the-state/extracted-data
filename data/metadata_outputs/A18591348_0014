@@ -1,0 +1,30 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Russia",
+        "United States"
+    ],
+    "years": [
+        "1911",
+        "1904",
+        "1910",
+        "1970",
+        "1916",
+        "1908",
+        "1905",
+        "1884",
+        "1914"
+    ],
+    "doc_id": "A18591348_0014",
+    "afile_number": "A18591348",
+    "dev_idx": 6561,
+    "pagenumber": 14,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A18591348_0014/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A18591348_0014.txt",
+    "cert_naturalization_attributes": {}
+}

@@ -1,0 +1,56 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ],
+        "LLM_REVISION_DATE": [
+            "REV. 10-1-74"
+        ],
+        "LLM_OMB_NUMBER": [
+            "43-R436"
+        ],
+        "LLM_COUNTRY": [
+            "SAIGON",
+            "Vietnom",
+            "U.S.A",
+            "Vietnam",
+            "CHINA"
+        ],
+        "LLM_STATE_CITY": [
+            "TRAN HUNG DAO CHOLON VN",
+            "CANTON CHINA",
+            "Anime cheet",
+            "TRAN-HUNG-DAU CHOLON VN",
+            "QUANGE DONG"
+        ],
+        "LLM_EMPLOYER": [
+            "TAPHACO"
+        ],
+        "LLM_OCCUPATION": [
+            "Self employee"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States",
+        "Vietnam",
+        "China"
+    ],
+    "years": [
+        "1948",
+        "2023",
+        "1975",
+        "1915"
+    ],
+    "doc_id": "A21203763_redacted_0026",
+    "afile_number": "A21203763",
+    "dev_idx": 9072,
+    "pagenumber": 26,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A21203763_redacted_0026/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A21203763_redacted_0026.txt",
+    "cert_naturalization_attributes": {}
+}

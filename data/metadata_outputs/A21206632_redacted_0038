@@ -1,0 +1,49 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ],
+        "LLM_OMB_NUMBER": [
+            "1115-0066"
+        ],
+        "LLM_COUNTRY": [
+            "Vietnam",
+            "USA"
+        ],
+        "LLM_OCCUPATION": [
+            "NONE",
+            "none",
+            "None"
+        ],
+        "LLM_STATE_CITY": [
+            "Rosemead CA",
+            "Hai Duong",
+            "Nam Dinh"
+        ],
+        "LLM_REVISION_DATE": [
+            "Rev. 10-1-82"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States",
+        "Vietnam"
+    ],
+    "years": [
+        "1992",
+        "2023",
+        "1915",
+        "1944"
+    ],
+    "doc_id": "A21206632_redacted_0038",
+    "afile_number": "A21206632",
+    "dev_idx": 9299,
+    "pagenumber": 38,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A21206632_redacted_0038/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A21206632_redacted_0038.txt",
+    "cert_naturalization_attributes": {}
+}

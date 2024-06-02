@@ -1,0 +1,49 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ],
+        "LLM_REVISION_DATE": [
+            "REV. 10-1-74"
+        ],
+        "LLM_OMB_NUMBER": [
+            "43-R436"
+        ],
+        "LLM_COUNTRY": [
+            "PAKISTAN",
+            "USA"
+        ],
+        "LLM_STATE_CITY": [
+            "GARI KAPOORA",
+            "HIALEAH",
+            "MARDAN",
+            "NWFP",
+            "SIND"
+        ],
+        "LLM_OCCUPATION": [
+            "MISSIONARY"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States",
+        "Pakistan"
+    ],
+    "years": [
+        "1969",
+        "1958",
+        "2023",
+        "1906"
+    ],
+    "doc_id": "A20216306_redacted_0032",
+    "afile_number": "A20216306",
+    "dev_idx": 7791,
+    "pagenumber": 32,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A20216306_redacted_0032/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A20216306_redacted_0032.txt",
+    "cert_naturalization_attributes": {}
+}

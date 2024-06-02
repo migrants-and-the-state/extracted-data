@@ -1,0 +1,50 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_REVISION_DATE": [
+            "REV. 9-1-69"
+        ],
+        "LLM_OMB_NUMBER": [
+            "43-R436"
+        ],
+        "LLM_NATIONALITY": [
+            "Polish"
+        ],
+        "LLM_STATE_CITY": [
+            "Montello St. Brockton Mass.",
+            "Stebuliszki"
+        ],
+        "LLM_COUNTRY": [
+            "Lithuania",
+            "Z.S.R.R."
+        ],
+        "LLM_OCCUPATION": [
+            "NONE",
+            "none",
+            "None"
+        ],
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States",
+        "Lithuania"
+    ],
+    "years": [
+        "1970",
+        "1933",
+        "1962"
+    ],
+    "doc_id": "A12296289_0004",
+    "afile_number": "A12296289",
+    "dev_idx": 2421,
+    "pagenumber": 4,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A12296289_0004/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A12296289_0004.txt",
+    "cert_naturalization_attributes": {}
+}

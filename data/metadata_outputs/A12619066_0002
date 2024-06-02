@@ -1,0 +1,26 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "China"
+    ],
+    "years": [
+        "1924",
+        "1916",
+        "1917",
+        "1918",
+        "1944",
+        "1915"
+    ],
+    "doc_id": "A12619066_0002",
+    "afile_number": "A12619066",
+    "dev_idx": 3083,
+    "pagenumber": 2,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A12619066_0002/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A12619066_0002.txt",
+    "cert_naturalization_attributes": {}
+}

@@ -1,0 +1,61 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ],
+        "LLM_REVISION_DATE": [
+            "REV. 10-1-74"
+        ],
+        "LLM_OMB_NUMBER": [
+            "43-R436"
+        ],
+        "LLM_COUNTRY": [
+            "Viet Nam",
+            "USA"
+        ],
+        "LLM_STATE_CITY": [
+            "Saigon",
+            "Burbank California",
+            "Ha Noi",
+            "Nam Dinh"
+        ],
+        "LLM_EMPLOYER": [
+            "C.B. Electronics",
+            "CED Saigon",
+            "NBC News",
+            "Cervin-Vega"
+        ],
+        "LLM_EMPLOYER_ADDRESS": [
+            "Thu Due Radio Station",
+            "Co. 91331",
+            "1020 H.Wood May Burbank CA"
+        ],
+        "LLM_OCCUPATION": [
+            "C.B. Tech",
+            "Ast. Manager",
+            "Night Man",
+            "Audio Tech"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States",
+        "Vietnam"
+    ],
+    "years": [
+        "2023",
+        "1895",
+        "1896"
+    ],
+    "doc_id": "A21202301_redacted_0016",
+    "afile_number": "A21202301",
+    "dev_idx": 8986,
+    "pagenumber": 16,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A21202301_redacted_0016/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A21202301_redacted_0016.txt",
+    "cert_naturalization_attributes": {}
+}

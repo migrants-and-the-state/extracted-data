@@ -1,0 +1,81 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States"
+    ],
+    "years": [
+        "1956",
+        "1890"
+    ],
+    "doc_id": "A10210866_0001",
+    "afile_number": "A10210866",
+    "dev_idx": 265,
+    "pagenumber": 1,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A10210866_0001/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A10210866_0001.txt",
+    "cert_naturalization_attributes": {
+        "LLM_NUMBER": [
+            "7620294"
+        ],
+        "LLM_PETITION_NUMBER": [
+            "Petition No. 331325"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "9",
+            "1890"
+        ],
+        "LLM_SEX": [
+            "FEMALE"
+        ],
+        "LLM_COMPLEXION": [
+            "DARK"
+        ],
+        "LLM_COLOR_OF_EYES": [
+            "BROWN"
+        ],
+        "LLM_COLOR_OF_HAIR": [
+            "GRAY"
+        ],
+        "LLM_HEIGHT": [
+            "5 feet 2 inches"
+        ],
+        "LLM_WEIGHT": [
+            "130 pounds"
+        ],
+        "LLM_VISIBILE_DISTINCTIVE_MARKS": [
+            "NONE"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "WIDOW"
+        ],
+        "LLM_FORMER_NATIONALITY": [
+            "ITALIAN"
+        ],
+        "LLM_NATURALIZATION_COUNTRY": [
+            "UNITED STATES",
+            "United States"
+        ],
+        "LLM_Naturalization_District": [
+            "DISTRICT OF MASSACHUSETTS"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "Boston"
+        ],
+        "LLM_DATE_OF_NATURALIZATION": [
+            "AUGUST 27",
+            "1956"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "PAULINE MOTZI"
+        ],
+        "LLM_RESIDENCE_AT_NATURALIZATION": [
+            "EVERETT",
+            "70 BOSTON STREET"
+        ]
+    }
+}

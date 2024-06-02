@@ -1,0 +1,21 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Lebanon"
+    ],
+    "years": [
+        "2023"
+    ],
+    "doc_id": "A19529822_redacted_0046",
+    "afile_number": "A19529822",
+    "dev_idx": 7193,
+    "pagenumber": 46,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A19529822_redacted_0046/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A19529822_redacted_0046.txt",
+    "cert_naturalization_attributes": {}
+}

@@ -1,0 +1,75 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "El Salvador"
+    ],
+    "years": [
+        "1990",
+        "1956"
+    ],
+    "doc_id": "A43194558_redacted_0071",
+    "afile_number": "A43194558",
+    "dev_idx": 18866,
+    "pagenumber": 71,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A43194558_redacted_0071/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A43194558_redacted_0071.txt",
+    "cert_naturalization_attributes": {
+        "LLM_NUMBER": [
+            "14437753"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "SEPTEMBER 20",
+            "1956"
+        ],
+        "LLM_SEX": [
+            "MALE"
+        ],
+        "LLM_COMPLEXION": [
+            "MEDIUM"
+        ],
+        "LLM_COLOR_OF_EYES": [
+            "BROWN"
+        ],
+        "LLM_COLOR_OF_HAIR": [
+            "BLACK"
+        ],
+        "LLM_WEIGHT": [
+            "145 pounds"
+        ],
+        "LLM_VISIBILE_DISTINCTIVE_MARKS": [
+            "NONE"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "DIVORCED"
+        ],
+        "LLM_FORMER_NATIONALITY": [
+            "EL SALVADOR"
+        ],
+        "LLM_NATURALIZATION_COUNTRY": [
+            "UNITED STATES",
+            "United States"
+        ],
+        "LLM_Naturalization_District": [
+            "NORTHERN DISTRICT OF GEORGIA"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "ATLANTA"
+        ],
+        "LLM_NATURALIZATION_STATE": [
+            "GEORGIA"
+        ],
+        "LLM_DATE_OF_NATURALIZATION": [
+            "1990",
+            "SEPTEMBER 21"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "CESAR ORLANDO ZEPEDA"
+        ]
+    }
+}

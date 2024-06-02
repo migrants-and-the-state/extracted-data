@@ -1,0 +1,52 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ],
+        "LLM_REVISION_DATE": [
+            "REV. 8-27-721N"
+        ],
+        "LLM_OMB_NUMBER": [
+            "43-R436"
+        ],
+        "LLM_STATE_CITY": [
+            "Washington",
+            "Wa",
+            "Oregon",
+            "Eugene",
+            "El Paso",
+            "Tacoma",
+            "Seattle",
+            "Saigon",
+            "Texas"
+        ],
+        "LLM_COUNTRY": [
+            "Viet Nam",
+            "U.S.A"
+        ],
+        "LLM_OCCUPATION": [
+            "NONE",
+            "none"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States",
+        "Vietnam"
+    ],
+    "years": [
+        "2023",
+        "1929"
+    ],
+    "doc_id": "A19790690_redacted_0053",
+    "afile_number": "A19790690",
+    "dev_idx": 7442,
+    "pagenumber": 53,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A19790690_redacted_0053/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A19790690_redacted_0053.txt",
+    "cert_naturalization_attributes": {}
+}

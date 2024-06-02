@@ -1,0 +1,76 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "Mexico"
+    ],
+    "years": [
+        "1910",
+        "1987"
+    ],
+    "doc_id": "A10706964_0000",
+    "afile_number": "A10706964",
+    "dev_idx": 1227,
+    "pagenumber": 0,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A10706964_0000/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A10706964_0000.txt",
+    "cert_naturalization_attributes": {
+        "LLM_NUMBER": [
+            "12016518"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "December 2",
+            "1910"
+        ],
+        "LLM_SEX": [
+            "Female"
+        ],
+        "LLM_COMPLEXION": [
+            "Medium"
+        ],
+        "LLM_COLOR_OF_EYES": [
+            "Brown"
+        ],
+        "LLM_COLOR_OF_HAIR": [
+            "Gray"
+        ],
+        "LLM_WEIGHT": [
+            "135 pounds"
+        ],
+        "LLM_VISIBILE_DISTINCTIVE_MARKS": [
+            "None"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "Widow"
+        ],
+        "LLM_FORMER_NATIONALITY": [
+            "Mexico"
+        ],
+        "LLM_NATURALIZATION_COUNTRY": [
+            "UNITED STATES",
+            "United States"
+        ],
+        "LLM_Naturalization_District": [
+            "WESTERN DISTRICT OF TEXAS",
+            "Western District of Texas"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "El Paso"
+        ],
+        "LLM_NATURALIZATION_STATE": [
+            "Texas"
+        ],
+        "LLM_DATE_OF_NATURALIZATION": [
+            "1987",
+            "June 26"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "MARIA FILEMON MOTA"
+        ]
+    }
+}

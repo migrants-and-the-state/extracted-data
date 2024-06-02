@@ -1,0 +1,28 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Taiwan",
+        "China"
+    ],
+    "years": [
+        "1986",
+        "1945",
+        "1973",
+        "2023",
+        "1933",
+        "1985",
+        "1915"
+    ],
+    "doc_id": "A40257572_redacted_0007",
+    "afile_number": "A40257572",
+    "dev_idx": 16340,
+    "pagenumber": 7,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A40257572_redacted_0007/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A40257572_redacted_0007.txt",
+    "cert_naturalization_attributes": {}
+}

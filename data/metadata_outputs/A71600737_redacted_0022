@@ -1,0 +1,53 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_OMB_NUMBER": [
+            "1115-0066"
+        ],
+        "LLM_NATIONALITY": [
+            "Hondurans"
+        ],
+        "LLM_COUNTRY": [
+            "Honduras",
+            "USA"
+        ],
+        "LLM_STATE_CITY": [
+            "Canoga Park",
+            "San Pedro Sula",
+            "CA"
+        ],
+        "LLM_EMPLOYER": [
+            "Self employed"
+        ],
+        "LLM_OCCUPATION": [
+            "Salesman"
+        ],
+        "LLM_EMPLOYER_ADDRESS": [
+            "XXXXXX"
+        ],
+        "LLM_FORM_NUMBER": [
+            "G-325"
+        ],
+        "LLM_REVISION_DATE": [
+            "Rev. 10-1-82"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States",
+        "Honduras"
+    ],
+    "years": [
+        "2023"
+    ],
+    "doc_id": "A71600737_redacted_0022",
+    "afile_number": "A71600737",
+    "dev_idx": 21916,
+    "pagenumber": 22,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A71600737_redacted_0022/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A71600737_redacted_0022.txt",
+    "cert_naturalization_attributes": {}
+}

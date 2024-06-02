@@ -1,0 +1,38 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ],
+        "LLM_OMB_NUMBER": [
+            "1115-0066"
+        ],
+        "LLM_NATIONALITY": [
+            "HAITIEN"
+        ],
+        "LLM_STATE_CITY": [
+            "MIAMI"
+        ],
+        "LLM_OCCUPATION": [
+            "N/A"
+        ],
+        "LLM_REVISION_DATE": [
+            "Rev. 10-1-82"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States"
+    ],
+    "years": [],
+    "doc_id": "A73235174_redacted_0029",
+    "afile_number": "A73235174",
+    "dev_idx": 23247,
+    "pagenumber": 29,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A73235174_redacted_0029/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A73235174_redacted_0029.txt",
+    "cert_naturalization_attributes": {}
+}

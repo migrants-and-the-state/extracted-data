@@ -1,0 +1,69 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "China"
+    ],
+    "years": [
+        "1910",
+        "1975"
+    ],
+    "doc_id": "A17180748_redacted_0000",
+    "afile_number": "A17180748",
+    "dev_idx": 4649,
+    "pagenumber": 0,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A17180748_redacted_0000/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A17180748_redacted_0000.txt",
+    "cert_naturalization_attributes": {
+        "LLM_NUMBER": [
+            "10117818"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "1910",
+            "December 25"
+        ],
+        "LLM_SEX": [
+            "Male"
+        ],
+        "LLM_COMPLEXION": [
+            "Medium"
+        ],
+        "LLM_COLOR_OF_HAIR": [
+            "Black"
+        ],
+        "LLM_VISIBILE_DISTINCTIVE_MARKS": [
+            "None"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "Married"
+        ],
+        "LLM_FORMER_NATIONALITY": [
+            "China"
+        ],
+        "LLM_NATURALIZATION_COUNTRY": [
+            "UNITED STATES",
+            "United States"
+        ],
+        "LLM_NATURALIZATION_STATE": [
+            "CALIFORNIA"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "Los Angeles"
+        ],
+        "LLM_DATE_OF_NATURALIZATION": [
+            "September 19",
+            "1975"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "YUNG SING LO"
+        ],
+        "LLM_RESIDENCE_AT_NATURALIZATION": [
+            "601 S. Detroit Street"
+        ]
+    }
+}

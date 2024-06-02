@@ -1,0 +1,63 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States"
+    ],
+    "years": [
+        "1999",
+        "2023",
+        "1912"
+    ],
+    "doc_id": "A34261850_redacted_0034",
+    "afile_number": "A34261850",
+    "dev_idx": 15081,
+    "pagenumber": 34,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A34261850_redacted_0034/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A34261850_redacted_0034.txt",
+    "cert_naturalization_attributes": {
+        "LLM_NUMBER": [
+            "24819827"
+        ],
+        "LLM_PETITION_NUMBER": [
+            "INS Registration No. A 34 261 850"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "1912",
+            "FEBRUARY 17"
+        ],
+        "LLM_SEX": [
+            "FEMALE"
+        ],
+        "LLM_HEIGHT": [
+            "5 feet 3 inches"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "WIDOWED"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "CA",
+            "LOS ANGELES"
+        ],
+        "LLM_FORMER_NATIONALITY": [
+            "MEXICO"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "TRINIDAD GOMEZ"
+        ],
+        "LLM_NATURALIZATION_COUNTRY": [
+            "United States"
+        ],
+        "LLM_NATURALIZATION_STATE": [
+            "CALIFORNIA"
+        ],
+        "LLM_DATE_OF_NATURALIZATION": [
+            "1999",
+            "JULY 27"
+        ]
+    }
+}

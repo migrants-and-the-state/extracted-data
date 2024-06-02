@@ -1,0 +1,54 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ],
+        "LLM_REVISION_DATE": [
+            "REV. 8-27-"
+        ],
+        "LLM_OMB_NUMBER": [
+            "43-R436"
+        ],
+        "LLM_NATIONALITY": [
+            "Indian"
+        ],
+        "LLM_STATE_CITY": [
+            "Sindh",
+            "Poona Maharastra",
+            "L. A.",
+            "Hydrebad"
+        ],
+        "LLM_EMPLOYER": [
+            "NONE",
+            "none",
+            "None"
+        ],
+        "LLM_COUNTRY": [
+            "Pakistan",
+            "India"
+        ],
+        "LLM_OCCUPATION": [
+            "Self Employed"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States",
+        "India",
+        "Pakistan"
+    ],
+    "years": [
+        "2023"
+    ],
+    "doc_id": "A20550522_redacted_0154",
+    "afile_number": "A20550522",
+    "dev_idx": 8212,
+    "pagenumber": 154,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A20550522_redacted_0154/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A20550522_redacted_0154.txt",
+    "cert_naturalization_attributes": {}
+}

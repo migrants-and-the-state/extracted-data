@@ -1,0 +1,26 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States"
+    ],
+    "years": [
+        "1901",
+        "1909",
+        "1903",
+        "1894",
+        "1892",
+        "1904"
+    ],
+    "doc_id": "A12977343_0028",
+    "afile_number": "A12977343",
+    "dev_idx": 3354,
+    "pagenumber": 28,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A12977343_0028/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A12977343_0028.txt",
+    "cert_naturalization_attributes": {}
+}

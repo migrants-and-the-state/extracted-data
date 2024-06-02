@@ -1,0 +1,21 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States"
+    ],
+    "years": [
+        "1883"
+    ],
+    "doc_id": "A13360785_0000",
+    "afile_number": "A13360785",
+    "dev_idx": 3767,
+    "pagenumber": 0,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A13360785_0000/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A13360785_0000.txt",
+    "cert_naturalization_attributes": {}
+}

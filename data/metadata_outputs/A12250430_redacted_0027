@@ -1,0 +1,56 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "G-325 A"
+        ],
+        "LLM_REVISION_DATE": [
+            "REV. 4-1-67"
+        ],
+        "LLM_OMB_NUMBER": [
+            "43-R436"
+        ],
+        "LLM_NATIONALITY": [
+            "CHINESE"
+        ],
+        "LLM_COUNTRY": [
+            "CANADA",
+            "CHINA"
+        ],
+        "LLM_STATE_CITY": [
+            "LOS ANGELES",
+            "CALIF.",
+            "Los angeles"
+        ],
+        "LLM_EMPLOYER": [
+            "SELF-EMPLOYED"
+        ],
+        "LLM_EMPLOYER_ADDRESS": [
+            "1800 W-8 ST."
+        ],
+        "LLM_OCCUPATION": [
+            "LAUNDRY"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States",
+        "Canada",
+        "China"
+    ],
+    "years": [
+        "1969",
+        "2023",
+        "1814"
+    ],
+    "doc_id": "A12250430_redacted_0027",
+    "afile_number": "A12250430",
+    "dev_idx": 2214,
+    "pagenumber": 27,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A12250430_redacted_0027/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A12250430_redacted_0027.txt",
+    "cert_naturalization_attributes": {}
+}

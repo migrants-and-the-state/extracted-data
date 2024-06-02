@@ -1,0 +1,24 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Italy",
+        "United States"
+    ],
+    "years": [
+        "1973",
+        "1931",
+        "1955"
+    ],
+    "doc_id": "A31128778_0008",
+    "afile_number": "A31128778",
+    "dev_idx": 14407,
+    "pagenumber": 8,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A31128778_0008/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A31128778_0008.txt",
+    "cert_naturalization_attributes": {}
+}

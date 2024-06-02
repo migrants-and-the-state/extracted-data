@@ -1,0 +1,23 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Vietnam",
+        "Thailand"
+    ],
+    "years": [
+        "1988",
+        "2023"
+    ],
+    "doc_id": "A40551579_redacted_0035",
+    "afile_number": "A40551579",
+    "dev_idx": 16546,
+    "pagenumber": 35,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A40551579_redacted_0035/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A40551579_redacted_0035.txt",
+    "cert_naturalization_attributes": {}
+}

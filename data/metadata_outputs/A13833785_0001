@@ -1,0 +1,80 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "Hungary"
+    ],
+    "years": [
+        "1921",
+        "1907"
+    ],
+    "doc_id": "A13833785_0001",
+    "afile_number": "A13833785",
+    "dev_idx": 4078,
+    "pagenumber": 1,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A13833785_0001/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A13833785_0001.txt",
+    "cert_naturalization_attributes": {
+        "LLM_NUMBER": [
+            "A-507963"
+        ],
+        "LLM_PETITION_NUMBER": [
+            "application no. A13 833 785"
+        ],
+        "LLM_SEX": [
+            "Male"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "October 13",
+            "1907"
+        ],
+        "LLM_FORMER_NATIONALITY": [
+            "Hungary"
+        ],
+        "LLM_COMPLEXION": [
+            "Medium"
+        ],
+        "LLM_COLOR_OF_EYES": [
+            "Blue"
+        ],
+        "LLM_COLOR_OF_HAIR": [
+            "Brown"
+        ],
+        "LLM_HEIGHT": [
+            "5 feet 8 1/2 inches"
+        ],
+        "LLM_WEIGHT": [
+            "pounds"
+        ],
+        "LLM_VISIBILE_DISTINCTIVE_MARKS": [
+            "None"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "Married"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "NAT PEARL"
+        ],
+        "LLM_RESIDENCE_AT_NATURALIZATION": [
+            "631 Maitland Avenue"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "Teaneck"
+        ],
+        "LLM_NATURALIZATION_STATE": [
+            "New Jersey"
+        ],
+        "LLM_DATE_OF_NATURALIZATION": [
+            "1921",
+            "November 7"
+        ],
+        "LLM_NATURALIZATION_COUNTRY": [
+            "United States"
+        ]
+    }
+}

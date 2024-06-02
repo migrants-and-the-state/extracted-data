@@ -1,0 +1,74 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Portugal"
+    ],
+    "years": [
+        "1928",
+        "1911"
+    ],
+    "doc_id": "A13560969_0004",
+    "afile_number": "A13560969",
+    "dev_idx": 3894,
+    "pagenumber": 4,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A13560969_0004/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A13560969_0004.txt",
+    "cert_naturalization_attributes": {
+        "LLM_NUMBER": [
+            "A-484208",
+            "75-4 A13 560 969"
+        ],
+        "LLM_SEX": [
+            "Male"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "1911",
+            "August 28"
+        ],
+        "LLM_FORMER_NATIONALITY": [
+            "Portugal"
+        ],
+        "LLM_COMPLEXION": [
+            "Medium"
+        ],
+        "LLM_COLOR_OF_EYES": [
+            "Brown"
+        ],
+        "LLM_COLOR_OF_HAIR": [
+            "Grey"
+        ],
+        "LLM_WEIGHT": [
+            "188 pounds"
+        ],
+        "LLM_VISIBILE_DISTINCTIVE_MARKS": [
+            "None"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "Married"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "JOSEPH LUCIANO LOPEZ"
+        ],
+        "LLM_RESIDENCE_AT_NATURALIZATION": [
+            "4164 Madison Avenue"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "Culver City"
+        ],
+        "LLM_NATURALIZATION_STATE": [
+            "California"
+        ],
+        "LLM_NATURALIZATION_COUNTRY": [
+            "United States"
+        ],
+        "LLM_DATE_OF_NATURALIZATION": [
+            "1928",
+            "December 14"
+        ]
+    }
+}

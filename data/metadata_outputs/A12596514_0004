@@ -1,0 +1,21 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States"
+    ],
+    "years": [
+        "1961"
+    ],
+    "doc_id": "A12596514_0004",
+    "afile_number": "A12596514",
+    "dev_idx": 2840,
+    "pagenumber": 4,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A12596514_0004/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A12596514_0004.txt",
+    "cert_naturalization_attributes": {}
+}

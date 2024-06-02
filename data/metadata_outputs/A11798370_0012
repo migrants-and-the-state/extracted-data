@@ -1,0 +1,31 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "Japan"
+    ],
+    "years": [
+        "1889",
+        "1945",
+        "1958",
+        "1905",
+        "1921",
+        "1907",
+        "1949",
+        "1927",
+        "2017",
+        "1930"
+    ],
+    "doc_id": "A11798370_0012",
+    "afile_number": "A11798370",
+    "dev_idx": 2002,
+    "pagenumber": 12,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A11798370_0012/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A11798370_0012.txt",
+    "cert_naturalization_attributes": {}
+}

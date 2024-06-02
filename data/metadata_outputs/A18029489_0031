@@ -1,0 +1,29 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Pakistan",
+        "India",
+        "United States"
+    ],
+    "years": [
+        "1926",
+        "1928",
+        "1924",
+        "1908",
+        "1927",
+        "1931",
+        "1914"
+    ],
+    "doc_id": "A18029489_0031",
+    "afile_number": "A18029489",
+    "dev_idx": 6469,
+    "pagenumber": 31,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A18029489_0031/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A18029489_0031.txt",
+    "cert_naturalization_attributes": {}
+}

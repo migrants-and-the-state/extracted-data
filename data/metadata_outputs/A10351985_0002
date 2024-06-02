@@ -1,0 +1,64 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Russia"
+    ],
+    "years": [
+        "1919",
+        "1901"
+    ],
+    "doc_id": "A10351985_0002",
+    "afile_number": "A10351985",
+    "dev_idx": 682,
+    "pagenumber": 2,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A10351985_0002/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A10351985_0002.txt",
+    "cert_naturalization_attributes": {
+        "LLM_NUMBER": [
+            "A-328329",
+            "A10 351 985"
+        ],
+        "LLM_SEX": [
+            "Female"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "1901",
+            "February 23"
+        ],
+        "LLM_COMPLEXION": [
+            "Fair"
+        ],
+        "LLM_COLOR_OF_EYES": [
+            "Brown"
+        ],
+        "LLM_COLOR_OF_HAIR": [
+            "Blonde"
+        ],
+        "LLM_WEIGHT": [
+            "125 pounds"
+        ],
+        "LLM_VISIBILE_DISTINCTIVE_MARKS": [
+            "None"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "Married"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "ROSE BELDNER",
+            "Rose Beldner"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "Florida",
+            "Miami Beach"
+        ],
+        "LLM_DATE_OF_NATURALIZATION": [
+            "September 29",
+            "1919"
+        ]
+    }
+}

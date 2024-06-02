@@ -1,0 +1,36 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "N-426",
+            "IRS 1722",
+            "G-325B",
+            "N-648"
+        ],
+        "LLM_COUNTRY": [
+            "United States"
+        ],
+        "LLM_REVISION_DATE": [
+            "Revision 9"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States"
+    ],
+    "years": [
+        "2006",
+        "2023",
+        "2009"
+    ],
+    "doc_id": "A28068003_redacted_0081",
+    "afile_number": "A28068003",
+    "dev_idx": 11839,
+    "pagenumber": 81,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A28068003_redacted_0081/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A28068003_redacted_0081.txt",
+    "cert_naturalization_attributes": {}
+}

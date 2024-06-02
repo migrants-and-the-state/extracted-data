@@ -1,0 +1,54 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "Dominican Republic"
+    ],
+    "years": [
+        "1901"
+    ],
+    "doc_id": "A12797485_0002",
+    "afile_number": "A12797485",
+    "dev_idx": 3147,
+    "pagenumber": 2,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A12797485_0002/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A12797485_0002.txt",
+    "cert_naturalization_attributes": {
+        "LLM_NUMBER": [
+            "26424713"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "MARCH 04",
+            "1901"
+        ],
+        "LLM_SEX": [
+            "FEMALE"
+        ],
+        "LLM_HEIGHT": [
+            "5 feet 2 inches"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "WIDOWED"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "SAN FRANCISCO"
+        ],
+        "LLM_NATURALIZATION_STATE": [
+            "CALIFORNIA"
+        ],
+        "LLM_FORMER_NATIONALITY": [
+            "DOMINICAN REPUBLIC"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "ANA MORONTA"
+        ],
+        "LLM_NATURALIZATION_COUNTRY": [
+            "United States"
+        ]
+    }
+}

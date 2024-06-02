@@ -1,0 +1,58 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ],
+        "LLM_REVISION_DATE": [
+            "REV. 4-1-71"
+        ],
+        "LLM_OMB_NUMBER": [
+            "43-R436"
+        ],
+        "LLM_EMPLOYER_ADDRESS": [
+            "48hak SHaN Rd",
+            "BLOCK 17",
+            "1021 MURAGADRIVE"
+        ],
+        "LLM_STATE_CITY": [
+            "KOW LOUN"
+        ],
+        "LLM_COUNTRY": [
+            "HONG KONG"
+        ],
+        "LLM_YEAR": [
+            "1967",
+            "1968",
+            "1952"
+        ],
+        "LLM_EMPLOYER": [
+            "116UNION HOUSE",
+            "HOLIMORAGH DK",
+            "L.W. STUNSTON",
+            "LOSHNgeley",
+            "HaRRy Wicking LG"
+        ],
+        "LLM_OCCUPATION": [
+            "Cook",
+            "cook-amah"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [],
+    "years": [
+        "1967",
+        "1968",
+        "1952"
+    ],
+    "doc_id": "A17212360_0022",
+    "afile_number": "A17212360",
+    "dev_idx": 5455,
+    "pagenumber": 22,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A17212360_0022/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A17212360_0022.txt",
+    "cert_naturalization_attributes": {}
+}

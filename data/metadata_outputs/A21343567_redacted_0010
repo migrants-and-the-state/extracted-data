@@ -1,0 +1,52 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ],
+        "LLM_REVISION_DATE": [
+            "REV. 10-1-74"
+        ],
+        "LLM_OMB_NUMBER": [
+            "43-R436"
+        ],
+        "LLM_COUNTRY": [
+            "USA",
+            "VIETNAM",
+            "Vietnam",
+            "CHINA"
+        ],
+        "LLM_OCCUPATION": [
+            "NONE",
+            "none",
+            "None"
+        ],
+        "LLM_STATE_CITY": [
+            "BELLFLOWER CALIF",
+            "Han An DiAn Bion Hon Vietnam",
+            "LAKEWOOD CALIF"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States",
+        "Vietnam"
+    ],
+    "years": [
+        "2023",
+        "1975",
+        "1968",
+        "1978",
+        "1915"
+    ],
+    "doc_id": "A21343567_redacted_0010",
+    "afile_number": "A21343567",
+    "dev_idx": 9627,
+    "pagenumber": 10,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A21343567_redacted_0010/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A21343567_redacted_0010.txt",
+    "cert_naturalization_attributes": {}
+}

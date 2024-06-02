@@ -1,0 +1,60 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ],
+        "LLM_REVISION_DATE": [
+            "3/13/87"
+        ],
+        "LLM_OMB_NUMBER": [
+            "1115-0066"
+        ],
+        "LLM_NATIONALITY": [
+            "Haitian"
+        ],
+        "LLM_EMPLOYER_ADDRESS": [
+            "NONE",
+            "none",
+            "None"
+        ],
+        "LLM_STATE_CITY": [
+            "Queens NY",
+            "Croix De Bouquets",
+            "Montreal",
+            "Hollis NY",
+            "Saunt D'eau"
+        ],
+        "LLM_COUNTRY": [
+            "Canada",
+            "Haiti",
+            "USA"
+        ],
+        "LLM_EMPLOYER": [
+            "Lady of Rosary",
+            "Holy Cross Church"
+        ],
+        "LLM_OCCUPATION": [
+            "Priest"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States",
+        "Haiti",
+        "Canada"
+    ],
+    "years": [
+        "1907"
+    ],
+    "doc_id": "A28428659_0014",
+    "afile_number": "A28428659",
+    "dev_idx": 11968,
+    "pagenumber": 14,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A28428659_0014/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A28428659_0014.txt",
+    "cert_naturalization_attributes": {}
+}

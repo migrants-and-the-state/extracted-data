@@ -1,0 +1,53 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ],
+        "LLM_REVISION_DATE": [
+            "REV. 10-1-74"
+        ],
+        "LLM_OMB_NUMBER": [
+            "43-R436"
+        ],
+        "LLM_NATIONALITY": [
+            "ALPEN"
+        ],
+        "LLM_STATE_CITY": [
+            "GA",
+            "PENDLETON",
+            "KHAT NIMH",
+            "NPF",
+            "KIND DANI"
+        ],
+        "LLM_EMPLOYER": [
+            "VN GOVT."
+        ],
+        "LLM_OCCUPATION": [
+            "make Nu RSC"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States"
+    ],
+    "years": [
+        "1973",
+        "1963",
+        "2023",
+        "1933",
+        "1935",
+        "1975",
+        "1915"
+    ],
+    "doc_id": "A21206632_redacted_0054",
+    "afile_number": "A21206632",
+    "dev_idx": 9315,
+    "pagenumber": 54,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A21206632_redacted_0054/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A21206632_redacted_0054.txt",
+    "cert_naturalization_attributes": {}
+}

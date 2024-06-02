@@ -1,0 +1,65 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "Vietnam"
+    ],
+    "years": [
+        "1933",
+        "1915"
+    ],
+    "doc_id": "A21519707_redacted_0038",
+    "afile_number": "A21519707",
+    "dev_idx": 10040,
+    "pagenumber": 38,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A21519707_redacted_0038/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A21519707_redacted_0038.txt",
+    "cert_naturalization_attributes": {
+        "LLM_RESIDENCE_AT_NATURALIZATION": [
+            "CA",
+            "ANAHEIM",
+            "930 S CHAMPLAIN CIRCLE"
+        ],
+        "LLM_NUMBER": [
+            "11576361"
+        ],
+        "LLM_COLOR_OF_HAIR": [
+            "BLACK"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "JUNE 7",
+            "1915"
+        ],
+        "LLM_SEX": [
+            "MALE"
+        ],
+        "LLM_COLOR_OF_EYES": [
+            "NONE"
+        ],
+        "LLM_FORMER_NATIONALITY": [
+            "VIETNAM"
+        ],
+        "LLM_NATURALIZATION_COUNTRY": [
+            "UNITED STATES",
+            "United States"
+        ],
+        "LLM_Naturalization_District": [
+            "CENTRAL DIST. OF CALIFORNIA"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "Los Angeles"
+        ],
+        "LLM_DATE_OF_NATURALIZATION": [
+            "AUGUST 19",
+            "1933"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "OUANG DUY NGUYEN"
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ],
+        "LLM_REVISION_DATE": [
+            "REV. 8-27-"
+        ],
+        "LLM_OMB_NUMBER": [
+            "43-R436"
+        ],
+        "LLM_NATIONALITY": [
+            "Mexican"
+        ],
+        "LLM_STATE_CITY": [
+            "La Verne",
+            "Parras",
+            "Teocaltiche",
+            "Claremont"
+        ],
+        "LLM_COUNTRY": [
+            "Mexico",
+            "USA"
+        ],
+        "LLM_EMPLOYER": [
+            "Bill Bentley (Bentley's Market)"
+        ],
+        "LLM_OCCUPATION": [
+            "Clerk"
+        ],
+        "LLM_EMPLOYER_ADDRESS": [
+            "235 Yale Avenue"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States",
+        "Mexico"
+    ],
+    "years": [
+        "1914",
+        "2023",
+        "1976"
+    ],
+    "doc_id": "A20979192_redacted_0026",
+    "afile_number": "A20979192",
+    "dev_idx": 8480,
+    "pagenumber": 26,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A20979192_redacted_0026/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A20979192_redacted_0026.txt",
+    "cert_naturalization_attributes": {}
+}

@@ -1,0 +1,25 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States"
+    ],
+    "years": [
+        "1910",
+        "1963",
+        "1982",
+        "2023",
+        "1966"
+    ],
+    "doc_id": "A13570214_redacted_0003",
+    "afile_number": "A13570214",
+    "dev_idx": 3911,
+    "pagenumber": 3,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A13570214_redacted_0003/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A13570214_redacted_0003.txt",
+    "cert_naturalization_attributes": {}
+}

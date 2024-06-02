@@ -1,0 +1,47 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ],
+        "LLM_REVISION_DATE": [
+            "REV. 10-1-74"
+        ],
+        "LLM_OMB_NUMBER": [
+            "43-R436"
+        ],
+        "LLM_COUNTRY": [
+            "SG",
+            "Cho lon",
+            "BIENHOA",
+            "Phan",
+            "HOA AN",
+            "UN"
+        ],
+        "LLM_STATE_CITY": [
+            "Cholon"
+        ],
+        "LLM_OCCUPATION": [
+            "HOUSEWIFE"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States"
+    ],
+    "years": [
+        "2023",
+        "1915",
+        "1936"
+    ],
+    "doc_id": "A21343567_redacted_0027",
+    "afile_number": "A21343567",
+    "dev_idx": 9644,
+    "pagenumber": 27,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A21343567_redacted_0027/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A21343567_redacted_0027.txt",
+    "cert_naturalization_attributes": {}
+}

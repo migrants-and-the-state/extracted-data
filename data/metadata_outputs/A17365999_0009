@@ -1,0 +1,51 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_REVISION_DATE": [
+            "REV. 4-1-67"
+        ],
+        "LLM_OMB_NUMBER": [
+            "43-R436"
+        ],
+        "LLM_NATIONALITY": [
+            "Cuban"
+        ],
+        "LLM_STATE_CITY": [
+            "Florida",
+            "Miami",
+            "HAVANA",
+            "S.Clara",
+            "Guines",
+            "Havana"
+        ],
+        "LLM_COUNTRY": [
+            "Cuba",
+            "USA"
+        ],
+        "LLM_EMPLOYER": [
+            "NONE",
+            "None"
+        ],
+        "LLM_OCCUPATION": [
+            "Self-employed"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States",
+        "Cuba"
+    ],
+    "years": [
+        "1968"
+    ],
+    "doc_id": "A17365999_0009",
+    "afile_number": "A17365999",
+    "dev_idx": 5838,
+    "pagenumber": 9,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A17365999_0009/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A17365999_0009.txt",
+    "cert_naturalization_attributes": {}
+}

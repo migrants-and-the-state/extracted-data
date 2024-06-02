@@ -1,0 +1,32 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "India",
+        "Malaysia"
+    ],
+    "years": [
+        "1947",
+        "1932",
+        "1934",
+        "1910",
+        "1928",
+        "2023",
+        "1944",
+        "1940",
+        "1939",
+        "1904"
+    ],
+    "doc_id": "A44606320_redacted_0043",
+    "afile_number": "A44606320",
+    "dev_idx": 19623,
+    "pagenumber": 43,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A44606320_redacted_0043/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A44606320_redacted_0043.txt",
+    "cert_naturalization_attributes": {}
+}

@@ -1,0 +1,35 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "China"
+    ],
+    "years": [
+        "1929",
+        "1937",
+        "1926",
+        "1913",
+        "1922",
+        "1948",
+        "1921",
+        "1902",
+        "1927",
+        "1944",
+        "1942",
+        "1930",
+        "1915",
+        "1899"
+    ],
+    "doc_id": "A3818665_0017",
+    "afile_number": "A3818665",
+    "dev_idx": 15933,
+    "pagenumber": 17,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A3818665_0017/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A3818665_0017.txt",
+    "cert_naturalization_attributes": {}
+}

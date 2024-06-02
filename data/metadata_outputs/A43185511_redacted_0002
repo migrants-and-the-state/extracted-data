@@ -1,0 +1,25 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Haiti",
+        "Canada"
+    ],
+    "years": [
+        "1956",
+        "1987",
+        "2023",
+        "1954"
+    ],
+    "doc_id": "A43185511_redacted_0002",
+    "afile_number": "A43185511",
+    "dev_idx": 18732,
+    "pagenumber": 2,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A43185511_redacted_0002/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A43185511_redacted_0002.txt",
+    "cert_naturalization_attributes": {}
+}

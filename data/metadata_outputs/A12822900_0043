@@ -1,0 +1,20 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [],
+    "years": [
+        "1962",
+        "1899"
+    ],
+    "doc_id": "A12822900_0043",
+    "afile_number": "A12822900",
+    "dev_idx": 3246,
+    "pagenumber": 43,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A12822900_0043/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A12822900_0043.txt",
+    "cert_naturalization_attributes": {}
+}

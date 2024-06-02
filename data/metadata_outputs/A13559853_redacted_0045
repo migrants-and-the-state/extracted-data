@@ -1,0 +1,51 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_REVISION_DATE": [
+            "REV. 5-1-68"
+        ],
+        "LLM_OMB_NUMBER": [
+            "43-R436"
+        ],
+        "LLM_NATIONALITY": [
+            "Chinese"
+        ],
+        "LLM_COUNTRY": [
+            "U.S.",
+            "China"
+        ],
+        "LLM_STATE_CITY": [
+            "California",
+            "Los Angeles"
+        ],
+        "LLM_EMPLOYER": [
+            "Cushman & Tamura Dental Laboratory"
+        ],
+        "LLM_EMPLOYER_ADDRESS": [
+            "3612 W Pico L.A."
+        ],
+        "LLM_OCCUPATION": [
+            "Dental Tech"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States"
+    ],
+    "years": [
+        "1967",
+        "2023",
+        "1964",
+        "1914"
+    ],
+    "doc_id": "A13559853_redacted_0045",
+    "afile_number": "A13559853",
+    "dev_idx": 3868,
+    "pagenumber": 45,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A13559853_redacted_0045/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A13559853_redacted_0045.txt",
+    "cert_naturalization_attributes": {}
+}

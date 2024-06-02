@@ -1,0 +1,30 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "Mexico",
+        "Canada",
+        "Jamaica"
+    ],
+    "years": [
+        "1920",
+        "1970",
+        "1946",
+        "1960",
+        "1964",
+        "1947",
+        "1956"
+    ],
+    "doc_id": "A31376229_0068",
+    "afile_number": "A31376229",
+    "dev_idx": 14524,
+    "pagenumber": 68,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A31376229_0068/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A31376229_0068.txt",
+    "cert_naturalization_attributes": {}
+}

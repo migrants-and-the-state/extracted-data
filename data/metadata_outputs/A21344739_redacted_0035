@@ -1,0 +1,47 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ],
+        "LLM_REVISION_DATE": [
+            "REV. 10-1-74"
+        ],
+        "LLM_OMB_NUMBER": [
+            "43-R436"
+        ],
+        "LLM_COUNTRY": [
+            "Vietnam",
+            "Guam"
+        ],
+        "LLM_STATE_CITY": [
+            "Costa Mesa California",
+            "Bellflower California",
+            "Gia Dinh Vietnam",
+            "Fulton Kentucky",
+            "San Diego California",
+            "Hung Yen"
+        ],
+        "LLM_OCCUPATION": [
+            "NONE",
+            "none"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States",
+        "Vietnam",
+        "Guam"
+    ],
+    "years": [],
+    "doc_id": "A21344739_redacted_0035",
+    "afile_number": "A21344739",
+    "dev_idx": 9684,
+    "pagenumber": 35,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A21344739_redacted_0035/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A21344739_redacted_0035.txt",
+    "cert_naturalization_attributes": {}
+}

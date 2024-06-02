@@ -1,0 +1,71 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "Jamaica"
+    ],
+    "years": [
+        "1979"
+    ],
+    "doc_id": "A31376229_0000",
+    "afile_number": "A31376229",
+    "dev_idx": 14456,
+    "pagenumber": 0,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A31376229_0000/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A31376229_0000.txt",
+    "cert_naturalization_attributes": {
+        "LLM_NUMBER": [
+            "10341791"
+        ],
+        "LLM_COLOR_OF_EYES": [
+            "dark brown"
+        ],
+        "LLM_COLOR_OF_HAIR": [
+            "black"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "1904"
+        ],
+        "LLM_COMPLEXION": [
+            "dark"
+        ],
+        "LLM_WEIGHT": [
+            "153 pounds"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "single"
+        ],
+        "LLM_FORMER_NATIONALITY": [
+            "Jamaica"
+        ],
+        "LLM_NATURALIZATION_COUNTRY": [
+            "UNITED STATES",
+            "United States"
+        ],
+        "LLM_Naturalization_District": [
+            "District of Columbia",
+            "DISTRICT OF COLUMBIA"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "Washington"
+        ],
+        "LLM_DATE_OF_NATURALIZATION": [
+            "1979",
+            "November 13"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "JEZRENE ADELPHINE TALBOT"
+        ],
+        "LLM_RESIDENCE_AT_NATURALIZATION": [
+            "N.W.",
+            "D.C.",
+            "1860 California Street",
+            "#404"
+        ]
+    }
+}
