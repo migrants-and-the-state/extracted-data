@@ -1,0 +1,23 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Canada"
+    ],
+    "years": [
+        "1943",
+        "1952",
+        "1929"
+    ],
+    "doc_id": "A10168178_0040",
+    "afile_number": "A10168178",
+    "dev_idx": 202,
+    "pagenumber": 40,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A10168178_0040/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A10168178_0040.txt",
+    "cert_naturalization_attributes": {}
+}

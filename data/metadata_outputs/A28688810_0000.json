@@ -1,0 +1,25 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Nicaragua",
+        "United States"
+    ],
+    "years": [
+        "1907",
+        "1987",
+        "1900",
+        "1909"
+    ],
+    "doc_id": "A28688810_0000",
+    "afile_number": "A28688810",
+    "dev_idx": 12263,
+    "pagenumber": 0,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A28688810_0000/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A28688810_0000.txt",
+    "cert_naturalization_attributes": {}
+}

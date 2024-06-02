@@ -1,0 +1,19 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [],
+    "years": [
+        "1967"
+    ],
+    "doc_id": "A18018390_0048",
+    "afile_number": "A18018390",
+    "dev_idx": 6435,
+    "pagenumber": 48,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A18018390_0048/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A18018390_0048.txt",
+    "cert_naturalization_attributes": {}
+}

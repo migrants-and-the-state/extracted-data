@@ -1,0 +1,26 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "Hungary"
+    ],
+    "years": [
+        "1977",
+        "1886",
+        "1872",
+        "1903",
+        "1966"
+    ],
+    "doc_id": "A19240402_0048",
+    "afile_number": "A19240402",
+    "dev_idx": 6849,
+    "pagenumber": 48,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A19240402_0048/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A19240402_0048.txt",
+    "cert_naturalization_attributes": {}
+}

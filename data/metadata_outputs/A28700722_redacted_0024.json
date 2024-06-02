@@ -1,0 +1,21 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States"
+    ],
+    "years": [
+        "2023"
+    ],
+    "doc_id": "A28700722_redacted_0024",
+    "afile_number": "A28700722",
+    "dev_idx": 12310,
+    "pagenumber": 24,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A28700722_redacted_0024/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A28700722_redacted_0024.txt",
+    "cert_naturalization_attributes": {}
+}

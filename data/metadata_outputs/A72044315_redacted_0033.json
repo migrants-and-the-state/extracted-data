@@ -1,0 +1,50 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_NATIONALITY": [
+            "U.S."
+        ],
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ],
+        "LLM_OMB_NUMBER": [
+            "1115-0066"
+        ],
+        "LLM_STATE_CITY": [
+            "Port-Au-Prince",
+            "Miami",
+            "Viena",
+            "Diamond Bar CA"
+        ],
+        "LLM_COUNTRY": [
+            "Austria",
+            "Haiti",
+            "USA"
+        ],
+        "LLM_OCCUPATION": [
+            "MITUBISHI INTERNATIONAL CORP"
+        ],
+        "LLM_REVISION_DATE": [
+            "Rev. 10-1-82"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States",
+        "Austria",
+        "Haiti"
+    ],
+    "years": [
+        "2023"
+    ],
+    "doc_id": "A72044315_redacted_0033",
+    "afile_number": "A72044315",
+    "dev_idx": 22847,
+    "pagenumber": 33,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A72044315_redacted_0033/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A72044315_redacted_0033.txt",
+    "cert_naturalization_attributes": {}
+}

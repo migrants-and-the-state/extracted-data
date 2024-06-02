@@ -1,0 +1,82 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "Mexico"
+    ],
+    "years": [
+        "1913",
+        "1985"
+    ],
+    "doc_id": "A34038282_redacted_0000",
+    "afile_number": "A34038282",
+    "dev_idx": 14648,
+    "pagenumber": 0,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A34038282_redacted_0000/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A34038282_redacted_0000.txt",
+    "cert_naturalization_attributes": {
+        "LLM_NUMBER": [
+            "11902882"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "June 25",
+            "1913"
+        ],
+        "LLM_SEX": [
+            "Male"
+        ],
+        "LLM_COMPLEXION": [
+            "Fair"
+        ],
+        "LLM_COLOR_OF_EYES": [
+            "Hazel"
+        ],
+        "LLM_COLOR_OF_HAIR": [
+            "Black"
+        ],
+        "LLM_HEIGHT": [
+            "6 feet 3 inches"
+        ],
+        "LLM_WEIGHT": [
+            "170 pounds"
+        ],
+        "LLM_VISIBILE_DISTINCTIVE_MARKS": [
+            "Mole on chin",
+            "scar from medical surgery on right"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "Single"
+        ],
+        "LLM_FORMER_NATIONALITY": [
+            "Mexico"
+        ],
+        "LLM_Naturalization_District": [
+            "COLORADO",
+            "La Plata County",
+            "Colorado"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "Durango"
+        ],
+        "LLM_DATE_OF_NATURALIZATION": [
+            "1985",
+            "October 7"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "Juan Quintana Sanchez"
+        ],
+        "LLM_RESIDENCE_AT_NATURALIZATION": [
+            "Ignacio",
+            "Colorado 81137",
+            "P. O. Box 312"
+        ],
+        "LLM_NATURALIZATION_COUNTRY": [
+            "United States"
+        ]
+    }
+}

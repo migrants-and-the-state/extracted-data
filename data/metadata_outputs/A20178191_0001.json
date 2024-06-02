@@ -1,0 +1,65 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Russia"
+    ],
+    "years": [
+        "1913",
+        "1903"
+    ],
+    "doc_id": "A20178191_0001",
+    "afile_number": "A20178191",
+    "dev_idx": 7588,
+    "pagenumber": 1,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A20178191_0001/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A20178191_0001.txt",
+    "cert_naturalization_attributes": {
+        "LLM_NUMBER": [
+            "A652906",
+            "A20 178 191"
+        ],
+        "LLM_SEX": [
+            "Male"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "September"
+        ],
+        "LLM_FORMER_NATIONALITY": [
+            "Russia"
+        ],
+        "LLM_COMPLEXION": [
+            "Fair"
+        ],
+        "LLM_COLOR_OF_EYES": [
+            "Brown"
+        ],
+        "LLM_COLOR_OF_HAIR": [
+            "Grey"
+        ],
+        "LLM_WEIGHT": [
+            "165 pounds"
+        ],
+        "LLM_VISIBILE_DISTINCTIVE_MARKS": [
+            "Mole on right cheek"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "Married"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "MAX ZATURENSKY"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "Hallandale",
+            "Florida"
+        ],
+        "LLM_DATE_OF_NATURALIZATION": [
+            "September 25",
+            "1913"
+        ]
+    }
+}

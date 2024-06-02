@@ -1,0 +1,66 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Latvia"
+    ],
+    "years": [
+        "1913",
+        "1884"
+    ],
+    "doc_id": "A12405508_0001",
+    "afile_number": "A12405508",
+    "dev_idx": 2510,
+    "pagenumber": 1,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A12405508_0001/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A12405508_0001.txt",
+    "cert_naturalization_attributes": {
+        "LLM_NUMBER": [
+            "A-409425",
+            "A12 405 508"
+        ],
+        "LLM_SEX": [
+            "Female"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "October 10",
+            "1884"
+        ],
+        "LLM_FORMER_NATIONALITY": [
+            "Latvia"
+        ],
+        "LLM_COMPLEXION": [
+            "Fair"
+        ],
+        "LLM_COLOR_OF_EYES": [
+            "Blue"
+        ],
+        "LLM_COLOR_OF_HAIR": [
+            "Grey"
+        ],
+        "LLM_WEIGHT": [
+            "145 pounds"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "Widow"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "Lena Popkin",
+            "POPKIN"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "Miami Beach"
+        ],
+        "LLM_NATURALIZATION_STATE": [
+            "Florida"
+        ],
+        "LLM_DATE_OF_NATURALIZATION": [
+            "January 7",
+            "1913"
+        ]
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_OMB_NUMBER": [
+            "1115-0066"
+        ],
+        "LLM_NATIONALITY": [
+            "Chinese"
+        ],
+        "LLM_STATE_CITY": [
+            "los Angeles",
+            "California",
+            "Monterey Park",
+            "Jiangsu",
+            "Jiangyin",
+            "Kowloon"
+        ],
+        "LLM_COUNTRY": [
+            "Hong Kong",
+            "China"
+        ],
+        "LLM_EMPLOYER": [
+            "Marine Supply Co."
+        ],
+        "LLM_EMPLOYER_ADDRESS": [
+            "5 Prat Avenue"
+        ],
+        "LLM_OCCUPATION": [
+            "Owner"
+        ],
+        "LLM_FORM_NUMBER": [
+            "G-325"
+        ],
+        "LLM_REVISION_DATE": [
+            "Rev. 10-1-82"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States",
+        "China"
+    ],
+    "years": [
+        "1989",
+        "1987",
+        "1991",
+        "1874",
+        "1909",
+        "1913",
+        "1967",
+        "1888",
+        "1958",
+        "2023",
+        "1982",
+        "1965",
+        "1968",
+        "1969",
+        "1939",
+        "1992"
+    ],
+    "doc_id": "A40040848_redacted_0005",
+    "afile_number": "A40040848",
+    "dev_idx": 16121,
+    "pagenumber": 5,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A40040848_redacted_0005/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A40040848_redacted_0005.txt",
+    "cert_naturalization_attributes": {}
+}

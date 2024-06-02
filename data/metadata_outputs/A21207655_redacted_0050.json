@@ -1,0 +1,52 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ],
+        "LLM_REVISION_DATE": [
+            "REV. 10-1-74"
+        ],
+        "LLM_OMB_NUMBER": [
+            "43-R436"
+        ],
+        "LLM_COUNTRY": [
+            "VIETNAM",
+            "USA"
+        ],
+        "LLM_EMPLOYER": [
+            "NONE",
+            "none",
+            "None"
+        ],
+        "LLM_STATE_CITY": [
+            "Camp Pendleton",
+            "California",
+            "Clute",
+            "Lake Jackson",
+            "Saigon",
+            "Texas"
+        ],
+        "LLM_OCCUPATION": [
+            "Travel document"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States",
+        "Vietnam"
+    ],
+    "years": [
+        "2023"
+    ],
+    "doc_id": "A21207655_redacted_0050",
+    "afile_number": "A21207655",
+    "dev_idx": 9370,
+    "pagenumber": 50,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A21207655_redacted_0050/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A21207655_redacted_0050.txt",
+    "cert_naturalization_attributes": {}
+}

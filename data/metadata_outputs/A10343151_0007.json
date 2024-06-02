@@ -1,0 +1,25 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Germany",
+        "Georgia",
+        "United States"
+    ],
+    "years": [
+        "1887",
+        "1952",
+        "1944"
+    ],
+    "doc_id": "A10343151_0007",
+    "afile_number": "A10343151",
+    "dev_idx": 629,
+    "pagenumber": 7,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A10343151_0007/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A10343151_0007.txt",
+    "cert_naturalization_attributes": {}
+}

@@ -1,0 +1,22 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [],
+    "years": [
+        "1866",
+        "1946",
+        "1863",
+        "1947"
+    ],
+    "doc_id": "A12977343_0022",
+    "afile_number": "A12977343",
+    "dev_idx": 3348,
+    "pagenumber": 22,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A12977343_0022/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A12977343_0022.txt",
+    "cert_naturalization_attributes": {}
+}

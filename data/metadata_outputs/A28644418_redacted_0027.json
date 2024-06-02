@@ -1,0 +1,47 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ],
+        "LLM_OMB_NUMBER": [
+            "1115-0066"
+        ],
+        "LLM_COUNTRY": [
+            "Honduras"
+        ],
+        "LLM_STATE_CITY": [
+            "Florida",
+            "Miami",
+            "Juticalpa",
+            "Departamento Olancho",
+            "Barrio el Centro",
+            "Hialesh"
+        ],
+        "LLM_OCCUPATION": [
+            "Retired"
+        ],
+        "LLM_REVISION_DATE": [
+            "Rev. 10-1-82"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States",
+        "Honduras"
+    ],
+    "years": [
+        "1907",
+        "1918"
+    ],
+    "doc_id": "A28644418_redacted_0027",
+    "afile_number": "A28644418",
+    "dev_idx": 12179,
+    "pagenumber": 27,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A28644418_redacted_0027/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A28644418_redacted_0027.txt",
+    "cert_naturalization_attributes": {}
+}

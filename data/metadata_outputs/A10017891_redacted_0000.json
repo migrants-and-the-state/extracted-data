@@ -1,0 +1,77 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States"
+    ],
+    "years": [
+        "1910",
+        "2023",
+        "1976"
+    ],
+    "doc_id": "A10017891_redacted_0000",
+    "afile_number": "A10017891",
+    "dev_idx": 67,
+    "pagenumber": 0,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A10017891_redacted_0000/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A10017891_redacted_0000.txt",
+    "cert_naturalization_attributes": {
+        "LLM_NUMBER": [
+            "10503082"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "1910",
+            "September 20"
+        ],
+        "LLM_SEX": [
+            "female"
+        ],
+        "LLM_COMPLEXION": [
+            "medium"
+        ],
+        "LLM_COLOR_OF_EYES": [
+            "brown"
+        ],
+        "LLM_WEIGHT": [
+            "127 pounds"
+        ],
+        "LLM_COLOR_OF_HAIR": [
+            "black"
+        ],
+        "LLM_HEIGHT": [
+            "5 feet 2 inches"
+        ],
+        "LLM_VISIBILE_DISTINCTIVE_MARKS": [
+            "none"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "married"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "Gina Wong oi",
+            "Gina wong oi"
+        ],
+        "LLM_NATURALIZATION_COUNTRY": [
+            "UNITED STATES",
+            "United States"
+        ],
+        "LLM_Naturalization_District": [
+            "DISTRICT OF MASSACHUSETTS"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "Boston"
+        ],
+        "LLM_DATE_OF_NATURALIZATION": [
+            "1976",
+            "July 5"
+        ],
+        "LLM_RESIDENCE_AT_NATURALIZATION": [
+            "Mass. 02118",
+            "34D Paul Place"
+        ]
+    }
+}

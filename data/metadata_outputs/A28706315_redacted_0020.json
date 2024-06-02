@@ -1,0 +1,53 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_OMB_NUMBER": [
+            "1115-0066"
+        ],
+        "LLM_NATIONALITY": [
+            "Indian"
+        ],
+        "LLM_COUNTRY": [
+            "Pakistan",
+            "India",
+            "USA"
+        ],
+        "LLM_OCCUPATION": [
+            "NONE",
+            "none"
+        ],
+        "LLM_STATE_CITY": [
+            "Jaipur Rajasthan",
+            "Tando-Adam Jaipur",
+            "Northridge CA"
+        ],
+        "LLM_EMPLOYER_ADDRESS": [
+            "818-266-9 5186689"
+        ],
+        "LLM_REVISION_DATE": [
+            "Rev. 10-1-82"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "Pakistan",
+        "India",
+        "United States"
+    ],
+    "years": [
+        "1911",
+        "1985",
+        "2023",
+        "1987"
+    ],
+    "doc_id": "A28706315_redacted_0020",
+    "afile_number": "A28706315",
+    "dev_idx": 12410,
+    "pagenumber": 20,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A28706315_redacted_0020/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A28706315_redacted_0020.txt",
+    "cert_naturalization_attributes": {}
+}

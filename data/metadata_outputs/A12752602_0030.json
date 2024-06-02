@@ -1,0 +1,19 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [],
+    "years": [
+        "1961"
+    ],
+    "doc_id": "A12752602_0030",
+    "afile_number": "A12752602",
+    "dev_idx": 3139,
+    "pagenumber": 30,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A12752602_0030/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A12752602_0030.txt",
+    "cert_naturalization_attributes": {}
+}

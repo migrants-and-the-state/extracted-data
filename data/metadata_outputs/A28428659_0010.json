@@ -1,0 +1,25 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "Haiti",
+        "Canada",
+        "Germany"
+    ],
+    "years": [
+        "1933",
+        "1945"
+    ],
+    "doc_id": "A28428659_0010",
+    "afile_number": "A28428659",
+    "dev_idx": 11964,
+    "pagenumber": 10,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A28428659_0010/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A28428659_0010.txt",
+    "cert_naturalization_attributes": {}
+}

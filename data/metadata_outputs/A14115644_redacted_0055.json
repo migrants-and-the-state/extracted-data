@@ -1,0 +1,22 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "Mexico"
+    ],
+    "years": [
+        "2023"
+    ],
+    "doc_id": "A14115644_redacted_0055",
+    "afile_number": "A14115644",
+    "dev_idx": 4234,
+    "pagenumber": 55,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A14115644_redacted_0055/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A14115644_redacted_0055.txt",
+    "cert_naturalization_attributes": {}
+}

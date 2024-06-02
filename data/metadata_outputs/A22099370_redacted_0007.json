@@ -1,0 +1,21 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Vietnam"
+    ],
+    "years": [
+        "1898"
+    ],
+    "doc_id": "A22099370_redacted_0007",
+    "afile_number": "A22099370",
+    "dev_idx": 10742,
+    "pagenumber": 7,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A22099370_redacted_0007/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A22099370_redacted_0007.txt",
+    "cert_naturalization_attributes": {}
+}

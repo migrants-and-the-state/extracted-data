@@ -1,0 +1,26 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "Haiti"
+    ],
+    "years": [
+        "1909",
+        "1963",
+        "2023",
+        "1961",
+        "2018"
+    ],
+    "doc_id": "A13580960_redacted_0040",
+    "afile_number": "A13580960",
+    "dev_idx": 4049,
+    "pagenumber": 40,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A13580960_redacted_0040/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A13580960_redacted_0040.txt",
+    "cert_naturalization_attributes": {}
+}

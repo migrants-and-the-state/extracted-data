@@ -1,0 +1,61 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States"
+    ],
+    "years": [
+        "1995",
+        "1915"
+    ],
+    "doc_id": "A10551867_0017",
+    "afile_number": "A10551867",
+    "dev_idx": 1197,
+    "pagenumber": 17,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A10551867_0017/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A10551867_0017.txt",
+    "cert_naturalization_attributes": {
+        "LLM_NUMBER": [
+            "21086095"
+        ],
+        "LLM_PETITION_NUMBER": [
+            "A10 551 867"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "JANUARY 27",
+            "1915"
+        ],
+        "LLM_SEX": [
+            "FEMALE"
+        ],
+        "LLM_HEIGHT": [
+            "4 feet 11 inches"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "MARRIED"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "LOS ANGELES"
+        ],
+        "LLM_FORMER_NATIONALITY": [
+            "MEXICO"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "JULIANA GARCIA"
+        ],
+        "LLM_NATURALIZATION_COUNTRY": [
+            "United States"
+        ],
+        "LLM_NATURALIZATION_STATE": [
+            "CALIFORNIA"
+        ],
+        "LLM_DATE_OF_NATURALIZATION": [
+            "1995",
+            "APRIL 21ST"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Hong Kong SAR China"
+    ],
+    "years": [],
+    "doc_id": "A71817091_redacted_0022",
+    "afile_number": "A71817091",
+    "dev_idx": 22541,
+    "pagenumber": 22,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A71817091_redacted_0022/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A71817091_redacted_0022.txt",
+    "cert_naturalization_attributes": {}
+}

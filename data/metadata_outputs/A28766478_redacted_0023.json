@@ -1,0 +1,39 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ],
+        "LLM_REVISION_DATE": [
+            "1/2023"
+        ],
+        "LLM_OMB_NUMBER": [
+            "1115-0066"
+        ],
+        "LLM_STATE_CITY": [
+            "VA",
+            "A"
+        ],
+        "LLM_COUNTRY": [
+            "USA"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States"
+    ],
+    "years": [
+        "2023",
+        "1925"
+    ],
+    "doc_id": "A28766478_redacted_0023",
+    "afile_number": "A28766478",
+    "dev_idx": 13243,
+    "pagenumber": 23,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A28766478_redacted_0023/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A28766478_redacted_0023.txt",
+    "cert_naturalization_attributes": {}
+}

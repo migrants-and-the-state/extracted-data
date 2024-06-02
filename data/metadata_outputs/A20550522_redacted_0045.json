@@ -1,0 +1,63 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ],
+        "LLM_REVISION_DATE": [
+            "REV. 8-27-"
+        ],
+        "LLM_OMB_NUMBER": [
+            "43-R436"
+        ],
+        "LLM_NATIONALITY": [
+            "Indian"
+        ],
+        "LLM_STATE_CITY": [
+            "L.A.",
+            "Poona Maharastra",
+            "Chatalani Tikan",
+            "Hydrebad",
+            "Sindh"
+        ],
+        "LLM_COUNTRY": [
+            "Pakistan",
+            "India",
+            "USA"
+        ],
+        "LLM_OCCUPATION": [
+            "Self-employed",
+            "Maharajah Snack Bar"
+        ],
+        "LLM_EMPLOYER": [
+            "Chandun-Prakash & Bros."
+        ],
+        "LLM_EMPLOYER_ADDRESS": [
+            "Hongkong",
+            "Bombay"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "Pakistan",
+        "India",
+        "United States"
+    ],
+    "years": [
+        "2023",
+        "1976",
+        "1972",
+        "1949",
+        "1971"
+    ],
+    "doc_id": "A20550522_redacted_0045",
+    "afile_number": "A20550522",
+    "dev_idx": 8103,
+    "pagenumber": 45,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A20550522_redacted_0045/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A20550522_redacted_0045.txt",
+    "cert_naturalization_attributes": {}
+}

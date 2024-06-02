@@ -1,0 +1,60 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "G-325C"
+        ],
+        "LLM_REVISION_DATE": [
+            "Rev. 5-1-79"
+        ],
+        "LLM_OMB_NUMBER": [
+            "43-R436"
+        ],
+        "LLM_NATIONALITY": [
+            "ex-USSR"
+        ],
+        "LLM_STATE_CITY": [
+            "Tomashpol",
+            "Rome",
+            "Chernovtsy",
+            "Vienna"
+        ],
+        "LLM_COUNTRY": [
+            "Italy",
+            "USSR",
+            "Austria",
+            "ITALY"
+        ],
+        "LLM_EMPLOYER": [
+            "NONE",
+            "none"
+        ],
+        "LLM_OCCUPATION": [
+            "Int. Red Cross"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "Italy",
+        "United States",
+        "Austria"
+    ],
+    "years": [
+        "1880",
+        "1883",
+        "1900",
+        "1976",
+        "1921",
+        "1981"
+    ],
+    "doc_id": "A24614655_0014",
+    "afile_number": "A24614655",
+    "dev_idx": 11214,
+    "pagenumber": 14,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A24614655_0014/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A24614655_0014.txt",
+    "cert_naturalization_attributes": {}
+}

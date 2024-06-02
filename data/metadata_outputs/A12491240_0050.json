@@ -1,0 +1,59 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ],
+        "LLM_REVISION_DATE": [
+            "REV. 8-27-"
+        ],
+        "LLM_OMB_NUMBER": [
+            "43-R436"
+        ],
+        "LLM_NATIONALITY": [
+            "Cuban"
+        ],
+        "LLM_EMPLOYER_ADDRESS": [
+            "NONE",
+            "none",
+            "None"
+        ],
+        "LLM_COUNTRY": [
+            "Cuba",
+            "New York"
+        ],
+        "LLM_STATE_CITY": [
+            "Pinar Del Rio",
+            "Sweet Water Fla USA",
+            "Las Villas",
+            "havana",
+            "Havana"
+        ],
+        "LLM_EMPLOYER": [
+            "Morrill Linch Pierce Forner Inc."
+        ],
+        "LLM_OCCUPATION": [
+            "Mail Department",
+            "Lawyer"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States",
+        "Cuba"
+    ],
+    "years": [
+        "1977",
+        "1959"
+    ],
+    "doc_id": "A12491240_0050",
+    "afile_number": "A12491240",
+    "dev_idx": 2630,
+    "pagenumber": 50,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A12491240_0050/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A12491240_0050.txt",
+    "cert_naturalization_attributes": {}
+}

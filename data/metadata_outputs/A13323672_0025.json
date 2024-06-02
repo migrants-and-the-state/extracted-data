@@ -1,0 +1,65 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "G-325 A"
+        ],
+        "LLM_REVISION_DATE": [
+            "REV. 5-1-68"
+        ],
+        "LLM_OMB_NUMBER": [
+            "43-R436"
+        ],
+        "LLM_NATIONALITY": [
+            "Cuban"
+        ],
+        "LLM_STATE_CITY": [
+            "Istambul",
+            "Miami",
+            "Skockie",
+            "Palma Soriano"
+        ],
+        "LLM_COUNTRY": [
+            "Turkey",
+            "Cuba",
+            "USA"
+        ],
+        "LLM_OCCUPATION": [
+            "operator",
+            "housewife"
+        ],
+        "LLM_EMPLOYER": [
+            "Lindberg Productos",
+            "Annette Fashions",
+            "Shisfts International",
+            "Allen Originals"
+        ],
+        "LLM_EMPLOYER_ADDRESS": [
+            "850 N. Montilcello Ave",
+            "928 N.W. 7 Ave",
+            "1655 N. Miami Ave.",
+            "247 N.W. 25 St."
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States",
+        "Cuba",
+        "Turkey"
+    ],
+    "years": [
+        "1905",
+        "1970",
+        "1899"
+    ],
+    "doc_id": "A13323672_0025",
+    "afile_number": "A13323672",
+    "dev_idx": 3643,
+    "pagenumber": 25,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A13323672_0025/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A13323672_0025.txt",
+    "cert_naturalization_attributes": {}
+}

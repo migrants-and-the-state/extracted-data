@@ -1,0 +1,76 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Austria"
+    ],
+    "years": [
+        "1892",
+        "1882"
+    ],
+    "doc_id": "A17896323_0000",
+    "afile_number": "A17896323",
+    "dev_idx": 6249,
+    "pagenumber": 0,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A17896323_0000/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A17896323_0000.txt",
+    "cert_naturalization_attributes": {
+        "LLM_NUMBER": [
+            "A-502560"
+        ],
+        "LLM_PETITION_NUMBER": [
+            "A17 7 896 323"
+        ],
+        "LLM_SEX": [
+            "Male"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "January 23",
+            "1882"
+        ],
+        "LLM_FORMER_NATIONALITY": [
+            "Austria"
+        ],
+        "LLM_COMPLEXION": [
+            "Fair"
+        ],
+        "LLM_COLOR_OF_EYES": [
+            "Brown"
+        ],
+        "LLM_COLOR_OF_HAIR": [
+            "Gray"
+        ],
+        "LLM_HEIGHT": [
+            "5 feet 1 inches"
+        ],
+        "LLM_WEIGHT": [
+            "110 pounds"
+        ],
+        "LLM_VISIBILE_DISTINCTIVE_MARKS": [
+            "None"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "Widower"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "ISADOR TIRAS"
+        ],
+        "LLM_RESIDENCE_AT_NATURALIZATION": [
+            "3410 Norris Street"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "Houston"
+        ],
+        "LLM_NATURALIZATION_STATE": [
+            "Texas"
+        ],
+        "LLM_DATE_OF_NATURALIZATION": [
+            "March 5",
+            "1892"
+        ]
+    }
+}

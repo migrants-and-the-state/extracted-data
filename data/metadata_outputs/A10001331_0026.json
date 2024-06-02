@@ -1,0 +1,22 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Denmark"
+    ],
+    "years": [
+        "1956",
+        "1953"
+    ],
+    "doc_id": "A10001331_0026",
+    "afile_number": "A10001331",
+    "dev_idx": 26,
+    "pagenumber": 26,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A10001331_0026/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A10001331_0026.txt",
+    "cert_naturalization_attributes": {}
+}

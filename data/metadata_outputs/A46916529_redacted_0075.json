@@ -1,0 +1,57 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "El Salvador"
+    ],
+    "years": [
+        "1940"
+    ],
+    "doc_id": "A46916529_redacted_0075",
+    "afile_number": "A46916529",
+    "dev_idx": 20426,
+    "pagenumber": 75,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A46916529_redacted_0075/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A46916529_redacted_0075.txt",
+    "cert_naturalization_attributes": {
+        "LLM_NUMBER": [
+            "23500199"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "1940",
+            "April 11"
+        ],
+        "LLM_SEX": [
+            "Male"
+        ],
+        "LLM_HEIGHT": [
+            "5 feet 6 inches"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "Married"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "Baltimore"
+        ],
+        "LLM_NATURALIZATION_STATE": [
+            "Maryland"
+        ],
+        "LLM_FORMER_NATIONALITY": [
+            "El Salvador"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "Vicente Anibal Toledo"
+        ],
+        "LLM_NATURALIZATION_COUNTRY": [
+            "United States"
+        ],
+        "LLM_DATE_OF_NATURALIZATION": [
+            "NOV 19 19"
+        ]
+    }
+}

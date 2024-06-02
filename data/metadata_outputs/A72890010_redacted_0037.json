@@ -1,0 +1,78 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "Honduras"
+    ],
+    "years": [
+        "1943",
+        "1982"
+    ],
+    "doc_id": "A72890010_redacted_0037",
+    "afile_number": "A72890010",
+    "dev_idx": 23077,
+    "pagenumber": 37,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A72890010_redacted_0037/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A72890010_redacted_0037.txt",
+    "cert_naturalization_attributes": {
+        "LLM_PETITION_NUMBER": [
+            "CA No. 11302212 V 469325"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "1943",
+            "August 12"
+        ],
+        "LLM_SEX": [
+            "Female"
+        ],
+        "LLM_COMPLEXION": [
+            "Medium"
+        ],
+        "LLM_COLOR_OF_EYES": [
+            "Brown"
+        ],
+        "LLM_COLOR_OF_HAIR": [
+            "Black"
+        ],
+        "LLM_WEIGHT": [
+            "120 pounds"
+        ],
+        "LLM_VISIBILE_DISTINCTIVE_MARKS": [
+            "None"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "Married"
+        ],
+        "LLM_FORMER_NATIONALITY": [
+            "Honduras"
+        ],
+        "LLM_NATURALIZATION_COUNTRY": [
+            "UNITED STATES",
+            "United States"
+        ],
+        "LLM_Naturalization_District": [
+            "CENTRAL DIST. OF CALIFORNIA"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "Los Angeles"
+        ],
+        "LLM_DATE_OF_NATURALIZATION": [
+            "September 17",
+            "1982"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "ENE IDA GUIDO"
+        ],
+        "LLM_RESIDENCE_AT_NATURALIZATION": [
+            "Ca.",
+            ".",
+            "Glendale",
+            "511 E. Chevy Chase Dr."
+        ]
+    }
+}

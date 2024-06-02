@@ -1,0 +1,57 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_REVISION_DATE": [
+            "REV. 5-1-68"
+        ],
+        "LLM_OMB_NUMBER": [
+            "43-R436"
+        ],
+        "LLM_NATIONALITY": [
+            "Chinese"
+        ],
+        "LLM_STATE_CITY": [
+            "California",
+            "Canton",
+            "Kwang Tung",
+            "Los Angeles"
+        ],
+        "LLM_COUNTRY": [
+            "U.S.",
+            "China"
+        ],
+        "LLM_EMPLOYER": [
+            "Cushman & Tanura Dental Laboratory"
+        ],
+        "LLM_EMPLOYER_ADDRESS": [
+            "3612 W Pico L.A."
+        ],
+        "LLM_OCCUPATION": [
+            "Dental Tech"
+        ],
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States",
+        "China"
+    ],
+    "years": [
+        "1967",
+        "2023",
+        "1964",
+        "1914"
+    ],
+    "doc_id": "A13559853_redacted_0046",
+    "afile_number": "A13559853",
+    "dev_idx": 3869,
+    "pagenumber": 46,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A13559853_redacted_0046/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A13559853_redacted_0046.txt",
+    "cert_naturalization_attributes": {}
+}

@@ -1,0 +1,46 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_OMB_NUMBER": [
+            "1115-0066"
+        ],
+        "LLM_NATIONALITY": [
+            "Nicaraguan"
+        ],
+        "LLM_EMPLOYER": [
+            "NONE",
+            "none",
+            "None"
+        ],
+        "LLM_STATE_CITY": [
+            "Hialeah Florida",
+            "Managua",
+            "Colonia Maximo Berez Grupo"
+        ],
+        "LLM_COUNTRY": [
+            "Nicaragua",
+            "USA"
+        ],
+        "LLM_REVISION_DATE": [
+            "Rev. 10-1-82"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "Nicaragua",
+        "United States"
+    ],
+    "years": [
+        "1964"
+    ],
+    "doc_id": "A73779517_redacted_0039",
+    "afile_number": "A73779517",
+    "dev_idx": 23290,
+    "pagenumber": 39,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A73779517_redacted_0039/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A73779517_redacted_0039.txt",
+    "cert_naturalization_attributes": {}
+}

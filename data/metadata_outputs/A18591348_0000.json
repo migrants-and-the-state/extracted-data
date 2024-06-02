@@ -1,0 +1,73 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Russia"
+    ],
+    "years": [
+        "1916",
+        "1904"
+    ],
+    "doc_id": "A18591348_0000",
+    "afile_number": "A18591348",
+    "dev_idx": 6547,
+    "pagenumber": 0,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A18591348_0000/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A18591348_0000.txt",
+    "cert_naturalization_attributes": {
+        "LLM_NUMBER": [
+            "A-575896"
+        ],
+        "LLM_PETITION_NUMBER": [
+            "Application no. A18 591 348"
+        ],
+        "LLM_SEX": [
+            "female"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "1904",
+            "March 1"
+        ],
+        "LLM_FORMER_NATIONALITY": [
+            "Russia"
+        ],
+        "LLM_COMPLEXION": [
+            "medium"
+        ],
+        "LLM_COLOR_OF_EYES": [
+            "brown"
+        ],
+        "LLM_COLOR_OF_HAIR": [
+            "brown-grey"
+        ],
+        "LLM_WEIGHT": [
+            "130 pounds"
+        ],
+        "LLM_VISIBILE_DISTINCTIVE_MARKS": [
+            "none"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "married"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "IDA WACKSBERG"
+        ],
+        "LLM_RESIDENCE_AT_NATURALIZATION": [
+            "128 West 32nd Street"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "Bayonne"
+        ],
+        "LLM_NATURALIZATION_STATE": [
+            "New Jersey"
+        ],
+        "LLM_DATE_OF_NATURALIZATION": [
+            "1916",
+            "December 14"
+        ]
+    }
+}

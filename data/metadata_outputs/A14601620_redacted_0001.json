@@ -1,0 +1,21 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [],
+    "years": [
+        "1965",
+        "2023",
+        "1914"
+    ],
+    "doc_id": "A14601620_redacted_0001",
+    "afile_number": "A14601620",
+    "dev_idx": 4491,
+    "pagenumber": 1,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A14601620_redacted_0001/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A14601620_redacted_0001.txt",
+    "cert_naturalization_attributes": {}
+}

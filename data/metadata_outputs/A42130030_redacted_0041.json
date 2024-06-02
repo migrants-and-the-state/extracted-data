@@ -1,0 +1,23 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Honduras"
+    ],
+    "years": [
+        "2010",
+        "1959",
+        "2023"
+    ],
+    "doc_id": "A42130030_redacted_0041",
+    "afile_number": "A42130030",
+    "dev_idx": 17868,
+    "pagenumber": 41,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A42130030_redacted_0041/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A42130030_redacted_0041.txt",
+    "cert_naturalization_attributes": {}
+}

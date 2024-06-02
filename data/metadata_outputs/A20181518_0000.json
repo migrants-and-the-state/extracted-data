@@ -1,0 +1,72 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Russia",
+        "United States"
+    ],
+    "years": [
+        "1921",
+        "1901"
+    ],
+    "doc_id": "A20181518_0000",
+    "afile_number": "A20181518",
+    "dev_idx": 7606,
+    "pagenumber": 0,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A20181518_0000/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A20181518_0000.txt",
+    "cert_naturalization_attributes": {
+        "LLM_NUMBER": [
+            "A20",
+            "A7672508"
+        ],
+        "LLM_SEX": [
+            "Male"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "1901",
+            "July 4"
+        ],
+        "LLM_FORMER_NATIONALITY": [
+            "Russia"
+        ],
+        "LLM_COMPLEXION": [
+            "Medium"
+        ],
+        "LLM_COLOR_OF_EYES": [
+            "Blue"
+        ],
+        "LLM_COLOR_OF_HAIR": [
+            "Black"
+        ],
+        "LLM_WEIGHT": [
+            "165 pounds"
+        ],
+        "LLM_VISIBILE_DISTINCTIVE_MARKS": [
+            "Mole on center of right cheek"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "Widower"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "JOSEPH YOUNG"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "Jacksonville"
+        ],
+        "LLM_NATURALIZATION_STATE": [
+            "Florida"
+        ],
+        "LLM_NATURALIZATION_COUNTRY": [
+            "United States"
+        ],
+        "LLM_DATE_OF_NATURALIZATION": [
+            "1921",
+            "March 1"
+        ]
+    }
+}

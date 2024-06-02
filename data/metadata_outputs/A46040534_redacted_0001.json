@@ -1,0 +1,30 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "El Salvador"
+    ],
+    "years": [
+        "1941",
+        "1932",
+        "1934",
+        "1937",
+        "1928",
+        "2023",
+        "1907",
+        "1944",
+        "1939"
+    ],
+    "doc_id": "A46040534_redacted_0001",
+    "afile_number": "A46040534",
+    "dev_idx": 20188,
+    "pagenumber": 1,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A46040534_redacted_0001/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A46040534_redacted_0001.txt",
+    "cert_naturalization_attributes": {}
+}

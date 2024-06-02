@@ -1,0 +1,32 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "Belgium",
+        "Lithuania"
+    ],
+    "years": [
+        "1898",
+        "1938",
+        "1937",
+        "1495",
+        "1924",
+        "1908",
+        "1905",
+        "1907",
+        "1955",
+        "1956"
+    ],
+    "doc_id": "A10394732_0004",
+    "afile_number": "A10394732",
+    "dev_idx": 701,
+    "pagenumber": 4,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A10394732_0004/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A10394732_0004.txt",
+    "cert_naturalization_attributes": {}
+}

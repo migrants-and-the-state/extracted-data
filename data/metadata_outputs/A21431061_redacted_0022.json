@@ -1,0 +1,25 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "Vietnam"
+    ],
+    "years": [
+        "1920",
+        "2023",
+        "1975",
+        "1915"
+    ],
+    "doc_id": "A21431061_redacted_0022",
+    "afile_number": "A21431061",
+    "dev_idx": 9850,
+    "pagenumber": 22,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A21431061_redacted_0022/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A21431061_redacted_0022.txt",
+    "cert_naturalization_attributes": {}
+}

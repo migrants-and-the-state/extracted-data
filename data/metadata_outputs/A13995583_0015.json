@@ -1,0 +1,23 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Russia"
+    ],
+    "years": [
+        "1963",
+        "1938",
+        "1953"
+    ],
+    "doc_id": "A13995583_0015",
+    "afile_number": "A13995583",
+    "dev_idx": 4159,
+    "pagenumber": 15,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A13995583_0015/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A13995583_0015.txt",
+    "cert_naturalization_attributes": {}
+}

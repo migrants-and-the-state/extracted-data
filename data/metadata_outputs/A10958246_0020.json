@@ -1,0 +1,21 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [],
+    "years": [
+        "1956",
+        "1918",
+        "1912"
+    ],
+    "doc_id": "A10958246_0020",
+    "afile_number": "A10958246",
+    "dev_idx": 1511,
+    "pagenumber": 20,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A10958246_0020/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A10958246_0020.txt",
+    "cert_naturalization_attributes": {}
+}

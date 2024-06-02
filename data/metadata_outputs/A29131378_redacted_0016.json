@@ -1,0 +1,55 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_REVISION_DATE": [
+            "5/2023"
+        ],
+        "LLM_OMB_NUMBER": [
+            "1115-0066"
+        ],
+        "LLM_NATIONALITY": [
+            "SALVADORENA"
+        ],
+        "LLM_COUNTRY": [
+            "EL SALVADOR",
+            "U.S.A",
+            "Guatemala C.A."
+        ],
+        "LLM_STATE_CITY": [
+            "Los Angeles",
+            "LA Puente CALIF."
+        ],
+        "LLM_EMPLOYER": [
+            "NAOMEN scott",
+            "MIKE KOGAN"
+        ],
+        "LLM_EMPLOYER_ADDRESS": [
+            "1165 ECHO PArk Ave L.4 CA. 90026",
+            "1116 AVON ParktenL.NCA 90026"
+        ],
+        "LLM_OCCUPATION": [
+            "CLEAN OFice",
+            "Housekeeper"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States",
+        "Guatemala",
+        "El Salvador"
+    ],
+    "years": [
+        "1957",
+        "2023"
+    ],
+    "doc_id": "A29131378_redacted_0016",
+    "afile_number": "A29131378",
+    "dev_idx": 13650,
+    "pagenumber": 16,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A29131378_redacted_0016/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A29131378_redacted_0016.txt",
+    "cert_naturalization_attributes": {}
+}
