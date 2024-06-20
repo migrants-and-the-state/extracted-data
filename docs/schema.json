@@ -235,16 +235,17 @@
       "g325a_attributes",
       "is_g325a",
       "countries",
-      "years",
-      "doc_id",
-      "afile_number",
-      "dev_idx",
-      "pagenumber",
       "url",
-      "is_afile_redacted",
-      "is_afile_withdrawn",
       "ocr_path",
-      "cert_naturalization_attributes"
+      "pagenumber",
+      "doc_id",
+      "years",
+      "dev_idx",
+      "cert_naturalization_attributes",
+      "afile_number",
+      "is_afile_redacted",
+      "is_afile_withdrawn"
     ],
     "additionalProperties": false
-  }  
+  }
+  
