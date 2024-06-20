@@ -59,6 +59,12 @@
               "type": "string"
             }
           },
+          "LLM_YEAR": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
           "LLM_EMPLOYER_ADDRESS": {
             "type": "array",
             "items": {
