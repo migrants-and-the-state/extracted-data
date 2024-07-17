@@ -1,0 +1,55 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_OMB_NUMBER": [
+            "1615-0008"
+        ],
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ],
+        "LLM_COUNTRY": [
+            "Honduras"
+        ],
+        "LLM_STATE_CITY": [
+            "Distrito Central",
+            "Tegucigalpa"
+        ],
+        "LLM_EMPLOYER": [
+            "none"
+        ],
+        "LLM_EMPLOYER_ADDRESS": [
+            "Calle Samota",
+            "Casa #606"
+        ],
+        "LLM_OCCUPATION": [
+            "retired"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States",
+        "Honduras"
+    ],
+    "years": [
+        "1997",
+        "1913",
+        "2007",
+        "2023",
+        "2003",
+        "1946",
+        "1978",
+        "2001",
+        "2002",
+        "1915"
+    ],
+    "doc_id": "A86927428_redacted_0012",
+    "afile_number": "A86927428",
+    "dev_idx": 23727,
+    "pagenumber": 12,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A86927428_redacted_0012/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A86927428_redacted_0012.txt",
+    "cert_naturalization_attributes": {}
+}

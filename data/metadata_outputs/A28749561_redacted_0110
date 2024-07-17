@@ -1,0 +1,24 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Chile",
+        "Mexico"
+    ],
+    "years": [
+        "1942",
+        "1985",
+        "2023"
+    ],
+    "doc_id": "A28749561_redacted_0110",
+    "afile_number": "A28749561",
+    "dev_idx": 12998,
+    "pagenumber": 110,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A28749561_redacted_0110/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A28749561_redacted_0110.txt",
+    "cert_naturalization_attributes": {}
+}

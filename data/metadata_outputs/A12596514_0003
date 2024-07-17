@@ -1,0 +1,76 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Lithuania"
+    ],
+    "years": [
+        "1895",
+        "1918"
+    ],
+    "doc_id": "A12596514_0003",
+    "afile_number": "A12596514",
+    "dev_idx": 2839,
+    "pagenumber": 3,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A12596514_0003/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A12596514_0003.txt",
+    "cert_naturalization_attributes": {
+        "LLM_NUMBER": [
+            "A-383614"
+        ],
+        "LLM_PETITION_NUMBER": [
+            "application no 198-7 A12 596 514"
+        ],
+        "LLM_SEX": [
+            "Female"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "December 20",
+            "1895"
+        ],
+        "LLM_FORMER_NATIONALITY": [
+            "Lithuania"
+        ],
+        "LLM_COMPLEXION": [
+            "Medium"
+        ],
+        "LLM_COLOR_OF_EYES": [
+            "Brown"
+        ],
+        "LLM_COLOR_OF_HAIR": [
+            "Grey"
+        ],
+        "LLM_WEIGHT": [
+            "160 pounds"
+        ],
+        "LLM_VISIBILE_DISTINCTIVE_MARKS": [
+            "None"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "Divorced"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "ROSE FLEEIMAN"
+        ],
+        "LLM_RESIDENCE_AT_NATURALIZATION": [
+            "11227 Hatteras Street"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "North Hollywood"
+        ],
+        "LLM_NATURALIZATION_STATE": [
+            "California"
+        ],
+        "LLM_NATURALIZATION_COUNTRY": [
+            "States"
+        ],
+        "LLM_DATE_OF_NATURALIZATION": [
+            "May 10",
+            "1918"
+        ]
+    }
+}

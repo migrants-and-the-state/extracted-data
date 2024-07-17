@@ -1,0 +1,76 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "China"
+    ],
+    "years": [
+        "1910",
+        "2023"
+    ],
+    "doc_id": "A13570214_redacted_0000",
+    "afile_number": "A13570214",
+    "dev_idx": 3908,
+    "pagenumber": 0,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A13570214_redacted_0000/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A13570214_redacted_0000.txt",
+    "cert_naturalization_attributes": {
+        "LLM_NUMBER": [
+            "12158059"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "1910",
+            "JANUARY 29"
+        ],
+        "LLM_SEX": [
+            "FEMALE"
+        ],
+        "LLM_COMPLEXION": [
+            "MEDIUM"
+        ],
+        "LLM_COLOR_OF_EYES": [
+            "BROWN"
+        ],
+        "LLM_COLOR_OF_HAIR": [
+            "BLACK"
+        ],
+        "LLM_HEIGHT": [
+            "5 feet 6 inches"
+        ],
+        "LLM_WEIGHT": [
+            "160 pounds"
+        ],
+        "LLM_VISIBILE_DISTINCTIVE_MARKS": [
+            "NONE"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "WIDOWED"
+        ],
+        "LLM_FORMER_NATIONALITY": [
+            "CHINA"
+        ],
+        "LLM_NATURALIZATION_COUNTRY": [
+            "UNITED STATES",
+            "United States"
+        ],
+        "LLM_Naturalization_District": [
+            "CENTRAL DIST. OF CALIFORNIA"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "Los Angeles"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "OSSU GHAN CHAU"
+        ],
+        "LLM_RESIDENCE_AT_NATURALIZATION": [
+            "CAMARILLO",
+            "CA",
+            "568 OTERO COURT"
+        ]
+    }
+}

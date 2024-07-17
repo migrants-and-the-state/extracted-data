@@ -1,0 +1,27 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "Mexico",
+        "Iran",
+        "Canada",
+        "India"
+    ],
+    "years": [
+        "1988",
+        "1989",
+        "1904"
+    ],
+    "doc_id": "A41489225_0001",
+    "afile_number": "A41489225",
+    "dev_idx": 16872,
+    "pagenumber": 1,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A41489225_0001/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A41489225_0001.txt",
+    "cert_naturalization_attributes": {}
+}

@@ -1,0 +1,26 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "Mexico",
+        "Canada"
+    ],
+    "years": [
+        "1984",
+        "1932",
+        "2023",
+        "1982"
+    ],
+    "doc_id": "A42994404_redacted_0021",
+    "afile_number": "A42994404",
+    "dev_idx": 18466,
+    "pagenumber": 21,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A42994404_redacted_0021/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A42994404_redacted_0021.txt",
+    "cert_naturalization_attributes": {}
+}

@@ -1,0 +1,32 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Pakistan",
+        "United States",
+        "Mexico",
+        "Canada",
+        "India"
+    ],
+    "years": [
+        "1948",
+        "1924",
+        "1976",
+        "1949",
+        "1950",
+        "1968",
+        "1947",
+        "1974"
+    ],
+    "doc_id": "A20968145_withdrawal_0057",
+    "afile_number": "A20968145",
+    "dev_idx": 8435,
+    "pagenumber": 57,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A20968145_withdrawal_0057/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": true,
+    "ocr_path": "text_ocr/A20968145_withdrawal_0057.txt",
+    "cert_naturalization_attributes": {}
+}

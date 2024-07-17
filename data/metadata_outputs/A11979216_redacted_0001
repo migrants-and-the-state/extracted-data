@@ -1,0 +1,21 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Nicaragua"
+    ],
+    "years": [
+        "2023"
+    ],
+    "doc_id": "A11979216_redacted_0001",
+    "afile_number": "A11979216",
+    "dev_idx": 2045,
+    "pagenumber": 1,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A11979216_redacted_0001/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A11979216_redacted_0001.txt",
+    "cert_naturalization_attributes": {}
+}

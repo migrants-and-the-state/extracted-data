@@ -1,0 +1,49 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ],
+        "LLM_OMB_NUMBER": [
+            "1115-0066"
+        ],
+        "LLM_NATIONALITY": [
+            "Indian"
+        ],
+        "LLM_COUNTRY": [
+            "Pakistan",
+            "USA"
+        ],
+        "LLM_STATE_CITY": [
+            "Gujranwla",
+            "La Harba Heigh",
+            "California",
+            "Bambawale",
+            "Anaheim"
+        ],
+        "LLM_EMPLOYER": [
+            "Self-Employed Board / Care Homes for Elderly"
+        ],
+        "LLM_REVISION_DATE": [
+            "Rev. 10-1-82"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "Pakistan"
+    ],
+    "years": [
+        "1986",
+        "2023"
+    ],
+    "doc_id": "A72937061_redacted_0038",
+    "afile_number": "A72937061",
+    "dev_idx": 23131,
+    "pagenumber": 38,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A72937061_redacted_0038/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A72937061_redacted_0038.txt",
+    "cert_naturalization_attributes": {}
+}

@@ -1,0 +1,46 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_REVISION_DATE": [
+            "REV. 4-1-67"
+        ],
+        "LLM_OMB_NUMBER": [
+            "43-R436"
+        ],
+        "LLM_COUNTRY": [
+            "U.S.A",
+            "INDIA"
+        ],
+        "LLM_OCCUPATION": [
+            "NONE"
+        ],
+        "LLM_STATE_CITY": [
+            "SANTA ANA CALIF",
+            "AHEMEDABAD GUJARAT",
+            "BULSAR"
+        ],
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States",
+        "India"
+    ],
+    "years": [
+        "2001",
+        "2023",
+        "1909"
+    ],
+    "doc_id": "A17211295_redacted_0040",
+    "afile_number": "A17211295",
+    "dev_idx": 5430,
+    "pagenumber": 40,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A17211295_redacted_0040/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A17211295_redacted_0040.txt",
+    "cert_naturalization_attributes": {}
+}

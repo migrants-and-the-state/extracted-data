@@ -1,0 +1,27 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Nicaragua",
+        "United States",
+        "Honduras",
+        "Mexico"
+    ],
+    "years": [
+        "1919",
+        "1907",
+        "2023",
+        "1976"
+    ],
+    "doc_id": "A41319010_redacted_0013",
+    "afile_number": "A41319010",
+    "dev_idx": 16571,
+    "pagenumber": 13,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A41319010_redacted_0013/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A41319010_redacted_0013.txt",
+    "cert_naturalization_attributes": {}
+}

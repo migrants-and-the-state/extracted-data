@@ -1,0 +1,23 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Mexico"
+    ],
+    "years": [
+        "1910",
+        "1886",
+        "1956"
+    ],
+    "doc_id": "A10706964_0030",
+    "afile_number": "A10706964",
+    "dev_idx": 1257,
+    "pagenumber": 30,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A10706964_0030/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A10706964_0030.txt",
+    "cert_naturalization_attributes": {}
+}

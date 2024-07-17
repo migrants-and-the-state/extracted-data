@@ -1,0 +1,24 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "Cuba",
+        "Colombia"
+    ],
+    "years": [
+        "2007",
+        "2023"
+    ],
+    "doc_id": "A59424231_redacted_0007",
+    "afile_number": "A59424231",
+    "dev_idx": 21380,
+    "pagenumber": 7,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A59424231_redacted_0007/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A59424231_redacted_0007.txt",
+    "cert_naturalization_attributes": {}
+}

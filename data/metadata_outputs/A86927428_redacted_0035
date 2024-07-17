@@ -1,0 +1,26 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "Honduras"
+    ],
+    "years": [
+        "1937",
+        "2007",
+        "2023",
+        "1944",
+        "1942"
+    ],
+    "doc_id": "A86927428_redacted_0035",
+    "afile_number": "A86927428",
+    "dev_idx": 23750,
+    "pagenumber": 35,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A86927428_redacted_0035/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A86927428_redacted_0035.txt",
+    "cert_naturalization_attributes": {}
+}

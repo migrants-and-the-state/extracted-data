@@ -1,0 +1,58 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "G-325 A"
+        ],
+        "LLM_REVISION_DATE": [
+            "REV. 4-1-70"
+        ],
+        "LLM_OMB_NUMBER": [
+            "43-R436"
+        ],
+        "LLM_NATIONALITY": [
+            "INDIAN"
+        ],
+        "LLM_STATE_CITY": [
+            "SAURASHTRA",
+            "BOMBAY",
+            "VADAL",
+            "BALTIMORE MARYLAND"
+        ],
+        "LLM_COUNTRY": [
+            "INDIA",
+            "SINGAPORE"
+        ],
+        "LLM_EMPLOYER": [
+            "-NIL-"
+        ],
+        "LLM_OCCUPATION": [
+            "skyatha"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States",
+        "India",
+        "Singapore"
+    ],
+    "years": [
+        "1897",
+        "1967",
+        "1970",
+        "2023",
+        "1966",
+        "1968",
+        "1971"
+    ],
+    "doc_id": "A19581639_redacted_0078",
+    "afile_number": "A19581639",
+    "dev_idx": 7296,
+    "pagenumber": 78,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A19581639_redacted_0078/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A19581639_redacted_0078.txt",
+    "cert_naturalization_attributes": {}
+}

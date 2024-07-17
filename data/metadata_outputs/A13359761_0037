@@ -1,0 +1,59 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_REVISION_DATE": [
+            "REV. 4-1-67"
+        ],
+        "LLM_OMB_NUMBER": [
+            "43-R436"
+        ],
+        "LLM_NATIONALITY": [
+            "Cuban"
+        ],
+        "LLM_STATE_CITY": [
+            "Miami",
+            "Santander",
+            "Matanzas",
+            "Havana"
+        ],
+        "LLM_COUNTRY": [
+            "Spain",
+            "Cuba",
+            "U.S."
+        ],
+        "LLM_EMPLOYER": [
+            "NONE",
+            "none"
+        ],
+        "LLM_OCCUPATION": [
+            "unemployed"
+        ],
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States",
+        "Spain",
+        "Cuba"
+    ],
+    "years": [
+        "1967",
+        "1900",
+        "1966",
+        "1968",
+        "1965",
+        "1956"
+    ],
+    "doc_id": "A13359761_0037",
+    "afile_number": "A13359761",
+    "dev_idx": 3756,
+    "pagenumber": 37,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A13359761_0037/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A13359761_0037.txt",
+    "cert_naturalization_attributes": {}
+}

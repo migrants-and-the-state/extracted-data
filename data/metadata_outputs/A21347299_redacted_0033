@@ -1,0 +1,54 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ],
+        "LLM_REVISION_DATE": [
+            "REV. 8-27-"
+        ],
+        "LLM_OMB_NUMBER": [
+            "43-R436"
+        ],
+        "LLM_STATE_CITY": [
+            "GIN-DINH",
+            "NORTH-ViET-NAH"
+        ],
+        "LLM_COUNTRY": [
+            "ViENNA",
+            "ViET-NAM",
+            "CHINA",
+            "VIRGINIA"
+        ],
+        "LLM_OCCUPATION": [
+            "DRIVER"
+        ],
+        "LLM_EMPLOYER_ADDRESS": [
+            "NORTHROP PAGE TECHNOLOGY PARK"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States",
+        "Vietnam",
+        "China"
+    ],
+    "years": [
+        "1945",
+        "1926",
+        "1970",
+        "2023",
+        "1975",
+        "1915"
+    ],
+    "doc_id": "A21347299_redacted_0033",
+    "afile_number": "A21347299",
+    "dev_idx": 9735,
+    "pagenumber": 33,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A21347299_redacted_0033/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A21347299_redacted_0033.txt",
+    "cert_naturalization_attributes": {}
+}

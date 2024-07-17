@@ -1,0 +1,31 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "China"
+    ],
+    "years": [
+        "1952",
+        "1967",
+        "1900",
+        "1962",
+        "1960",
+        "1966",
+        "1964",
+        "1968",
+        "1955",
+        "1965"
+    ],
+    "doc_id": "A18018390_0020",
+    "afile_number": "A18018390",
+    "dev_idx": 6407,
+    "pagenumber": 20,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A18018390_0020/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A18018390_0020.txt",
+    "cert_naturalization_attributes": {}
+}

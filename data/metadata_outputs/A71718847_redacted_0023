@@ -1,0 +1,21 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Kenya"
+    ],
+    "years": [
+        "2023"
+    ],
+    "doc_id": "A71718847_redacted_0023",
+    "afile_number": "A71718847",
+    "dev_idx": 22357,
+    "pagenumber": 23,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A71718847_redacted_0023/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A71718847_redacted_0023.txt",
+    "cert_naturalization_attributes": {}
+}

@@ -1,0 +1,23 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [],
+    "years": [
+        "1986",
+        "1979",
+        "2023",
+        "1946",
+        "1990"
+    ],
+    "doc_id": "A40040848_redacted_0031",
+    "afile_number": "A40040848",
+    "dev_idx": 16147,
+    "pagenumber": 31,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A40040848_redacted_0031/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A40040848_redacted_0031.txt",
+    "cert_naturalization_attributes": {}
+}

@@ -1,0 +1,83 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "China"
+    ],
+    "years": [
+        "1911",
+        "2023",
+        "1991"
+    ],
+    "doc_id": "A34190657_redacted_0000",
+    "afile_number": "A34190657",
+    "dev_idx": 14935,
+    "pagenumber": 0,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A34190657_redacted_0000/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A34190657_redacted_0000.txt",
+    "cert_naturalization_attributes": {
+        "LLM_NUMBER": [
+            "14732274"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "SHU-TUNG CHIANG"
+        ],
+        "LLM_RESIDENCE_AT_NATURALIZATION": [
+            "CA",
+            "3910 VIA VERDE",
+            "THOUSAND OAKS"
+        ],
+        "LLM_DATE_OF_NATURALIZATION": [
+            "1991",
+            "OCTOBER 10TH"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "Los Angeles"
+        ],
+        "LLM_NATURALIZATION_STATE": [
+            "California",
+            "CALIFORNIA"
+        ],
+        "LLM_PETITION_NUMBER": [
+            "Petition No. 00883844"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "AUGUST 17",
+            "1911"
+        ],
+        "LLM_SEX": [
+            "MALE"
+        ],
+        "LLM_COMPLEXION": [
+            "MEDIUM"
+        ],
+        "LLM_COLOR_OF_EYES": [
+            "BROWN"
+        ],
+        "LLM_COLOR_OF_HAIR": [
+            "GRAY"
+        ],
+        "LLM_WEIGHT": [
+            "110 pounds"
+        ],
+        "LLM_VISIBILE_DISTINCTIVE_MARKS": [
+            "NONE"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "MARRIED"
+        ],
+        "LLM_FORMER_NATIONALITY": [
+            "MAINLAND",
+            "CHINA"
+        ],
+        "LLM_NATURALIZATION_COUNTRY": [
+            "UNITED STATES",
+            "United States"
+        ]
+    }
+}

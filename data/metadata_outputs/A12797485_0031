@@ -1,0 +1,25 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "Dominican Republic"
+    ],
+    "years": [
+        "1999",
+        "2001",
+        "1952",
+        "1901"
+    ],
+    "doc_id": "A12797485_0031",
+    "afile_number": "A12797485",
+    "dev_idx": 3176,
+    "pagenumber": 31,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A12797485_0031/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A12797485_0031.txt",
+    "cert_naturalization_attributes": {}
+}

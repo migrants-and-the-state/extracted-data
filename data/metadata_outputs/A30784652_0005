@@ -1,0 +1,24 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "Mexico",
+        "Canada",
+        "France"
+    ],
+    "years": [
+        "1937"
+    ],
+    "doc_id": "A30784652_0005",
+    "afile_number": "A30784652",
+    "dev_idx": 14384,
+    "pagenumber": 5,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A30784652_0005/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A30784652_0005.txt",
+    "cert_naturalization_attributes": {}
+}

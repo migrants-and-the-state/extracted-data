@@ -1,0 +1,46 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ],
+        "LLM_REVISION_DATE": [
+            "REV. 8-27-"
+        ],
+        "LLM_OMB_NUMBER": [
+            "43-R436"
+        ],
+        "LLM_NATIONALITY": [
+            "Cibanes"
+        ],
+        "LLM_STATE_CITY": [
+            "Miami Fla",
+            "Monte Libano"
+        ],
+        "LLM_OCCUPATION": [
+            "NONE",
+            "none"
+        ],
+        "LLM_COUNTRY": [
+            "Cuba",
+            "USA"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States"
+    ],
+    "years": [
+        "1921"
+    ],
+    "doc_id": "A18770369_0016",
+    "afile_number": "A18770369",
+    "dev_idx": 6609,
+    "pagenumber": 16,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A18770369_0016/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A18770369_0016.txt",
+    "cert_naturalization_attributes": {}
+}

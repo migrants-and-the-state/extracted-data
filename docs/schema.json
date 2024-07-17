@@ -1,0 +1,257 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "document_type": {
+        "type": "string"
+      },
+      "is_cert_naturalization": {
+        "type": "boolean"
+      },
+      "g325a_attributes": {
+        "type": "object",
+        "properties": {
+          "LLM_FORM_NUMBER": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "LLM_OMB_NUMBER": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "LLM_REVISION_DATE": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "LLM_COUNTRY": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "LLM_STATE_CITY": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "LLM_OCCUPATION": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "LLM_EMPLOYER": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "LLM_NATIONALITY": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "LLM_YEAR": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "LLM_EMPLOYER_ADDRESS": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "additionalProperties": false
+      },
+      "is_g325a": {
+        "type": "boolean"
+      },
+      "countries": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "years": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "doc_id": {
+        "type": "string"
+      },
+      "afile_number": {
+        "type": "string"
+      },
+      "dev_idx": {
+        "type": "integer"
+      },
+      "pagenumber": {
+        "type": "integer"
+      },
+      "url": {
+        "type": "string",
+        "format": "uri"
+      },
+      "is_afile_redacted": {
+        "type": "boolean"
+      },
+      "is_afile_withdrawn": {
+        "type": "boolean"
+      },
+      "ocr_path": {
+        "type": "string"
+      },
+      "cert_naturalization_attributes": {
+        "type": "object",
+        "properties": {
+          "LLM_NUMBER": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "LLM_PETITION_NUMBER": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "LLM_DATE_OF_BIRTH": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "LLM_SEX": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "LLM_HEIGHT": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "LLM_WEIGHT": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "LLM_COLOR_OF_EYES": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "LLM_COMPLEXION": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "LLM_COLOR_OF_HAIR": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "LLM_VISIBILE_DISTINCTIVE_MARKS": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "LLM_MARITAL_STATUS": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "LLM_FORMER_NATIONALITY": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "LLM_Naturalization_District": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "LLM_NATURALIZATION_MUNICIPALITY": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "LLM_NATURALIZATION_STATE": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "LLM_NATURALIZATION_COUNTRY": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "LLM_DATE_OF_NATURALIZATION": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "LLM_RESIDENCE_AT_NATURALIZATION": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "LLM_NAME_AT_NATURALIZATION": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "required": [
+      "document_type",
+      "is_cert_naturalization",
+      "g325a_attributes",
+      "is_g325a",
+      "countries",
+      "url",
+      "ocr_path",
+      "pagenumber",
+      "doc_id",
+      "years",
+      "dev_idx",
+      "cert_naturalization_attributes",
+      "afile_number",
+      "is_afile_redacted",
+      "is_afile_withdrawn"
+    ],
+    "additionalProperties": false
+  }
+  

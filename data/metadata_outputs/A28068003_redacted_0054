@@ -1,0 +1,49 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ],
+        "LLM_OMB_NUMBER": [
+            "1115-0066"
+        ],
+        "LLM_NATIONALITY": [
+            "SOMAL"
+        ],
+        "LLM_STATE_CITY": [
+            "MOGADISHUO",
+            "MOCTADISHUC"
+        ],
+        "LLM_COUNTRY": [
+            "SOMALIA"
+        ],
+        "LLM_EMPLOYER": [
+            "N/A"
+        ],
+        "LLM_REVISION_DATE": [
+            "Rev. 10-1-82"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "Somalia",
+        "United States"
+    ],
+    "years": [
+        "1987",
+        "2023",
+        "1900",
+        "1933",
+        "1915"
+    ],
+    "doc_id": "A28068003_redacted_0054",
+    "afile_number": "A28068003",
+    "dev_idx": 11812,
+    "pagenumber": 54,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A28068003_redacted_0054/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A28068003_redacted_0054.txt",
+    "cert_naturalization_attributes": {}
+}

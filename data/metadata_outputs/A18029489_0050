@@ -1,0 +1,75 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "G-325 A"
+        ],
+        "LLM_REVISION_DATE": [
+            "REV. 4-1-67"
+        ],
+        "LLM_OMB_NUMBER": [
+            "43-R436"
+        ],
+        "LLM_NATIONALITY": [
+            "INDIAN"
+        ],
+        "LLM_COUNTRY": [
+            "Pakistan",
+            "India",
+            "ARABIA"
+        ],
+        "LLM_STATE_CITY": [
+            "Aden",
+            "Bombay",
+            "U.P. India",
+            "Delhi",
+            "Maharashtra India",
+            "Gorakhpur",
+            "Mass",
+            "West Concord"
+        ],
+        "LLM_EMPLOYER": [
+            "Anderson Nichols & Co Inc",
+            "Greenleaf Associates",
+            "Fertilizer Cor of India"
+        ],
+        "LLM_EMPLOYER_ADDRESS": [
+            "31 Parkway Cambridge",
+            "150 Causeway St Boston"
+        ],
+        "LLM_OCCUPATION": [
+            "C. E. Ani30",
+            "Engineer",
+            "Dy Chief Eng"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States",
+        "India",
+        "Pakistan"
+    ],
+    "years": [
+        "1941",
+        "1934",
+        "1967",
+        "1963",
+        "1908",
+        "1969",
+        "1964",
+        "1968",
+        "1965",
+        "1939",
+        "1912"
+    ],
+    "doc_id": "A18029489_0050",
+    "afile_number": "A18029489",
+    "dev_idx": 6488,
+    "pagenumber": 50,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A18029489_0050/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A18029489_0050.txt",
+    "cert_naturalization_attributes": {}
+}

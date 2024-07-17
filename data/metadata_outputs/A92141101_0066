@@ -1,0 +1,25 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States"
+    ],
+    "years": [
+        "1960",
+        "1975",
+        "1959",
+        "1982",
+        "1981"
+    ],
+    "doc_id": "A92141101_0066",
+    "afile_number": "A92141101",
+    "dev_idx": 25001,
+    "pagenumber": 66,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A92141101_0066/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A92141101_0066.txt",
+    "cert_naturalization_attributes": {}
+}

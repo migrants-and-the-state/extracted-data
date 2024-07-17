@@ -1,0 +1,78 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "China"
+    ],
+    "years": [
+        "1987",
+        "2023",
+        "1914"
+    ],
+    "doc_id": "A12994632_redacted_0000",
+    "afile_number": "A12994632",
+    "dev_idx": 3371,
+    "pagenumber": 0,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A12994632_redacted_0000/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A12994632_redacted_0000.txt",
+    "cert_naturalization_attributes": {
+        "LLM_NUMBER": [
+            "12945207"
+        ],
+        "LLM_RESIDENCE_AT_NATURALIZATION": [
+            "CA",
+            "3379 DESCANSO DR"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "Los Angeles",
+            "LOS ANGELES"
+        ],
+        "LLM_DATE_OF_NATURALIZATION": [
+            "1987",
+            "JULY 9TH"
+        ],
+        "LLM_NATURALIZATION_STATE": [
+            "California"
+        ],
+        "LLM_PETITION_NUMBER": [
+            "Petition No. 00678033"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "1914",
+            "MAY 27"
+        ],
+        "LLM_SEX": [
+            "MALE"
+        ],
+        "LLM_COMPLEXION": [
+            "MEDIUM"
+        ],
+        "LLM_COLOR_OF_EYES": [
+            "BROWN"
+        ],
+        "LLM_COLOR_OF_HAIR": [
+            "GRAY"
+        ],
+        "LLM_VISIBILE_DISTINCTIVE_MARKS": [
+            "MOLE RT SIDE LIP"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "MARRIED"
+        ],
+        "LLM_FORMER_NATIONALITY": [
+            "CHINA"
+        ],
+        "LLM_NATURALIZATION_COUNTRY": [
+            "UNITED STATES",
+            "United States"
+        ],
+        "LLM_Naturalization_District": [
+            "CENTRAL DIST. OF CALIFORNIA"
+        ]
+    }
+}

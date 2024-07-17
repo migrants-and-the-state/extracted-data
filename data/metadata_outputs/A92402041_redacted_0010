@@ -1,0 +1,60 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "Nicaragua"
+    ],
+    "years": [
+        "1999",
+        "2023",
+        "1915"
+    ],
+    "doc_id": "A92402041_redacted_0010",
+    "afile_number": "A92402041",
+    "dev_idx": 25242,
+    "pagenumber": 10,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A92402041_redacted_0010/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A92402041_redacted_0010.txt",
+    "cert_naturalization_attributes": {
+        "LLM_NUMBER": [
+            "22556539"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "JANUARY 20",
+            "1915"
+        ],
+        "LLM_SEX": [
+            "FEMALE"
+        ],
+        "LLM_HEIGHT": [
+            "5 feet 0 inches"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "SINGLE"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "LOS ANGELES"
+        ],
+        "LLM_FORMER_NATIONALITY": [
+            "NICARAGUA"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "LY SEBATIANA CARMEN LOPEZ"
+        ],
+        "LLM_NATURALIZATION_COUNTRY": [
+            "United States"
+        ],
+        "LLM_Naturalization_District": [
+            "CENTRAL DIST. OF CALIFORNIA"
+        ],
+        "LLM_DATE_OF_NATURALIZATION": [
+            "1999",
+            "FEBRUARY 23"
+        ]
+    }
+}

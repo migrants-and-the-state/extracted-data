@@ -1,0 +1,32 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Nicaragua",
+        "Mexico",
+        "Canada",
+        "United States"
+    ],
+    "years": [
+        "1984",
+        "1989",
+        "1991",
+        "1890",
+        "1924",
+        "2023",
+        "1968",
+        "1988",
+        "1914"
+    ],
+    "doc_id": "A43136069_redacted_0040",
+    "afile_number": "A43136069",
+    "dev_idx": 18609,
+    "pagenumber": 40,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A43136069_redacted_0040/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A43136069_redacted_0040.txt",
+    "cert_naturalization_attributes": {}
+}

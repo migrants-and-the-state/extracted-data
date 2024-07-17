@@ -1,0 +1,30 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [],
+    "years": [
+        "1932",
+        "1934",
+        "1952",
+        "1929",
+        "1923",
+        "1928",
+        "1945",
+        "1955",
+        "1949",
+        "1931",
+        "1947",
+        "1951"
+    ],
+    "doc_id": "A17231918_0004",
+    "afile_number": "A17231918",
+    "dev_idx": 5799,
+    "pagenumber": 4,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A17231918_0004/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A17231918_0004.txt",
+    "cert_naturalization_attributes": {}
+}

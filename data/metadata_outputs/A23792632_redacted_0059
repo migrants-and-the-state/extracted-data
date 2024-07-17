@@ -1,0 +1,45 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ],
+        "LLM_REVISION_DATE": [
+            "REV.6-18-80"
+        ],
+        "LLM_OMB_NUMBER": [
+            "43-R436"
+        ],
+        "LLM_COUNTRY": [
+            "VietNam",
+            "vietnam"
+        ],
+        "LLM_EMPLOYER": [
+            "NONE",
+            "none"
+        ],
+        "LLM_STATE_CITY": [
+            "BiNH-THUAN"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States",
+        "Vietnam"
+    ],
+    "years": [
+        "1911",
+        "2023",
+        "1978"
+    ],
+    "doc_id": "A23792632_redacted_0059",
+    "afile_number": "A23792632",
+    "dev_idx": 11135,
+    "pagenumber": 59,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A23792632_redacted_0059/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A23792632_redacted_0059.txt",
+    "cert_naturalization_attributes": {}
+}

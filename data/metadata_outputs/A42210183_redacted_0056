@@ -1,0 +1,24 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Somalia",
+        "United States"
+    ],
+    "years": [
+        "1948",
+        "1943",
+        "1955"
+    ],
+    "doc_id": "A42210183_redacted_0056",
+    "afile_number": "A42210183",
+    "dev_idx": 17930,
+    "pagenumber": 56,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A42210183_redacted_0056/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A42210183_redacted_0056.txt",
+    "cert_naturalization_attributes": {}
+}

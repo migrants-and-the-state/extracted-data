@@ -1,0 +1,56 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States"
+    ],
+    "years": [
+        "1999",
+        "1914"
+    ],
+    "doc_id": "A92360662_redacted_0003",
+    "afile_number": "A92360662",
+    "dev_idx": 25111,
+    "pagenumber": 3,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A92360662_redacted_0003/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A92360662_redacted_0003.txt",
+    "cert_naturalization_attributes": {
+        "LLM_NUMBER": [
+            "24890838"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "1914",
+            "NOVEMBER 12"
+        ],
+        "LLM_SEX": [
+            "FEMALE"
+        ],
+        "LLM_HEIGHT": [
+            "5 feet 0 inches"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "WIDOWED"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "CA",
+            "LOS ANGELES"
+        ],
+        "LLM_FORMER_NATIONALITY": [
+            "NICARAGUA"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "MARIA MAGDALENA MATUS DE HUNTER"
+        ],
+        "LLM_NATURALIZATION_COUNTRY": [
+            "United States"
+        ],
+        "LLM_DATE_OF_NATURALIZATION": [
+            "1999",
+            "JULY 27"
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ],
+        "LLM_OMB_NUMBER": [
+            "1115-0066"
+        ],
+        "LLM_COUNTRY": [
+            "U.S.A",
+            "Taiwan",
+            "china"
+        ],
+        "LLM_STATE_CITY": [
+            "Cypress CA",
+            "Taipei Taiwan"
+        ],
+        "LLM_OCCUPATION": [
+            "wa"
+        ],
+        "LLM_REVISION_DATE": [
+            "Rev. 10-1-82"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States",
+        "Taiwan"
+    ],
+    "years": [
+        "2023",
+        "1914"
+    ],
+    "doc_id": "A70091406_redacted_0007",
+    "afile_number": "A70091406",
+    "dev_idx": 21557,
+    "pagenumber": 7,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A70091406_redacted_0007/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A70091406_redacted_0007.txt",
+    "cert_naturalization_attributes": {}
+}

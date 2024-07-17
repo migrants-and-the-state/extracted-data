@@ -1,0 +1,24 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States"
+    ],
+    "years": [
+        "1967",
+        "1906",
+        "1904",
+        "1901"
+    ],
+    "doc_id": "A17129911_0001",
+    "afile_number": "A17129911",
+    "dev_idx": 4597,
+    "pagenumber": 1,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A17129911_0001/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A17129911_0001.txt",
+    "cert_naturalization_attributes": {}
+}

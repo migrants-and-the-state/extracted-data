@@ -1,0 +1,19 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [],
+    "years": [
+        "2003"
+    ],
+    "doc_id": "A42210183_redacted_0030",
+    "afile_number": "A42210183",
+    "dev_idx": 17904,
+    "pagenumber": 30,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A42210183_redacted_0030/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A42210183_redacted_0030.txt",
+    "cert_naturalization_attributes": {}
+}

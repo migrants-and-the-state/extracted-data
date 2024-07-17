@@ -1,0 +1,49 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_OMB_NUMBER": [
+            "1115-0066"
+        ],
+        "LLM_NATIONALITY": [
+            "NICARAGUAN"
+        ],
+        "LLM_STATE_CITY": [
+            "GRANADA",
+            "Ca",
+            "Managua"
+        ],
+        "LLM_COUNTRY": [
+            "Nicaragua",
+            "U.S.a",
+            "NICARAGUA"
+        ],
+        "LLM_EMPLOYER_ADDRESS": [
+            "N/a",
+            "N/A"
+        ],
+        "LLM_OCCUPATION": [
+            "Political Asylum"
+        ],
+        "LLM_REVISION_DATE": [
+            "Rev. 10-1-82"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "Nicaragua",
+        "United States"
+    ],
+    "years": [
+        "2023"
+    ],
+    "doc_id": "A72964793_redacted_0020",
+    "afile_number": "A72964793",
+    "dev_idx": 23164,
+    "pagenumber": 20,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A72964793_redacted_0020/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A72964793_redacted_0020.txt",
+    "cert_naturalization_attributes": {}
+}

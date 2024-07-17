@@ -1,0 +1,76 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "Haiti"
+    ],
+    "years": [
+        "2022",
+        "1907",
+        "1977"
+    ],
+    "doc_id": "A30675896_redacted_0000",
+    "afile_number": "A30675896",
+    "dev_idx": 14305,
+    "pagenumber": 0,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A30675896_redacted_0000/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A30675896_redacted_0000.txt",
+    "cert_naturalization_attributes": {
+        "LLM_NUMBER": [
+            "10041423"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "1907",
+            "January 18"
+        ],
+        "LLM_COMPLEXION": [
+            "dark"
+        ],
+        "LLM_COLOR_OF_EYES": [
+            "brown"
+        ],
+        "LLM_COLOR_OF_HAIR": [
+            "grey"
+        ],
+        "LLM_WEIGHT": [
+            "140 pounds"
+        ],
+        "LLM_VISIBILE_DISTINCTIVE_MARKS": [
+            "none"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "unmarried"
+        ],
+        "LLM_FORMER_NATIONALITY": [
+            "Haiti"
+        ],
+        "LLM_NATURALIZATION_COUNTRY": [
+            "UNITED STATES",
+            "United States"
+        ],
+        "LLM_Naturalization_District": [
+            "DISTRICT OF MASSACHUSETTS"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "Boston"
+        ],
+        "LLM_DATE_OF_NATURALIZATION": [
+            "1977",
+            "October 5"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "Alphonse Basquiat"
+        ],
+        "LLM_RESIDENCE_AT_NATURALIZATION": [
+            "Mass.",
+            "Apt. 201",
+            "Cambridge",
+            "14 Newtowne Ct."
+        ]
+    }
+}

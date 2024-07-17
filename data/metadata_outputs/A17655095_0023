@@ -1,0 +1,22 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Canada"
+    ],
+    "years": [
+        "1967",
+        "1963"
+    ],
+    "doc_id": "A17655095_0023",
+    "afile_number": "A17655095",
+    "dev_idx": 6238,
+    "pagenumber": 23,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A17655095_0023/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A17655095_0023.txt",
+    "cert_naturalization_attributes": {}
+}

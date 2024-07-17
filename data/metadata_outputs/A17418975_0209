@@ -1,0 +1,28 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "Mexico",
+        "Canada",
+        "Cuba"
+    ],
+    "years": [
+        "1941",
+        "1911",
+        "1901",
+        "1949",
+        "1940"
+    ],
+    "doc_id": "A17418975_0209",
+    "afile_number": "A17418975",
+    "dev_idx": 6091,
+    "pagenumber": 209,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A17418975_0209/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A17418975_0209.txt",
+    "cert_naturalization_attributes": {}
+}

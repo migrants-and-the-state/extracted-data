@@ -1,0 +1,60 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "Nicaragua"
+    ],
+    "years": [
+        "1912",
+        "1998",
+        "2023"
+    ],
+    "doc_id": "A91807746_redacted_0004",
+    "afile_number": "A91807746",
+    "dev_idx": 24610,
+    "pagenumber": 4,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A91807746_redacted_0004/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A91807746_redacted_0004.txt",
+    "cert_naturalization_attributes": {
+        "LLM_NUMBER": [
+            "23121661"
+        ],
+        "LLM_PETITION_NUMBER": [
+            "INSRegistrationNo. A 91 807 746"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "1912",
+            "FEBRUARY 13"
+        ],
+        "LLM_SEX": [
+            "FEMALE"
+        ],
+        "LLM_HEIGHT": [
+            "4 feet 11 inches"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "SINGLE"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "LOS ANGELES"
+        ],
+        "LLM_FORMER_NATIONALITY": [
+            "NICARAGUA"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "MARIA BRAVO REYES"
+        ],
+        "LLM_NATURALIZATION_COUNTRY": [
+            "United States"
+        ],
+        "LLM_DATE_OF_NATURALIZATION": [
+            "DECEMBER 17",
+            "1998"
+        ]
+    }
+}

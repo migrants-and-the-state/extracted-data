@@ -1,0 +1,23 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "Mexico"
+    ],
+    "years": [
+        "1952",
+        "1912"
+    ],
+    "doc_id": "A10534184_redacted_0112",
+    "afile_number": "A10534184",
+    "dev_idx": 1083,
+    "pagenumber": 112,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A10534184_redacted_0112/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A10534184_redacted_0112.txt",
+    "cert_naturalization_attributes": {}
+}

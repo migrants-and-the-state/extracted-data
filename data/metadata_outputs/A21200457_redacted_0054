@@ -1,0 +1,53 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ],
+        "LLM_REVISION_DATE": [
+            "REV. 10-1-74"
+        ],
+        "LLM_OMB_NUMBER": [
+            "43-R436"
+        ],
+        "LLM_COUNTRY": [
+            "NVN",
+            "UN",
+            "Saijon"
+        ],
+        "LLM_NATIONALITY": [
+            "Unknown"
+        ],
+        "LLM_STATE_CITY": [
+            "Tee",
+            "cholon"
+        ],
+        "LLM_OCCUPATION": [
+            "Budget of foreign And office Examinater",
+            "Examinates"
+        ],
+        "LLM_EMPLOYER": [
+            "1420 Hong that"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "United States"
+    ],
+    "years": [
+        "1913",
+        "1933",
+        "2023",
+        "1915"
+    ],
+    "doc_id": "A21200457_redacted_0054",
+    "afile_number": "A21200457",
+    "dev_idx": 8757,
+    "pagenumber": 54,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A21200457_redacted_0054/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A21200457_redacted_0054.txt",
+    "cert_naturalization_attributes": {}
+}

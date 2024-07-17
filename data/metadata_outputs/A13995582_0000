@@ -1,0 +1,74 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Russia",
+        "United States"
+    ],
+    "years": [
+        "1903",
+        "1915"
+    ],
+    "doc_id": "A13995582_0000",
+    "afile_number": "A13995582",
+    "dev_idx": 4126,
+    "pagenumber": 0,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A13995582_0000/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A13995582_0000.txt",
+    "cert_naturalization_attributes": {
+        "LLM_NUMBER": [
+            "A-499125"
+        ],
+        "LLM_PETITION_NUMBER": [
+            "application no. A13 995 582"
+        ],
+        "LLM_SEX": [
+            "male"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "1903",
+            "June 3"
+        ],
+        "LLM_FORMER_NATIONALITY": [
+            "Russia"
+        ],
+        "LLM_COMPLEXION": [
+            "dark"
+        ],
+        "LLM_COLOR_OF_EYES": [
+            "brown"
+        ],
+        "LLM_COLOR_OF_HAIR": [
+            "grey"
+        ],
+        "LLM_WEIGHT": [
+            "210 pounds"
+        ],
+        "LLM_VISIBILE_DISTINCTIVE_MARKS": [
+            "none"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "married"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "HERMAN GETZ"
+        ],
+        "LLM_RESIDENCE_AT_NATURALIZATION": [
+            "429 E. Eleanor Street"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "Philadelphia"
+        ],
+        "LLM_DATE_OF_NATURALIZATION": [
+            "27",
+            "1915"
+        ],
+        "LLM_NATURALIZATION_COUNTRY": [
+            "United States"
+        ]
+    }
+}

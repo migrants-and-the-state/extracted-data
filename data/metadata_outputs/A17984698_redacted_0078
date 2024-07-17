@@ -1,0 +1,28 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "Mexico"
+    ],
+    "years": [
+        "1957",
+        "1934",
+        "1932",
+        "1924",
+        "2023",
+        "1968",
+        "1956"
+    ],
+    "doc_id": "A17984698_redacted_0078",
+    "afile_number": "A17984698",
+    "dev_idx": 6360,
+    "pagenumber": 78,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A17984698_redacted_0078/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A17984698_redacted_0078.txt",
+    "cert_naturalization_attributes": {}
+}

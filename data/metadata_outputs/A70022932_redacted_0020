@@ -1,0 +1,52 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {
+        "LLM_FORM_NUMBER": [
+            "G-325A"
+        ],
+        "LLM_OMB_NUMBER": [
+            "1115-0066"
+        ],
+        "LLM_NATIONALITY": [
+            "Salvadorean"
+        ],
+        "LLM_STATE_CITY": [
+            "San Salvador",
+            "San Marcos",
+            "California",
+            "Los Angeles"
+        ],
+        "LLM_COUNTRY": [
+            "E1 Salvador"
+        ],
+        "LLM_EMPLOYER": [
+            "NONE",
+            "none",
+            "None"
+        ],
+        "LLM_OCCUPATION": [
+            "Homechores",
+            "Housewife"
+        ],
+        "LLM_REVISION_DATE": [
+            "Rev. 10-1-82"
+        ]
+    },
+    "is_g325a": true,
+    "countries": [
+        "El Salvador"
+    ],
+    "years": [
+        "2023"
+    ],
+    "doc_id": "A70022932_redacted_0020",
+    "afile_number": "A70022932",
+    "dev_idx": 21497,
+    "pagenumber": 20,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A70022932_redacted_0020/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A70022932_redacted_0020.txt",
+    "cert_naturalization_attributes": {}
+}

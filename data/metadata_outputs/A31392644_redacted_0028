@@ -1,0 +1,31 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Pakistan",
+        "United States",
+        "Mexico",
+        "Canada",
+        "India"
+    ],
+    "years": [
+        "1958",
+        "2023",
+        "1946",
+        "1959",
+        "1925",
+        "1947",
+        "1930"
+    ],
+    "doc_id": "A31392644_redacted_0028",
+    "afile_number": "A31392644",
+    "dev_idx": 14609,
+    "pagenumber": 28,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A31392644_redacted_0028/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A31392644_redacted_0028.txt",
+    "cert_naturalization_attributes": {}
+}

@@ -1,0 +1,27 @@
+{
+    "document_type": "form",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "India"
+    ],
+    "years": [
+        "2023",
+        "1900",
+        "1980",
+        "1921",
+        "1988",
+        "1985"
+    ],
+    "doc_id": "A41539277_redacted_0015",
+    "afile_number": "A41539277",
+    "dev_idx": 17243,
+    "pagenumber": 15,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A41539277_redacted_0015/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A41539277_redacted_0015.txt",
+    "cert_naturalization_attributes": {}
+}

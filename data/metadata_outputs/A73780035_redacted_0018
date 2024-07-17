@@ -1,0 +1,79 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "Haiti"
+    ],
+    "years": [
+        "2023",
+        "1983",
+        "1944"
+    ],
+    "doc_id": "A73780035_redacted_0018",
+    "afile_number": "A73780035",
+    "dev_idx": 23312,
+    "pagenumber": 18,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A73780035_redacted_0018/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A73780035_redacted_0018.txt",
+    "cert_naturalization_attributes": {
+        "LLM_NUMBER": [
+            "11055186"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "November 29",
+            "1944"
+        ],
+        "LLM_SEX": [
+            "female"
+        ],
+        "LLM_COMPLEXION": [
+            "dark"
+        ],
+        "LLM_COLOR_OF_EYES": [
+            "brown"
+        ],
+        "LLM_COLOR_OF_HAIR": [
+            "black"
+        ],
+        "LLM_HEIGHT": [
+            "5 feet 5 inches"
+        ],
+        "LLM_WEIGHT": [
+            "130 pounds"
+        ],
+        "LLM_VISIBILE_DISTINCTIVE_MARKS": [
+            "none"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "married"
+        ],
+        "LLM_FORMER_NATIONALITY": [
+            "Haiti"
+        ],
+        "LLM_NATURALIZATION_COUNTRY": [
+            "UNITED STATES",
+            "United States"
+        ],
+        "LLM_Naturalization_District": [
+            "SOUTHERN DISTRICT OF FLORIDA"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "Miami"
+        ],
+        "LLM_NATURALIZATION_STATE": [
+            "Florida"
+        ],
+        "LLM_DATE_OF_NATURALIZATION": [
+            "August 1",
+            "1983"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "Marie Clenie Lacroix"
+        ]
+    }
+}

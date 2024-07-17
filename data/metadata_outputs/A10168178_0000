@@ -1,0 +1,80 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Australia",
+        "United States"
+    ],
+    "years": [
+        "1962",
+        "1909"
+    ],
+    "doc_id": "A10168178_0000",
+    "afile_number": "A10168178",
+    "dev_idx": 162,
+    "pagenumber": 0,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A10168178_0000/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A10168178_0000.txt",
+    "cert_naturalization_attributes": {
+        "LLM_NUMBER": [
+            "8291911"
+        ],
+        "LLM_PETITION_NUMBER": [
+            "Petition no 3205"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "November 22",
+            "1909"
+        ],
+        "LLM_SEX": [
+            "Male"
+        ],
+        "LLM_COMPLEXION": [
+            "Fair"
+        ],
+        "LLM_COLOR_OF_EYES": [
+            "Blue"
+        ],
+        "LLM_COLOR_OF_HAIR": [
+            "Blond"
+        ],
+        "LLM_WEIGHT": [
+            "180 pounds"
+        ],
+        "LLM_VISIBILE_DISTINCTIVE_MARKS": [
+            "None"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "Married"
+        ],
+        "LLM_FORMER_NATIONALITY": [
+            "Australia"
+        ],
+        "LLM_NATURALIZATION_STATE": [
+            "New Jersey"
+        ],
+        "LLM_Naturalization_District": [
+            "County Court of Ocean County"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "Toms River"
+        ],
+        "LLM_DATE_OF_NATURALIZATION": [
+            "June 15",
+            "1962"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "Jack Doyle Moclair"
+        ],
+        "LLM_RESIDENCE_AT_NATURALIZATION": [
+            "31 Wills Court"
+        ],
+        "LLM_NATURALIZATION_COUNTRY": [
+            "United States"
+        ]
+    }
+}

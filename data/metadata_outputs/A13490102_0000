@@ -1,0 +1,76 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Russia"
+    ],
+    "years": [
+        "1913",
+        "1900"
+    ],
+    "doc_id": "A13490102_0000",
+    "afile_number": "A13490102",
+    "dev_idx": 3812,
+    "pagenumber": 0,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A13490102_0000/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A13490102_0000.txt",
+    "cert_naturalization_attributes": {
+        "LLM_NUMBER": [
+            "A-398003"
+        ],
+        "LLM_PETITION_NUMBER": [
+            "Application No. 13 490 102"
+        ],
+        "LLM_SEX": [
+            "male"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "1900",
+            "April 21"
+        ],
+        "LLM_FORMER_NATIONALITY": [
+            "Russia"
+        ],
+        "LLM_COMPLEXION": [
+            "fair"
+        ],
+        "LLM_COLOR_OF_EYES": [
+            "blue"
+        ],
+        "LLM_COLOR_OF_HAIR": [
+            "grey"
+        ],
+        "LLM_WEIGHT": [
+            "175 pounds"
+        ],
+        "LLM_VISIBILE_DISTINCTIVE_MARKS": [
+            "none"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "married"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "JACK MELCHER"
+        ],
+        "LLM_RESIDENCE_AT_NATURALIZATION": [
+            "826 South 52nd St."
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "Omaha"
+        ],
+        "LLM_NATURALIZATION_STATE": [
+            "Nebraska"
+        ],
+        "LLM_NATURALIZATION_COUNTRY": [
+            "United States"
+        ],
+        "LLM_DATE_OF_NATURALIZATION": [
+            "Dec. 11",
+            "1913"
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "Netherlands"
+    ],
+    "years": [
+        "1901",
+        "1906",
+        "1908",
+        "1912",
+        "1896",
+        "1899"
+    ],
+    "doc_id": "A18036541_0014",
+    "afile_number": "A18036541",
+    "dev_idx": 6517,
+    "pagenumber": 14,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A18036541_0014/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A18036541_0014.txt",
+    "cert_naturalization_attributes": {}
+}

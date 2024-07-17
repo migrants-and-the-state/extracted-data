@@ -1,0 +1,68 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": true,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "Hungary"
+    ],
+    "years": [
+        "1903",
+        "1891"
+    ],
+    "doc_id": "A12309319_0000",
+    "afile_number": "A12309319",
+    "dev_idx": 2449,
+    "pagenumber": 0,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A12309319_0000/full/full/0/default.jpg",
+    "is_afile_redacted": false,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A12309319_0000.txt",
+    "cert_naturalization_attributes": {
+        "LLM_NUMBER": [
+            "A-414302",
+            "A12 309 319"
+        ],
+        "LLM_SEX": [
+            "Male"
+        ],
+        "LLM_DATE_OF_BIRTH": [
+            "June 11",
+            "1891"
+        ],
+        "LLM_FORMER_NATIONALITY": [
+            "Hungary"
+        ],
+        "LLM_COMPLEXION": [
+            "Fair"
+        ],
+        "LLM_COLOR_OF_EYES": [
+            "Blue"
+        ],
+        "LLM_COLOR_OF_HAIR": [
+            "Gray"
+        ],
+        "LLM_WEIGHT": [
+            "pounds"
+        ],
+        "LLM_MARITAL_STATUS": [
+            "Married"
+        ],
+        "LLM_NAME_AT_NATURALIZATION": [
+            "JOSEPH CABALA"
+        ],
+        "LLM_RESIDENCE_AT_NATURALIZATION": [
+            "128 Sherman Place"
+        ],
+        "LLM_NATURALIZATION_MUNICIPALITY": [
+            "Jersey City"
+        ],
+        "LLM_NATURALIZATION_STATE": [
+            "New Jersey"
+        ],
+        "LLM_DATE_OF_NATURALIZATION": [
+            "1903",
+            "December 8"
+        ]
+    }
+}

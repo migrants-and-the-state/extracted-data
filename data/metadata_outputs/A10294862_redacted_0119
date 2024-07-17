@@ -1,0 +1,26 @@
+{
+    "document_type": "letter",
+    "is_cert_naturalization": false,
+    "g325a_attributes": {},
+    "is_g325a": false,
+    "countries": [
+        "United States",
+        "China"
+    ],
+    "years": [
+        "1957",
+        "2023",
+        "1953",
+        "1946",
+        "1956"
+    ],
+    "doc_id": "A10294862_redacted_0119",
+    "afile_number": "A10294862",
+    "dev_idx": 409,
+    "pagenumber": 119,
+    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A10294862_redacted_0119/full/full/0/default.jpg",
+    "is_afile_redacted": true,
+    "is_afile_withdrawn": false,
+    "ocr_path": "text_ocr/A10294862_redacted_0119.txt",
+    "cert_naturalization_attributes": {}
+}
