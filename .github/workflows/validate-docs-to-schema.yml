@@ -17,5 +17,6 @@ jobs:
       - if: steps.asdf-cache.outputs.cache-hit != 'true'
         uses: asdf-vm/actions/install@v3
       - uses: snok/install-poetry@v1
+      - run: poetry install
       - name: validate
-        run: poetry install && poetry run python lib/validate_json_to_schema.py 
+        run: poetry run python lib/validate_json_to_schema.py 
