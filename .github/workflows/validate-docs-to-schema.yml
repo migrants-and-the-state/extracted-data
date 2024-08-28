@@ -14,6 +14,6 @@ jobs:
         with:
           python-version: 3.12.5
           cache: poetry
-      # - run: poetry install
+      - run: poetry install
       - name: validate
         run: poetry run python lib/validate_json_to_schema.py 
