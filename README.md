@@ -1,4 +1,4 @@
-# Migrants and the State: Extracted Data
+# Migrants and the State:<br>Extracted Data
 
 Here you'll find (meta)data extracted from the M&TS A Files corpus along with useful files and scripts for managing that (meta)data.
 
@@ -19,11 +19,11 @@ E.g.,
 
 ### Prerequisites
 
-You'll need Python installed to use the data and run the scripts available in `/lib`. On mac, we recommend using [Homebrew](https://brew.sh/) and [asdf](https://asdf-vm.com/). 
+You'll need Python, Git, and poetry installed to use the data and run the scripts available in `/lib`. On mac, we recommend using [Homebrew](https://brew.sh/) and [asdf](https://asdf-vm.com/). 
 
 If you already have Homebrew [installed](https://docs.brew.sh/Installation):
 
-#### 1. Install asdf by running:
+#### 1. Install asdf:
 
 ```sh
 brew install coreutils curl git
@@ -45,12 +45,19 @@ asdf direnv setup --shell zsh --version latest # if using ZSH! can replace with 
 asdf install python
 ```
 
+### 3. Install pipx and poetry
+```sh
+brew install pipx
+pipx ensurepath 
+source ~/.zshrc # if using ZSH! can replace with ~/.bashrc
+```
+
 ### Running the schema validator
 
-[TODO!!!]  
-For now just run:
+***[TODO!!!]***  
+*For now just run:*
 
 ``` sh
-python lib/validate_json_to_schema.py
+poetry run python lib/validate_json_to_schema.py
 ```
 

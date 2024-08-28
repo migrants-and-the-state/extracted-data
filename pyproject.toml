@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "extracted-data"
+version = "0.1.0"
+description = ""
+authors = ["mnyrop <marii@nyu.edu>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+jsonschema = "^4.23.0"
+alive-progress = "^3.1.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

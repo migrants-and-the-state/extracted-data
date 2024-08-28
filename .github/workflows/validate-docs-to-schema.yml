@@ -1,0 +1,15 @@
+name: validate docs to schema
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+      - name: validate
+        run: poetry run python lib/validate_json_to_schema.py 
