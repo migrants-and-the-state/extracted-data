@@ -5,11 +5,11 @@ on:
       - main
 
 jobs:
-  deploy:
+  validate:
     runs-on: ubuntu-latest
     steps:
-      - name: checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
+      - uses: snok/install-poetry@v1
       - name: validate
         run: poetry run python lib/validate_json_to_schema.py 
