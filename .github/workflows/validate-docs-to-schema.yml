@@ -9,7 +9,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: asdf-vm/actions/install@v3
+      - id: asdf-cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.asdf/
+          key: ${{ runner.os }}-${{ hashFiles('**/.tool-versions') }}
+      - if: steps.asdf-cache.outputs.cache-hit != 'true'
+        uses: asdf-vm/actions/install@v3
       - uses: snok/install-poetry@v1
       - name: validate
         run: poetry install && poetry run python lib/validate_json_to_schema.py 
