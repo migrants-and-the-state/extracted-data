@@ -9,11 +9,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: snok/install-poetry@v1
       - uses: actions/setup-python@v4
         with:
           python-version: 3.12.5
           cache: poetry
-      # - uses: snok/install-poetry@v1
       # - run: poetry install
       - name: validate
         run: poetry run python lib/validate_json_to_schema.py 
