@@ -26,7 +26,7 @@ If you already have Homebrew [installed](https://docs.brew.sh/Installation):
 #### 1. Install asdf:
 
 ```sh
-brew install coreutils curl git
+brew install coreutils curl git gh
 brew install asdf
 ```
 
@@ -42,7 +42,6 @@ source ~/.zshrc
 asdf plugin-add python
 asdf plugin-add direnv
 asdf direnv setup --shell zsh --version latest # if using ZSH! can replace with bash
-asdf install python
 ```
 
 ### 3. Install pipx and poetry
@@ -52,10 +51,16 @@ pipx ensurepath
 source ~/.zshrc # if using ZSH! can replace with ~/.bashrc
 ```
 
-### Running the schema validator
+## Using this repo
 
-***[TODO!!!]***  
-*For now just run:*
+### 1. Clone the project repo and set up local python
+
+``` sh
+gh repo clone Migrants-and-The-State/extracted-data && cd extracted-data
+adsf install python
+poetry install
+```
+### 2. Run the scipts (so far just schema validation!)
 
 ``` sh
 poetry run python lib/validate_json_to_schema.py
