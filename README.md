@@ -30,7 +30,7 @@ brew install coreutils curl git gh
 brew install asdf
 ```
 
-Then follow [the instrctions](https://asdf-vm.com/guide/getting-started.html#_3-install-asdf) for your system to add `asdf` to your shell's `PATH`. If you're using ZSH, for example, you'll run:
+Then follow [the instructions](https://asdf-vm.com/guide/getting-started.html#_3-install-asdf) for your system to add `asdf` to your shell's `PATH`. If you're using ZSH, for example, you'll run:
 
 ```sh
 echo -e "\n. $(brew --prefix asdf)/libexec/asdf.sh" >> ${ZDOTDIR:-~}/.zshrc
