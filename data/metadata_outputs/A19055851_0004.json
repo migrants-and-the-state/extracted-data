@@ -1,69 +1,57 @@
 {
-    "document_type": "letter",
-    "is_cert_naturalization": true,
-    "g325a_attributes": {},
-    "is_g325a": false,
-    "countries": [
-        "United States"
-    ],
-    "years": [
-        "1976",
-        "1909"
-    ],
-    "doc_id": "A19055851_0004",
-    "afile_number": "A19055851",
-    "dev_idx": 6727,
-    "pagenumber": 4,
-    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A19055851_0004/full/full/0/default.jpg",
-    "is_afile_redacted": false,
-    "is_afile_withdrawn": false,
-    "ocr_path": "text_ocr/A19055851_0004.txt",
-    "cert_naturalization_attributes": {
-        "LLM_NUMBER": [
-            "10532706"
-        ],
-        "LLM_DATE_OF_BIRTH": [
-            "1909",
-            "December 11"
-        ],
-        "LLM_SEX": [
-            "Male"
-        ],
-        "LLM_COMPLEXION": [
-            "Fair"
-        ],
-        "LLM_COLOR_OF_EYES": [
-            "Blue"
-        ],
-        "LLM_COLOR_OF_HAIR": [
-            "Gray"
-        ],
-        "LLM_VISIBILE_DISTINCTIVE_MARKS": [
-            "None"
-        ],
-        "LLM_MARITAL_STATUS": [
-            "Married"
-        ],
-        "LLM_NATURALIZATION_COUNTRY": [
-            "UNITED STATES",
-            "United States"
-        ],
-        "LLM_NATURALIZATION_STATE": [
-            "CALIFORNIA",
-            "California"
-        ],
-        "LLM_NATURALIZATION_MUNICIPALITY": [
-            "Los Angeles"
-        ],
-        "LLM_DATE_OF_NATURALIZATION": [
-            "1976",
-            "August 6"
-        ],
-        "LLM_NAME_AT_NATURALIZATION": [
-            "GEORGE FREDRICK WOLFSON"
-        ],
-        "LLM_RESIDENCE_AT_NATURALIZATION": [
-            "100 So. Dohney St"
-        ]
+    "id": "A19055851",
+    "afile_id": "A19055851_0004",
+    "page_index": 4,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A19055851_0004/full/max/0/default.jpg",
+        "ocr_txt": true
+    },
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "doctype": {
+            "ms_doctype_v1": "letter"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "Alien Registration Form, A19 055 851"
+        },
+        "is_g325a": false,
+        "is_cert_naturalization": true,
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "United States"
+            ]
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                1976
+            ]
+        },
+        "certificate_naturalization": {
+            "complexion": {
+                "complexion_llm_v1": "N.A"
+            },
+            "marital_status": {
+                "marital_status_llm_v1": "Married"
+            },
+            "year_naturalization": {
+                "year_naturalization_llm_v1": 1976.0
+            },
+            "residence_naturlization": {
+                "residence_naturlization_llm_v1": "100532706"
+            }
+        },
+        "g325a": {
+            "occupation": {
+                "occupation_llm_v1": null
+            },
+            "reason": {
+                "reason_llm_v1": null
+            },
+            "nationality": {
+                "nationality_llm_v1": null
+            }
+        }
     }
 }

@@ -1,76 +1,58 @@
 {
-    "document_type": "letter",
-    "is_cert_naturalization": true,
-    "g325a_attributes": {},
-    "is_g325a": false,
-    "countries": [
-        "Lithuania"
-    ],
-    "years": [
-        "1895",
-        "1918"
-    ],
-    "doc_id": "A12596514_0003",
-    "afile_number": "A12596514",
-    "dev_idx": 2839,
-    "pagenumber": 3,
-    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A12596514_0003/full/full/0/default.jpg",
-    "is_afile_redacted": false,
-    "is_afile_withdrawn": false,
-    "ocr_path": "text_ocr/A12596514_0003.txt",
-    "cert_naturalization_attributes": {
-        "LLM_NUMBER": [
-            "A-383614"
-        ],
-        "LLM_PETITION_NUMBER": [
-            "application no 198-7 A12 596 514"
-        ],
-        "LLM_SEX": [
-            "Female"
-        ],
-        "LLM_DATE_OF_BIRTH": [
-            "December 20",
-            "1895"
-        ],
-        "LLM_FORMER_NATIONALITY": [
-            "Lithuania"
-        ],
-        "LLM_COMPLEXION": [
-            "Medium"
-        ],
-        "LLM_COLOR_OF_EYES": [
-            "Brown"
-        ],
-        "LLM_COLOR_OF_HAIR": [
-            "Grey"
-        ],
-        "LLM_WEIGHT": [
-            "160 pounds"
-        ],
-        "LLM_VISIBILE_DISTINCTIVE_MARKS": [
-            "None"
-        ],
-        "LLM_MARITAL_STATUS": [
-            "Divorced"
-        ],
-        "LLM_NAME_AT_NATURALIZATION": [
-            "ROSE FLEEIMAN"
-        ],
-        "LLM_RESIDENCE_AT_NATURALIZATION": [
-            "11227 Hatteras Street"
-        ],
-        "LLM_NATURALIZATION_MUNICIPALITY": [
-            "North Hollywood"
-        ],
-        "LLM_NATURALIZATION_STATE": [
-            "California"
-        ],
-        "LLM_NATURALIZATION_COUNTRY": [
-            "States"
-        ],
-        "LLM_DATE_OF_NATURALIZATION": [
-            "May 10",
-            "1918"
-        ]
+    "id": "A12596514",
+    "afile_id": "A12596514_0003",
+    "page_index": 3,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A12596514_0003/full/max/0/default.jpg",
+        "ocr_txt": true
+    },
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "doctype": {
+            "ms_doctype_v1": "letter"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "Certificate of Citizenship, Form N-560 ( (REV. 10-1-56)"
+        },
+        "is_g325a": false,
+        "is_cert_naturalization": true,
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Lithuania"
+            ]
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                1895,
+                1918
+            ]
+        },
+        "certificate_naturalization": {
+            "complexion": {
+                "complexion_llm_v1": "medium"
+            },
+            "marital_status": {
+                "marital_status_llm_v1": "Divorced"
+            },
+            "year_naturalization": {
+                "year_naturalization_llm_v1": 1918.0
+            },
+            "residence_naturlization": {
+                "residence_naturlization_llm_v1": "Hatteras Street, North Hollywood, California"
+            }
+        },
+        "g325a": {
+            "occupation": {
+                "occupation_llm_v1": null
+            },
+            "reason": {
+                "reason_llm_v1": null
+            },
+            "nationality": {
+                "nationality_llm_v1": null
+            }
+        }
     }
 }

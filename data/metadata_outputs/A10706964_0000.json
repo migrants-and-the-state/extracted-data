@@ -1,76 +1,59 @@
 {
-    "document_type": "letter",
-    "is_cert_naturalization": true,
-    "g325a_attributes": {},
-    "is_g325a": false,
-    "countries": [
-        "United States",
-        "Mexico"
-    ],
-    "years": [
-        "1910",
-        "1987"
-    ],
-    "doc_id": "A10706964_0000",
-    "afile_number": "A10706964",
-    "dev_idx": 1227,
-    "pagenumber": 0,
-    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A10706964_0000/full/full/0/default.jpg",
-    "is_afile_redacted": false,
-    "is_afile_withdrawn": false,
-    "ocr_path": "text_ocr/A10706964_0000.txt",
-    "cert_naturalization_attributes": {
-        "LLM_NUMBER": [
-            "12016518"
-        ],
-        "LLM_DATE_OF_BIRTH": [
-            "December 2",
-            "1910"
-        ],
-        "LLM_SEX": [
-            "Female"
-        ],
-        "LLM_COMPLEXION": [
-            "Medium"
-        ],
-        "LLM_COLOR_OF_EYES": [
-            "Brown"
-        ],
-        "LLM_COLOR_OF_HAIR": [
-            "Gray"
-        ],
-        "LLM_WEIGHT": [
-            "135 pounds"
-        ],
-        "LLM_VISIBILE_DISTINCTIVE_MARKS": [
-            "None"
-        ],
-        "LLM_MARITAL_STATUS": [
-            "Widow"
-        ],
-        "LLM_FORMER_NATIONALITY": [
-            "Mexico"
-        ],
-        "LLM_NATURALIZATION_COUNTRY": [
-            "UNITED STATES",
-            "United States"
-        ],
-        "LLM_Naturalization_District": [
-            "WESTERN DISTRICT OF TEXAS",
-            "Western District of Texas"
-        ],
-        "LLM_NATURALIZATION_MUNICIPALITY": [
-            "El Paso"
-        ],
-        "LLM_NATURALIZATION_STATE": [
-            "Texas"
-        ],
-        "LLM_DATE_OF_NATURALIZATION": [
-            "1987",
-            "June 26"
-        ],
-        "LLM_NAME_AT_NATURALIZATION": [
-            "MARIA FILEMON MOTA"
-        ]
+    "id": "A10706964",
+    "afile_id": "A10706964_0000",
+    "page_index": 0,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10706964_0000/full/max/0/default.jpg",
+        "ocr_txt": true
+    },
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "doctype": {
+            "ms_doctype_v1": "letter"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "Alien Registration Form,, A10 706 964."
+        },
+        "is_g325a": false,
+        "is_cert_naturalization": true,
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Mexico",
+                "United States"
+            ]
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                1910,
+                1987
+            ]
+        },
+        "certificate_naturalization": {
+            "complexion": {
+                "complexion_llm_v1": "medium"
+            },
+            "marital_status": {
+                "marital_status_llm_v1": "Widow"
+            },
+            "year_naturalization": {
+                "year_naturalization_llm_v1": 1987.0
+            },
+            "residence_naturlization": {
+                "residence_naturlization_llm_v1": "El Paso, Texas"
+            }
+        },
+        "g325a": {
+            "occupation": {
+                "occupation_llm_v1": null
+            },
+            "reason": {
+                "reason_llm_v1": null
+            },
+            "nationality": {
+                "nationality_llm_v1": null
+            }
+        }
     }
 }

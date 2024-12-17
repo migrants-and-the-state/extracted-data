@@ -1,49 +1,60 @@
 {
-    "document_type": "form",
-    "is_cert_naturalization": false,
-    "g325a_attributes": {
-        "LLM_COUNTRY": [
-            "Nicaragua",
-            "U.S."
-        ],
-        "LLM_FORM_NUMBER": [
-            "G-325A"
-        ],
-        "LLM_OMB_NUMBER": [
-            "1115-0066"
-        ],
-        "LLM_STATE_CITY": [
-            "managua",
-            "Managua N/",
-            "Managua"
-        ],
-        "LLM_OCCUPATION": [
-            "Houseuff"
-        ],
-        "LLM_EMPLOYER": [
-            "XPresa orance"
-        ],
-        "LLM_REVISION_DATE": [
-            "Rev. 10-1-82"
-        ]
+    "id": "A28688810",
+    "afile_id": "A28688810_0022",
+    "page_index": 22,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A28688810_0022/full/max/0/default.jpg",
+        "ocr_txt": true
     },
-    "is_g325a": true,
-    "countries": [
-        "Nicaragua",
-        "United States"
-    ],
-    "years": [
-        "1892",
-        "1935",
-        "1988"
-    ],
-    "doc_id": "A28688810_0022",
-    "afile_number": "A28688810",
-    "dev_idx": 12285,
-    "pagenumber": 22,
-    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A28688810_0022/full/full/0/default.jpg",
-    "is_afile_redacted": false,
-    "is_afile_withdrawn": false,
-    "ocr_path": "text_ocr/A28688810_0022.txt",
-    "cert_naturalization_attributes": {}
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "doctype": {
+            "ms_doctype_v1": "form"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "U.S. Department of Justice Immigration and Naturalization Service BIOGRAPHIC INFORMATION, G-325A"
+        },
+        "is_g325a": true,
+        "is_cert_naturalization": false,
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "United States",
+                "Nicaragua"
+            ]
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                1988,
+                1892,
+                1935
+            ]
+        },
+        "certificate_naturalization": {
+            "complexion": {
+                "complexion_llm_v1": null
+            },
+            "marital_status": {
+                "marital_status_llm_v1": null
+            },
+            "year_naturalization": {
+                "year_naturalization_llm_v1": NaN
+            },
+            "residence_naturlization": {
+                "residence_naturlization_llm_v1": null
+            }
+        },
+        "g325a": {
+            "occupation": {
+                "occupation_llm_v1": "[' retired', 'manager']"
+            },
+            "reason": {
+                "reason_llm_v1": "NATURALIZATION"
+            },
+            "nationality": {
+                "nationality_llm_v1": "Nicaragua"
+            }
+        }
+    }
 }

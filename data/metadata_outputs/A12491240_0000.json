@@ -1,81 +1,59 @@
 {
-    "document_type": "letter",
-    "is_cert_naturalization": true,
-    "g325a_attributes": {},
-    "is_g325a": false,
-    "countries": [
-        "United States",
-        "Cuba"
-    ],
-    "years": [
-        "1905",
-        "1977"
-    ],
-    "doc_id": "A12491240_0000",
-    "afile_number": "A12491240",
-    "dev_idx": 2580,
-    "pagenumber": 0,
-    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A12491240_0000/full/full/0/default.jpg",
-    "is_afile_redacted": false,
-    "is_afile_withdrawn": false,
-    "ocr_path": "text_ocr/A12491240_0000.txt",
-    "cert_naturalization_attributes": {
-        "LLM_NUMBER": [
-            "10657327"
-        ],
-        "LLM_DATE_OF_BIRTH": [
-            "1905",
-            "September 26"
-        ],
-        "LLM_SEX": [
-            "male"
-        ],
-        "LLM_COMPLEXION": [
-            "medium"
-        ],
-        "LLM_COLOR_OF_EYES": [
-            "green"
-        ],
-        "LLM_COLOR_OF_HAIR": [
-            "gray"
-        ],
-        "LLM_HEIGHT": [
-            "5 feet 6 inches"
-        ],
-        "LLM_WEIGHT": [
-            "50 pounds"
-        ],
-        "LLM_VISIBILE_DISTINCTIVE_MARKS": [
-            "none"
-        ],
-        "LLM_MARITAL_STATUS": [
-            "married"
-        ],
-        "LLM_FORMER_NATIONALITY": [
-            "Cuba"
-        ],
-        "LLM_NATURALIZATION_COUNTRY": [
-            "UNITED STATES",
-            "United States"
-        ],
-        "LLM_Naturalization_District": [
-            "SOUTHERN DISTRICT OF FLORIDA"
-        ],
-        "LLM_NATURALIZATION_MUNICIPALITY": [
-            "Miami"
-        ],
-        "LLM_NATURALIZATION_STATE": [
-            "Florida"
-        ],
-        "LLM_DATE_OF_NATURALIZATION": [
-            "1977",
-            "May 24"
-        ],
-        "LLM_NAME_AT_NATURALIZATION": [
-            "DESIDERIO RANGEL"
-        ],
-        "LLM_RESIDENCE_AT_NATURALIZATION": [
-            "Sweetwater"
-        ]
+    "id": "A12491240",
+    "afile_id": "A12491240_0000",
+    "page_index": 0,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A12491240_0000/full/max/0/default.jpg",
+        "ocr_txt": true
+    },
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "doctype": {
+            "ms_doctype_v1": "letter"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "The Naturalization Certificate, 10657327"
+        },
+        "is_g325a": false,
+        "is_cert_naturalization": true,
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Cuba",
+                "United States"
+            ]
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                1977,
+                1905
+            ]
+        },
+        "certificate_naturalization": {
+            "complexion": {
+                "complexion_llm_v1": "medium"
+            },
+            "marital_status": {
+                "marital_status_llm_v1": "Married"
+            },
+            "year_naturalization": {
+                "year_naturalization_llm_v1": 1977.0
+            },
+            "residence_naturlization": {
+                "residence_naturlization_llm_v1": "Sweetwater, Florida"
+            }
+        },
+        "g325a": {
+            "occupation": {
+                "occupation_llm_v1": null
+            },
+            "reason": {
+                "reason_llm_v1": null
+            },
+            "nationality": {
+                "nationality_llm_v1": null
+            }
+        }
     }
 }

@@ -1,27 +1,63 @@
 {
-    "document_type": "form",
-    "is_cert_naturalization": false,
-    "g325a_attributes": {},
-    "is_g325a": false,
-    "countries": [
-        "United States",
-        "Hungary"
-    ],
-    "years": [
-        "1957",
-        "1897",
-        "1958",
-        "1924",
-        "1900",
-        "1902"
-    ],
-    "doc_id": "A11776754_0028",
-    "afile_number": "A11776754",
-    "dev_idx": 1985,
-    "pagenumber": 28,
-    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A11776754_0028/full/full/0/default.jpg",
-    "is_afile_redacted": false,
-    "is_afile_withdrawn": false,
-    "ocr_path": "text_ocr/A11776754_0028.txt",
-    "cert_naturalization_attributes": {}
+    "id": "A11776754",
+    "afile_id": "A11776754_0028",
+    "page_index": 28,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A11776754_0028/full/max/0/default.jpg",
+        "ocr_txt": true
+    },
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": null
+        },
+        "doctype": {
+            "ms_doctype_v1": "form"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "U.S. Government Printing Office Verification Form, 1957-0-446078"
+        },
+        "is_g325a": false,
+        "is_cert_naturalization": false,
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Hungary",
+                "United States"
+            ]
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                1897,
+                1958,
+                1902,
+                1957,
+                1924,
+                1900
+            ]
+        },
+        "certificate_naturalization": {
+            "complexion": {
+                "complexion_llm_v1": null
+            },
+            "marital_status": {
+                "marital_status_llm_v1": null
+            },
+            "year_naturalization": {
+                "year_naturalization_llm_v1": NaN
+            },
+            "residence_naturlization": {
+                "residence_naturlization_llm_v1": null
+            }
+        },
+        "g325a": {
+            "occupation": {
+                "occupation_llm_v1": null
+            },
+            "reason": {
+                "reason_llm_v1": null
+            },
+            "nationality": {
+                "nationality_llm_v1": null
+            }
+        }
+    }
 }

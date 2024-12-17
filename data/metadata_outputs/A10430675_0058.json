@@ -1,23 +1,59 @@
 {
-    "document_type": "letter",
-    "is_cert_naturalization": false,
-    "g325a_attributes": {},
-    "is_g325a": false,
-    "countries": [
-        "United States"
-    ],
-    "years": [
-        "1951",
-        "1952",
-        "1961"
-    ],
-    "doc_id": "A10430675_0058",
-    "afile_number": "A10430675",
-    "dev_idx": 807,
-    "pagenumber": 58,
-    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A10430675_0058/full/full/0/default.jpg",
-    "is_afile_redacted": false,
-    "is_afile_withdrawn": false,
-    "ocr_path": "text_ocr/A10430675_0058.txt",
-    "cert_naturalization_attributes": {}
+    "id": "A10430675",
+    "afile_id": "A10430675_0058",
+    "page_index": 58,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10430675_0058/full/max/0/default.jpg",
+        "ocr_txt": true
+    },
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": null
+        },
+        "doctype": {
+            "ms_doctype_v1": "letter"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "United States Department of Justice Immigration and Naturalization Service Application for Extension of Temporary Stay, Form 9-503-A District 8-30-50"
+        },
+        "is_g325a": false,
+        "is_cert_naturalization": false,
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "United States"
+            ]
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                1961,
+                1952,
+                1951
+            ]
+        },
+        "certificate_naturalization": {
+            "complexion": {
+                "complexion_llm_v1": null
+            },
+            "marital_status": {
+                "marital_status_llm_v1": null
+            },
+            "year_naturalization": {
+                "year_naturalization_llm_v1": NaN
+            },
+            "residence_naturlization": {
+                "residence_naturlization_llm_v1": null
+            }
+        },
+        "g325a": {
+            "occupation": {
+                "occupation_llm_v1": null
+            },
+            "reason": {
+                "reason_llm_v1": null
+            },
+            "nationality": {
+                "nationality_llm_v1": null
+            }
+        }
+    }
 }

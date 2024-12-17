@@ -1,60 +1,64 @@
 {
-    "document_type": "form",
-    "is_cert_naturalization": false,
-    "g325a_attributes": {
-        "LLM_FORM_NUMBER": [
-            "G-325C"
-        ],
-        "LLM_REVISION_DATE": [
-            "Rev. 5-1-79"
-        ],
-        "LLM_OMB_NUMBER": [
-            "43-R436"
-        ],
-        "LLM_NATIONALITY": [
-            "ex-USSR"
-        ],
-        "LLM_STATE_CITY": [
-            "Tomashpol",
-            "Rome",
-            "Chernovtsy",
-            "Vienna"
-        ],
-        "LLM_COUNTRY": [
-            "Italy",
-            "USSR",
-            "Austria",
-            "ITALY"
-        ],
-        "LLM_EMPLOYER": [
-            "NONE",
-            "none"
-        ],
-        "LLM_OCCUPATION": [
-            "Int. Red Cross"
-        ]
+    "id": "A24614655",
+    "afile_id": "A24614655_0014",
+    "page_index": 14,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A24614655_0014/full/max/0/default.jpg",
+        "ocr_txt": true
     },
-    "is_g325a": true,
-    "countries": [
-        "Italy",
-        "United States",
-        "Austria"
-    ],
-    "years": [
-        "1880",
-        "1883",
-        "1900",
-        "1976",
-        "1921",
-        "1981"
-    ],
-    "doc_id": "A24614655_0014",
-    "afile_number": "A24614655",
-    "dev_idx": 11214,
-    "pagenumber": 14,
-    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A24614655_0014/full/full/0/default.jpg",
-    "is_afile_redacted": false,
-    "is_afile_withdrawn": false,
-    "ocr_path": "text_ocr/A24614655_0014.txt",
-    "cert_naturalization_attributes": {}
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "doctype": {
+            "ms_doctype_v1": "form"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "Biographic Information, G-325C"
+        },
+        "is_g325a": true,
+        "is_cert_naturalization": false,
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "United States",
+                "Austria",
+                "Italy"
+            ]
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                1921,
+                1981,
+                1976,
+                1880,
+                1883,
+                1900
+            ]
+        },
+        "certificate_naturalization": {
+            "complexion": {
+                "complexion_llm_v1": null
+            },
+            "marital_status": {
+                "marital_status_llm_v1": null
+            },
+            "year_naturalization": {
+                "year_naturalization_llm_v1": NaN
+            },
+            "residence_naturlization": {
+                "residence_naturlization_llm_v1": null
+            }
+        },
+        "g325a": {
+            "occupation": {
+                "occupation_llm_v1": "['n.a']"
+            },
+            "reason": {
+                "reason_llm_v1": null
+            },
+            "nationality": {
+                "nationality_llm_v1": "ex-USSR"
+            }
+        }
+    }
 }

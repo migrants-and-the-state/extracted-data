@@ -1,72 +1,58 @@
 {
-    "document_type": "letter",
-    "is_cert_naturalization": true,
-    "g325a_attributes": {},
-    "is_g325a": false,
-    "countries": [
-        "Russia",
-        "United States"
-    ],
-    "years": [
-        "1921",
-        "1901"
-    ],
-    "doc_id": "A20181518_0000",
-    "afile_number": "A20181518",
-    "dev_idx": 7606,
-    "pagenumber": 0,
-    "url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/migrants-state_A20181518_0000/full/full/0/default.jpg",
-    "is_afile_redacted": false,
-    "is_afile_withdrawn": false,
-    "ocr_path": "text_ocr/A20181518_0000.txt",
-    "cert_naturalization_attributes": {
-        "LLM_NUMBER": [
-            "A20",
-            "A7672508"
-        ],
-        "LLM_SEX": [
-            "Male"
-        ],
-        "LLM_DATE_OF_BIRTH": [
-            "1901",
-            "July 4"
-        ],
-        "LLM_FORMER_NATIONALITY": [
-            "Russia"
-        ],
-        "LLM_COMPLEXION": [
-            "Medium"
-        ],
-        "LLM_COLOR_OF_EYES": [
-            "Blue"
-        ],
-        "LLM_COLOR_OF_HAIR": [
-            "Black"
-        ],
-        "LLM_WEIGHT": [
-            "165 pounds"
-        ],
-        "LLM_VISIBILE_DISTINCTIVE_MARKS": [
-            "Mole on center of right cheek"
-        ],
-        "LLM_MARITAL_STATUS": [
-            "Widower"
-        ],
-        "LLM_NAME_AT_NATURALIZATION": [
-            "JOSEPH YOUNG"
-        ],
-        "LLM_NATURALIZATION_MUNICIPALITY": [
-            "Jacksonville"
-        ],
-        "LLM_NATURALIZATION_STATE": [
-            "Florida"
-        ],
-        "LLM_NATURALIZATION_COUNTRY": [
-            "United States"
-        ],
-        "LLM_DATE_OF_NATURALIZATION": [
-            "1921",
-            "March 1"
-        ]
+    "id": "A20181518",
+    "afile_id": "A20181518_0000",
+    "page_index": 0,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A20181518_0000/full/max/0/default.jpg",
+        "ocr_txt": true
+    },
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "doctype": {
+            "ms_doctype_v1": "letter"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "Certificate of Citizenship, FORM N-560 ( (REV 12-1-69)"
+        },
+        "is_g325a": false,
+        "is_cert_naturalization": true,
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Russia"
+            ]
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                1921,
+                1901
+            ]
+        },
+        "certificate_naturalization": {
+            "complexion": {
+                "complexion_llm_v1": "medium"
+            },
+            "marital_status": {
+                "marital_status_llm_v1": "widower"
+            },
+            "year_naturalization": {
+                "year_naturalization_llm_v1": 1921.0
+            },
+            "residence_naturlization": {
+                "residence_naturlization_llm_v1": "Jacksonville, Florida"
+            }
+        },
+        "g325a": {
+            "occupation": {
+                "occupation_llm_v1": null
+            },
+            "reason": {
+                "reason_llm_v1": null
+            },
+            "nationality": {
+                "nationality_llm_v1": null
+            }
+        }
     }
 }
