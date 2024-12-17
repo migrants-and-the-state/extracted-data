@@ -1,0 +1,70 @@
+{
+    "id": "A41804894",
+    "afile_id": "A41804894_0021",
+    "page_index": 21,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41804894_0021/full/max/0/default.jpg",
+        "ocr_txt": true
+    },
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": null
+        },
+        "doctype": {
+            "ms_doctype_v1": "letter"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "18. LIST BELOW IN DATE ORDER ALL PLACES WHERE YOU, YOUR SPOUSE AND UNMARRIED CHILDREN NAMED ON THE OTHER SIDE HAVE LIVED SINCE REACHING THE AGE OF 16 ( (IT IS NOT NECESSARY TO LIST THE PLACES EHRER YOU HAVELIVED LESS THAN SIX MONTHS."
+        },
+        "is_g325a": false,
+        "is_cert_naturalization": false,
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Pakistan",
+                "India"
+            ]
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                1966,
+                1943,
+                1928,
+                1937,
+                1970,
+                1968,
+                1938,
+                1955,
+                1953,
+                1951,
+                1964,
+                1947,
+                1939
+            ]
+        },
+        "certificate_naturalization": {
+            "complexion": {
+                "complexion_llm_v1": null
+            },
+            "marital_status": {
+                "marital_status_llm_v1": null
+            },
+            "year_naturalization": {
+                "year_naturalization_llm_v1": NaN
+            },
+            "residence_naturlization": {
+                "residence_naturlization_llm_v1": null
+            }
+        },
+        "g325a": {
+            "occupation": {
+                "occupation_llm_v1": null
+            },
+            "reason": {
+                "reason_llm_v1": null
+            },
+            "nationality": {
+                "nationality_llm_v1": null
+            }
+        }
+    }
+}

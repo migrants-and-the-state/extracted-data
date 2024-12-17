@@ -1,0 +1,58 @@
+{
+    "id": "A10139321",
+    "afile_id": "A10139321_0000",
+    "page_index": 0,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10139321_0000/full/max/0/default.jpg",
+        "ocr_txt": true
+    },
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "doctype": {
+            "ms_doctype_v1": "letter"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "Certificate of Citizenship, Form N-560 ( (REV. 5-25-55)"
+        },
+        "is_g325a": false,
+        "is_cert_naturalization": true,
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "United States",
+                "Lithuania"
+            ]
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                1904
+            ]
+        },
+        "certificate_naturalization": {
+            "complexion": {
+                "complexion_llm_v1": "dark"
+            },
+            "marital_status": {
+                "marital_status_llm_v1": "Married"
+            },
+            "year_naturalization": {
+                "year_naturalization_llm_v1": 1915.0
+            },
+            "residence_naturlization": {
+                "residence_naturlization_llm_v1": "Newark, New Jersey"
+            }
+        },
+        "g325a": {
+            "occupation": {
+                "occupation_llm_v1": null
+            },
+            "reason": {
+                "reason_llm_v1": null
+            },
+            "nationality": {
+                "nationality_llm_v1": null
+            }
+        }
+    }
+}
