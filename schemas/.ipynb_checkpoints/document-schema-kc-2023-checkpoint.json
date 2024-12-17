@@ -1,0 +1,166 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "afile_id": {
+      "type": "string"
+    },
+    "page_index": {
+      "type": "integer"
+    },
+    "resources": {
+      "type": "object",
+      "properties": {
+        "full_jpg": {
+          "type": "string"
+        },
+        "ocr_txt": {
+          "type": "boolean",
+          "default": false
+        }
+      },
+      "required": ["full_jpg", "ocr_txt"]
+    },
+    "fields": {
+      "type": "object",
+      "properties": {
+        "sex": {
+          "type": "object",
+          "properties": {
+            "ms_sex_llm_v1": {
+              "type": ["string", "null"],
+              "default": null
+            }
+          }
+        },
+        "doctype": {
+          "type": "object",
+          "properties": {
+            "ms_doctype_v1": {
+              "type": "string"
+            }
+          },
+          "required": ["ms_doctype_v1"]
+        },
+        "form_title": {
+          "type": "object",
+          "properties": {
+            "ms_form_title_llm_v1": {
+              "type": ["string", "null"],
+              "default": null
+            }
+          }
+        },
+        "is_g325a": {
+          "type": "boolean",
+          "default": false
+        },
+        "is_cert_naturalization": {
+          "type": "boolean",
+          "default": false
+        },
+        "countries": {
+          "type": "object",
+          "properties": {
+            "ms_countries_nlp_v1": {
+              "type": ["array", "null"],
+              "items": {
+                "type": "string"
+              },
+              "default": null
+            }
+          }
+        },
+        "years": {
+          "type": "object",
+          "properties": {
+            "ms_years_nlp_v1": {
+              "type": ["array", "null"],
+              "items": {
+                "type": "number"
+              },
+              "default": null
+            }
+          }
+        },
+        "certificate_naturalization": {
+          "type": "object",
+          "properties": {
+            "complexion": {
+              "type": "object",
+              "properties": {
+                "complexion_llm_v1": {
+                  "type": ["string", "null"],
+                  "default": null
+                }
+              }
+            },
+            "marital_status": {
+              "type": "object",
+              "properties": {
+                "marital_status_llm_v1": {
+                  "type": ["string", "null"],
+                  "default": null
+                }
+              }
+            },
+            "year_naturalization": {
+              "type": "object",
+              "properties": {
+                "year_naturalization_llm_v1": {
+                  "type": ["number", "null"],
+                  "default": null
+                }
+              }
+            },
+            "residence_naturlization": {
+              "type": "object",
+              "properties": {
+                "residence_naturlization_llm_v1": {
+                  "type": ["string", "null"],
+                  "default": null
+                }
+              }
+            }
+          }
+        },
+        "g325a": {
+          "type": "object",
+          "properties": {
+            "occupation": {
+              "type": "object",
+              "properties": {
+                "occupation_llm_v1": {
+                  "type": ["string", "null"],
+                  "default": null
+                }
+              }
+            },
+            "reason": {
+              "type": "object",
+              "properties": {
+                "reason_llm_v1": {
+                  "type": ["string", "null"],
+                  "default": null
+                }
+              }
+            },
+            "nationality": {
+              "type": "object",
+              "properties": {
+                "nationality_llm_v1": {
+                  "type": ["string", "null"],
+                  "default": null
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "required": ["id", "afile_id", "page_index", "resources", "fields"]
+}
