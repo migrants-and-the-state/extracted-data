@@ -5,7 +5,12 @@
             "ms_sex_llm_v1": "male"
         },
         "form_titles": {
-            "ms_form_titles_llm_v1": "['CERTIFICATE OF ELIGIBILITY FOR EXCHANGE VISITOR (J-1) STATUS', 'INSTRUCTIONS FOR AND CERTIFICATION BY the alien beneficiary named on page 1 of this Form, FORM DSP-66', 'CERTIFICATE OF ELIGIBILITY FOR EXCHANGE VISITOR (J-1) STATUS, Form 66', 'INSTRUCTIONS FOR PROGRAM SPONSOR']"
+            "ms_form_titles_llm_v1": [
+                "CERTIFICATE OF ELIGIBILITY FOR EXCHANGE VISITOR (J-1) STATUS",
+                "INSTRUCTIONS FOR AND CERTIFICATION BY the alien beneficiary named on page 1 of this Form, FORM DSP-66",
+                "CERTIFICATE OF ELIGIBILITY FOR EXCHANGE VISITOR (J-1) STATUS, Form 66",
+                "INSTRUCTIONS FOR PROGRAM SPONSOR"
+            ]
         }
     },
     "page_count": 6

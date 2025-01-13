@@ -5,7 +5,29 @@
             "ms_sex_llm_v1": "male"
         },
         "form_titles": {
-            "ms_form_titles_llm_v1": "['U.S. DEPARTMENT OF JUSTICE Immigration and Naturalization Service, A28 766 602', 'Screeneded by NARA, 6/1/22023', 'United States Department of Justice Immigration and Naturalization Service, A28 766 602', 'Application for Permanent Residence, I-485 ( (Rev. 06-23-86)', 'Screeneded by NARA, 6/1/22023, NARA Form 8500-94', 'Biographic Information Form G-325A, G-28 ID Number', 'Biographic Information, G-325A', \"TRANSLATION OF 'BIRTH CERTIFICATE'\", 'ACTA DE NACIMIENTO, N\u00ba 1498', 'Affidavit of Support, Form 1-134 ( (Rev. 7-1-83)', 'U.S. Government Printing Office - 1984 O - 4-2998, For sale by the Superintendent of Documents, U.S. Government Printing Office', 'SECURITY PACIFIC NATIONAL BANK, NARA-2023', 'AFFIDAVIT OF WITNESS, Form 1-488', 'AFFIDAVIT OF WITNESS', 'AFFIDAVIT OF WITNESS, Form No. 4-343', 'San Francisco Cristiana', 'LOS ANGELES COUNTY - OLIVE VIEW MEDICAL CENTER, 1980- 86', 'UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service, Form C-56', 'UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service I.N.S. LEGALIZATION OFFICE, Form G-10', 'APPLICATION CLERK, I-485', 'Processing Sheet, I-485']"
+            "ms_form_titles_llm_v1": [
+                "U.S. DEPARTMENT OF JUSTICE Immigration and Naturalization Service, A28 766 602",
+                "Screeneded by NARA, 6/1/22023",
+                "United States Department of Justice Immigration and Naturalization Service, A28 766 602",
+                "Application for Permanent Residence, I-485 ( (Rev. 06-23-86)",
+                "Screeneded by NARA, 6/1/22023, NARA Form 8500-94",
+                "Biographic Information Form G-325A, G-28 ID Number",
+                "Biographic Information, G-325A",
+                "TRANSLATION OF 'BIRTH CERTIFICATE'",
+                "ACTA DE NACIMIENTO, N\u00ba 1498",
+                "Affidavit of Support, Form 1-134 ( (Rev. 7-1-83)",
+                "U.S. Government Printing Office - 1984 O - 4-2998, For sale by the Superintendent of Documents, U.S. Government Printing Office",
+                "SECURITY PACIFIC NATIONAL BANK, NARA-2023",
+                "AFFIDAVIT OF WITNESS, Form 1-488",
+                "AFFIDAVIT OF WITNESS",
+                "AFFIDAVIT OF WITNESS, Form No. 4-343",
+                "San Francisco Cristiana",
+                "LOS ANGELES COUNTY - OLIVE VIEW MEDICAL CENTER, 1980- 86",
+                "UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service, Form C-56",
+                "UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service I.N.S. LEGALIZATION OFFICE, Form G-10",
+                "APPLICATION CLERK, I-485",
+                "Processing Sheet, I-485"
+            ]
         }
     },
     "page_count": 29

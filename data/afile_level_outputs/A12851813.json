@@ -5,7 +5,12 @@
             "ms_sex_llm_v1": null
         },
         "form_titles": {
-            "ms_form_titles_llm_v1": "['REPORT of Investigation, G-166 ( (Rev. 5-16-60)', 'OVERSTAY, G-600A (Rev. 3-15-61)', 'INVESTIGATIONS', 'CHECK APPLICABLE ITEM AND INSERT REQUIRED INFORMATION']"
+            "ms_form_titles_llm_v1": [
+                "REPORT of Investigation, G-166 ( (Rev. 5-16-60)",
+                "OVERSTAY, G-600A (Rev. 3-15-61)",
+                "INVESTIGATIONS",
+                "CHECK APPLICABLE ITEM AND INSERT REQUIRED INFORMATION"
+            ]
         }
     },
     "page_count": 6

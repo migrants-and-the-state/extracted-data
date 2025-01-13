@@ -5,7 +5,31 @@
             "ms_sex_llm_v1": "female"
         },
         "form_titles": {
-            "ms_form_titles_llm_v1": "['MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, Form 1 - 181 ( (Rev. 4-1-77)Y', 'INSTRUCTIONS, F-182', 'United States Department of Justice Immigration and Naturalization Service', 'MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, A21 344 567', 'UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE', 'APPLICATION BY INDOCHINESE REFUGEE FOR PERMANENT RESIDENCE', 'Screeneded by NARA, 8/17/2023, NARA Form 4-569', 'Screened by NARA, 8/17/2023, A21344567', 'Screeneded by NARA, 8/17/2023, SH-R-68 Rev. 1/77', 'Biographic Information, G-325A ( (REV. 10-1-74) Y', 'Biographic Information', 'BIOGRAPHIC INFORMATION, G-325A ( (REV. 10-1-74)', 'Petition Form No. I-485-C, I-485-C', 'Screened by NARA, 8/17/2023, G-361 (Rev. 4-1-76) N', 'INDEX CARD, G-361 (Rev. 10-1-70) N', 'Screened by NARA, 8/17/2023, T-000', 'IMPORTANT NOTICE, I-94 ( (Rev. 4-1-67) (Parole Edition)', 'Sworn Statement of Refugee Applying for Parole into the United States, U-04(3.12.75)', 'LOI KHAI HUU TUE THE CUA NGUOI TY NAN XIN NHAP CANH HOA KY, NARA, 8/17/2023', 'Screened by NARA, 8/17/2023', 'BIOGRAPHIC INFORMATION, G-325A ( (REV. 10-1-74) Y.', 'EVACUEE INFORMATION CARD', 'DCII REQUEST / REPLY CARD, NECC/HP-23079']"
+            "ms_form_titles_llm_v1": [
+                "MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, Form 1 - 181 ( (Rev. 4-1-77)Y",
+                "INSTRUCTIONS, F-182",
+                "United States Department of Justice Immigration and Naturalization Service",
+                "MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, A21 344 567",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE",
+                "APPLICATION BY INDOCHINESE REFUGEE FOR PERMANENT RESIDENCE",
+                "Screeneded by NARA, 8/17/2023, NARA Form 4-569",
+                "Screened by NARA, 8/17/2023, A21344567",
+                "Screeneded by NARA, 8/17/2023, SH-R-68 Rev. 1/77",
+                "Biographic Information, G-325A ( (REV. 10-1-74) Y",
+                "Biographic Information",
+                "BIOGRAPHIC INFORMATION, G-325A ( (REV. 10-1-74)",
+                "Petition Form No. I-485-C, I-485-C",
+                "Screened by NARA, 8/17/2023, G-361 (Rev. 4-1-76) N",
+                "INDEX CARD, G-361 (Rev. 10-1-70) N",
+                "Screened by NARA, 8/17/2023, T-000",
+                "IMPORTANT NOTICE, I-94 ( (Rev. 4-1-67) (Parole Edition)",
+                "Sworn Statement of Refugee Applying for Parole into the United States, U-04(3.12.75)",
+                "LOI KHAI HUU TUE THE CUA NGUOI TY NAN XIN NHAP CANH HOA KY, NARA, 8/17/2023",
+                "Screened by NARA, 8/17/2023",
+                "BIOGRAPHIC INFORMATION, G-325A ( (REV. 10-1-74) Y.",
+                "EVACUEE INFORMATION CARD",
+                "DCII REQUEST / REPLY CARD, NECC/HP-23079"
+            ]
         }
     },
     "page_count": 32

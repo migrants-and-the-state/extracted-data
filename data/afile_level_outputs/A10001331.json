@@ -5,7 +5,26 @@
             "ms_sex_llm_v1": "male"
         },
         "form_titles": {
-            "ms_form_titles_llm_v1": "['REQUEST FOR SEARCH OF CENTRAL OFFICE INDEX, G-180 (Rev. 3-24-60)', 'The United States of America, 8050754', 'Petition for Naturalization, Form N-4', 'AFFIDAVIT OF WITNESSES, 17603', 'APPLICATION TO FILE PETITION FOR NATURALIZATION, Form N-4 (00 (', '26-A, Military Personnel Security Questionnaire', 'Naturalization Application', 'UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service, GPO 959996', 'United States Department of Justice Immigration and Naturalization Service, Form N-4', 'United States Department of Justice Form G-135, Form G-135', 'Form G-135, United States Department of Justice - Identification Division', 'FEDERAL BUREAU OF INVESTIGATION UNITED STATES DEPARTMENT OF JUSTICE, FD-258', 'Fingerprint Card, PD', 'CERTIFICATE, 22 CFR 42.35 (c)(2) ', 'This is to certify that, K\u00f8benhavn V. Telf. Pal\u00e6 9660', 'Foreign Service of the United States of America, Form FS-366a (Revised August 1948)', 'United States of America Alien Registration, I-551', 'DEPARTMENT OF STATE FOREIGN SERVICE OF THE UNITED STATES OF AMERICA MEDICAL EXAMINATION OF VISA APPLICANTS, FS-998']"
+            "ms_form_titles_llm_v1": [
+                "REQUEST FOR SEARCH OF CENTRAL OFFICE INDEX, G-180 (Rev. 3-24-60)",
+                "The United States of America, 8050754",
+                "Petition for Naturalization, Form N-4",
+                "AFFIDAVIT OF WITNESSES, 17603",
+                "APPLICATION TO FILE PETITION FOR NATURALIZATION, Form N-4 (00 (",
+                "26-A, Military Personnel Security Questionnaire",
+                "Naturalization Application",
+                "UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service, GPO 959996",
+                "United States Department of Justice Immigration and Naturalization Service, Form N-4",
+                "United States Department of Justice Form G-135, Form G-135",
+                "Form G-135, United States Department of Justice - Identification Division",
+                "FEDERAL BUREAU OF INVESTIGATION UNITED STATES DEPARTMENT OF JUSTICE, FD-258",
+                "Fingerprint Card, PD",
+                "CERTIFICATE, 22 CFR 42.35 (c)(2) ",
+                "This is to certify that, K\u00f8benhavn V. Telf. Pal\u00e6 9660",
+                "Foreign Service of the United States of America, Form FS-366a (Revised August 1948)",
+                "United States of America Alien Registration, I-551",
+                "DEPARTMENT OF STATE FOREIGN SERVICE OF THE UNITED STATES OF AMERICA MEDICAL EXAMINATION OF VISA APPLICANTS, FS-998"
+            ]
         }
     },
     "page_count": 27

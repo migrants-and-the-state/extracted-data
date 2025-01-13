@@ -5,7 +5,38 @@
             "ms_sex_llm_v1": "male"
         },
         "form_titles": {
-            "ms_form_titles_llm_v1": "['Immigrant Visa and Alien Registration, IV-440,427106', 'APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION, Form-Approved OMB.4 47-R0150', 'U.S. GOVERNMENT PRINTING OFFICE 1982-361-526-744, Screened by NARA, 6/6/2023', 'Form 230B, Screened by NARA, 6/6/2023', 'Except When Can the Application Be Submitted, the Other Classes of Persons Who Are Inadmissible for Obtaining a Immigrant Visa: ( Except as Otherwise Provided by Law, Aliens Within Any of the Following Classes Are Ineligible to Receive an Immigrant Visa,', 'Optional Form 2, 230B', 'PETITION TO CLASSIFY STATUS OF ALIEN PELATIVE FOR ISSUANCE OF IMMIGRANT VISA, FORM 1-30', 'Naturalization and Citizenship Application Form,, N-4', 'Individual Fee Register Receipt, G-711', 'Translation of a Birth Certificate', 'CERTIFICACION, N\u00ba 1168540', 'Screened by NARA, 6/6/2023, NARA_60025', 'NOTICE OF ENTRY OF APPEARANCE AS ATTORNEY OR REPRESENTATIVE, G-28', 'APPEARANCES - An appearance shall be filed on Form G-28 by the attorney or representative appearing in each case. Thereafter, substitution may be permitted upon the written withdrawal of the attorney or representative of record or upon notification of the new attorney or representative. When an appearance is made by a person acting in a representative capacity, his personal appearance or signature shall constitute a representation that under the provisions of this chapter he is authorized and qualified to represent. Further proof of authority to act in a representative capacity may be required.', 'PRIMERA CLASE UN LEMPIRA 1984-1987, NO. 2503345', 'Screened by NARA, 6/6/2023', 'Martin Yale Industries, Inc., 500 NO. SPAULDING AVE. \u2022 AVENUE \u2022 CHICAGO, ILLINOIS 60624', 'Affidavit of Support, Form I-134 ( (Rev. 12-1-84)', 'OFFICIAL SEAL, FOIA ( (b)(6)', 'Civic Federal Savings Bank, 188129-9', 'PRIMERA CLASE UN LEMPIRA 1984 - 1987, No 4 4037523', 'Screened by NARA, 6/6/2023, NARA Form No. 1854', 'MEDICAL Examination of Applicants for United States Visas, FORM 157', 'MEDICAL Examination of Applicants for United States Visas, 157', 'Laboratorios Molina, 22-2732', 'Laboratorios Molina, 2', 'Laboratorios Molina, NARA, 6/6/2023', 'ENFERMEDADES PULMONARES R RAYos X, 19268', 'Laboratorios Molina, 237583', 'Laboratorios Molina, Screened by NARA, 6/6/2023']"
+            "ms_form_titles_llm_v1": [
+                "Immigrant Visa and Alien Registration, IV-440,427106",
+                "APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION, Form-Approved OMB.4 47-R0150",
+                "U.S. GOVERNMENT PRINTING OFFICE 1982-361-526-744, Screened by NARA, 6/6/2023",
+                "Form 230B, Screened by NARA, 6/6/2023",
+                "Except When Can the Application Be Submitted, the Other Classes of Persons Who Are Inadmissible for Obtaining a Immigrant Visa: ( Except as Otherwise Provided by Law, Aliens Within Any of the Following Classes Are Ineligible to Receive an Immigrant Visa,",
+                "Optional Form 2, 230B",
+                "PETITION TO CLASSIFY STATUS OF ALIEN PELATIVE FOR ISSUANCE OF IMMIGRANT VISA, FORM 1-30",
+                "Naturalization and Citizenship Application Form,, N-4",
+                "Individual Fee Register Receipt, G-711",
+                "Translation of a Birth Certificate",
+                "CERTIFICACION, N\u00ba 1168540",
+                "Screened by NARA, 6/6/2023, NARA_60025",
+                "NOTICE OF ENTRY OF APPEARANCE AS ATTORNEY OR REPRESENTATIVE, G-28",
+                "APPEARANCES - An appearance shall be filed on Form G-28 by the attorney or representative appearing in each case. Thereafter, substitution may be permitted upon the written withdrawal of the attorney or representative of record or upon notification of the new attorney or representative. When an appearance is made by a person acting in a representative capacity, his personal appearance or signature shall constitute a representation that under the provisions of this chapter he is authorized and qualified to represent. Further proof of authority to act in a representative capacity may be required.",
+                "PRIMERA CLASE UN LEMPIRA 1984-1987, NO. 2503345",
+                "Screened by NARA, 6/6/2023",
+                "Martin Yale Industries, Inc., 500 NO. SPAULDING AVE. \u2022 AVENUE \u2022 CHICAGO, ILLINOIS 60624",
+                "Affidavit of Support, Form I-134 ( (Rev. 12-1-84)",
+                "OFFICIAL SEAL, FOIA ( (b)(6)",
+                "Civic Federal Savings Bank, 188129-9",
+                "PRIMERA CLASE UN LEMPIRA 1984 - 1987, No 4 4037523",
+                "Screened by NARA, 6/6/2023, NARA Form No. 1854",
+                "MEDICAL Examination of Applicants for United States Visas, FORM 157",
+                "MEDICAL Examination of Applicants for United States Visas, 157",
+                "Laboratorios Molina, 22-2732",
+                "Laboratorios Molina, 2",
+                "Laboratorios Molina, NARA, 6/6/2023",
+                "ENFERMEDADES PULMONARES R RAYos X, 19268",
+                "Laboratorios Molina, 237583",
+                "Laboratorios Molina, Screened by NARA, 6/6/2023"
+            ]
         }
     },
     "page_count": 33

@@ -5,7 +5,26 @@
             "ms_sex_llm_v1": "male"
         },
         "form_titles": {
-            "ms_form_titles_llm_v1": "['REQUEST FOR INFORMATION FROM NATURALIZATION FILE', 'CERTIFICATE OF CITIZENSHIP, FORM N-560 ( (REV 12-1-69)', 'Oath of Allegiance, N-4-1023', 'APPLICATION FOR CERTIFICATE OF CITIZENSHIP, Form N-600 ( (Rev. 9-1-69)', 'Naturalization Application,, N-4', 'Naturalization Application,, N-4.', 'AFFIDAVIT', 'REQUEST FOR INFORMATION FROM NATURALIZATION FILE (N-585 IS ATTACHED, FILL IN ITEMS 2, 3 AND 6 ONLY), Form G-347', 'The United States of America, 2 2339178', 'Petition for Naturalization, 7151', 'Naturalization Petition and Affidavits of Petitioner and Witnesses,, N-4-1257', 'United States of America Declaration of Intention, No. 102348', 'BOARD OF EDUCATION CITY OF CHICAGO', 'AFFIDAVIT-WITNESS, Form I-215W ( (3-27-67)', \"Title of the image: 'January 15, 1969' Form number: 'REceived Jan 20 1969'\", \"SCHOOL TREASURER'S RECEIPT FOR SCHOOL FUNDS, 227546\", 'Marriage Certificate, 251', 'Title: UNITED STATES DEPARTMENT OF JUSTICE\\\\nForm Number: A19 918 776 CIT 600']"
+            "ms_form_titles_llm_v1": [
+                "REQUEST FOR INFORMATION FROM NATURALIZATION FILE",
+                "CERTIFICATE OF CITIZENSHIP, FORM N-560 ( (REV 12-1-69)",
+                "Oath of Allegiance, N-4-1023",
+                "APPLICATION FOR CERTIFICATE OF CITIZENSHIP, Form N-600 ( (Rev. 9-1-69)",
+                "Naturalization Application,, N-4",
+                "Naturalization Application,, N-4.",
+                "AFFIDAVIT",
+                "REQUEST FOR INFORMATION FROM NATURALIZATION FILE (N-585 IS ATTACHED, FILL IN ITEMS 2, 3 AND 6 ONLY), Form G-347",
+                "The United States of America, 2 2339178",
+                "Petition for Naturalization, 7151",
+                "Naturalization Petition and Affidavits of Petitioner and Witnesses,, N-4-1257",
+                "United States of America Declaration of Intention, No. 102348",
+                "BOARD OF EDUCATION CITY OF CHICAGO",
+                "AFFIDAVIT-WITNESS, Form I-215W ( (3-27-67)",
+                "Title of the image: 'January 15, 1969' Form number: 'REceived Jan 20 1969'",
+                "SCHOOL TREASURER'S RECEIPT FOR SCHOOL FUNDS, 227546",
+                "Marriage Certificate, 251",
+                "Title: UNITED STATES DEPARTMENT OF JUSTICE\\nForm Number: A19 918 776 CIT 600"
+            ]
         }
     },
     "page_count": 29

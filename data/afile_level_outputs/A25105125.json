@@ -5,7 +5,16 @@
             "ms_sex_llm_v1": "male"
         },
         "form_titles": {
-            "ms_form_titles_llm_v1": "['INDEX CARD, G-361 (Rev. 4-76)', 'I-94, 1-94', 'MEDICAL Examination of Visa Applicants, 502/109-114 HK-8926', 'MEDICAL EXAMINATION REPORT, 068 102', 'Sworn Statement of Refugee Applying for Parole into the United States, GPO 895-385', 'PERSONAL HISTORY, 4 4 OF 7', 'Family Relationship, KTE502/11', 'FEDERAL BUREAU OF INVESTIGATION UNITED STATES DEPARTMENT OF JUSTICE, FD-258 ( (REV. 7/13-77)']"
+            "ms_form_titles_llm_v1": [
+                "INDEX CARD, G-361 (Rev. 4-76)",
+                "I-94, 1-94",
+                "MEDICAL Examination of Visa Applicants, 502/109-114 HK-8926",
+                "MEDICAL EXAMINATION REPORT, 068 102",
+                "Sworn Statement of Refugee Applying for Parole into the United States, GPO 895-385",
+                "PERSONAL HISTORY, 4 4 OF 7",
+                "Family Relationship, KTE502/11",
+                "FEDERAL BUREAU OF INVESTIGATION UNITED STATES DEPARTMENT OF JUSTICE, FD-258 ( (REV. 7/13-77)"
+            ]
         }
     },
     "page_count": 13

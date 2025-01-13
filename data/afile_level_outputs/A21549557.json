@@ -5,7 +5,13 @@
             "ms_sex_llm_v1": null
         },
         "form_titles": {
-            "ms_form_titles_llm_v1": "['MEMORANDUM TO FILE, A21549557', 'Investigations Control Card, G-600A ( (Rev. 9\u20131\u201369)', 'Memorandum, FORM G-2 ( (11-11-77)', 'UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service, LOS 79-372', 'UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, Form 1-427 ( (Rev.1-1-77)N']"
+            "ms_form_titles_llm_v1": [
+                "MEMORANDUM TO FILE, A21549557",
+                "Investigations Control Card, G-600A ( (Rev. 9\u20131\u201369)",
+                "Memorandum, FORM G-2 ( (11-11-77)",
+                "UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service, LOS 79-372",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, Form 1-427 ( (Rev.1-1-77)N"
+            ]
         }
     },
     "page_count": 6

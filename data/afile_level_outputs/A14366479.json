@@ -5,7 +5,32 @@
             "ms_sex_llm_v1": "male"
         },
         "form_titles": {
-            "ms_form_titles_llm_v1": "['Certificate of Citizenship, FORM N-560 ( (REV 3-1-61)', 'Oath of Allegiance, 2013-04568', 'APPLICATION FOR CERTIFICATE OF CITIZENSHIP, N-600 ( (Rev. 8-14-64)', 'Naturalization Application', 'Title of the image, Application for Naturalization, Form number', 'AFFIDAVIT', 'Zane School of Languages Translation Department, N-201', 'CERTIFICATE, 5026', '\u041e\u0431\u0440\u0430\u0449\u0435\u043d\u0438\u0435 (\u0434\u043b\u044f \u0444\u0430\u043c.\u043f\u043e\u0441.), 10-21-65', 'CERTIFICATE OF DEATH, 5037', 'CERTIFICATE OF ADMISSION OF ALIEN, I-404-A', 'ARRIVAL INFORMATION, A14366879', 'REQUEST FOR VERIFICATION OF ARRIVAL', 'REQUEST FOR INFORMATION FROM NATURALIZATION FILE (, Form G-342564', 'Naturalization Certificate, 4 30718', 'Petition for Naturalization', 'Naturalization Petition, 2-1', \"EXAMINER'S REPORT OF TESTIMONY OF WITNESS ( (Section 341 of the Immigration and Nationality Act)\", 'INDEX CARD, G-361 ( (Rev. 7-1-60) U.S.G.P.O.-766-842', 'STATUS N-600 APPLICATION, N-601 ( (Rev. 6-28-60)', 'Translation from Russian: Excerpt from a Russian Foreign Passport, 5034A-1', 'COUPON, 5034A-2', 'Translated from Russian:, 5034B', '\u041e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0435, 54']"
+            "ms_form_titles_llm_v1": [
+                "Certificate of Citizenship, FORM N-560 ( (REV 3-1-61)",
+                "Oath of Allegiance, 2013-04568",
+                "APPLICATION FOR CERTIFICATE OF CITIZENSHIP, N-600 ( (Rev. 8-14-64)",
+                "Naturalization Application",
+                "Title of the image, Application for Naturalization, Form number",
+                "AFFIDAVIT",
+                "Zane School of Languages Translation Department, N-201",
+                "CERTIFICATE, 5026",
+                "\u041e\u0431\u0440\u0430\u0449\u0435\u043d\u0438\u0435 (\u0434\u043b\u044f \u0444\u0430\u043c.\u043f\u043e\u0441.), 10-21-65",
+                "CERTIFICATE OF DEATH, 5037",
+                "CERTIFICATE OF ADMISSION OF ALIEN, I-404-A",
+                "ARRIVAL INFORMATION, A14366879",
+                "REQUEST FOR VERIFICATION OF ARRIVAL",
+                "REQUEST FOR INFORMATION FROM NATURALIZATION FILE (, Form G-342564",
+                "Naturalization Certificate, 4 30718",
+                "Petition for Naturalization",
+                "Naturalization Petition, 2-1",
+                "EXAMINER'S REPORT OF TESTIMONY OF WITNESS ( (Section 341 of the Immigration and Nationality Act)",
+                "INDEX CARD, G-361 ( (Rev. 7-1-60) U.S.G.P.O.-766-842",
+                "STATUS N-600 APPLICATION, N-601 ( (Rev. 6-28-60)",
+                "Translation from Russian: Excerpt from a Russian Foreign Passport, 5034A-1",
+                "COUPON, 5034A-2",
+                "Translated from Russian:, 5034B",
+                "\u041e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0435, 54"
+            ]
         }
     },
     "page_count": 26

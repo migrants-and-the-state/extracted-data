@@ -5,7 +5,41 @@
             "ms_sex_llm_v1": "male"
         },
         "form_titles": {
-            "ms_form_titles_llm_v1": "['PRE - SCREENING QUESTIONNAIRE, I-151/I-551', 'MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, A21 204 721T', 'INSTRUCTIONS, I-59', 'MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, A2 204 721T', 'United States Department of Justice Immigration and Naturalization Service', 'BIOGRAPHIC INFORMATION, FORM G-325A ( (REV. 10-1-74) Y', 'Screened by NARA, 8/25/2023, I-94', 'APPLICATION BY INDOCHINESE REFUGEE FOR PERMANENT RESIDENCE, 443-R0595', 'FOIA ( (b)(6), FOIA ( (b)(6)', 'Screeneded by NARA, 8/25/2023, 001-35501-007 ( (11-1-77)', 'Screened by NARA, 8/25/2023, PORTLAND OREGON', 'APPLICATION BY NONIMMIGRANT ALIEN FOR REPLACEMENT OF ARRIVAL DOCUMENT, Form 1-274', 'Screeneded by NARA, 8/2/2023, I-4-156', 'Notice of Naturalization Oath Ceremony, Form N-4-4-4-4-4-1-1-5-0-0-5-2', 'Naturalization Oath Ceremony,, N-455', 'Screened by NARA, 8/25/2023, GPO : 1974-O-536-299', 'Screened by NARA, 8/25/2023, D-000', 'IMPORTANT NOTICE, FORM 1-94 (Rev. 4-1-67) (Parole Edition)', \"Part 9. Memberships and organizations., Form N-4 ( (Rev 07/19'N)\", 'Part 7. Additional eligibility factors., Form N-400 ( Rev 07/19)N', 'Information about your residences and employment., NARA, 8/25/2023', 'Application for Naturalization, N-4', 'Processing Sheet, A-2104721', 'APPLICATION FOR CHANGE OF NAME, N- 5 ( (1/96)', 'VIETNAMESE COMMUNITY OF ORANGE COUNTY, INC., NARA-0123456789', 'United States Department of Justice Immigration and Naturalization Service, A21 204 721', 'Application or Petition Form No. I-485 ( (245), I-486, I-151, I--357, I--G153', 'AFFIDAVIT RE ASSETS AND LIABILITIES TO BE SUBMITTED BY EVERY REFUGEE 17 YEARS OF AGE OR OVER APPLYING FOR PAROLE INTO THE UNITED STATES, Form G-648 (G-2-75)', 'Affidavit re Assets and Liabilities to be Submitted by Every Refugee 17 Years of Age or Over Applying for Parole into the United States, Form G-648 ( (G-2-75)', 'TAT CA MOI NGUOI TIN TU 17 TUO TRI LON NHAP CANH VAO HOA KY DUOC, Mau G-(4)4 (6-2-75', 'BIOGRAPHIC INFORMATION, G-325A ( (REV. 10-1-74) Y', 'BIOGRAPHIC INFORMATION, G-325A', 'DCII REQUEST / REPLY CARD, MECC/MP-23079']"
+            "ms_form_titles_llm_v1": [
+                "PRE - SCREENING QUESTIONNAIRE, I-151/I-551",
+                "MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, A21 204 721T",
+                "INSTRUCTIONS, I-59",
+                "MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, A2 204 721T",
+                "United States Department of Justice Immigration and Naturalization Service",
+                "BIOGRAPHIC INFORMATION, FORM G-325A ( (REV. 10-1-74) Y",
+                "Screened by NARA, 8/25/2023, I-94",
+                "APPLICATION BY INDOCHINESE REFUGEE FOR PERMANENT RESIDENCE, 443-R0595",
+                "FOIA ( (b)(6), FOIA ( (b)(6)",
+                "Screeneded by NARA, 8/25/2023, 001-35501-007 ( (11-1-77)",
+                "Screened by NARA, 8/25/2023, PORTLAND OREGON",
+                "APPLICATION BY NONIMMIGRANT ALIEN FOR REPLACEMENT OF ARRIVAL DOCUMENT, Form 1-274",
+                "Screeneded by NARA, 8/2/2023, I-4-156",
+                "Notice of Naturalization Oath Ceremony, Form N-4-4-4-4-4-1-1-5-0-0-5-2",
+                "Naturalization Oath Ceremony,, N-455",
+                "Screened by NARA, 8/25/2023, GPO : 1974-O-536-299",
+                "Screened by NARA, 8/25/2023, D-000",
+                "IMPORTANT NOTICE, FORM 1-94 (Rev. 4-1-67) (Parole Edition)",
+                "Part 9. Memberships and organizations., Form N-4 ( (Rev 07/19'N)",
+                "Part 7. Additional eligibility factors., Form N-400 ( Rev 07/19)N",
+                "Information about your residences and employment., NARA, 8/25/2023",
+                "Application for Naturalization, N-4",
+                "Processing Sheet, A-2104721",
+                "APPLICATION FOR CHANGE OF NAME, N- 5 ( (1/96)",
+                "VIETNAMESE COMMUNITY OF ORANGE COUNTY, INC., NARA-0123456789",
+                "United States Department of Justice Immigration and Naturalization Service, A21 204 721",
+                "Application or Petition Form No. I-485 ( (245), I-486, I-151, I--357, I--G153",
+                "AFFIDAVIT RE ASSETS AND LIABILITIES TO BE SUBMITTED BY EVERY REFUGEE 17 YEARS OF AGE OR OVER APPLYING FOR PAROLE INTO THE UNITED STATES, Form G-648 (G-2-75)",
+                "Affidavit re Assets and Liabilities to be Submitted by Every Refugee 17 Years of Age or Over Applying for Parole into the United States, Form G-648 ( (G-2-75)",
+                "TAT CA MOI NGUOI TIN TU 17 TUO TRI LON NHAP CANH VAO HOA KY DUOC, Mau G-(4)4 (6-2-75",
+                "BIOGRAPHIC INFORMATION, G-325A ( (REV. 10-1-74) Y",
+                "BIOGRAPHIC INFORMATION, G-325A",
+                "DCII REQUEST / REPLY CARD, MECC/MP-23079"
+            ]
         }
     },
     "page_count": 48

@@ -5,7 +5,40 @@
             "ms_sex_llm_v1": "female"
         },
         "form_titles": {
-            "ms_form_titles_llm_v1": "['U.S. DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION LEGALIZATION OFFICE FACILITY, JUS-433', 'Screened by NARA, 8/7/2023, FORM 1-181 ( (REV 11-1-88)', 'Application by Lawful Permanent Resident Receipt Card, 1115-0004', 'Application by Lawful Permanent Resident for New Alien Registration Receipt Card, INS-1024', 'Application for T Special Agriculture, I-700 ( 04/01/87', 'Screened by NARA, 8/7/2023, I-700 ( (04/01/87) Page 2', 'Medical Examination of Aliens Seeking Adjustment of Status (', 'Medical Clearance Requirements for Aliens Seeking Adjustment of Status, NARA, 8/7/2023', 'Application for Replacement of Form I-688A, Employment Authorization, or Form I-688, Temporary Residence Card ( Under P.L. 99-603), I-688A, I-688', 'INSTRUCTIONS', 'Screened by NARA, 8/7/2023', 'U.S. Department of Justice Immigration and Naturalization Service, Form I-696 ( (04/17/87)', 'U.S. DEPARTMENT OF JUSTICE Immigration and Naturalization Service, I-689 5/87', 'Temporary Residence Application, Form I-700 ( (04/1 87)', 'Screeneded by NARA, 8/7/2023', 'Screeneded by NARA, 8/7/22023', 'Medical Clearance Requirements for Aliens Seeking Adjustment of Status, NARA-0123456789', 'COMMUNITY HEALTH RELATED SERVICES, INC., Screened by NARA, 8/7/2023', 'Affidavit of Qualification, E250-400-38-374', 'Farm Labor Contractor, C-4-83-2753-H86', 'Affidavit Confirming Seasonal Agricultural Employment of an Applicant for Temporary Residence Status Under Section 210 of the Immigration & Nationality Act, I-705 ( (03/12/87)', 'Affidavit of Seasonal Agricultural Employment, I-705 ( (02/21/87)', 'WORK SCHEDULE', 'Certificat et Atteste que le titulaire de ce passeport, 82-10427', 'SIGNEAUX DU TITULAIRE, SIGNEAUX DE SA FEMME, SIGNEAUX DU TITULAIRE', 'VISA DES CONTERIBUTIONSs, 82-10427', \"REpublique d'Haiti\", 'CERTIFICAT DE BAPT\u00c8ME', 'ORIGINAL DOCUMENTSS ATTACHED HAVE BEEN SEEN AND RETURNED,, NARA, 8/7/2023', 'Certificat et Atteste que le titulaire de ce passeport, 87-400607', 'SIGNALLEMENT DU TITULAIRE', 'VISA D\u00c9SCONTRIBUITS, 53-40']"
+            "ms_form_titles_llm_v1": [
+                "U.S. DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION LEGALIZATION OFFICE FACILITY, JUS-433",
+                "Screened by NARA, 8/7/2023, FORM 1-181 ( (REV 11-1-88)",
+                "Application by Lawful Permanent Resident Receipt Card, 1115-0004",
+                "Application by Lawful Permanent Resident for New Alien Registration Receipt Card, INS-1024",
+                "Application for T Special Agriculture, I-700 ( 04/01/87",
+                "Screened by NARA, 8/7/2023, I-700 ( (04/01/87) Page 2",
+                "Medical Examination of Aliens Seeking Adjustment of Status (",
+                "Medical Clearance Requirements for Aliens Seeking Adjustment of Status, NARA, 8/7/2023",
+                "Application for Replacement of Form I-688A, Employment Authorization, or Form I-688, Temporary Residence Card ( Under P.L. 99-603), I-688A, I-688",
+                "INSTRUCTIONS",
+                "Screened by NARA, 8/7/2023",
+                "U.S. Department of Justice Immigration and Naturalization Service, Form I-696 ( (04/17/87)",
+                "U.S. DEPARTMENT OF JUSTICE Immigration and Naturalization Service, I-689 5/87",
+                "Temporary Residence Application, Form I-700 ( (04/1 87)",
+                "Screeneded by NARA, 8/7/2023",
+                "Screeneded by NARA, 8/7/22023",
+                "Medical Clearance Requirements for Aliens Seeking Adjustment of Status, NARA-0123456789",
+                "COMMUNITY HEALTH RELATED SERVICES, INC., Screened by NARA, 8/7/2023",
+                "Affidavit of Qualification, E250-400-38-374",
+                "Farm Labor Contractor, C-4-83-2753-H86",
+                "Affidavit Confirming Seasonal Agricultural Employment of an Applicant for Temporary Residence Status Under Section 210 of the Immigration & Nationality Act, I-705 ( (03/12/87)",
+                "Affidavit of Seasonal Agricultural Employment, I-705 ( (02/21/87)",
+                "WORK SCHEDULE",
+                "Certificat et Atteste que le titulaire de ce passeport, 82-10427",
+                "SIGNEAUX DU TITULAIRE, SIGNEAUX DE SA FEMME, SIGNEAUX DU TITULAIRE",
+                "VISA DES CONTERIBUTIONSs, 82-10427",
+                "REpublique d'Haiti",
+                "CERTIFICAT DE BAPT\u00c8ME",
+                "ORIGINAL DOCUMENTSS ATTACHED HAVE BEEN SEEN AND RETURNED,, NARA, 8/7/2023",
+                "Certificat et Atteste que le titulaire de ce passeport, 87-400607",
+                "SIGNALLEMENT DU TITULAIRE",
+                "VISA D\u00c9SCONTRIBUITS, 53-40"
+            ]
         }
     },
     "page_count": 44

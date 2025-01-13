@@ -5,7 +5,13 @@
             "ms_sex_llm_v1": null
         },
         "form_titles": {
-            "ms_form_titles_llm_v1": "['TICKLER, G-360D (Rev. 1 - 72)', 'Form G-360A (Rev. 1 - 1 - 72) N C.O. COPY FILE TRANSFER, G-360A', 'Immigration and Naturalization Service, I-90', 'United States Department of Justice Immigration and Naturalization Service, Form G-56 ( (Rev. 5-31-72) N', 'DEPARTAMENTO DE JUSTICIA DE LOS ESTADOS UNIDOS, Form G-56']"
+            "ms_form_titles_llm_v1": [
+                "TICKLER, G-360D (Rev. 1 - 72)",
+                "Form G-360A (Rev. 1 - 1 - 72) N C.O. COPY FILE TRANSFER, G-360A",
+                "Immigration and Naturalization Service, I-90",
+                "United States Department of Justice Immigration and Naturalization Service, Form G-56 ( (Rev. 5-31-72) N",
+                "DEPARTAMENTO DE JUSTICIA DE LOS ESTADOS UNIDOS, Form G-56"
+            ]
         }
     },
     "page_count": 8

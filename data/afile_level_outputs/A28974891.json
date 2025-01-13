@@ -5,7 +5,32 @@
             "ms_sex_llm_v1": "male"
         },
         "form_titles": {
-            "ms_form_titles_llm_v1": "['U.S. DEPARTMENT OF JUSTICE Immigration and Naturalization Service Memorandum of Creation of Record of Lawful Permanent Residence, 181 ( (Rev.3-1-83) N', 'Your application for status as a permanent resident has been retained for processing. You will be notified when further action has been taken in your case. Your request to accept employment has been adjudicated and the result is shown below. This employment authorization is valid only for the time necessary to decide your application for permanent residence.', 'Application for Permanent Residence, I-458 ( (REV. 2-27-87)N', 'Screeneded by NARA, 9/22/2023, NARA Form No. 1456-1A', 'Biographic Information Form, G-325A', 'UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, 289744891', 'Medical Examination of Aliens Seeking Adjustment of Status, C-3824', 'Medical Clearance Requirements for Aliens Seeking Adjustment of Status, Form I-693 ( (Rev. 09/01/87) N', 'Medical Examination of Aliens Seeking Adjustment of Status', 'Medical Examination of Aliens Seeking Adjustment of Status, 1-693 ( (Rev. 09/01/87) N', 'Medical Clearance Requirements for Aliens Seeking Adjustment of Status', 'Affidavit of Support, Form 1-134', 'OATH OR AFFIRMATION OF DEPONENT, 18227ELK WOOD ST RESEDA, CA 91335', 'FBI RAL BUREAU OF INVESTIGATION UNIT, STATE DEPARTMENT OF JUSTICE, FD-258', 'U.S. Department of Justice, Immigration and Naturalization Service, G-325A', 'U.S. Department of Justice Immigration and Naturalization Service BIOGRAPHIC INFORMATION, G-325A', 'U.S. Department of Justice Immigration and Naturalization Service, G-325A', 'BIOGRAPHIC INFORMATION, G-325A', 'Petition for Alien Relative, 1115-0054', 'Continued: Information about your alien relative, G-28 ID Number', 'NOTICE TO PERSONSSS FILING FOR SPOUSES IF MARRIED LESS THAN TWO YEARS', 'AFTARAVAT', 'APPLICATION CLERK, I-468', 'Immigration and Naturalization Service Processing Sheet']"
+            "ms_form_titles_llm_v1": [
+                "U.S. DEPARTMENT OF JUSTICE Immigration and Naturalization Service Memorandum of Creation of Record of Lawful Permanent Residence, 181 ( (Rev.3-1-83) N",
+                "Your application for status as a permanent resident has been retained for processing. You will be notified when further action has been taken in your case. Your request to accept employment has been adjudicated and the result is shown below. This employment authorization is valid only for the time necessary to decide your application for permanent residence.",
+                "Application for Permanent Residence, I-458 ( (REV. 2-27-87)N",
+                "Screeneded by NARA, 9/22/2023, NARA Form No. 1456-1A",
+                "Biographic Information Form, G-325A",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, 289744891",
+                "Medical Examination of Aliens Seeking Adjustment of Status, C-3824",
+                "Medical Clearance Requirements for Aliens Seeking Adjustment of Status, Form I-693 ( (Rev. 09/01/87) N",
+                "Medical Examination of Aliens Seeking Adjustment of Status",
+                "Medical Examination of Aliens Seeking Adjustment of Status, 1-693 ( (Rev. 09/01/87) N",
+                "Medical Clearance Requirements for Aliens Seeking Adjustment of Status",
+                "Affidavit of Support, Form 1-134",
+                "OATH OR AFFIRMATION OF DEPONENT, 18227ELK WOOD ST RESEDA, CA 91335",
+                "FBI RAL BUREAU OF INVESTIGATION UNIT, STATE DEPARTMENT OF JUSTICE, FD-258",
+                "U.S. Department of Justice, Immigration and Naturalization Service, G-325A",
+                "U.S. Department of Justice Immigration and Naturalization Service BIOGRAPHIC INFORMATION, G-325A",
+                "U.S. Department of Justice Immigration and Naturalization Service, G-325A",
+                "BIOGRAPHIC INFORMATION, G-325A",
+                "Petition for Alien Relative, 1115-0054",
+                "Continued: Information about your alien relative, G-28 ID Number",
+                "NOTICE TO PERSONSSS FILING FOR SPOUSES IF MARRIED LESS THAN TWO YEARS",
+                "AFTARAVAT",
+                "APPLICATION CLERK, I-468",
+                "Immigration and Naturalization Service Processing Sheet"
+            ]
         }
     },
     "page_count": 31

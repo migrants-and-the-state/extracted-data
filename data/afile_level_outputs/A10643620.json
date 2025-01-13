@@ -5,7 +5,17 @@
             "ms_sex_llm_v1": "male"
         },
         "form_titles": {
-            "ms_form_titles_llm_v1": "['INDEX CARD, G-361 (11-1-54)', 'ALIEN REGISTRATION CARD', 'UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service', 'REFERENCE REQUEST - FEDERAL RECORDS CENTER RUN DATE: 06/12/90 REQUEST DATE: 06/11/90, A1064436220', 'United States of America Immigrant Visa and Alien Registration, I-151', 'Foreign Service of the United States, Form FS-260a (Revised August 1932)', 'CERTIFICADO DE NICARAGUA CENTRAL AMERICA ENERGIA, B4214000', '220 VELE\u00d1O CENTAVOS 220, B4230907', '220 VEINTE CENTAVOS Ascensi\u00f3n Montealegre. Juzgado de Policia del Departamento de Rivas CERTIFICADO: Que la Se\u00f1orita Concepci\u00f3n Valdez Martinez, mayor de edad, settera, y de es- te domicilio es de su conciimiento personal, por el cual asegura que es per- sona de buenes antecedentes de arraage y apreceda socialmente y que no ha sido procesada por ningun delito ni falta en les tribunales de la Repuublica, por le cual es diudadana id\u00e9nea en plene derecho de sus fueres civiles., B4144323']"
+            "ms_form_titles_llm_v1": [
+                "INDEX CARD, G-361 (11-1-54)",
+                "ALIEN REGISTRATION CARD",
+                "UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service",
+                "REFERENCE REQUEST - FEDERAL RECORDS CENTER RUN DATE: 06/12/90 REQUEST DATE: 06/11/90, A1064436220",
+                "United States of America Immigrant Visa and Alien Registration, I-151",
+                "Foreign Service of the United States, Form FS-260a (Revised August 1932)",
+                "CERTIFICADO DE NICARAGUA CENTRAL AMERICA ENERGIA, B4214000",
+                "220 VELE\u00d1O CENTAVOS 220, B4230907",
+                "220 VEINTE CENTAVOS Ascensi\u00f3n Montealegre. Juzgado de Policia del Departamento de Rivas CERTIFICADO: Que la Se\u00f1orita Concepci\u00f3n Valdez Martinez, mayor de edad, settera, y de es- te domicilio es de su conciimiento personal, por el cual asegura que es per- sona de buenes antecedentes de arraage y apreceda socialmente y que no ha sido procesada por ningun delito ni falta en les tribunales de la Repuublica, por le cual es diudadana id\u00e9nea en plene derecho de sus fueres civiles., B4144323"
+            ]
         }
     },
     "page_count": 12

@@ -5,7 +5,30 @@
             "ms_sex_llm_v1": "male"
         },
         "form_titles": {
-            "ms_form_titles_llm_v1": "['Immigrant Visa and Alien Registration, FS-511', 'Immigrant Visa and Alien Registration Application, Form FS-268', 'Form FS-510 ( (English) ( (2\u201368), Personal financial resources', 'Form FS-510 ( (English) ( (2-68), Screened by BNA, 9/25/223, Page 3', 'Form FS-510 (English ((2-68), Form FS-510 English ((2-68)', 'Petition to Classify Status of Alien Relative for Issuance of Immigrant Visa, Form I-130 ( REV. 2-1-74 Y', 'Application for Adjustment of Status to that of a Lawful Permanent Resident in the Office of the Immigration and Naturalization Service, I-494', 'Consulate General of the Republic of China', 'Translation Confirmation, 7752', 'HOUSEHOLD REGISTRATION, A 5791003', 'I. D. Card', 'Historical Census Record, NARA 82-0632', 'Registration Certificate, A10248031/02', 'TAIPEI MUNICIPAL POLICE HEADQUARTERS, 089967', 'Certificate of No Criminal Record', \"Letter of Support for Parents' Living Expenses\", 'COUNTY SANITATION DISTRICTSS OF LOS ANGELES COUNTY, JDP:DAT:ms', 'Screened by NARA, 9/25/2023, Cerritos Valley Bank - 18300 PIONEER BLVD. ARTESIA, CA 90701 - 213 / 924-1601', 'Joint Tenancy Grant Deed, 1022', 'GRANT DEED, 970', 'Medical Examination of Visa Applicants', 'Screened by NARA, 9/25/2023']"
+            "ms_form_titles_llm_v1": [
+                "Immigrant Visa and Alien Registration, FS-511",
+                "Immigrant Visa and Alien Registration Application, Form FS-268",
+                "Form FS-510 ( (English) ( (2\u201368), Personal financial resources",
+                "Form FS-510 ( (English) ( (2-68), Screened by BNA, 9/25/223, Page 3",
+                "Form FS-510 (English ((2-68), Form FS-510 English ((2-68)",
+                "Petition to Classify Status of Alien Relative for Issuance of Immigrant Visa, Form I-130 ( REV. 2-1-74 Y",
+                "Application for Adjustment of Status to that of a Lawful Permanent Resident in the Office of the Immigration and Naturalization Service, I-494",
+                "Consulate General of the Republic of China",
+                "Translation Confirmation, 7752",
+                "HOUSEHOLD REGISTRATION, A 5791003",
+                "I. D. Card",
+                "Historical Census Record, NARA 82-0632",
+                "Registration Certificate, A10248031/02",
+                "TAIPEI MUNICIPAL POLICE HEADQUARTERS, 089967",
+                "Certificate of No Criminal Record",
+                "Letter of Support for Parents' Living Expenses",
+                "COUNTY SANITATION DISTRICTSS OF LOS ANGELES COUNTY, JDP:DAT:ms",
+                "Screened by NARA, 9/25/2023, Cerritos Valley Bank - 18300 PIONEER BLVD. ARTESIA, CA 90701 - 213 / 924-1601",
+                "Joint Tenancy Grant Deed, 1022",
+                "GRANT DEED, 970",
+                "Medical Examination of Visa Applicants",
+                "Screened by NARA, 9/25/2023"
+            ]
         }
     },
     "page_count": 28

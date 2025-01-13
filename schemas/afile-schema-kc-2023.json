@@ -1,0 +1,46 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier for the entry"
+    },
+    "fields": {
+      "type": "object",
+      "properties": {
+        "sex": {
+          "type": "object",
+          "properties": {
+            "ms_sex_llm_v1": {
+              "type": ["string", "null"],
+              "description": "Predicted sex value, can be 'male', 'female', or null",
+              "default": null
+            }
+          },
+          "required": ["ms_sex_llm_v1"]
+        },
+        "form_titles": {
+          "type": "object",
+          "properties": {
+            "ms_form_titles_llm_v1": {
+              "type": "array",
+              "description": "List of form titles associated with the entry",
+              "items": {
+                "type": "string"
+              },
+              "default": []
+            }
+          },
+          "required": ["ms_form_titles_llm_v1"]
+        }
+      },
+      "required": ["sex", "form_titles"]
+    },
+    "page_count": {
+      "type": "integer",
+      "description": "Number of pages associated with the entry"
+    }
+  },
+  "required": ["id", "fields", "page_count"]
+}

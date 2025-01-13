@@ -5,7 +5,47 @@
             "ms_sex_llm_v1": "male"
         },
         "form_titles": {
-            "ms_form_titles_llm_v1": "['Screened by NARA, 9/18/2023, A 13 580 960', 'DEPARTURE RECORD, ARRIVAL-DEPARTURE RECORD Form I-94 (2-10-62)', 'Screened by NARA, 9/18/2023, PLEASE PRINT IN BLOCK CAPITAL LETTERS', 'ARRIVAL-DEPARTURE RECORD, I-94 (Rev. 11-1-58)', 'Screened by NARA, 9/18/2023, G-361 (Rev. 7-1-60) U.S.G.P.O.-626209', 'United States of America Immigrant Visa and Alien Registration, G-360', 'Form FS-510 ( (Spanish), Form FS-510', 'Form I-102, Naturalization and Citizenship Application,, 31.', 'Form FS-510 ( (Spanish), FS-510', 'Acte de Naissance, AA N\u00b0 2233', \"FORCES ARM\u00c9ES D'HAITI BUREAU D'IDENTIFICATION, Le 13 F\u00e9vrier 1963\", \"FORCE ARM\u00c9ES D'HAITI SERVICE D'IMMIGRATION\", 'Screeneded by NARA, 9/18/2023, FORM 8.43 REV. JULY 1961', 'POLICE DEPARTMENT CITY OF NEW YORK, 114 69-A-25M-703418(61)', 'Foreign Service Medical Examination of Visa Applicants, FORM F-5-398', 'AFFIDAVIT OF SUPPORT ON BEHALf OF APPLICANTS FOR IMMIGRANT VISA', \"LOS Angeles County General Hospital Employees' Federal Credit Union, #4 4083\", 'Screeneded by NARA, 9/18/2023, HH:pl', 'Screeneded by NARA, 9/18/2023', 'Screened by NARA, 9/18/2023, 60-360', 'RECORD OF EXTENSION, I-94 ( (Ref. 11-1-58)', 'EXPENSES 1963, A-13 580 960 H-F&P.', 'Screened by NARA, 9/18/2023, V AXXXLI-011 YL-074 JY-063 UJ-073', 'Screened by NARA, 9/18/2023, A13580 960', 'UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service, Form I-210 ( (Rev. 2-1-60)', 'Screened by NARA, 9/18/2023, A13 580 960 Temp.', 'Screeneded by NARA, 9/18/2023, G-135 INFORMATION', 'Memo to file, FOIA ( (b)(6)', 'Memo of Info', 'Mexican-American Social Service, 2', 'NOTICE OF ENTRY OF APPEARANCE AS ATTORNEY OR REPRESENTATIVE, G-28', 'UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service, G-56 ( (11-1-56)', 'APPLICATION TO EXTEND TIME OF TEMPARY STAY', 'In the case of a student applying for an extension to continue his studies at the same school, this part must be filled in by an authorized school official., Screeneded by NARA, 9/18/2023, PART II', 'UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE', 'CHECK APPLICABLE ITEM AND INSERT REQUIRED INFORMATION, NARA-1024365', 'United States Department of Justice Immigration and Naturalization Service', 'Mexican-American Social Service, 2SERVICIO SOCIAL MEXICO-AMERICANO', 'ROUTE SLIP, G-360B (Rev. 1-1-63)']"
+            "ms_form_titles_llm_v1": [
+                "Screened by NARA, 9/18/2023, A 13 580 960",
+                "DEPARTURE RECORD, ARRIVAL-DEPARTURE RECORD Form I-94 (2-10-62)",
+                "Screened by NARA, 9/18/2023, PLEASE PRINT IN BLOCK CAPITAL LETTERS",
+                "ARRIVAL-DEPARTURE RECORD, I-94 (Rev. 11-1-58)",
+                "Screened by NARA, 9/18/2023, G-361 (Rev. 7-1-60) U.S.G.P.O.-626209",
+                "United States of America Immigrant Visa and Alien Registration, G-360",
+                "Form FS-510 ( (Spanish), Form FS-510",
+                "Form I-102, Naturalization and Citizenship Application,, 31.",
+                "Form FS-510 ( (Spanish), FS-510",
+                "Acte de Naissance, AA N\u00b0 2233",
+                "FORCES ARM\u00c9ES D'HAITI BUREAU D'IDENTIFICATION, Le 13 F\u00e9vrier 1963",
+                "FORCE ARM\u00c9ES D'HAITI SERVICE D'IMMIGRATION",
+                "Screeneded by NARA, 9/18/2023, FORM 8.43 REV. JULY 1961",
+                "POLICE DEPARTMENT CITY OF NEW YORK, 114 69-A-25M-703418(61)",
+                "Foreign Service Medical Examination of Visa Applicants, FORM F-5-398",
+                "AFFIDAVIT OF SUPPORT ON BEHALf OF APPLICANTS FOR IMMIGRANT VISA",
+                "LOS Angeles County General Hospital Employees' Federal Credit Union, #4 4083",
+                "Screeneded by NARA, 9/18/2023, HH:pl",
+                "Screeneded by NARA, 9/18/2023",
+                "Screened by NARA, 9/18/2023, 60-360",
+                "RECORD OF EXTENSION, I-94 ( (Ref. 11-1-58)",
+                "EXPENSES 1963, A-13 580 960 H-F&P.",
+                "Screened by NARA, 9/18/2023, V AXXXLI-011 YL-074 JY-063 UJ-073",
+                "Screened by NARA, 9/18/2023, A13580 960",
+                "UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service, Form I-210 ( (Rev. 2-1-60)",
+                "Screened by NARA, 9/18/2023, A13 580 960 Temp.",
+                "Screeneded by NARA, 9/18/2023, G-135 INFORMATION",
+                "Memo to file, FOIA ( (b)(6)",
+                "Memo of Info",
+                "Mexican-American Social Service, 2",
+                "NOTICE OF ENTRY OF APPEARANCE AS ATTORNEY OR REPRESENTATIVE, G-28",
+                "UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service, G-56 ( (11-1-56)",
+                "APPLICATION TO EXTEND TIME OF TEMPARY STAY",
+                "In the case of a student applying for an extension to continue his studies at the same school, this part must be filled in by an authorized school official., Screeneded by NARA, 9/18/2023, PART II",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE",
+                "CHECK APPLICABLE ITEM AND INSERT REQUIRED INFORMATION, NARA-1024365",
+                "United States Department of Justice Immigration and Naturalization Service",
+                "Mexican-American Social Service, 2SERVICIO SOCIAL MEXICO-AMERICANO",
+                "ROUTE SLIP, G-360B (Rev. 1-1-63)"
+            ]
         }
     },
     "page_count": 56

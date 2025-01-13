@@ -5,7 +5,42 @@
             "ms_sex_llm_v1": "male"
         },
         "form_titles": {
-            "ms_form_titles_llm_v1": "['Immigrant Visa and Alien Registration, IV-402,691.75', 'APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION', 'OPTIONAL FORM 2230 (English/Vietnamese)(Rev.6-82)', 'Form I-129, Petition for Nonimmigrant Worker ( (English/Vietnamese)', 'OPTIONAL FORM 2 (English/Vietnamese)', 'PO TIONAL FORM 30 ( (English/Vietnamese) (Rev. 6-82)', 'Petition to Classify Status of Alien Relative for Issuance of Immigrant Visa, FORM I-130', 'Petition for Naturalization', 'APPLICATION AND AFFIDAVIT, UNITED STATES ORDINARILY DEPARTURE PROGRAM', 'PART THREE: IMPORTANT NOTICE, FOIA (b)(6)', 'UNHCR WORKING GROUP, Q-1555', 'CERTIFICATE REGARDING DOCUMENTSS REQUIRED BY 22 CFR 4.111(b) WHICH ARE UNSTAINABLE', 'Screened by NARA, 8/22/2023, BANGKOK 527', 'S\u1ed1 y\u00eau ly l\u1ecbch, FOIA ( (b)(6)', 'QUAN HE GIA DINH, (b)(6)', 'IDENTIFICATION CARD', 'REQUEST FOR VERIFICATION SUBSTITUTE FOR THE MARRIAGE CERTIFICATE, Nhi Qui on March 28, 1986', 'Notary Public Certification', 'STATEMENT, 90713', 'C\u00f4ng h\u00f3a x\u00e0 h\u00f2i ch\u1ee7 n h\u00f6ta vi\u00eat nam, \u0110\u1ed1c l pepp - Tu do - H\u00e4nh phuc', 'EXCERPT FROM THE DEATH REGISTER, 3678', 'TRICH-L\u00d9C B\u1ed8 KHAI T\u1eea, 3678', '\u0110\u1ed0I XIN C\u0102P \u01a0I PH\u1ebeP \u0110I-CHUY\u1ec0N, SAigon', 'C\u00f4ng t\u00e1c xa h\u1ed9i c\u1ee7a notify vi\u1ec7t nam, \u0110\u1ed1c l\u00e1t - T\u00fd do -.Range ph\u1ee5c', 'KINH \u0110\u1ecaA - UV B\u00c0N N\u0102M \u0110\u1ea6U T\u00c2Y M\u00c1I QU\u1ed0C, FOIA (b)(6)', 'C\u00f4ng t\u00e1c x\u00e3 h\u1ed9iizing c\u00e1c ho\u1ea1t \u0111\u1ed9ng v\u1ec1 v\u0103n h\u00f3a v\u00e0 v\u0103n h\u00f3a x\u00e3 h\u1ed9i trong c\u00e1c trung t\u00e2m v\u0103n h\u00f3a x\u00e3 h\u1ed9i, Luu-Thong', \"T\u1ed8' KHAI GIA-DINH, FOIA (b)(6)\", 'Screened by NARA, 8/22/2023, S6, DA KIEN SUAT', 'LO\u1ea0I \u0110\u0102N V\u00c0 L\u00ca KHAI GIA\u2013DI\u1ec6N C\u00d4NG NH\u1eda DE THI\u2013HANH', 'Republic of Viet-Nam Ministry of Justice Judiciary Service of Southern Viet-Nam Decree Substituting for the Birth Certificate of Justice of the Peace of Long Xuyen.', 'Affidavit of Support, Form I-1344 ( (Rev. 12-1-84)', 'Title: FOIA ( (b)(6), Form Number: Not specified in the image provided.', 'Westinghouse Electric Corporation Electrical Systems Division Immigration Office, FOIA (b)(6)', 'Bank of America']"
+            "ms_form_titles_llm_v1": [
+                "Immigrant Visa and Alien Registration, IV-402,691.75",
+                "APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION",
+                "OPTIONAL FORM 2230 (English/Vietnamese)(Rev.6-82)",
+                "Form I-129, Petition for Nonimmigrant Worker ( (English/Vietnamese)",
+                "OPTIONAL FORM 2 (English/Vietnamese)",
+                "PO TIONAL FORM 30 ( (English/Vietnamese) (Rev. 6-82)",
+                "Petition to Classify Status of Alien Relative for Issuance of Immigrant Visa, FORM I-130",
+                "Petition for Naturalization",
+                "APPLICATION AND AFFIDAVIT, UNITED STATES ORDINARILY DEPARTURE PROGRAM",
+                "PART THREE: IMPORTANT NOTICE, FOIA (b)(6)",
+                "UNHCR WORKING GROUP, Q-1555",
+                "CERTIFICATE REGARDING DOCUMENTSS REQUIRED BY 22 CFR 4.111(b) WHICH ARE UNSTAINABLE",
+                "Screened by NARA, 8/22/2023, BANGKOK 527",
+                "S\u1ed1 y\u00eau ly l\u1ecbch, FOIA ( (b)(6)",
+                "QUAN HE GIA DINH, (b)(6)",
+                "IDENTIFICATION CARD",
+                "REQUEST FOR VERIFICATION SUBSTITUTE FOR THE MARRIAGE CERTIFICATE, Nhi Qui on March 28, 1986",
+                "Notary Public Certification",
+                "STATEMENT, 90713",
+                "C\u00f4ng h\u00f3a x\u00e0 h\u00f2i ch\u1ee7 n h\u00f6ta vi\u00eat nam, \u0110\u1ed1c l pepp - Tu do - H\u00e4nh phuc",
+                "EXCERPT FROM THE DEATH REGISTER, 3678",
+                "TRICH-L\u00d9C B\u1ed8 KHAI T\u1eea, 3678",
+                "\u0110\u1ed0I XIN C\u0102P \u01a0I PH\u1ebeP \u0110I-CHUY\u1ec0N, SAigon",
+                "C\u00f4ng t\u00e1c xa h\u1ed9i c\u1ee7a notify vi\u1ec7t nam, \u0110\u1ed1c l\u00e1t - T\u00fd do -.Range ph\u1ee5c",
+                "KINH \u0110\u1ecaA - UV B\u00c0N N\u0102M \u0110\u1ea6U T\u00c2Y M\u00c1I QU\u1ed0C, FOIA (b)(6)",
+                "C\u00f4ng t\u00e1c x\u00e3 h\u1ed9iizing c\u00e1c ho\u1ea1t \u0111\u1ed9ng v\u1ec1 v\u0103n h\u00f3a v\u00e0 v\u0103n h\u00f3a x\u00e3 h\u1ed9i trong c\u00e1c trung t\u00e2m v\u0103n h\u00f3a x\u00e3 h\u1ed9i, Luu-Thong",
+                "T\u1ed8' KHAI GIA-DINH, FOIA (b)(6)",
+                "Screened by NARA, 8/22/2023, S6, DA KIEN SUAT",
+                "LO\u1ea0I \u0110\u0102N V\u00c0 L\u00ca KHAI GIA\u2013DI\u1ec6N C\u00d4NG NH\u1eda DE THI\u2013HANH",
+                "Republic of Viet-Nam Ministry of Justice Judiciary Service of Southern Viet-Nam Decree Substituting for the Birth Certificate of Justice of the Peace of Long Xuyen.",
+                "Affidavit of Support, Form I-1344 ( (Rev. 12-1-84)",
+                "Title: FOIA ( (b)(6), Form Number: Not specified in the image provided.",
+                "Westinghouse Electric Corporation Electrical Systems Division Immigration Office, FOIA (b)(6)",
+                "Bank of America"
+            ]
         }
     },
     "page_count": 41

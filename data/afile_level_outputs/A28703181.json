@@ -5,7 +5,15 @@
             "ms_sex_llm_v1": null
         },
         "form_titles": {
-            "ms_form_titles_llm_v1": "['U.S. Department of Justice, Immigration and Naturalization Service, A28 703 181', 'Embassy of the United States of America, A28 703181', 'Petition to Screened by NARA, 5/9/2023, FORM I-130', 'Petition for Alien Relative, I-550 Petition Filing Form', 'ESTADO LIBRE Y SOBERANO DE ZACATECAS, RECUBIACION DE RENTAS, PAPEL ESPECIAL PARA CERTIFICADOS DE LAS ACTAS', 'ESTADO LIBRE Y SOBERANO DE ZACATECAS, N\u00ba 90 noventa', 'Screened by NARA, 5/9/2023, ARQUIVO GENERAL DEL ESTADO']"
+            "ms_form_titles_llm_v1": [
+                "U.S. Department of Justice, Immigration and Naturalization Service, A28 703 181",
+                "Embassy of the United States of America, A28 703181",
+                "Petition to Screened by NARA, 5/9/2023, FORM I-130",
+                "Petition for Alien Relative, I-550 Petition Filing Form",
+                "ESTADO LIBRE Y SOBERANO DE ZACATECAS, RECUBIACION DE RENTAS, PAPEL ESPECIAL PARA CERTIFICADOS DE LAS ACTAS",
+                "ESTADO LIBRE Y SOBERANO DE ZACATECAS, N\u00ba 90 noventa",
+                "Screened by NARA, 5/9/2023, ARQUIVO GENERAL DEL ESTADO"
+            ]
         }
     },
     "page_count": 8

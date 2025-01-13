@@ -5,7 +5,12 @@
             "ms_sex_llm_v1": null
         },
         "form_titles": {
-            "ms_form_titles_llm_v1": "['Relative Petition Card, Form I-130-A', 'NOTICE OF APPROVAL OF RELATIVE IMMIGRANT VISA PETITION, FOIA (b)(6)', 'PETITION TO CLASSIFY STATUS OF ALIEN RELATIVE FOR ISSUANCE OF IMMIGRANT VISA, OMB No. 4-RO41', 'Freedom of Information Act ((b)(6), Form I-4']"
+            "ms_form_titles_llm_v1": [
+                "Relative Petition Card, Form I-130-A",
+                "NOTICE OF APPROVAL OF RELATIVE IMMIGRANT VISA PETITION, FOIA (b)(6)",
+                "PETITION TO CLASSIFY STATUS OF ALIEN RELATIVE FOR ISSUANCE OF IMMIGRANT VISA, OMB No. 4-RO41",
+                "Freedom of Information Act ((b)(6), Form I-4"
+            ]
         }
     },
     "page_count": 5

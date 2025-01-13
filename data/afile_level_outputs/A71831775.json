@@ -5,7 +5,10 @@
             "ms_sex_llm_v1": null
         },
         "form_titles": {
-            "ms_form_titles_llm_v1": "['Petition to Classify Status of Alien Relative for Issuance of Immigrant Visa, I-130', 'Petition for Alien Relative, I-130']"
+            "ms_form_titles_llm_v1": [
+                "Petition to Classify Status of Alien Relative for Issuance of Immigrant Visa, I-130",
+                "Petition for Alien Relative, I-130"
+            ]
         }
     },
     "page_count": 2

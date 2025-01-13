@@ -5,7 +5,40 @@
             "ms_sex_llm_v1": "male"
         },
         "form_titles": {
-            "ms_form_titles_llm_v1": "['MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, A2 216 306', 'INSTRUCTIONS', 'MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, A20 216 306', 'APPLICATION FOR STATUS AS PERMANENT RESIDENT, O.M.B. No. 43-R040', 'Screened by NARA, 7/18/293', 'Screeneded by NARA. 7/18/2023, Form I-590A', 'PASSport, AE 223581', 'Passport, AE223581', 'Exit Permit for Children, AE 223581', 'OBSERVATIONS RENEWALS, AE 223581', 'AFFIDAVIT', 'COLLECTION OF SPECIMEN', 'Screeneded by NARA, 7/18/2023, IMMIGRATION AND NATURALIZATION SERVICES', 'UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE MEDICAL EXAMINATION AND IMMIGRATION INTERVIEW', 'MEDICAL Examination and Immigration Interview', 'Screened by NARA, 7/18/2023, I-4ps - 11-21-75', 'Affidavit of Support', 'Screeneded by NARA, 7/18/2023, Form Number: GPO 928-979', 'Affidavit of Support for Immigrant Relative or Other Beneficiary, GPO 936-05', 'MARINE MIDLAND TINKER NATIONAL BANK, 516-668-9800', 'Family Medicine Residency Program, NARA-0123', 'Screeneded by NARA, 7/18/2023, Screeneded by NARA, 7/18/2023', 'Family Medicine Residency Program, 516 859-3193', 'Corrected Index Card, G-361 (Rev. 4-1-76) N', 'Application or Petition Form No. I-485, I-485', 'MEDICAL Examination and Immigration Interview, FORM 1\u2014486', 'BIOGRAPHIC INFORMATION, G-325A ( (REV.10-1-74) Y', 'United States Department of Justice Immigration and Naturalization Service', 'Naturalization Application, N-4', 'Screened by NARA, 7/18/2023, A-20 216 306 TC', 'Routing and Transmittal Slip, OPTIONAL FORM 4', 'Screeneded by NARA, 7/18/2023, A20 216 306']"
+            "ms_form_titles_llm_v1": [
+                "MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, A2 216 306",
+                "INSTRUCTIONS",
+                "MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, A20 216 306",
+                "APPLICATION FOR STATUS AS PERMANENT RESIDENT, O.M.B. No. 43-R040",
+                "Screened by NARA, 7/18/293",
+                "Screeneded by NARA. 7/18/2023, Form I-590A",
+                "PASSport, AE 223581",
+                "Passport, AE223581",
+                "Exit Permit for Children, AE 223581",
+                "OBSERVATIONS RENEWALS, AE 223581",
+                "AFFIDAVIT",
+                "COLLECTION OF SPECIMEN",
+                "Screeneded by NARA, 7/18/2023, IMMIGRATION AND NATURALIZATION SERVICES",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE MEDICAL EXAMINATION AND IMMIGRATION INTERVIEW",
+                "MEDICAL Examination and Immigration Interview",
+                "Screened by NARA, 7/18/2023, I-4ps - 11-21-75",
+                "Affidavit of Support",
+                "Screeneded by NARA, 7/18/2023, Form Number: GPO 928-979",
+                "Affidavit of Support for Immigrant Relative or Other Beneficiary, GPO 936-05",
+                "MARINE MIDLAND TINKER NATIONAL BANK, 516-668-9800",
+                "Family Medicine Residency Program, NARA-0123",
+                "Screeneded by NARA, 7/18/2023, Screeneded by NARA, 7/18/2023",
+                "Family Medicine Residency Program, 516 859-3193",
+                "Corrected Index Card, G-361 (Rev. 4-1-76) N",
+                "Application or Petition Form No. I-485, I-485",
+                "MEDICAL Examination and Immigration Interview, FORM 1\u2014486",
+                "BIOGRAPHIC INFORMATION, G-325A ( (REV.10-1-74) Y",
+                "United States Department of Justice Immigration and Naturalization Service",
+                "Naturalization Application, N-4",
+                "Screened by NARA, 7/18/2023, A-20 216 306 TC",
+                "Routing and Transmittal Slip, OPTIONAL FORM 4",
+                "Screeneded by NARA, 7/18/2023, A20 216 306"
+            ]
         }
     },
     "page_count": 39

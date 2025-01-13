@@ -5,7 +5,17 @@
             "ms_sex_llm_v1": "female"
         },
         "form_titles": {
-            "ms_form_titles_llm_v1": "['APPLICATION TO EXTEND TIME OF TEMPORARY STAY', 'In the case of a student applying for an extension to continue his studies at the same school, this part must be filled in by an authorized school official.', 'Under Docket Control at Los Angeles, Immigration and Naturalization Service', 'Screened by NARA, 7/6/2023, CS', 'CEDARS-SINAI MEDICAL CENTER, OUR # 022340', 'DEPORTATION DECISION NOTICE, I-541', 'UNDERDOOR CHECK, 801', 'CEDARS-SINAI MEDICAL CENTER, COPV 10-234', 'CEDARS-SINAI MEDICAL CENTER, Our No. 124401']"
+            "ms_form_titles_llm_v1": [
+                "APPLICATION TO EXTEND TIME OF TEMPORARY STAY",
+                "In the case of a student applying for an extension to continue his studies at the same school, this part must be filled in by an authorized school official.",
+                "Under Docket Control at Los Angeles, Immigration and Naturalization Service",
+                "Screened by NARA, 7/6/2023, CS",
+                "CEDARS-SINAI MEDICAL CENTER, OUR # 022340",
+                "DEPORTATION DECISION NOTICE, I-541",
+                "UNDERDOOR CHECK, 801",
+                "CEDARS-SINAI MEDICAL CENTER, COPV 10-234",
+                "CEDARS-SINAI MEDICAL CENTER, Our No. 124401"
+            ]
         }
     },
     "page_count": 15

@@ -5,7 +5,30 @@
             "ms_sex_llm_v1": "female"
         },
         "form_titles": {
-            "ms_form_titles_llm_v1": "['U.S. DEPARTMENT OF JUSTICE Immigration and Naturalization Service, FY-93', 'Additional Questions to be Completed by All Applicants for Permanent Residence in the United States, 9003', 'U.S. Department of Justice Immigration and Naturalization Service', 'Application for Permanent Residence', 'Title of the image, Military Personnel Security Questionnaire, Form number, Not visible in the provided image', 'Biographic Information Form, G-2325A', 'CERTIFICACION, 0681501', 'PRIMERA CLASE CINCUENTA CENTAVOS 1980-1983, N\u00ba 0736510', 'T\u00c9NICA, 17', 'U.S. Department of Justice Medical Examination of Aliens Seeking Adjustment of Status', 'Medical Clearance Requirements for Aliens Seeking Adjustment of Status, Form I-693 ( (Rev. 09/01 /87) N', 'Medical Examination of Aliens Seeking Adjustment of Status', 'Medical Clearance Requirements for Aliens Seeking Adjustment of Status, Form I-693 ( (Rev. 09/01/87) N', 'Notice of Action, I-130', \"TRANSLATION OF A 'BIRTH CERTIFICATE'\", 'CERTIFICADO, 862529', 'Affidavit of Support, Form I-134 ( (Rev. 12-1-84)', 'Oath or Affirmation of Deponent, COMM. #958057', 'Disposiciones de la Ley de Pasaportes decreta-da por el Congreso, Nacional el 3 de febrero de 1971., No. 522312', 'IDENTIFICATION & TELECOMMUNICATION SYSTEM (ADIT, I-485', 'Immigration and Naturalization Service, I-94', 'Record of Changes, WAC']"
+            "ms_form_titles_llm_v1": [
+                "U.S. DEPARTMENT OF JUSTICE Immigration and Naturalization Service, FY-93",
+                "Additional Questions to be Completed by All Applicants for Permanent Residence in the United States, 9003",
+                "U.S. Department of Justice Immigration and Naturalization Service",
+                "Application for Permanent Residence",
+                "Title of the image, Military Personnel Security Questionnaire, Form number, Not visible in the provided image",
+                "Biographic Information Form, G-2325A",
+                "CERTIFICACION, 0681501",
+                "PRIMERA CLASE CINCUENTA CENTAVOS 1980-1983, N\u00ba 0736510",
+                "T\u00c9NICA, 17",
+                "U.S. Department of Justice Medical Examination of Aliens Seeking Adjustment of Status",
+                "Medical Clearance Requirements for Aliens Seeking Adjustment of Status, Form I-693 ( (Rev. 09/01 /87) N",
+                "Medical Examination of Aliens Seeking Adjustment of Status",
+                "Medical Clearance Requirements for Aliens Seeking Adjustment of Status, Form I-693 ( (Rev. 09/01/87) N",
+                "Notice of Action, I-130",
+                "TRANSLATION OF A 'BIRTH CERTIFICATE'",
+                "CERTIFICADO, 862529",
+                "Affidavit of Support, Form I-134 ( (Rev. 12-1-84)",
+                "Oath or Affirmation of Deponent, COMM. #958057",
+                "Disposiciones de la Ley de Pasaportes decreta-da por el Congreso, Nacional el 3 de febrero de 1971., No. 522312",
+                "IDENTIFICATION & TELECOMMUNICATION SYSTEM (ADIT, I-485",
+                "Immigration and Naturalization Service, I-94",
+                "Record of Changes, WAC"
+            ]
         }
     },
     "page_count": 32

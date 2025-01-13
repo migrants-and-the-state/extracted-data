@@ -5,7 +5,45 @@
             "ms_sex_llm_v1": "male"
         },
         "form_titles": {
-            "ms_form_titles_llm_v1": "['Certificate of Naturalization, 10 017 891', 'United States Department of Justice, Immigration and Naturalization Service, 395297', 'Petition for Naturalization, I-4-1026', 'PETITION FOR NATURALIZATION, 3952297', 'APPLICATION TO FILE PETITION FOR NATURALIZATION, N-400', 'National Security Questionnaire, NARA-0123', 'Naturalization Application,, NARA-96/2230', 'Biographic Information, G-325 ( (REV. 8-1-74)', 'MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, A10 017 891', 'INSTRUCTIONS, NARA-180324567', 'Screened by NARA, 9/6/2023, A10 017 891', 'THE BLOOD GROUPING LABORATORY, REGENT 4-6000', 'FEDERAL BUREAU OF INVESTIGATION UNITED STATES DEPARTMENT OF JUSTICE, FD-258', 'Screened by NARA, 9/6/2023, GPO-1454', 'Dear Dr. Casey and Family, NARA, 9/6/2023', 'REPORT of Investigation, GPO 950-101', 'Screeneded by NARA, 9/6/2023, NARA Form No. 14-785', 'Screened by NARA, 9/6/2023', 'Screened by NARA, 9/6/2023, A-12 738 876; A-10 017 891', 'UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE REPORT OF INVESTIGATION ADMINISTRATIVE PAGE, FORM G-166A ( (Rev. 10-14-64)', 'REPORT of Investigation, G-166A ( Rev. 10-14-64', 'UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE REPORT OF INVESTIGATION, GPO 950-101', 'DEPARTURE RECORD, ARRIVAL-DEPARTURE_RECORD Form I-94 ( (4-1-65)', 'RECORD OF ILLEGAL ALIEN APREHENDED OR LOCATED, Form I-213 (', 'RECORD OF SWORN STATEMENT IN AFFIDAVIT, Form I-245A', 'AFFIDAVIT, I-215A', 'RECORD OF SWORN STATEMENT, I-263A ( (Rev. 11-20-63)', 'Investigations Control Card, G-600A ( (Rev. 3-15-61)', 'UNITED STATES OF AMERICA IMMIGRANT VISA AND ALIEN REGISTRATION', 'APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION, Form FS-5410', 'American Consulate General Hong Kong', 'Affidavit of Support, NARA-102364', 'Brookline Federal Savings and Loan Association, NARA-1299', 'Franklin Savings Bank of the City of Boston, 229556', 'AFFIDAVIT OF SUPPORT, 102', 'Ye Olde Brown Jug, Inc.', 'China House, 102']"
+            "ms_form_titles_llm_v1": [
+                "Certificate of Naturalization, 10 017 891",
+                "United States Department of Justice, Immigration and Naturalization Service, 395297",
+                "Petition for Naturalization, I-4-1026",
+                "PETITION FOR NATURALIZATION, 3952297",
+                "APPLICATION TO FILE PETITION FOR NATURALIZATION, N-400",
+                "National Security Questionnaire, NARA-0123",
+                "Naturalization Application,, NARA-96/2230",
+                "Biographic Information, G-325 ( (REV. 8-1-74)",
+                "MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, A10 017 891",
+                "INSTRUCTIONS, NARA-180324567",
+                "Screened by NARA, 9/6/2023, A10 017 891",
+                "THE BLOOD GROUPING LABORATORY, REGENT 4-6000",
+                "FEDERAL BUREAU OF INVESTIGATION UNITED STATES DEPARTMENT OF JUSTICE, FD-258",
+                "Screened by NARA, 9/6/2023, GPO-1454",
+                "Dear Dr. Casey and Family, NARA, 9/6/2023",
+                "REPORT of Investigation, GPO 950-101",
+                "Screeneded by NARA, 9/6/2023, NARA Form No. 14-785",
+                "Screened by NARA, 9/6/2023",
+                "Screened by NARA, 9/6/2023, A-12 738 876; A-10 017 891",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE REPORT OF INVESTIGATION ADMINISTRATIVE PAGE, FORM G-166A ( (Rev. 10-14-64)",
+                "REPORT of Investigation, G-166A ( Rev. 10-14-64",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE REPORT OF INVESTIGATION, GPO 950-101",
+                "DEPARTURE RECORD, ARRIVAL-DEPARTURE_RECORD Form I-94 ( (4-1-65)",
+                "RECORD OF ILLEGAL ALIEN APREHENDED OR LOCATED, Form I-213 (",
+                "RECORD OF SWORN STATEMENT IN AFFIDAVIT, Form I-245A",
+                "AFFIDAVIT, I-215A",
+                "RECORD OF SWORN STATEMENT, I-263A ( (Rev. 11-20-63)",
+                "Investigations Control Card, G-600A ( (Rev. 3-15-61)",
+                "UNITED STATES OF AMERICA IMMIGRANT VISA AND ALIEN REGISTRATION",
+                "APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION, Form FS-5410",
+                "American Consulate General Hong Kong",
+                "Affidavit of Support, NARA-102364",
+                "Brookline Federal Savings and Loan Association, NARA-1299",
+                "Franklin Savings Bank of the City of Boston, 229556",
+                "AFFIDAVIT OF SUPPORT, 102",
+                "Ye Olde Brown Jug, Inc.",
+                "China House, 102"
+            ]
         }
     },
     "page_count": 49

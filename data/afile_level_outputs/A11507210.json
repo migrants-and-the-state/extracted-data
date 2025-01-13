@@ -5,7 +5,18 @@
             "ms_sex_llm_v1": "male"
         },
         "form_titles": {
-            "ms_form_titles_llm_v1": "[\"POLICE DEPARTMENT, COMMISSIONER'S OFFICE., MI 1778\", 'COMMONWEALTH SAVINGS BANK, M955', 'PHS-124 REV. 8-49, CLASS__MEDICAL CERTIFICATE', 'BANK OF NEW SOUTH WALES SAVINGS BANK LIMITED', 'APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION, 0534496', 'Immigrant Visa and Alien Registration,, I-151', 'Government House, 13.6.58', 'STATUTORY DECLARATION, 19', \"RUDLOF'S TRANSLATION SERVICE, 1293\", 'STATUTORY DECLARATION., No. 123']"
+            "ms_form_titles_llm_v1": [
+                "POLICE DEPARTMENT, COMMISSIONER'S OFFICE., MI 1778",
+                "COMMONWEALTH SAVINGS BANK, M955",
+                "PHS-124 REV. 8-49, CLASS__MEDICAL CERTIFICATE",
+                "BANK OF NEW SOUTH WALES SAVINGS BANK LIMITED",
+                "APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION, 0534496",
+                "Immigrant Visa and Alien Registration,, I-151",
+                "Government House, 13.6.58",
+                "STATUTORY DECLARATION, 19",
+                "RUDLOF'S TRANSLATION SERVICE, 1293",
+                "STATUTORY DECLARATION., No. 123"
+            ]
         }
     },
     "page_count": 12

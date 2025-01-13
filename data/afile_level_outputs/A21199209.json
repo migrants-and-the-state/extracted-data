@@ -5,7 +5,23 @@
             "ms_sex_llm_v1": "female"
         },
         "form_titles": {
-            "ms_form_titles_llm_v1": "['MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, 181 ( (Rev. 4-1-77)Y', 'MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, A- 2I I99 209', 'INSTRUCTIONS, I-181', 'Screeneded by NARA, 7/6/2023, A- 2I I99 209', 'Screeneded by NARA, 7/6/2023, Form I - 181b ( (Rev. 4-1-', 'APPLICATION FOR STATUS AS PERMANENT RESIDENT, O.M.B. No. 43-R0400', 'Screeneded by NARA, 7/6/2023, NARA-19458', 'Screeneded by NARA, 7/6/2023, Form I-590A', 'AFFIDAVIT OF', 'Screened by NARA, 7/6/2023, SH-R-68 Rev. 12/77', 'DEPARTMENT OF POLICE, NARA (7/6/2023', 'BIOGRAPHIC INFORMATION, FORM G-325A ( (REV. 10-1-74) Y', 'BIOGRAPHIC INFORMATION, G-325A ( (REV. 10-1-74) Y', 'Screeneded by NARA, 7/6/2023, NRC ROUTING SHEET', 'United States Department of Justice Immigration and Naturalization Service Processing Sheet, I-485C']"
+            "ms_form_titles_llm_v1": [
+                "MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, 181 ( (Rev. 4-1-77)Y",
+                "MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, A- 2I I99 209",
+                "INSTRUCTIONS, I-181",
+                "Screeneded by NARA, 7/6/2023, A- 2I I99 209",
+                "Screeneded by NARA, 7/6/2023, Form I - 181b ( (Rev. 4-1-",
+                "APPLICATION FOR STATUS AS PERMANENT RESIDENT, O.M.B. No. 43-R0400",
+                "Screeneded by NARA, 7/6/2023, NARA-19458",
+                "Screeneded by NARA, 7/6/2023, Form I-590A",
+                "AFFIDAVIT OF",
+                "Screened by NARA, 7/6/2023, SH-R-68 Rev. 12/77",
+                "DEPARTMENT OF POLICE, NARA (7/6/2023",
+                "BIOGRAPHIC INFORMATION, FORM G-325A ( (REV. 10-1-74) Y",
+                "BIOGRAPHIC INFORMATION, G-325A ( (REV. 10-1-74) Y",
+                "Screeneded by NARA, 7/6/2023, NRC ROUTING SHEET",
+                "United States Department of Justice Immigration and Naturalization Service Processing Sheet, I-485C"
+            ]
         }
     },
     "page_count": 21
