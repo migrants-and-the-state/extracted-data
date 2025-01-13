@@ -1,0 +1,12 @@
+{
+    "id": "A75287434",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": "['UNITED STATES IMMIGRATION AND IMMIGRATION SERVICE PERMANENT RESIDENCE MEMORANDUM OF CREATION OF RECORD, I-181', 'NOTICE OF ENTRY OF APPEARANCE AS ATTORNEY OR REPRESENTATIVE, Form G-28', 'Application to Register Permanent Residence or Adjust Status', 'Part 3. Processing Information., Form I-485 ( (Rev 09-09-92) N', 'Processing Information ( (Continued), Form I-485 ( (Rev. 09-09-92)N', 'Screened by NARA, 8/7/2023', 'Petition for Alien Relative, Form I-130 ( Rev. 4/4/91)', 'Screeneded by NARA, 8/7/2023, G-28 ID Number', 'NOTICE TO PERSONSSS FILING FOR SPOUSES IF MARRIED LESS THAN TWO YEARS', 'Certificate of Naturalization, NARA', 'REPUBLIC of Haiti, NARA, 8/7/2023', 'CERTIFICATE OF ACCURRANCE, NARA-0123456789', \"Certificat d'Extrait des Registres des Actes de naissance, M N\u00b0 64068\", 'Certified Copy, 0008867', 'Signalement du titulaire, FOIA ( (b)(6)', 'Medical Examination of Aliens Seeking Adjustment of Status, Form I-693', 'Medical Clearance Requirements for Aliens Seeking Adjustment of Status, Form I-693 ( (Rev. 09/01/87) N', 'LIBERTY EQUALITY FRATERNITY, RD#7866-J.', 'Certificate of Accurance, NCC2257203', \"L'INTE, VVV N\u00b0 52669\", 'Affidavit of Support', 'Freedom of Information Act ((b)(6), FOIA ( (b)(6)', 'Screeneded by NARA, 8/7/2023, I-14ACIN, ANNIEE', 'U.S. Department of Justice Immigration and Naturalization Service BIOGRAPHIC INFORMATION, G-325A', 'U.S. Department of Justice Immigration and Naturalization Service, G-325A', 'Biographic Information, G-325A', 'Additional Questions to be Completed by All Applicants for Permanent Residence in the United States, 9003']"
+        }
+    },
+    "page_count": 41
+}

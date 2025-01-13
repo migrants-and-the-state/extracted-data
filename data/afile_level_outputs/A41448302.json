@@ -1,0 +1,12 @@
+{
+    "id": "A41448302",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": "['Immigrant Visa and Alien Registration, IV-41448302', 'APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION', 'OPTIONAL FORM 230 B, FORMULARIO OPCIONAL 230 B', 'FORMULARIO OPCIONAL 2N 230 B, FORMULARIO OPCIONAL 230 B', 'OPTIONAL FORM 2, 230 B', 'Petition for Alien Relative, 88075072', 'Information about your alien relative, FOIA (b)(6)', 'Petitioner', 'TRANSLATION OF MARRIAGE CERTIFICATE', 'Translation of Birth Certificate, USI & NS Screeneded by NARA, 4/18/2023', 'REPUBLICa DE EL SALVAdOR, 0660057', 'TRANSLATION OF MARRIAGE CERTIFICATE, NARA-0123456789', 'CERTIFICADO DE UNA MUJER QUE HA ENTRADO EN UNA CONVIVENCIA, T.R. 0353310', 'MEDICAL Examination of Applicants for United States Visas, 157', 'IMMUNOLOGIA, 0324451', 'AN\u00e1lisis pr\u00e1cticado, UN-21435', 'CLINICA DE RAYos X - BRITO - MEJA PENA, REPORTe RAdiOLOGico No. 8810639', 'Certificaci\u00f3n de Tr\u00e1mite de Policia, 0381679', 'Affidavit of Support', \"Title: FOIA ( (b)(6), Form Number: Not explicitly stated, but the form is number can be inferred as 'FOIA' followed by '(b)(6)' based on the title and content of the document.\", 'GRANT DEED, 87-642315', 'STATE OF CALIFORNIA FOIA ( (b)(6) SS. 87-642315, Screened by NARA 4/18/2023']"
+        }
+    },
+    "page_count": 31
+}

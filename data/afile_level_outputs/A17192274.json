@@ -1,0 +1,12 @@
+{
+    "id": "A17192274",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": "['Screeneded by NARA, 6/30/2023, Form I-72 ( (4-1-66)', 'Screened by NARA, 6/30/22023, ES-575A and B', 'Orange County General Hospital Letterhead, NARA Form 630/2023', 'County of Orange General Hospital Letterhead, FOIA ( (b)(6)', 'IMMIGRANT VISA AND ALIEN REGISTRATION, FS-511', 'APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION, 4', 'Form FS-510 ( (English) ( (4-63), Screened by NARA, 6/30/22023', 'Screeneded by NARA, 6/30/2023, Form Number: I-4', 'Form FS-510 ( (English) ( (4-63)', 'Petition for Alien Relative, I-130', \"Title of the image: 'Block II\u2014Information About Alien Beneficiary' Form number: NARA, 6/30/293.\", 'JUNAGADH CITY MUNICIPALITY, 234 of 1966', 'POLICE CLEARANCE CERTIFICATE', 'Affidavit of Support, M. G. Ause Medical Center Administrator', 'Bank of America National Trust and Savings Association Letterhead, Form NARA 6/30/2023', 'CORRECTED INDEX CARD, G-361 ( (Rev.7-1-60)', \"Officer's Review and Action Sheet\"]"
+        }
+    },
+    "page_count": 23
+}

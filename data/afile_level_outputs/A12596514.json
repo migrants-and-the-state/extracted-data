@@ -1,0 +1,12 @@
+{
+    "id": "A12596514",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": "['INDEX CARD, G-361 ( (Rev. 7-1-60)', 'Certificate of Citizenship, Form N-560 ( (REV. 10-1-56)', 'Oath of Allegiance, N-4-1023', 'STATUS N-600 APPLICATION, N-600 ( (Rev. 6-29-80)', \"EXAMINER'S REPORT\u2014CERTIFICATE OF CITIZENSHIP\", 'APPLICATION FOR CERTIFICATE OF CITIZENSHIP UNDER SEC. 341 OF THE IMMIGRATION AND NATIONALITY ACT', 'Naturalization Application,, N-4-1025', 'Naturalization Application,, N-4', 'Affidavit, N-4-245773', 'REQUEST FOR INFORMATION FROM NATURALIZATION FILE ( (Form N-585 is attached, fill in items 2, 3 and 6 only)', 'UNITED STATES OF AMERICA PETITION FOR NATURALIZATION, 729', 'United in Marriage', 'FINAL JUDGMENT OF DIVORCE, G168-B']"
+        }
+    },
+    "page_count": 20
+}

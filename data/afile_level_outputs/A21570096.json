@@ -1,0 +1,12 @@
+{
+    "id": "A21570096",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": "['INDEX CARD, G-361 (Rev. 4-76) N', 'United States Department of Justice Migration and Naturalization Service, Form I-72 (SINGLE COPY', 'United States Department of Justice Immigration and Naturalization Service, I-210', 'FINAL DISPOSITION REPORT, R-84 ( (Rev. 6-29-71)', 'ROUTE SLIP', 'United States Department of Justice Immigration and Naturalization Service', 'A Nonimmigrant Alien Who Accepts Employment is Subject to Deportation, I-94', 'IMPORTANT NOTICE, 494 (REV. 9-1-73) N', 'Title of the image, Letter from Acting Officer in Charge, Form number, Post Office Box 537 Cincinnati, Ohio 44201', 'Immigration and Naturalization Services, 768', 'LAWRENCE A. MAZZARELLA, M.D., F.A.C.S., MAIN 2', 'OUR LADY OF THE WAY HOSPITAL', 'SUMMARY OF EXTERNAL IRRADIATION', 'DECLARATION, R.P.O./R.B.T.']"
+        }
+    },
+    "page_count": 23
+}

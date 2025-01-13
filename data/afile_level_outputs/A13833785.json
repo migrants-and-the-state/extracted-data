@@ -1,0 +1,12 @@
+{
+    "id": "A13833785",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": "['CERTIFICATE OF CITIZENSHIP, A-507963', 'Oath of Allegiance, N-4-1023', 'Affidavit, N-4-102', 'APPLICATION FOR CERTIFICATE OF CITIZENSHIP, N-600 ( (Rev. 8-1-69)', 'Naturalization Application for Naturalization and Citizenship,, N-4.', 'STATUS N-600 APPLICATION, N-601 ( (Rev. 6-28-60)', 'Certificate of Citizenship, N-14 (Rev. 10-15-63', 'Naturalization Application, N-4', 'Deposition as to date of birth.', 'Certificate of Death, N600-113 83275', 'Swearing Affidavit, N600 A 13837785', 'Certificate of Admission of Alien, I-404-A (Rev. 3-25-58)', 'ARRIVAL INFORMATION, N-14A ( (10-1-52)', 'REQUEST FOR VERIFICATION OF ARRIVAL, GPO 934672', 'REQUEST FOR INFORMATION FROM NATURALIZATION FILE', 'Petition for Naturalization', 'Naturalization Petition', \"EXAMINER'S REPORT OF TESTIMONY OF WITNESS ( Form N-341 of the Immigration and Nationality Act, Form N-341\", 'INDEX CARD, G-361 (Rev. 7-1-60)', 'POST OFFICE DEPARTMENT, POD Form 3811', 'INSTRUCTIONS TO DELIVERING EMPLOYEE, C56-16-71348-5-GPO']"
+        }
+    },
+    "page_count": 30
+}

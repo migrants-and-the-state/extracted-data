@@ -1,0 +1,12 @@
+{
+    "id": "A20540300",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": "['ORDER TO SHOW CAUSE, NOTICE OF HEARING, AND WARRANT FOR ARREST OF ALIEN IN DEPORTATION PROCEEDINGS UNDER SECTION 2 of the Immigration and Nationality Act, Form I-221S ( (12-1-73)', 'NOTICE TO APPEAR IN DEPORTATION PROCEEDINGS, I-213A', 'DEported Mexican, A. 20 540 300', 'Screened by NARA, 4/24023, FPI-LC-1-72-2500 PADS-6218', 'RECORD OF DEPORTABLE ALIEN, 213', 'INTERVIEW LOG', 'FEDERAL BUREAU OF INVESTIGATION, DEPARTMENT OF JUSTICE, FD-249 ( (REV.3.13-72)', 'FINAL DISPOSITION REPORT, R-84 ( (Rev. 6-29-71)', 'Final Disposition Report, FBI Identification Division, Washington, D.C. 20537']"
+        }
+    },
+    "page_count": 15
+}

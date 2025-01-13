@@ -1,0 +1,12 @@
+{
+    "id": "A70379914",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": "['U.S. Department of Justice Immigration and Naturalization Service BIOGRAPHIC INFORMATION, FORM G-325C ( (Rev. 10-1-82)Y', 'Family Relationship', 'Personal History', 'Sworn Statement of Refugee Applying for Entry into the United States, G-64 (Rev. 4-30-83)N', 'REGISTRATION FOR CLASSIFICATION AS REFUGEE', 'Registration Form, NARA-1025-A']"
+        }
+    },
+    "page_count": 15
+}

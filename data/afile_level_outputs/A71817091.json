@@ -1,0 +1,12 @@
+{
+    "id": "A71817091",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": "['U.S. DEPARTMENT OF JUSTICE Immigration and Naturalization Service, FY93', 'Additional Questions to Be Completed by All Applicants for Permanent Residence in the United States, 9003', 'Adjustment of Status Section 2', 'NOTICE OF ENTRY OF APPEARANCE AS ATTORNEY OR REPRESENTATIVE, G-28', 'Application for Permanent Residence, I-485 ( (REV. 2-27-87N)', 'Title: FOIA ( (b)(6), Form Number: NARA, 9/13/2023', 'Freedom of Information Act ((b)(6), GPO: 1987 - 177-424', 'Affidavit of Support', 'Oath or Affirmation of Deponent, FOIA ( (b)(6)', 'Notice of Action, I-130', 'COPY OF AN ENTRY IN A REGISTER KEPT IN THE COLONY OF HONG KONG. IN TERMS OF THE BIRTHSS AND DEATHSS REGISTRATION ORDINANCE, 1934., 24436', 'Medical Examination of Aliens Seeking Adjustment of Status, Form I-693 ( (Rev. 09/01/87) N', 'Medical Clearance Requirements for Aliens Seeking Adjustment of Status', 'X-RAY Report, 93/044', 'Departure Record, 02412286bb 01', 'CERTIFICATE OF IDENTITY, 1', 'Certificate of Naturalization, N-550 ( (REV. 11-1-87)Y', 'INTERNATIONAL CERTIFICATE OF VACCINATION OR REVACCINATION AGAINST SMALLPOX, C N\u00b0 602907', 'INTERNATIONAL CERTIFICATE OF VACCINATION OR REVACCINATION AGAINST SMALLPOX, C No 602907', 'KEI WAN CHURCH THE CHURCH OF CHRIST IN CHINA, Exhibit 3', 'Statement of Account, 0530033348', 'Balance Your Checking Account, FORM 5554 (8/91', 'Balance Your Checking Account, FORM 5554 (801', 'UNIFORM RESIDENTIAL APPRAISAL REPORT, Fannie Mae Form 1004', 'RESIDENTIAL APPRAISAL REPORT, Fannie Mae Form 1044', 'Screened by NARA, 9/13/2023, 751 KATHERINE LANE', 'JW Professional Immigration Service, I-797', 'Application for Permanent Residence, NARA-0123456789', 'APPLICATION CLERK, I-485', 'UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE Processing Sheet, I-485', 'Immigration and Naturalization Service I-94 Departure Record, 02412866b 01', 'Screened by NARA, 9/13/2023']"
+        }
+    },
+    "page_count": 42
+}

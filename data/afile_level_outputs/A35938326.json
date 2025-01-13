@@ -1,0 +1,12 @@
+{
+    "id": "A35938326",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "femenino"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": "['Immigrant Visa and Alien Registration, FS-511', 'ESTADO DE MEXICO SOLICITUD DE VISA INMIGRATE Y REGISTRO DE EXTRANGERO', 'OPTIONAL FORM 230-B', 'OPTIONAL FORM 230-B, Screeneded by NARA, 6/1/2023', 'FOIA ( (b)(6), FORM 230-B', 'CERTIFICA QUE EN LOS LIBROS DUPLICADOS DE ACTAS DEL REGISTRO CIVIL DE JALOSTITLAN JALISCO, 54272', 'PRESIDENCIA MUNICIPAL Teocaltiche, Jal., 727', 'APPLICATION FOR VERIFICATION OF LAWFUL MANENT RESIDENCE AN ALIEN', 'INSTRUCTIONS, NARA-1059', 'Screened by NARA, 6/1/2023', 'STATE OF CALIFORNIA COUNTY OF LOS ANGELES', 'Screeneded by NARA, 6/1/22023, CLECO-S-K TOOLS-QUACKENBUSH-STURTEVANT-RICHMOND-BUDGET-TUGIT-AIRETOOL', 'bragg & smith realty', 'Banco Nacional de M\u00e9xico, P.S.', 'GABINETE DE RADIODIAGNOSTICO, PAVO 112 - DESP. 201 - EDIF. PROFESIONAL', 'MEDICAL Examination of Visa Applicants, 157', 'PATOLOG\u00cdA, PAVO NUM. 212']"
+        }
+    },
+    "page_count": 25
+}

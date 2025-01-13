@@ -1,0 +1,12 @@
+{
+    "id": "A22403471",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": "['TORRES VALLE, ESTEVAN, G-361 ( (Rev. 4-1-76)', 'JUSTICE SERVICE', 'RECORD OF DEPORTABLE ALIEN, 1-231', 'BAGGAGE AND PERSONAL EFFECTSS OF DETAINED ALIEN, I-4', 'United States Department of Justice Immigration and Naturalization Service Aviso de Derechos, Form 1-214', 'FINAL DISPOSITION REPORT, R-84 ( (Rev. 6-29-71)', 'Final Disposition Report, FBI Identification Division, Washington, D.C. 20537', 'FEDERAL BUREAU OF INVESTIGATION, UNITED STATES DEPARTMENT OF JUSTICE, FD-249 ( (REV.3.13-72)', 'INS 105, WR .424']"
+        }
+    },
+    "page_count": 15
+}

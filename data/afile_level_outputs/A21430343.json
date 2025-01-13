@@ -1,0 +1,12 @@
+{
+    "id": "A21430343",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": "['Screened by NARA, 7/3/2023', 'Screened by NARA, 7/3/2023, G-361 (Rev. 4-1-76) N', 'I-944 (Rev. 9-1-73) PAROLEE, H-500', 'Screened by NARA, 7/3/2023, FORM 1-94 (Rev. 4-167) (Parole Edition)', 'Screened by NARA, 7/3/2023, G-361 (Rev. 10-1-70)', 'IMMIGRATION AND NATURALIZATION SERVICE, A21 430 34', 'MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, A21 430 343', 'INSTRUCTIONS, LOU 1-232', 'MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, A2 430 34', 'United States Department of Justice Immigration and Naturalization Service', 'Immigration and Naturalization Service', 'APPLICATION BY INDOCHINESE REFUGEE FOR PERMANENT RESIDENCE, 443-R0595', 'Application for Naturalization and Adjustment of Status, N-4-102', 'Screened by NARA, 7/3/2023, 21-430-343', 'LOS ANGELES POLICE DEPARTMENT, Screeneded by NARA, 7/3/2023', 'BIOGRAPHIC INFORMATION, FORM G-325A ( (REV. 10-1-74) Y', 'Biographic Information, G-325A', 'Petition Form I-485-C, I-485-C', 'DEPARTMENT OF STATE FOREIGN SERVICE OF THE UNITED STATES OF AMERICA MEDICAL EXAMINATION OF VISA APPLICANTS, FS-398', 'INTERNATIONAL RESCUE COMMITTEE, INC., IRC/471/75', 'Sworn Statement of Applicant for Parole into the United States, FORM 0-644(5.12-75)', 'Biographic Information Form G-325A ( (REV. 10-1-74)', 'APPLICATION FOR PAROLE']"
+        }
+    },
+    "page_count": 28
+}

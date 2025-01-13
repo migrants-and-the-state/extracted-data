@@ -1,0 +1,12 @@
+{
+    "id": "A70396768",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": "['U.S. Government Printing Office, G-360 (Rev. 1-1-82) N', 'RECORD OF INFORMATION DISCLASS (E (PRIVACY ACT), G-658', 'INSTRUCTIONS, Form G-657', 'Immigration and Naturalization Service, I-94', 'Record of Changes, A70396768', 'U.S. DEPARTMENT OF JUSTICE Immigration and Naturalization Service', 'BIOGRAPHIC INFORMATION, G-325A', 'REGISTRATION FOR CLASSIFICATION AS REFUGEE', 'Refugee Determination Application Form, NARA-01234456789', 'U.S. Department of Justice Immigration and Naturalization Service BIOGRAPHIC INFORMATION, FORM G-325C', 'Sworn Statement of Refugee Applying for Entry into the United States', 'EXAMINATION OF APPLICANTS OR UNITED STATES VISAS, OPTIONAL FORM 157', 'THE MOMBASA HOSPITAL, M.H.2', 'INTERNATIONAL ORGANIZATION FOR MIGRATION ( (IOM), A70 396 768', 'Family Relationship', 'Personal History']"
+        }
+    },
+    "page_count": 24
+}

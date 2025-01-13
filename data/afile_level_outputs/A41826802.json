@@ -1,0 +1,12 @@
+{
+    "id": "A41826802",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": "['Immigrant Visa and Alien Registration, IV-41826802', 'Visas de Inmigrante, Form OF-230 ( (Spanish) ( (1-77)', 'Form OF-230 ( (Spanish) ( (1-77)', 'Title: Form OF-230 (Spanish ( (1-77)', 'Screeneded by NARA, 4/18/20, FORM OF-230 ( (Spanish) ( (1-77)', 'Form OF-230 ( (Spanish) ( (1-77), Screeneded by NARA, 4/18/2023', 'Form OF-230 (Spanish ( (1-77), Screeneded by NARA, 4/18/2023', 'Petition to Classify Status of Alien Relative or Spouse/Child of Immigrant Visa Holder, FORM I-130', 'Freedom of Information Act ( FOIA, FOIA ( (b)(6)', 'BIRTH CERTIFICATE', 'MEDICAL Examination of Applicants for United States Visas', 'CERTIFICA QUE EN LOS LIBROS ORIGINALES DE ACTAS DEL REGISTRO CIVIL DESAN JUAN DE LOS LAGOS, JALISCO, 352584', 'Gobierno del Estado Libre y Soberano de Baja California, 6/611.16/46', 'Affidavit of Support', 'FOIA ( (b)(6), FOIA ( (b)(6) Screened by NARA, 4/18/2023']"
+        }
+    },
+    "page_count": 20
+}

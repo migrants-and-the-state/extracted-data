@@ -1,0 +1,12 @@
+{
+    "id": "A73779517",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": "['UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, I-181', 'Application to Register Permanent Residence or Adjust Status, I-458', 'Processing Information. ( Continued', 'Screeneded by NARA, 7/7/2023, Form I-485 ( (Rev. 09-09-92) N', 'Medical Examination of Aliens Seeking Adjustment of Status', 'Medical Clearance Requirements for Aliens Seeking Adjustment of Status, Form I-693 ( (Rev. 09/01/87) N', 'Medical Clearance Requirements for Aliens Seeking Adjustment of Status', 'Goldstein Radiology Associates, 8500 S.W. 92 STREET SUITE 204 MIAMI, FLORIDA 33156', 'Important Document Information', 'ALCICLIA MUNICIPAL DE NAGAROTE, N\u00ba 0658038', \"BIRTH CERTIFICATE, Serial 'G' No. 0658038\", 'REP\u00daBLICA DE NICARAGUA, C 084395', 'REP\u00daBLICA DE NICARAGUA, 060 MIA-JAP 1030', 'METRO-DADE POLICE DEPARTMENT, 1833', 'Affidavit of Support, Form 1-134 ( (Rev. 12-1-84) Y', 'Affidavit of Support', 'Title: Freedom of Information Act ( Form Number: FOIA(b)(6)', 'Petition for Alien Relative, I-130', 'FOIA ( (b)(6), C. ( (continued) Information about your alien relative', 'NOTICE TO PERSONS FOR SPUSES IF MARRIED LESS THAN TWO YEARS', 'Marriage Certificate Summary', 'ALCCADlA DE MANAGUA, 026711', 'United States Department of Justice Immigration and Naturalization Service', 'Biographic Information, G-325A', 'U.S. Department of Justice Immigration and Naturalization Service BIOGRAPHIC INFORMATION, G-325A', 'BIOGRAPHIC INFORMATION, G-325A', 'Additional Questions to Be Completed by All Applicants for Permanent Residence in the United States, 9003']"
+        }
+    },
+    "page_count": 43
+}

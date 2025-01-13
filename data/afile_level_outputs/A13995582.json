@@ -1,0 +1,12 @@
+{
+    "id": "A13995582",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": "['Certificate of Citizenship, FORM N-560 ( (REV 3-1-61)', 'Oath of Allegiance, N-4-10-64', 'APPLICATION FOR CERTIFICATE OF CITIZENSHIP, Form N-600 ( (Rev. 5\u201315\u201362)', 'Naturalization Application', 'Fill in this block only if you claim citizenship through your mother\u2019s marriage to your stepfather., 15', 'Affidavit, I-693A', 'ALIEN REGISTRATION, N-600A ( (7-22-64)', 'STATUS N-600 APPLICATION, N-601 ( (Rev. 6-28-60)', 'SCHOOL DISTRICT OF PHILADELPHIA, G166-B (1-1-44)', 'Family Relationship Acknowledgment', 'EXHIBIT 3, G166-B ( (1-1-44)', 'CERTIFICATE OF DEATH, 384537', 'Certificate of Admission of Alien, I-404A ( (Rev. 3-25-58)', 'REQUEST FOR INFORMATION FROM NATURALIZATION FILE', 'Petition for Naturalization, 16656', 'Declaration of Intention and Certificates of Petitioner and Witnesses,, M 4 161.', 'DECLARATION OF INTENTION, 9017']"
+        }
+    },
+    "page_count": 18
+}

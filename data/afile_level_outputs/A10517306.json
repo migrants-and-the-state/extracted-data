@@ -1,0 +1,12 @@
+{
+    "id": "A10517306",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": "['The United States of America, 9352568', 'United States Department of Justice Immigration and Naturalization Service, 378393', 'United States Department of Justice Immigration and Naturalization Service, GPO 964-694', 'Petition for Naturalization, 378393', 'Screeneded by NARA, 8/25/2023, G-325B', 'APPLICATION TO FILE PETITION FOR NATURALIZATION', 'Naturalization and Citizenship Application Form, N-4', 'ALIEN REGISTRATION, 316a', 'Immigration and Naturalization Service Application for Naturalization,, N-4-1029.', 'UNITED STATES OF AMERICA IMMIGRANT VISA AND ALIEN REGISTRATION, 637', 'APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION, 022832', 'American Consulate General, Hong Kong.', 'Screened by NARA, 8/25/2023, Budget Bureau No. 47-R121', 'Assurance of Employment', 'ADDITIONAL OR SUPPLEMENTAL INFORMATION ( (Cont.), NARA 8/25/2023', 'INSTRUCTIONS', 'NOTICE OF APPROVAL OR REVALIDATION OF IMMIGRANT VISA PETITION, form 1-71A ( (Rev. 11-3-99)', 'Family Composition Affidavit', 'Family Composition Affidavit, FOIA(b)(6)', 'BIOGRAPHIC INFORMATION, FORM G-325 ( (REV. 4-1-70)']"
+        }
+    },
+    "page_count": 24
+}

@@ -1,0 +1,12 @@
+{
+    "id": "A25424389",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": "['U.S. Department of Justice Immigration and Naturalization Service, I-94 Registro de llegada/salida - Instrucciones', 'Screeneded by NARA, 7/13/2023, EMBASSY OF SWITZERLAND United States of America Interests Section', 'LIBERTAD, NARA, 7/13/2023', 'ORIGINAL SEEN AND COMPARED, NARA, 7/13/2023', 'Original Seal and Company United States Interest Dept. Havana, Cuba', 'CERTIFICACI\u00d3N DE MATRIMONIO, 637', 'RDC BIO DATA AND REQUEST FOR VOLAG ASSURANCE, RP-27 DEC 84', 'MEDICAL EXAMINATION OF APPLICANTS FOR UNITED STATES VISAS, NSN 7540-00-139-0058']"
+        }
+    },
+    "page_count": 12
+}

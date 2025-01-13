@@ -1,0 +1,12 @@
+{
+    "id": "A10943354",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": "[\"EXAMINER'S REPORT\u2014CERTIFICATE OF CITIZENSHIP, Form No. 825\", 'APPLICATION FOR CERTIFICATE OF CITIZENSHIP, Form N-600', 'Naturalization Application,, N-4', 'Title of the image, Naturalization Application, Form number', 'Affidavit and Naturalization Service for the examination on this application.', 'Processing Sheet and Supplemental Report on Applications for Certificates of Citizenship, A10 943544', 'Processing Sheet and Supplemental Report on Applications for Certificates of Citizenship, A-10 943 354', 'Verification of Record of Naturalization, Form N-25', 'UNITED STATES DEPARTMENT OF JUSTICE, N 600 gw', 'NEW JERSEY STATE DEPARTMENT OF HEALTH, CSS, V.S.70(56)', 'U. S. DEPARTMENT OF COMMERCE BUREAU OF THE CENSUS, 134-427', 'METROPOLITAN LIFE INSURANCE COMPANY, O1530 S. ( (11-56)']"
+        }
+    },
+    "page_count": 16
+}
