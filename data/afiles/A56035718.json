@@ -2,7 +2,7 @@
     "id": "A56035718",
     "fields": {
         "sex": {
-            "ms_sex_llm_v1": "male,female"
+            "ms_sex_llm_v1": null
         },
         "form_titles": {
             "ms_form_titles_llm_v1": [
