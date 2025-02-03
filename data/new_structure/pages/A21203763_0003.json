@@ -1,0 +1,29 @@
+{
+    "anumber": "A21203763",
+    "id": "A21203763_0003",
+    "page_index": 3,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21203763_0003/full/max/0/default.jpg"
+    },
+    "fields": {
+        "doctype": {
+            "ms_doctype_v1": "letter"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "U.S. Immigration And Naturalization Service"
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "United States"
+            ]
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                2023,
+                1981
+            ]
+        }
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false
+}

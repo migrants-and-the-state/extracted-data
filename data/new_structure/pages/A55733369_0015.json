@@ -1,0 +1,24 @@
+{
+    "anumber": "A55733369",
+    "id": "A55733369_0015",
+    "page_index": 15,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A55733369_0015/full/max/0/default.jpg"
+    },
+    "fields": {
+        "doctype": {
+            "ms_doctype_v1": "letter"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "Part 4. Eligibility to Sponsor ( (Continued), Form I-864 ( (1/21/98)Y Page 3"
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                2023,
+                2000
+            ]
+        }
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false
+}

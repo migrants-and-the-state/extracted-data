@@ -1,0 +1,36 @@
+{
+    "anumber": "A42848739",
+    "id": "A42848739_0002",
+    "page_index": 2,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A42848739_0002/full/max/0/default.jpg"
+    },
+    "fields": {
+        "doctype": {
+            "ms_doctype_v1": "form"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "OPTIONAL FORM 2 (230 ( (French) (Rev. 6-82), 230"
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Canada"
+            ]
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                1984,
+                1979,
+                1908,
+                1945,
+                1980,
+                2023,
+                1866,
+                1977,
+                1857
+            ]
+        }
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false
+}

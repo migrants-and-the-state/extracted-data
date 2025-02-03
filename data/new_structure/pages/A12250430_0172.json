@@ -1,0 +1,28 @@
+{
+    "anumber": "A12250430",
+    "id": "A12250430_0172",
+    "page_index": 172,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A12250430_0172/full/max/0/default.jpg"
+    },
+    "fields": {
+        "doctype": {
+            "ms_doctype_v1": "letter"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "CERTIFICATE OF IDENTITY UNDER RULES RELATING TO CHINESE RESIDENTS, 67098"
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "United States"
+            ]
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                2023
+            ]
+        }
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false
+}

@@ -1,0 +1,30 @@
+{
+    "anumber": "A73235174",
+    "id": "A73235174_0004",
+    "page_index": 4,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A73235174_0004/full/max/0/default.jpg"
+    },
+    "fields": {
+        "doctype": {
+            "ms_doctype_v1": "form"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "Processing Information ( (Continued), Form I-485 ( (Rev. 09-09-92)N"
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "United States"
+            ]
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                2023,
+                1933,
+                1945
+            ]
+        }
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false
+}

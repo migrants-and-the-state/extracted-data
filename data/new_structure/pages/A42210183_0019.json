@@ -1,0 +1,30 @@
+{
+    "anumber": "A42210183",
+    "id": "A42210183_0019",
+    "page_index": 19,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A42210183_0019/full/max/0/default.jpg"
+    },
+    "fields": {
+        "doctype": {
+            "ms_doctype_v1": "letter"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "RECORD OF SWORN STATEMENT ( (MISSING ARC), A 042 210 183"
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "United States",
+                "Somalia"
+            ]
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                1913,
+                2003
+            ]
+        }
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false
+}

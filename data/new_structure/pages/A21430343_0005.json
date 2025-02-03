@@ -1,0 +1,29 @@
+{
+    "anumber": "A21430343",
+    "id": "A21430343_0005",
+    "page_index": 5,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21430343_0005/full/max/0/default.jpg"
+    },
+    "fields": {
+        "doctype": {
+            "ms_doctype_v1": "form"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "Screened by NARA, 7/3/2023, FORM 1-94 (Rev. 4-167) (Parole Edition)"
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Vietnam"
+            ]
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                2023,
+                1915
+            ]
+        }
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false
+}

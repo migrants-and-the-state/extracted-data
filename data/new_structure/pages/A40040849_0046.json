@@ -1,0 +1,23 @@
+{
+    "anumber": "A40040849",
+    "id": "A40040849_0046",
+    "page_index": 46,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A40040849_0046/full/max/0/default.jpg"
+    },
+    "fields": {
+        "doctype": {
+            "ms_doctype_v1": "letter"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "\u751f\u6d3b\u4fdd\u8b49\u66f8 (OF-167)"
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                2023
+            ]
+        }
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false
+}

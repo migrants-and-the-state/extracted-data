@@ -1,0 +1,29 @@
+{
+    "anumber": "A34140438",
+    "id": "A34140438_0075",
+    "page_index": 75,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A34140438_0075/full/max/0/default.jpg"
+    },
+    "fields": {
+        "doctype": {
+            "ms_doctype_v1": "form"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "CERTIFICATE REGARDING DOCUMENTSS REQUIRED BY 22 CFR 4.111(b) WHICH ARE UNOBTAINABLE, FORM FS-582"
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "China"
+            ]
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                2023,
+                1974
+            ]
+        }
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false
+}

@@ -1,0 +1,30 @@
+{
+    "anumber": "A17224552",
+    "id": "A17224552_0028",
+    "page_index": 28,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17224552_0028/full/max/0/default.jpg"
+    },
+    "fields": {
+        "doctype": {
+            "ms_doctype_v1": "form"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "Petition to Classify Status of Alien Relative for Issuance of Immigrant Visa, I-130"
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "United States"
+            ]
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                1964,
+                2023,
+                1968
+            ]
+        }
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false
+}

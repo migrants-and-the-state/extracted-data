@@ -1,0 +1,29 @@
+{
+    "anumber": "A41319010",
+    "id": "A41319010_0018",
+    "page_index": 18,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A41319010_0018/full/max/0/default.jpg"
+    },
+    "fields": {
+        "doctype": {
+            "ms_doctype_v1": "letter"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "OPTIONAL FORM 2 6-82), FORMULARIO OPCIONAL 230 ( (Spanish) (Rev. 6-82)"
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "United States"
+            ]
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                2023,
+                1987
+            ]
+        }
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false
+}

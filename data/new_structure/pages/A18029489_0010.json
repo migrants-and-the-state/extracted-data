@@ -1,0 +1,23 @@
+{
+    "anumber": "A18029489",
+    "id": "A18029489_0010",
+    "page_index": 10,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A18029489_0010/full/max/0/default.jpg"
+    },
+    "fields": {
+        "doctype": {
+            "ms_doctype_v1": "form"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, Form J-486"
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                1969
+            ]
+        }
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false
+}

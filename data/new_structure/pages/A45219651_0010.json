@@ -1,0 +1,23 @@
+{
+    "anumber": "A45219651",
+    "id": "A45219651_0010",
+    "page_index": 10,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A45219651_0010/full/max/0/default.jpg"
+    },
+    "fields": {
+        "doctype": {
+            "ms_doctype_v1": "form"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "U.S. Department of Justice Immigration and Naturalization Service, I-102, I-129, I-129F, I-129S, I-130, I-539, I-730, I-589, I-765, I-131"
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                2023
+            ]
+        }
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false
+}

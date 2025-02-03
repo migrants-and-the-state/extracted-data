@@ -1,0 +1,40 @@
+{
+    "anumber": "A12994632",
+    "id": "A12994632_0060",
+    "page_index": 60,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A12994632_0060/full/max/0/default.jpg"
+    },
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "doctype": {
+            "ms_doctype_v1": "form"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "United States Department of Justice, Immigration and Naturalization Service, Form G-135a"
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "China",
+                "United States"
+            ]
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                1966,
+                1960,
+                1945,
+                1914,
+                2023,
+                1963,
+                1964,
+                1927,
+                1959
+            ]
+        }
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false
+}

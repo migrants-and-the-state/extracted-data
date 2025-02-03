@@ -1,0 +1,34 @@
+{
+    "anumber": "A21431061",
+    "id": "A21431061_0015",
+    "page_index": 15,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A21431061_0015/full/max/0/default.jpg"
+    },
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "doctype": {
+            "ms_doctype_v1": "form"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, A21 4 061"
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "United States"
+            ]
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                1880,
+                2023,
+                1975,
+                1978
+            ]
+        }
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false
+}

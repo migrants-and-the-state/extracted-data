@@ -1,0 +1,23 @@
+{
+    "anumber": "A26271163",
+    "id": "A26271163_0088",
+    "page_index": 88,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A26271163_0088/full/max/0/default.jpg"
+    },
+    "fields": {
+        "doctype": {
+            "ms_doctype_v1": "letter"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "APPEARANCES \u2013 An appearance shall be filed on Form G\u201328 by the attorney or representative appearing in each case. Thereafter, substitution may be permitted upon the written withdrawal of the attorney or representative of record or upon notification of the new attorney or representative. When an appearance is made by a person acting in a representative capacity, his personal appearance or signature shall constitute a representation that under the provisions of this chapter he is authorized and qualified to represent. Further proof of authority to act in a representative capacity may be required., G-28"
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                2023
+            ]
+        }
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false
+}

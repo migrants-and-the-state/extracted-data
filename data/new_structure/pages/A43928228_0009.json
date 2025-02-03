@@ -1,0 +1,29 @@
+{
+    "anumber": "A43928228",
+    "id": "A43928228_0009",
+    "page_index": 9,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A43928228_0009/full/max/0/default.jpg"
+    },
+    "fields": {
+        "doctype": {
+            "ms_doctype_v1": "form"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "NOTICE TO PERSONSS FILING FOR SPUSES IF MARRIED THAN TWO YEARS, Form I-751, Joint Petition to Remove the Conditional Basis of Alien\u2019s Permanent Resident Status"
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Pakistan",
+                "United States"
+            ]
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                2023
+            ]
+        }
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false
+}

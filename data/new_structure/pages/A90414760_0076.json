@@ -1,0 +1,32 @@
+{
+    "anumber": "A90414760",
+    "id": "A90414760_0076",
+    "page_index": 76,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A90414760_0076/full/max/0/default.jpg"
+    },
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "doctype": {
+            "ms_doctype_v1": "letter"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "REQUEST FOR ASYLUM FILED BY, A 23-606-639"
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "United States"
+            ]
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                2023,
+                1972
+            ]
+        }
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false
+}

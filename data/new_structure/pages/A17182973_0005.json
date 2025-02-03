@@ -1,0 +1,48 @@
+{
+    "anumber": "A17182973",
+    "id": "A17182973_0005",
+    "page_index": 5,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A17182973_0005/full/max/0/default.jpg"
+    },
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "doctype": {
+            "ms_doctype_v1": "letter"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "Certificate of Naturalization"
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "China",
+                "United States"
+            ]
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                1914,
+                2023,
+                1974
+            ]
+        },
+        "certificate_naturalization": {
+            "complexion": {
+                "complexion_llm_v1": "medium"
+            },
+            "marital_status": {
+                "marital_status_llm_v1": "Married"
+            },
+            "year_naturalization": {
+                "year_naturalization_llm_v1": 1974.0
+            },
+            "residence_naturlization": {
+                "residence_naturlization_llm_v1": "3426 Vinton Ave, #3, Los Angeles, California"
+            }
+        }
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": true
+}

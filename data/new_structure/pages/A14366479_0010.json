@@ -1,0 +1,23 @@
+{
+    "anumber": "A14366479",
+    "id": "A14366479_0010",
+    "page_index": 10,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A14366479_0010/full/max/0/default.jpg"
+    },
+    "fields": {
+        "doctype": {
+            "ms_doctype_v1": "form"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "\u041e\u0431\u0440\u0430\u0449\u0435\u043d\u0438\u0435 (\u0434\u043b\u044f \u0444\u0430\u043c.\u043f\u043e\u0441.), 10-21-65"
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                1878
+            ]
+        }
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false
+}

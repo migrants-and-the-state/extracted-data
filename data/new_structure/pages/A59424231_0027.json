@@ -1,0 +1,28 @@
+{
+    "anumber": "A59424231",
+    "id": "A59424231_0027",
+    "page_index": 27,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A59424231_0027/full/max/0/default.jpg"
+    },
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "femme"
+        },
+        "doctype": {
+            "ms_doctype_v1": "form"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "Acte de naissance, 51857"
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                1985,
+                2023,
+                1948
+            ]
+        }
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false
+}

@@ -1,0 +1,25 @@
+{
+    "anumber": "A56035718",
+    "id": "A56035718_0049",
+    "page_index": 49,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A56035718_0049/full/max/0/default.jpg"
+    },
+    "fields": {
+        "doctype": {
+            "ms_doctype_v1": "form"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "BIOMED Laboratoire de Biologie M\u00e9dicale Section de s\u00e9rologie virale, No. 5, 3\u00e8me Ave du Travail \u2022 Port-au-Prince \u2022 T\u00e9l.: 2: 2: 2445-7976 / 2445-2696 Fax: 2445-7792"
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                1906,
+                2023,
+                2002
+            ]
+        }
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false
+}

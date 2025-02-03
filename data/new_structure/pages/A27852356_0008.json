@@ -1,0 +1,32 @@
+{
+    "anumber": "A27852356",
+    "id": "A27852356_0008",
+    "page_index": 8,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A27852356_0008/full/max/0/default.jpg"
+    },
+    "fields": {
+        "doctype": {
+            "ms_doctype_v1": "form"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "APPLICATION AND AFFIDAVIT UNITED STATES ORDERLYLY DEPARTURE PROGRAM, S-1699 TO INS 17 Oct '85"
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                1912,
+                1942,
+                1937,
+                1960,
+                1973,
+                1901,
+                2023,
+                1944,
+                1879,
+                1947
+            ]
+        }
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false
+}

@@ -1,0 +1,33 @@
+{
+    "anumber": "A20865114",
+    "id": "A20865114_0059",
+    "page_index": 59,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A20865114_0059/full/max/0/default.jpg"
+    },
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "doctype": {
+            "ms_doctype_v1": "form"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "Screened by NARA 8/17/2023 UNITED STATES DEPARTMENT OF JUSTICE 'Immigration and Naturalization Service', OMB No. 4-40595"
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Vietnam",
+                "United States"
+            ]
+        },
+        "years": {
+            "ms_years_nlp_v1": [
+                2023,
+                1915
+            ]
+        }
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false
+}

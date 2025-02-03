@@ -1,0 +1,25 @@
+{
+    "anumber": "A10430675",
+    "id": "A10430675_0142",
+    "page_index": 142,
+    "resources": {
+        "full_jpg": "https://dctn4zjpwgdwdiiy5odjv7o2se0bqgjb.lambda-url.us-east-1.on.aws/iiif/3/og-2023-kc-nara_A10430675_0142/full/max/0/default.jpg"
+    },
+    "fields": {
+        "doctype": {
+            "ms_doctype_v1": "form"
+        },
+        "form_title": {
+            "ms_form_title_llm_v1": "Affidavit for Persons 14 Years of Age and Older, 9-20-47"
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Canada",
+                "China",
+                "United States"
+            ]
+        }
+    },
+    "is_g325a": false,
+    "is_cert_naturalization": false
+}
