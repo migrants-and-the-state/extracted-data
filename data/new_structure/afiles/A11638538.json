@@ -1,0 +1,65 @@
+{
+    "id": "A11638538",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Notice of Preliminary Naturalization Hearing, N-4 430A",
+                "Petition for Naturalization",
+                "Screened by NARA, 5/31/2023",
+                "APPLICATION TO FILE PETITION FOR NATURALIZATION, N-4 (000",
+                "Naturalization Application for Alien,, N-4-1205",
+                "National Archives and Records Administration ( Freedom of Information Act Request Form, NARA-FOIA-1023",
+                "Naturalization Application Form, N-4",
+                "NOTICE OF ENTRY OF APPEARANCE AS ATTORNEY OR REPRESENTATIVE, Form G-28",
+                "Naturalization Application Letter, 1519",
+                "APPLICATION BY LAWFUL PERMANENT RESIDENT ALIEN FOR ALIEN REGISTRATION RECEIPT CARD, FORM I-151, I-151",
+                "Alien Registration Receipt Card ( Form I-151, FPI-LPC-3-69-SOM-4387",
+                "APPLICATION BY LAWFUL PERMANENT RESIDENT ALIEN FOR ALIEN REGISTRATION RECEIPT CARD, FORM I-151",
+                "INSTRUCTIONS FOR APPLYING FOR AN ALIEN REGISTRATION RECEIPT CARD (FORM I-151, GPO 957-833",
+                "U.S. Naturalization Certificate, F0RM N-550",
+                "Notice of Final Naturalization Hearing, N-445A",
+                "Petition for Naturalization,, N-4-55231/2023",
+                "BIOGRAPHIC INFORMATION, G-325 ( (Rev. 10-1-82) Y",
+                "REFERENCE REQUEST\u2014FEDERAL RECORDS REQUEST FORM, 5011-106",
+                "United States Department of Justice Immigration and Naturalization Service, I-90",
+                "INSTRUCTIONS, I-151, Alien Registration Receipt Card; or in a lieu of one lost lost, mutilated, or destroyed.",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, NE-277 10-57(10)",
+                "United States Department of Justice Immigration and Naturalization Service, AR No. 638 538",
+                "Kenneth E. Bruce - Counsellor at Law, 1-485",
+                "IN THE MATTER OF WHITFIELD HUGH CAIN FOR PERMANENT RESIDENCE IN THE UNITED STATES",
+                "IMPUESTOS Y SERVICIOS VARIOS, 0861",
+                "CERTIFICACION, 0304504",
+                "Bankers Trust Company, 2203475",
+                "POLICE HEADQUARTERS. BELIZE., 559-57-P19-D 22-5 M.",
+                "CERTIFICATE OF MARRIAGE., 664-54-R40",
+                "Title: MEDICAL CERTIFICATE, Form Number: I-141",
+                "United States Department of Justice, Immigration and Naturalization Service, G-135a",
+                "Title: UNITED STATES DEPARTMENT OF JUSTICE\\nForm Number: G-135a ( (Rev. 1-15-59)",
+                "Central Intelligence Agency Personnel File, G-135a",
+                "APPLICATION FOR STATUS AS PERMANENT RESIDENT, FORM APPROVED 443-R400",
+                "Screeneded by NARA, 5/31/2023, Form No. T-530"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Latvia",
+                "Honduras",
+                "Estonia",
+                "China",
+                "Lithuania",
+                "Bulgaria",
+                "Albania",
+                "Poland",
+                "Hungary",
+                "Cuba",
+                "Vietnam",
+                "Belize",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 46
+}

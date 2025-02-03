@@ -1,0 +1,53 @@
+{
+    "id": "A72851592",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE MEMORANDUM OF CREATION OF RECORD OR LAWFUL PERMANENT RESIDENCE, FORM 1-181",
+                "Request for the Return of Original Document(s), Form G-884 ( (Rev. 9/23/92) N",
+                "Affidavit of Identity",
+                "Application for Permanma Residence, I-485 ( (REV. 2-27-47)N",
+                "Title: Screening Form by NARA, 8/11/2023, Form Number: Not visible in the image provided.",
+                "Biographic Information Form, G-228A",
+                "U.S. Government Printing Office, 282-065/25257",
+                "Petition for Alien Relative, I-130",
+                "Information about your alien relative, I-139",
+                "NOTICE TO PERSONSS FILING FOR SPOUSES IF MARRIED LESS THAN TWO YEARS, Form I-751, Joint Petition to Remove the Conditional Basis of Alien\u2019s Permanent Resident Status",
+                "Medical Examination of Aliens Seeking Adjustment of Status",
+                "Medical Clearance Requirements for Aliens Seeking Adjustment of Status",
+                "NARA - National Cholesterol Educational Program, Screeneded by NARA, 8/11/2023",
+                "Paternity Evaluation Report, BC800D",
+                "GENETIC DESIGN, A72851592",
+                "EXPLANATION OF PATERNITY EVALUATION RESULTS, NARA, 8/11/2023",
+                "Screened by NARA, 8/11/2934, Integrated Genetics",
+                "Mission Bethanie Ind\u00e9pendante d\u2019Haiti, 96322yy",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, I-72",
+                "LIBERTY EQUALITY FRATERNITY, NARA-8/11/2023",
+                "CERTIFICAT DE BAPT\u00caME, ANha 575042",
+                "LIBERTY EQUALITY FRATERNITY",
+                "Certificat de Naissance, H N\u00b0 51520",
+                "SFMA CREDIT UNION, 1500 N.W. 62nd Street \u2022 Suite 308 \u2022 Fort Lauderdale, Florida \u2022 33309",
+                "Screeneded by NARA, 8/11/2023, SIGNALEMENT DU TITULAIRE",
+                "LIBERTY EQUALITY FRATERNITY, EXTRACT FROM THE REGISTERS OF BAPTISM",
+                "LIBERT\u00c9, \u00c9TAT, FRATERNIT\u00c9, ANha 575042",
+                "Additional Questions to be Completed by All Applicants for Permanent Residence in the United States, 9003",
+                "Acte de Naissance, H N\u00b0 51520",
+                "United States Department of Justice Immigration and Naturalization Service, A-72851592",
+                "U.S. Department of Justice Immigration and Naturalization Service, FORM G-325A",
+                "U.S. Department of Justice Immigration and Naturalization Service, G-329A",
+                "U.S. Department of Justice Immigration and Naturalization Service, G-325A"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Haiti",
+                "Germany",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 43
+}

@@ -1,0 +1,38 @@
+{
+    "id": "A30784652",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "VIOLIN, WILHELMINE, G-361",
+                "Immigrant Visa and Alien Registration, FORM 1-68 FS-511",
+                "DEMANDE DE VISA D'IMMIGRANT ET D'APPELLATION \u00c0 TITRE D'\u00c9TRANGER, Form Approved Budget Bureau No. 4-0150",
+                "Form FS-510 ( (French), Form FS-510 ( (French)",
+                "Form FS-510 ( (French), FORM FS-510 ( (French)",
+                "Petition to Classify Status of Alien Relative for Issuance of Immigrant Visa, Form 1-30",
+                "Alien Beneficiary Adjustment of Status Application Form I-4",
+                "MINIST\u00c8RE DE LA JUSTICE DIRECTION DES AFFAIRES CRIMINELLES ET DES GRACES, BULLETIN N\u00b0 3",
+                "ACTE DE NAISSANCE, 70 02 345",
+                "Extrait de l'Acte de MARIAGE N\u00b0 77, MARGINALALES (a)",
+                "JUGEMENT CIVIL, 291",
+                "Le proc\u00e8s de Bauer",
+                "Condamnation de SCHWALBE \u00e0 payer au domicile de la dame Wilhelminette du temps r\u00e9publicain, 1950 vol. 1",
+                "AFFIDAVIT OF SUPPORT.",
+                "DEPARTMENT OF STATE FOREIGN SERVICE OF THE UNITED STATES OF AMERICA MEDICAL EXAMINATION OF VISA APPLICANTS, FS-398"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "France",
+                "Austria",
+                "Mexico",
+                "Canada",
+                "Morocco",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 20
+}

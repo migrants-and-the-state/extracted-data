@@ -1,0 +1,45 @@
+{
+    "id": "A22099370",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": null
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Screened by NARA, 2/10/2023 INITIAL, N-250",
+                "Screened by NARA, 2/10/2023 initial, I-94",
+                "IMPORTANT NOTICE, ARRIVAL \u2014 DEPARTURE RECORD FORM I-94 (Rev. 9-1-73)N ( (Parole Edition)",
+                "Screened by NARA, 2/10/2023 Initial, FORM I-94 (Rev. 9-1-73N) Parole Edition",
+                "INDEX CARD, G-361 ( (Rev. 4-1-76) N",
+                "INDEX CARD, G-361 (Rev. 10-1-70) N",
+                "FEDERAL BUREAU OF INVESTIGATION UNITED STATES DEPARTMENT OF JUSTICE, FD-258 ( (REV. 8-17-76)",
+                "MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, A2 099 370",
+                "INSTRUCTIONS",
+                "Title: MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, Form Number: 1-357",
+                "APPLICATION BY INDOCHINESE REFUGEE FOR PERMANENT RESIDENCE, Form Approved",
+                "Application for Naturalization and Adjustment of Status, I-412",
+                "Screeneded by NARA, 2/10/2023",
+                "Police Department Letter to the American Consulate General,, P.O. BOX 4398, Odessa, Texas 79760",
+                "Title: BIOGRAPHIC INFORMATION\\nForm Number: G-325A, (REV. 10-1-74)",
+                "United States Department of Justice Immigration and Naturalization Service Processing Sheet, I-485",
+                "Biographic Information",
+                "MEDICAL EXAMINATION OF VISA APPLICANTS, FS-398",
+                "Migration and Refugee Services",
+                "LOI KHAI HUU THE CUUA NGUO TY NAN XIN NAP CANH HOA KY, A2209370",
+                "Sworn Statement of Refugee Applying for Parole into the United States, G-646(3.12-75)",
+                "AFFIDAVIT RE ASSETS AND LIABILITIES TO BE SUBMITTED BY EVERY REFUGEE 17 YEARS OF AGE OR OVER APPLYING FOR PAROLE INTO THE UNITED STATES, G-648 ( (G-275)",
+                "AFFIDAVIT FOR RELATIONSHIP FOR REFUGEE APPLYING FOR PAROLE INTO THE UNITED STATES, G-651 ((7-18-75)"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Laos",
+                "Singapore",
+                "Cambodia",
+                "Vietnam",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 41
+}

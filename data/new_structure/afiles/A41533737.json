@@ -1,0 +1,62 @@
+{
+    "id": "A41533737",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Naturalization Certificate, N-550 Rev. 6-91",
+                "Application for Naturalization, N-4",
+                "Information about your residences and employment., NARA, 9/25/2023",
+                "Part 7. Additional eligibility factors., Form N-406 ( (Rev 07/17/91)N",
+                "Screened by NARA, 9/25/2023, N-100 ( Rev. 07/17'91)",
+                "Oath of Renunciation and Allegiance, CR-158",
+                "Social Security Card, Form OA-702 ( (1-88)",
+                "NOTICE FOR OATH CEREMONY AT TEXAS STADIUM",
+                "Naturalization Application for Naturalization, Form N-4-500, NARA",
+                "U.S. DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, NACS WORKS SHEET - DALLAS DISTRICT",
+                "U.S. DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE NACS WORKS SHEET - DALLAS DISTRICT, N-400",
+                "Screened by NARA, 9/25/2023",
+                "Notice of Naturalization Interview, N-4-30A (Rev. 12/30/91) N",
+                "TO SERVE YOU MORE EFFICIENTLY, M-180 ( (Rev. 10-15-75) Y",
+                "Screeneded by NARA, 9/25/2023, NARA Form Number: 14533737.",
+                "Screened by NARA, 9/25/2023, FOIA ( (b)(6)",
+                "Screened by NARA, 9/25/2023, NARA-14687",
+                "Immigrant Visa and Alien Registration",
+                "OPTIONAL FORM 230 ( (English) (Rev.6-82)",
+                "OPTIONAL FORM 230 ( (English) ( (Rev. 6-82), 230",
+                "Form 2230 ( (English) ( Rev. 6-82",
+                "OPTIONAL FORM 220 ( (English) (Rev. 6-82, Form Number: 230",
+                "Individual Fee Register Receipt, G-71",
+                "Freedom of Information Act ((b)(6), FOIA ( (b)(6)",
+                "Certificate of Marriage Celebrated in Other Forms, FOIA (b)(6)",
+                "Screened by NARA, 9/25/2023, NARA Form Number: 16-3-82",
+                "Affidavit, FOIA (b)(6)",
+                "INDIA",
+                "Affidavit",
+                "Affidavit of Residence",
+                "BIRTH CERTIFICATE, No.CHIC/ 977 /82/A&O",
+                "Oath Affirmation",
+                "Form No. 102/38",
+                "COOK COUNTY SHERIFF'S POLICE DEPARTMENT, RECORD IN UNINCORPORATED COOK COUNTY",
+                "AFFIDAVIT OF SUPPORT, Form 1-344",
+                "FOIA ( (b)(6), FOIA ( (b)(6)",
+                "CERTIFICATE OF MARRIAGE CELEBRATED IN OTHER FORMS, L.S.G. No. SMA-14/3234/F/8-6-59",
+                "Screened by NARA, 9/25/2023, Screening Report",
+                "MEDICAL Examination of Applicants for United States Visas",
+                "REach Candy Hospital & Research Centre, DSP/PJ/gvb",
+                "BREACH CANDY HOSPITAL & RESEARCH CENTRE, DSP/PJ/gvb"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Canada",
+                "India",
+                "United States",
+                "Mexico"
+            ]
+        }
+    },
+    "page_count": 57
+}

@@ -1,0 +1,81 @@
+{
+    "id": "A42733525",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Naturalization Certificate, N-550 Rev. 6-91",
+                "Certificate of Naturalization, FORM N-550 REV. 6-91",
+                "Application for Naturalization, N-4 (000",
+                "Information about your residences and employment., N-400 ( (Rev 07/17/91)N",
+                "Part 7. Additional eligibility factors., N-4 (Rev 07/1971N",
+                "Screened by NARA, 9/26/2023, Form N 100 ( (Rev 07/17'91)",
+                "Certificate Preparation Sheet and Oath Declaration, A# 42733525",
+                "Screeneded by NARA, 9/26/2023, A427335.25",
+                "Medical Certification For Disability Expections, N-648 ( Form N-648",
+                "Screened by NARA, 9/26/2023",
+                "Medical Certification For Disability Expections",
+                "Medical Assessment Form, N-648 ( 06/2497)",
+                "Social Security",
+                "U.S. Immigration and Naturalization Service, Form N-14",
+                "Naturalization Application Form, NARA-09247",
+                "Notice of Interview, N-340A (Rev. 5/23/94) Y",
+                "Screened by NARA, 9/26/2023, NARA-1458",
+                "ALIEN REGISTRATION RECEIPT CARD, IR5 SFR 911127 245",
+                "U.S. DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE CITIZENSHIP USA, A 42733525",
+                "Effort to Provide a Quick and Pleasant Interview Process,, NARA, 9/26/2023",
+                "Naturalization Oath Ceremony Mailer, N-4:00",
+                "Notice of Naturalization Oath Ceremony, N-445 (Rev. 1/8/92",
+                "N-4 Processing Worksheet ( (CONT), A# 042733525",
+                "Form N-4 Processing Sheet, 4rm 4-00",
+                "Fingerprint Card, N-400",
+                "Immigrant Visa and Alien Registration, IV-42733525",
+                "APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION, 230",
+                "OPTIONAL FORM 220 (English-Chinese) (Rev.6-82), OPTIONAL FORM 230 (English-Chinese) (Rev.6-82)",
+                "OPTIONAL FORM 2 (30 ((English-Chinese) )(Rov.6-82), EXCEPT AS OTHERS, LAW, ALIENS WII OF THE",
+                "OPTIONAL FORM 220 ( (English-Chinese) Screened by NARA, 9/26/2023",
+                "\u5e38\u4f4f\u4eba\u53e3\u767b\u8bb0\u8868, \u67284\u4f9b\u900908 88112",
+                "Declaration by Sponsor, GIV-9 (Rev. 3/83",
+                "Affidavit of Support",
+                "Oath or Affirmation of Deponent, NARA-1023456789",
+                "\u7b7e\u8bc1\u7533\u8bf7\u4eba\u5bb6\u5ead\u5c65\u5386\u8868, GIV-24. ( REV. 6/85",
+                "MY NATURAL CHILDREN, ADOPTED CHILDREN, STEP CHILDREN AND FOSTER CHILDREN ( (CHILDREN SHOULD INCLUDE ALL SONS AND DAUGHTERS WHETHER MARRIED OR UNMARRIED). IF CHILDREN ARE DECEASED GIVE DATE OF DEATH.",
+                "MY NATURAL BROTHERS AND SISTERS, ADOPTED BROTHERS AND SISTERS",
+                "MY SPOUSE'S NATURAL BROTHERS AND SISTERS, ADOPTED BROTHERS AND SISTERS, STEP BROTHERS AND SISTERS FOR EASEL",
+                "Translation Notarial Certificate, (90) H.J.Z.W.Z.No.10148",
+                "\u516c\u8bc1\u4e66, (91)\u6caa\u9759\u8bc1\u5916\u5b57\u7b2c8267\u53f7",
+                "Translation Notarial Certificate, (91)H.J.Z.W.Z.No.8267",
+                "Translation Notarial Certificate, (91)H.J.Z.W.Z.No.2608",
+                "Translation Notarial Certificate, (91)H.J.Z.W.Z.No.2609",
+                "Medical Examination of Applicants for United States Visas, 157",
+                "Additional Questions to be Completed by All Applicants for Permanent Residence in the United States, 9003",
+                "U.S. Department of Justice (INS, Form I-130 ( Rev. 02/28-97) N, I-130, Form I-130",
+                "Screeneded by NARA, 9/26/2023, Form Number: 1831",
+                "Certificate of Naturalization, N-550-C ( (REV. 11-1-87)",
+                "NOTICE",
+                "Translation Notarial Certificate",
+                "Translation, (85)H.Z.W.Z.No.6082",
+                "78TCLC#40, CIVIL COMPROMISING AGREEMENT",
+                "FINAL JUDGMENT ( (FAMILY LAW)",
+                "Marriage Certificate,, 86.",
+                "NOTICE OF ENTRY OF JUDGMENT ( (FAMILY LAW), 252833",
+                "Marriage Certificate",
+                "\u7ed3\u5a5a\u8bc1, (85)\u6caa\u5b57\u7b2c056\u53f7",
+                "\u7d50\u5a5a\u8b49, 150",
+                "NOTICE OF APPROVAL OF RELATIVE INMIGRANT VISA PETITION, Form I-171",
+                "Immigration and Naturalization Service, I-130"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "United States",
+                "Canada",
+                "China",
+                "Mexico"
+            ]
+        }
+    },
+    "page_count": 81
+}

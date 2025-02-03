@@ -1,0 +1,81 @@
+{
+    "id": "A43194558",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Notice of Naturalization Oath Ceremony",
+                "Application for Naturalization",
+                "Certificate of Naturalization, N-550",
+                "Naturalization Application",
+                "Part 3. Information About You., Form N-4 (00 ( (Rev. 10/26/05) Y Page 2",
+                "Information for Criminal Records Search",
+                "Information About Your Marital History, N-4 (00",
+                "Information About Your Children, N-4",
+                "Additional Questions. ( (Continued), N-400",
+                "Good Moral Character,, Form N-400 (Rev. 10/26/05)",
+                "Oath Requirements. ( (See Part 14 for the Text of the Oath)",
+                "Naturalization Application for Alien,",
+                "Naturalization Interview Results, N-652, Naturalization Interview Results",
+                "OATH CEREMONY Information Sheet",
+                "U.S. Naturalization Test, Standard Form 6",
+                "3CCIS Naturalization Testing ( (CLAIMS4)",
+                "Notice of Action, I-797C",
+                "Screeneded by NARA, 6/13/2023, Form I-485, Application to Register Permanent Residence or Adjust Status.",
+                "Naturalization Services Decision Notice",
+                "Application for Naturalization, N-4",
+                "Information about your residences and employment., N-400 ( (Rev 07/19/91)N",
+                "Memberships and organizations., N-4",
+                "U.S. DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE CITIZENSHIP USA, A 43194558",
+                "Efficient Interview Process for Naturalization Applicants, NARA Form 1043A",
+                "Resident Alien, A1USA043194558<01<9111<<<<<ZEPEDA-FUENTES-JULIO-CESAR",
+                "Fingerprint Card, N-400",
+                "PRE-SCREENING QUESTIONNAIRE, I-151/I-551",
+                "U.S. Department of Homeland Security Citizenship and Immigration Services N-4 Adjulion Processing Worksheet, N-650B ( Rev. 9/30/03",
+                "U.S. Department of Homeland Security Bureau of Citizenship and Immigration Services N-4 Pre-Processing Worksheet, N-650A ( (Rev.9/30/03)",
+                "N-4 Processing Worksheet, 043 19458",
+                "OFFICER SCREENING FORM, N-650(6/25/97)",
+                "U.S. Department of Justice Immigration and Naturalization Service, ELM-1 ( (2/7/98)",
+                "Screeneded by NARA, 6/13/2023, N-648",
+                "Screened by NARA, 6/13/2023, N-400",
+                "IMMIGRATION AND NATURALIZATION SERVICE FBI TRACKING SYSTEM, FDDSLT1",
+                "Immigrant Visa and Alien Registration, IV-43,1944558",
+                "APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION, Optional Form 230 B",
+                "OPTIONAL FORM 230 B, Screened by NARA 6/13/2023",
+                "Formulario Opccional 230 B, OPTIONAL FORM 230 B",
+                "OPTIONAL FORM 2 3 B, F\u00f3rmula 0 n c i o n al 230 E",
+                "NOTICE OF ENTRY OF APPEARANCE AS ATTORNEY OR REPRESENTATIVE, G-28",
+                "Petition for Alien Relative, NARA-1115-0054",
+                "C. ( (Continued) Information about your alien relative",
+                "Certificate of Naturalization, N-550-C ( (REV. 11-1-87)",
+                "Title: TRANSLATION OF MARRIAGE CERTIFICATE, Form Number: 2444",
+                "Partida Mu\u00f1equero, dor 4 32",
+                "TRANSLATION OF BIRTH CERTIFICATE",
+                "Certificado de Nacimiento, 5A",
+                "Medical Examination of Applicants for United States Visas, NSN 7540-00-139-0058",
+                "CLINICA DE RAYos X - BRITO - MEJIA PENA, 9107426",
+                "El Alcalde Municipal de Esta Ciudad, 0059202",
+                "Screened by NARA, 6/13/2023",
+                "C cortes de cuentas, 120214",
+                "CERTIFICADO DE TRAMITACI\u00d3N DE ESTE CERTIFICADO DE POLICIA, NO. 0700",
+                "Affidavit of Support",
+                "Oath or Affirmation of Deponent, NARA Form 1045A",
+                "Title: Gallus Restaurant & Bar\\nForm Number: 4",
+                "Additional Questions to be Completed by All Applicants for Permanent Residence in the United States, 9003"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Germany",
+                "Georgia",
+                "Mexico",
+                "Canada",
+                "El Salvador",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 94
+}

@@ -1,0 +1,60 @@
+{
+    "id": "A34698683",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Petition for Naturalization, FORM N-45 ( (REV. 4-1-82N)",
+                "RESULT OF EXAMINATION",
+                "APPLICATION TO FILE PETITION FOR NATURALIZATION, N-4 ( 4(5-2-82) Y",
+                "Naturalization Application,, N-4-1502",
+                "World War II Army Enlistment Form",
+                "Naturalization Application Form, N-4-136",
+                "Screened by NARA, 7/29/2023, G-361",
+                "Notice of Preliminary Naturalization Hearing, N-150A",
+                "Title: Naturalization and Citizenship Application Form, Form Number: 10-4-23, Form Number: 10-0-23",
+                "DOMestic Return Receipt, PS Form 3811",
+                "REceIPT FOR CERTIFIED MAIL, P-478 648 108",
+                "STik Postage Stamps to Article to Cover First Class Postage, Certified Mail Fee, and Charges for Any Selected Optional Services.",
+                "Notice to Petitioner Concerning Your Petition for Naturalization and the Proposed Recommendation for Dismissal, N-1024",
+                "United States Department of Justice Immigration and Naturalization Service Processing Sheet, N400/N405",
+                "U.S. Department of J 'ice Immigration and Naturalization Service",
+                "Naturalization Application Form, N-4",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE Processing Sheet, A-34 698-683",
+                "United States Department of Justice Immigration and Naturalization Service, Form Approved OMB No. 4-43-R46",
+                "Immigrant Visa and Alien Registration, FS-511",
+                "APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION, F-510",
+                "Personal Information Form, FOIA ( (b)(6)",
+                "Screeneded by NARA, 7/28/2023, Form Number: I-415",
+                "U.S. Government Printing Office Form 1975 O - 580-442, Immigration Application for Adjustment of Status or Consular Processing",
+                "Petition for Relative in the United States to be Granted a Immigrant Visa,, Form I-130.",
+                "Petition for Alien Relative, I-130",
+                "AFFIDAVIT, 4",
+                "Safeguarding the Environment, Form 100",
+                "MARRIAGE CERTIFICATE",
+                "AFFIDAVIT",
+                "Certificate of Good Standing",
+                "Letter from the Ministry of Foreign Affairs, 7/28/2023",
+                "AFFIDAVIT., 5 RS.",
+                "THE INDIAN REVENUE ACT, 1860, Form No. 234",
+                "AFFIDAVIT, 5 RS.",
+                "FIVE POUNDS",
+                "DEaTH CERTIFICATE OF RAZIA BEGUM W/O ABDUL MAJED S/O CH.NAWAB UD DIN WHO DIED ON SEPT'7, 1947., 2, 02531",
+                "AFFIDAVIT OF SUPPORT, Form 1-134 ( (Rev. 3-1-76)N",
+                "Screeneded by NARA 7/28/2023, FPI-LOM-7:25:77"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Mexico",
+                "Canada",
+                "India",
+                "Pakistan",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 58
+}

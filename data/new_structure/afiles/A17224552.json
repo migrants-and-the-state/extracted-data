@@ -1,0 +1,67 @@
+{
+    "id": "A17224552",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Screened by NARA, 7/10/2023, A11 579 353",
+                "REPORT of Action - Nonimmigrant, I-530 ( Rev. 11-15-64",
+                "INDEX CARD, G-361 ( (REV.-AVP-11-1-66",
+                "APPLICATION BY LAWFUL PERMANENT RESIDENT ALIEN FOR ALIEN REGISTRATION RECEIPT CARD, FORM I-151, Form I-151",
+                "ALIEN REGISTRATION RECEIPT CARD APPLICATION, F-151",
+                "MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, A-17 224 552",
+                "INSTRUCTIONS, I-181",
+                "APPLICATION FOR STATUS AS PERMANENT RESIDENT, Form Approved Budget Bureau No. 4-4005.",
+                "Deportation Proceedings, I-102",
+                "Verification of Employment and Salary Information for Saidul Z. Choudhry, Form Number: NARA-2023",
+                "Affidavit of Support",
+                "Screeneded by NARA, 7/10/2023, FOIA ( (b)(6)",
+                "HOME SAVINGS AND LOAN ASSOCIATION OF LOS ANGELES, NARA, 7/10/2023",
+                "Biographic Information, Form G-325A",
+                "DEPARTMENT OF FOREIGN SERVICE OF THE UNITED STATES OF AMERICA MEDICAL EXAMINATION OF VISA APPLICANTS, FORM FS-398",
+                "UNITED STATES DEPARTMENT OF JUSTICE, Immigration and Naturalization Service, FILE# A-17 224 552",
+                "UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service, FILE# A-17 224 552",
+                "Screened by NARA, 7/10/2023, A 17224552",
+                "RADIOLOGY",
+                "RADIOLOGY, COPY",
+                "Medical and Immigration Examination Appointments, A-17 224 552",
+                "Petition to Classify Status of Alien Relative for Issuance of Immigrant Visa, I-130",
+                "Application for Adjustment of Status,, I-412.",
+                "HOME SAVINGS AND LOAN ASSOCIATION OF LOS ANGELES, TCG: jkm",
+                "Screeneded by NARA, 7/10/2023, TRW SYSTEMSS",
+                "Affidavit",
+                "Original seen and returned. Certified a true and correct copy., USIMS",
+                "U.S. Department of Justice Immigration & Naturalization Service, RF 2 BOX 150 Yuba City, Calif.",
+                "United States Department of Justice Immigration and Naturalization Service",
+                "CHECK APPLICABLE ITEM AND INSERT REQUIRED ADDED INFORMATION, GPO 954702",
+                "United States Department of Justice Immigration and Naturalization Service Officer's Review and Action Sheet, I-485",
+                "Department of Justice Immigration and Naturalization Service, FOIA ( (b)(6)",
+                "APPLICANT:, FORM G-325A",
+                "Biographic Information, FORM G-325A",
+                "Biographic Information, FORM G-325 A REV. 4-1-67"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Latvia",
+                "Germany",
+                "Estonia",
+                "China",
+                "Greece",
+                "Italy",
+                "Lithuania",
+                "Bulgaria",
+                "Albania",
+                "Poland",
+                "Hungary",
+                "Cuba",
+                "Vietnam",
+                "Pakistan",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 52
+}

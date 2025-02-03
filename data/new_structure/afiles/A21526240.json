@@ -1,0 +1,50 @@
+{
+    "id": "A21526240",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, A21 526 240",
+                "INSTRUCTIONS",
+                "MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, A2 526 240",
+                "Individual Register Receipt, FORM NE 353(R)",
+                "APPLICATION FOR STATUS AS PERMANENT RESIDENT, 4 43-R040",
+                "Screeneded by NARA, 7/31/2023, NARA Form No. 4-1568",
+                "Screeneded by NARA, 7/31/2023, Form I-590A",
+                "THE BELAPUR COMPANY, LIMITED, Reference No. 3068",
+                "Affidavit",
+                "INDIA, 3R$",
+                "Affidavit of Support",
+                "Immigration and Naturalization Service Affidavit for Support,, N-4-1026A",
+                "STATE OF CALIFORNIA\u2014HEALTH AND WELFARE AGENCY, DEPARTMENT OF HEALTH PORTERVILLE STATE HOSPITAL",
+                "NOTICE OF APPROVAL OF RELATIVE IMMIGRANT VISA PETITION, Form 1 - 171",
+                "Petition to Classify Status of Alien Relative for Issuance of Immigrant Visa",
+                "Application for Adjustment of Status to that of a Lawful Permanent Resident in the Office of Immigration and Naturalization Services Form I-440, Application for Alien Registration ( 23.179; Block II - Information About Alien Beneficiary (Continued.",
+                "APPLICATION TO FILE PETITION FOR NATURALIZATION, N-400 ( (Rev. 5-2-82) Y",
+                "Naturalization Application,, N-4-1",
+                "Military Service and Personal Information Form",
+                "Naturalization Application,, N-4-136",
+                "Notice of Preliminary Naturalization Hearing, N-430A",
+                "Screened by NARA, 7/31/2023, PERSONAL DESCRIPTION FORM",
+                "Petition for Naturalization, FORM N-45 ( (REV. 4-1-82N)",
+                "Petition for Naturalization, Form N-4",
+                "RESULT OF EXAMINATION",
+                "Biographic Information, OIMB No. 4-3-R86",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE",
+                "DEPARTMENT OF STATE FOREIGN SERVICE OF THE UNITED STATES OF AMERICA MEDICAL EXAMINATION OF VISA APPLICANTS, FS-398",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE Processing Sheet, I-485 ( (245)",
+                "BIOGRAPHIC INFORMATION, G-325A ( (REV. 8-27-72IN)",
+                "Screeneded by NARA, 7/31/2023, A21 526 239 A21 526 2440"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "India",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 41
+}

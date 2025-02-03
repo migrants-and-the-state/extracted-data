@@ -1,0 +1,51 @@
+{
+    "id": "A71600737",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": null
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "U.S. DEPARTMENT OF JUSTICE Immigration and Naturalization Service, I-181 ( Rev.(3-1-83) N",
+                "Screeneded by NARA, 7/20/2023",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, Form I - 181b ( (Rev. 3-1-83) N",
+                "Medical Examination of Aliens Seeking Adjustment of Status",
+                "Medical Clearance Requirements for Aliens Seeking Adjustment of Status",
+                "PARS MEDICAL CLINIC, 184708-8444",
+                "HEPATITIS INTERPRET 'ON AND ACTION GUIDE, Screened by NARA, 7/20/2023",
+                "Affidavit of Support",
+                "FOIA ( (b)(6), OATH OR AFFIRMATION OF DEPONENT",
+                "U.S. Department of Justice Immigration and Naturalization Service",
+                "Servicio de Inmigraci\u00f3n y Naturalizaci\u00f3n, I-94",
+                "Aviso, NARA, 7/20/2023",
+                "Application for Permanma. Residence, I-485",
+                "FOIA ( (b)(6), 22.",
+                "Biographic Information Form, G-325A",
+                "U.S. Government Printing Office: 1990-262/210/15189",
+                "Title: U.S. Department of Justice, Immigration and Naturalization Service\\nForm Number: G-325 ( (Rev. 10-1-82)",
+                "U.S. Department of Justice Immigration and Naturalization Service BIOGRAPHIC INFORMATION, OMB No. 1115-0068",
+                "BIOGRAPHIC INFORMATION, G-325A",
+                "Petition for Alien Relative, Form 1-30 ( Rev. ( 10/89) USINS",
+                "Continued Information about your alien relative, FOIA (b(6)",
+                "NOTICE TO PERSONSS FILING FOR SPOUSES IF MARRIED LESS THAN TWO YEARS",
+                "Birth Certificate, 00036",
+                "PRIMERA CLASE UN LEMPIRA 1988-1991, 34764466",
+                "CERTIFICATE OF MATRIMONY, T-B-9",
+                "CERTIFICADO DE MATRIMONIO, CATEDRAL",
+                "Rep\u00fablica de Honduras, 059203",
+                "The United States of America, N-550 ( (REV. 11-1-87)Y",
+                "Immigration and Naturalization Service",
+                "Processing Sheet - Forms 1-485 & I-485A, I-485/A",
+                "DATA COLLECTION FOR ALIEN DOCUMENTATION, IDENTIFICATION & TELECOMMUNICATION SYSTEM (ADIT, A71600737"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Honduras",
+                "Germany",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 42
+}

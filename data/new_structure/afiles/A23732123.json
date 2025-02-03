@@ -1,0 +1,49 @@
+{
+    "id": "A23732123",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "INDEX CARD, G-361 ( (Rev. 4-1-76) N",
+                "Screened by NARA, 2/10/2023 initial, I-94",
+                "ARRIVAL \u2014 DEPARTURE RECORD, FORM I-94 ( (Rev. 9-1-73)N ( (Parole Edition)",
+                "UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service, 423732123",
+                "Title: MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, Form Number: 181 ( (Rev. 11-2-79) Y",
+                "INSTRUCTIONS",
+                "Title: MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, Form Number: Form I-181 ( (Rev. 11-26-79) Y",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE",
+                "United States Department of Justice Immigration and Naturalization Service, G 56",
+                "APPLICATION BY Indochinese Refugee for Permanent Residence, 44 2/10/2023",
+                "Freedom of Information Act ((b)(6), FOIA ( (b)(6)",
+                "Screeneded by NARA, 2/10/2023",
+                "BIOGRAPHIC INFORMATION, Form Approved OMB No. 4-43 R46",
+                "LOS ANGELES POLICE DEPARTMENT, 10.4.3",
+                "Title: Memorandum of Creation of Record of Lawful Permanent Residence, Form Number: A-23-732-123",
+                "APPLICATION BY INDOCHINESE REFUGEE FOR PERMANENT RESIDENCE, OMB No. 4-0595",
+                "Title: BIOGRAPHIC INFORMATION\\nForm Number: OMB No. 4-436",
+                "APPLICATION FOR VERIFICATION OF INFORMATION FROM IMMIGRATION AND NATURALIZATION SERVICE RECORDS, 04-RO570",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE Processing Sheet, I-485C",
+                "Screened by NARA, 2/10/2023 initial, 4-94 ( (Rev. 9-73)N",
+                "Affidavit Re Relation for Refugee Applying for Parole into the United States",
+                "AFFIDAVIT RE ASSETS AND LIABILITIES TO BE SUBMITTED BY EVERY REFUGEE 17 YEARS OF AGE OR OVER APPLYING FOR PAROLE INTO THE UNITED STATES, G-648 ( (9/8/77)",
+                "SWORN STATEMENT OF REFUGEE APPLYING FOR PAROLE INTO THE UNITED STATES, G-64",
+                "MEDICAL Examination of Visa Applicants, 12227",
+                "RADIOLOGIST'S REPORT, 1227",
+                "EMBASSY OF THE UNITED STATES OF AMERICA"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Malaysia",
+                "Laos",
+                "China",
+                "Cambodia",
+                "Vietnam",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 47
+}

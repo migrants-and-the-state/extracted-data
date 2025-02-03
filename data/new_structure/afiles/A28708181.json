@@ -1,0 +1,64 @@
+{
+    "id": "A28708181",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Receipt for Certified Mail, RS Form 3800",
+                "Screened by NARA, 8/22/2023, PS Form 3800",
+                "Naturalization Decision Notice, N-336",
+                "Application for Naturalization, N-4",
+                "Information about your residences and employment., NARA, 8/22/2023",
+                "Part 7. Additional eligibility factors., N-400 ( Rev 07/17'91)",
+                "Part 9. Memberships and organizations., Form N-40 ( (Rev 07/19)N",
+                "KRISHAN S. KRISHNA, M.D., Screened by NARA, 8/22/2023",
+                "Notice of Interview, N-340A (Rev. 5/23/94) Y",
+                "Screened by NARA, 8/22/2023, NARA-14567",
+                "Certificate Preparation Sheet and Oath Declaration",
+                "Screeneded by NARA, 8/22/2023, Form I-445, Application to Register Permanent Residence or Adjust Status.",
+                "Form N-4 Processing Sheet",
+                "U.S. DEPARTMENT OF JUSTICE IMMIGRATION & NATURALIZATION SERVICE CALIFORNIA SERVICE CENTER, WAC-96-255-511122",
+                "U.S. DEPARTMENT OF JUSTICE Immigration and Naturalization Service, 181 ( (Rev.3-1-83) N",
+                "Screened by NARA, 8/22/2023, 181a(Rev. 3-1-83) N",
+                "MEDICAL Examination and Immigration Interview, FORM I-46",
+                "NOTICE OF ENTRY, APpearance as Attorney or Representative, G-28",
+                "FOIA ( (b)(6), FOIA ( (b)(6)",
+                "Application for Permanent Residence, I-485 ( (Rev. 06-23-86) Y",
+                "Biographic Information Form, G-325A",
+                "FEDERAL BUREAU OF INVESTIGATION UNITED STATES DEPARTMENT OF JUSTICE, FD-258 ( (REV. 7-13-77)",
+                "BIOGRAPHIC INFORMATION, G-325A",
+                "Affidavit of Support",
+                "Oath or Affirmation of Deponent, NARA-1023",
+                "ADVANTAGE CARE COMMERCE, 2633",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE MEDICAL EXAMINATION AND IMMIGRATION INTERVIEW",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE",
+                "Individual Fee Register Receipt, G-711",
+                "Petition for Alien Relative, I-130",
+                "DECLARATION OF KAPUR CHAND VIG, FOIA ( (b)(6)",
+                "DECLARATION OF SHEELA BAKSHI, FOIA ( (b)(6)",
+                "Notice of Interview",
+                "Request for Hearing on a Decision Naturalization Proceedings Under Section 336 of the Act, D-25",
+                "Request for Hearing on a Decision Naturalization Proceedings Under Section 336 of the Act, INS 10-24",
+                "Title: N-4 Processing Worksheet, Form Number: A# 028 708 181",
+                "U.S. Department of Justice - Immigration and Naturalization Service, A28 709181",
+                "Screeneded by NARA, 8/22/2023, WR-321 LOS",
+                "Naturalization and Naturalization Service, A28 708 181",
+                "Form N-4 Processing Sheet, 2rm N-00 Processing Sheet",
+                "FINGERPRINT INSTRUCTION, FD-258 ( (REV. 12-29-82)",
+                "APPLICATION CLERK DATE EXAMINED, I-485",
+                "DATA COLLECTION FOR ALIEN DOCUMENTATION, IDENTIFICATION & TELECOMMUNICATION SYSTEM (ADIT, I-130/I-485"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "India",
+                "Germany",
+                "Pakistan",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 71
+}

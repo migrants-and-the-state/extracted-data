@@ -1,0 +1,46 @@
+{
+    "id": "A29338098",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Application for Permanent Residence",
+                "Screeneded by NARA, 7/28/2023, NARA Form Number: 145-196A",
+                "Biographic Information Form, G-325A",
+                "Screened by NARA, 7/28/2023",
+                "Medical Examination of Aliens Seeking Adjustment of Status",
+                "Medical Clearance Requirements for Aliens Seeking Adjustment of Status, Form I-693 ( (Rev. 09/01/87) N",
+                "Medical Clearance Requirements for Aliens Seeking Adjustment of Status",
+                "Screened by NARA, 7/28/2023, Contract No. 21121 Customer No. 1288576",
+                "Screeneded by NARA, 7/28/2023, Report Date: 01/04/90",
+                "R\u00c9MY ROZAINE ETAT CITIZENNAIRE, 18",
+                "Affidavit of Support",
+                "Oath or Affirmation of Deponent, I-139",
+                "First Union National Bank of Florida, NARA, 7/28/2023",
+                "Petition for Alien Relative, Form I-130 ( (Rev. 02-28-87) N",
+                "Acte de naissance, 53360",
+                "Extract of register of Certificates of Birth of the City of Camp Ferrin at National Records of the Republic.",
+                "Acte de Naissance, N\u00b0 7224",
+                "Screened by NARA, 7/28/2023, 16676 RR",
+                "Birth Certificate",
+                "Certification of Signature Legitimacy for the Republic of Haiti, 16676 RR",
+                "Translation of Documents of Rosalind Remy",
+                "United States Department of Justice, Immigration and Naturalization Service",
+                "Natural Parent of USC, I-130 & I-485",
+                "BIOGRAPHIC INFORMATION, FORM G-325A",
+                "U.S. Department of Justice Immigration and Naturalization Service, G-325A",
+                "U.S. Department of Justice Immigration and Naturalization Service BIOGRAPHIC INFORMATION, G-325A"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Haiti",
+                "Germany",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 40
+}

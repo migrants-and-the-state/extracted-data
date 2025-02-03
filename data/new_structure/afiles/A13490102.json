@@ -1,0 +1,31 @@
+{
+    "id": "A13490102",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "CERTIFICATE OF CITIZENSHIP, FORM N-560 ( (REV 10-15-57)",
+                "Oath of Allegiance, N-4-1023",
+                "APPLICATION FOR CERTIFICATE OF CITIZENSHIP, Form N-600 ( (Rev. 8-1-63)",
+                "Certificate of Naturalization, I-4",
+                "APPLICATION FOR CITIZENSHIP BY DERIVATION OF CITIZENSHIP; Form I-130A",
+                "Affidavit, N-4-10-64",
+                "STATUS N-600 APPLICATION, N-601 ( (Rev. 6-28-60)",
+                "CERTIFICATE OF ADMISSION OF ALIEN, N-600 A13 490 102",
+                "U.S. DEPARTMENT OF COMMERCE BUREAU OF THE CENSUS, FL12-621",
+                "Omaha Public Schools, 3902 Davenport Street Omaha 31, Nebraska"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Israel",
+                "Russia",
+                "Germany",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 11
+}

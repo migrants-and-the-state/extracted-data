@@ -1,0 +1,60 @@
+{
+    "id": "A18591348",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Certificate of Naturalization, FORM N-560 ( (REV 3.1.61)",
+                "Oath of Allegiance, N-4-1023",
+                "APPLICATION FOR CERTIFICATE OF CITIZENSHIP, N-600 ( (Rev. 9-1-69)",
+                "Naturalization Application",
+                "Title: Naturalization Application Form; Form Number: Not visible in the image provided.",
+                "Affidavit and Report and Recommendation on Application, 1024",
+                "U.S. BUREAU OF THE CENSUS OFFICE OF THE DIRECTOR, eJ 4-159-493",
+                "Marriage License Bureau of Manhattan, 11501-1935",
+                "United States Department of Justice Immigration and Naturalization Service, Form N-25 ( (Rev. 8-1-61)",
+                "EXAMINER'S REPORT OF TESTIMONY OF WITNESS",
+                "MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, A18 591 34",
+                "INSTRUCTIONS, GPO 955-484",
+                "APPLICATION FOR STATUS AS PERMANENT RESIDENT, A18 5913448",
+                "United States Citizenship and Immigration Services Application for Adjustment of Status,, I-4526.",
+                "Naturalization Application,, N-4-3052A",
+                "U.S. Government Printing Office: 1969 of \u2014337-977",
+                "Individual Register Receipt, NE 353(R)",
+                "BIOGRAPHIC INFORMATION, FORM G-325 ( (REV. 9-1-69)",
+                "Affidavit of Witness, Form N-180",
+                "Affidavit of Witness, Form N-120",
+                "TRIPLICATE, G-361",
+                "Fingerprint Card, GPO 1969 OF-380-973",
+                "FEDERAL BUREAU OF INVESTIGATION UNITED STATES DEPARTMENT OF JUSTICE, 20537",
+                "STATUS N-600 APPLICATION, N-601 ( (Rev. 5-25-67)",
+                "United States Department of Justice Immigration and Naturalization Service Processing Instructions, I-467 ( (7-15-59)",
+                "Title: UNITED STATES DEPARTMENT OF JUSTICE\\nForm Number: 18 591 348 TC/I485",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE",
+                "REQUEST FOR VERIFICATION OF RECORD, I-423",
+                "United States Citizenship and Immigration Services Application for Naturalization",
+                "Title: Naturalization Application Form, Form Number: 10-738",
+                "AFFIDAVIT"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Russia",
+                "Bahamas",
+                "Barbados",
+                "Haiti",
+                "Jamaica",
+                "Cuba",
+                "Netherlands",
+                "Mexico",
+                "Canada",
+                "Bermuda",
+                "United States",
+                "Dominican Republic"
+            ]
+        }
+    },
+    "page_count": 46
+}

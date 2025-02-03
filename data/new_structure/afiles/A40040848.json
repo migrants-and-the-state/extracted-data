@@ -1,0 +1,73 @@
+{
+    "id": "A40040848",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Certificate of Naturalization, Form N-550 REV. 6-91",
+                "FOR CITIZEN APPLICANT INFORMATION ON THE UNITED STATES DISTRICT COURT, N-21 ( (1/92)",
+                "Title: U.S. Department of Justice, Immigration and Naturalization Service\\nForm Number: G-325 ( (Rev. 10-1-82) Y",
+                "BIOGRAPHIC INFORMATION, G-325 ( (Rev. 10-1-82)",
+                "Naturalization Service Processing Sheet, A4-010-84",
+                "Petition for Naturalization",
+                "Screened by NARA, 9/25/2023, N-460 ( (10/26/89) N",
+                "Screened by NARA, 9/25/2023, Form No. 4-400 ( (10/26/29) N",
+                "Naturalization Application, N-4",
+                "Screened by NARA, 9/25/2023, PERSONAL DESCRIPTION FORM (Type or Print)",
+                "Notice of Preliminary Naturalization Hearing, N-430A",
+                "Interfile Request \u2013 Federal Records Centers, G-1022 ( (03/13/00)",
+                "INTERFILE TRANSMITTAL SLIP, FM088INTERTR/WP:COMMON ( (03/91)",
+                "Notice of Naturalization Oath Ceremony, N-445A (Rev. 1/8/92)",
+                "Naturalization Oath Ceremony Questions, N-4",
+                "Immigrant Visa and Alien Registration, IV-4004844",
+                "APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION, 12-78",
+                "OPTIONAL FORM 2230 ( (English-Chinese) (Rev.12-78), Screened by NARA, 9/25/2023",
+                "OPTIONA. RM 2 230 ( (En-Chinese) (Rev. 12-78), Screened by NARA, 9/25/2023",
+                "OPTIONAL FORM 2230 ( (English-Chinese Forms) (Rev. 12-78)",
+                "Petition for Alien Relative, I-130",
+                "Continued Information about your alien relative, I-130",
+                "NOTICE OF ENTRY OF APPEARANCE AS ATTORNEY OR REPRESENTATIVE, Form G-28",
+                "Screeneded by NARA, 9/25/2023",
+                "CERTIFICATE OF MARRIAGE, 779092",
+                "Certified Statement",
+                "Consular Certificate",
+                "Petition to Classify Status of Alien Relative, G-28",
+                "Affidavit of Support",
+                "Oath or Affirmation of Deponent, FOIA ( b)(6)",
+                "Screeneded by NARA, 9/25/2023, Form Number: 1334 SOUTH CENTRAL",
+                "HOME SAVINGS OF AMERICA, Form Number: 169-900200-0",
+                "American Savings and Loan Association, 625 East Main Street, Alhambra, California 91801, Screened by NARA, 9/25/2023",
+                "Individual Voluntary Employee Savings Trust Account Status Report",
+                "OF-167 Supplement, Social Security Act as amended, establishes certain requirements for determining the eligibility of aliens for Supplemental Security Income (SSI) and Aid to Families with Dependent Children ( AFDC)",
+                "\u751f\u6d3b\u4fdd\u969c\u8a3c\u66f8 (OF-167) \u9644\u8868\u8a33\u6587, OF-167",
+                "MEDICAL Examination of Applicants for United States Visas, 157",
+                "MEDICAL Examination of Applicants for United States Visas, 50157-102",
+                "MEDICAL Examination of Applicants for United States Visas, 5017-102",
+                "TAIPEI MUNICIPAL POLICE HEADQUARTERS, 130622",
+                "Translation, (86)H.Z.W.Z.No.10598",
+                "CERTIFICATE OF NO CRIMINAL CONVICTION, 118708",
+                "AMERICAN CONSULATE GENERAL, 2 GARDEN ROAD, HONG KONG, HNK-2",
+                "Immigration Form",
+                "Form I-139, Petition for Alien Relative; Form N-4 (n, Application to Register or Adjust Status of a Alien Relative, Page 3",
+                "Screeneded by NARA, 9/25/2023, FOIA ( (b)(6)",
+                "Continued from Item 19, 2",
+                "Birth Certificate, (84)H.Z.W.Z.No.627",
+                "CERTIFICATE OF MARRIAGE, N\u00ba 779092",
+                "Translation Certificate, (83)H.Z.W.Z.No.6229"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "China",
+                "Mexico",
+                "Canada",
+                "Taiwan",
+                "Brazil",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 73
+}

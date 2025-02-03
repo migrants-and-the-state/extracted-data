@@ -1,0 +1,34 @@
+{
+    "id": "A21203456",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, I-181",
+                "INDEX CARD, G-361 (Rev. 10-1-70) N",
+                "EMPLOYMENT AUTHORIZED, FORM I-94",
+                "IMPORTANT NOTICE, FORM 1-94 (Rev. 9-1-73)N (Parole Edition)",
+                "United States Department of Justice Immigration and Naturalization Service, G-325A ( (REV. 10-1-74)",
+                "I-944 (Rev. 9-173), I-902",
+                "Surrender This copy when leaving the United States - see reverse, I-94",
+                "IMPORTANT NOTICE, Form I-94 (Rev. 9-1-73)N (Parole Edition)",
+                "United States Department of Justice Immigration and Naturalization Service, FORM G-325A ( (REV. 8-27-72N)",
+                "United States Department of Justice Immigration and Naturalization Service Form G-325A ( (REV. 8-27-72N)",
+                "AFFIDAVIT RE ASSETS AND LIABILITIES TO BE SUBMITTED BY EVERY REFUGEE 17 YEARS OF AGE OR OVER APPLYING FOR PAROLE INTO THE UNITED STATES, A-21 203 456",
+                "TAT CA MOI NGUOI TI NAN TU 17 TUOI TRE LON NHAP CANH VA HOA KY DUOC, COI NHU LA NGUOI VO QUOC TICH (PAROLE) PHAI NAP TO BAO DAM VA CHIU TRACH NIEN VE TAI SAN CU MINH., Mau G-648",
+                "Sworn Statement of Refugee Applying for Parole into the United States, G-64(5.12.75)",
+                "L\u1ed8I KHAI H\u01afU C\u00c0NG TH\u00c0NH TINH N\u0102M XIN NH\u1eacP C\u00c1NH H\u00d2A K\u00dd, 10",
+                "Chu ky va Chuc Vu ca Vien Chuc"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "United States",
+                "Vietnam"
+            ]
+        }
+    },
+    "page_count": 25
+}

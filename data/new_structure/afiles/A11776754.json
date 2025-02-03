@@ -1,0 +1,41 @@
+{
+    "id": "A11776754",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Form G-135, United States Department of Justice, Immigration and Naturalization Service",
+                "Fingerprint Card, 16-03415-1",
+                "FEDERAL BUREAU OF INVESTIGATION, FD-258",
+                "UNITED STATES DEPARTMENT OF JUSTICE FEDERAL BUREAU OF INVESTIGATION, 1-17 ( (Rev. 5-3-57)",
+                "PLEASE NOTE",
+                "UNITED STATES DEPARTMENT OF JUSTICE, IMMIGRATION AND NATURALIZATION SERVICE, Form G-135",
+                "REPORT of Character Investigation",
+                "Very truly yours,, I-94 or 257A",
+                "DEPARTMENT OF COMMERCE BUREAU OF THE CENSUS",
+                "APPLICATION FOR SEARCH OF CENSUS RECORDS, Form 10-611",
+                "United States Department of Justice Immigration and Naturalization Service, N-14",
+                "Very truly yours,, I-942 or 257A",
+                "Affidavit",
+                "Affidavit, 4-8-59",
+                "UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service, N-14",
+                "Very truly yours,",
+                "APPLICATION TO FILE PETITION FOR NATURALIZATION, Form approved - Budget Bureau No. 4-R079.7.",
+                "Immigration and Naturalization Service Form I-102, I-102",
+                "ALIEN REGISTRATION STATEMENT OF FACTS for PREPARATION of PETITION, No. 3",
+                "U.S. Government Printing Office Verification Form, 1957-0-446078",
+                "United States Department of Justice Immigration and Naturalization Service"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Austria",
+                "United States",
+                "Hungary"
+            ]
+        }
+    },
+    "page_count": 33
+}

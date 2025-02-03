@@ -1,0 +1,44 @@
+{
+    "id": "A41490559",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "APPLICATION FOR ISSUANCE OF PERMIT TO REENTER THE UNITED STATES, FORM 1-131 ( (REV. 4-1-84Y)",
+                "APPLICATION FOR ISSUANCE OF PERMIT TO REENTER THE UNITED STATES, FORM 1-131 ( (REV. 4-1-84)",
+                "Application for Alien Registration Receipt Card ( Form I-940, I-951 - Alien Registration Receipt Card Application",
+                "Immigrant Visa and Alien Registration",
+                "APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION, 1405-015",
+                "OPTIONAL FORM 230 ( (English) ( (Rev. 6-82), 230",
+                "Screeneded by NARA, 8/422023, FOIA (b)(6)",
+                "OPTIONAL FORM 220 ( (English) (Rev. 6-82), Tariff Item No. 220",
+                "Petition for Alien Relative, I-130",
+                "Petition for Adjustment of Status and Naturalization,, I-45",
+                "Affidavit of Marriage",
+                "Screened by NARA, 8/4/2023, Screened by NARA",
+                "Notice of Demolition, Form No. 10234/2023",
+                "Screened by NARA, 8/4/2023, 10 Rs.",
+                "Screened by NARAY 8/4/2023, 12",
+                "Affidavit",
+                "Marriage Affidavit",
+                "Affidavit of Support, Form I-1344 ( (Rev. 7-1-85)",
+                "Title: OATH OR AFFIRMATION OF DEPONENT, Form Number: FOIA ( (b)(6)",
+                "POLICE CLEARANCE CERTIFICATE, 5501/88",
+                "Declaration by Immigrant\u2019s Sponsor Under the Social Security Act, FOIA (b)(6)",
+                "MEDICAL Examination of Applicants for United States Visas",
+                "SEROLOGICAL EXAMINATION OF BLOOD FOR KAHN TEST"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Canada",
+                "India",
+                "United States",
+                "Mexico"
+            ]
+        }
+    },
+    "page_count": 31
+}

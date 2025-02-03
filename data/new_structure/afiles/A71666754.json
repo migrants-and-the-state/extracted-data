@@ -1,0 +1,82 @@
+{
+    "id": "A71666754",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Screened by NARA, 7/26/202, CO. COPY FILE TRANSFER",
+                "Screened by NARA, 7/26/202, A71 666 754",
+                "Screeneded by NARA, 7/26/2023, Form I-131",
+                "Screeneded by NARA, 7/26/2023, United States Department of Justice Immigration and Naturalization Service P O Box 82521 Lincoln, Nebraska 68508-2251",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, P O Box 82521",
+                "REQUEST FOR EVIDENCE",
+                "Application for a of Entry or for Change of Status,, I-131B",
+                "Application for Travel Document, I-131 ( (Rev. 12/10/91)",
+                "Part 3. Processing Information ( (continued), NARA - 7/26/2023",
+                "U.S. Department of Justice Health and Human Services Statistical Data for Refugee/Asylee Adjusting Status, I-643 ( (Rev. 03-31-95)N",
+                "U.S. Department of Justice\\nForm G-325A\\nBiographic Information, OMB No. 1115-0066",
+                "BIOGRAPHIC INFORMATION, G-325A",
+                "BIOGRAPHICAL INFORMATION, G-325A",
+                "U.S. Department of Justice Immigration and Naturalization Service, G-325A",
+                "Screeneded by NARA, 7/26/2023, I-944",
+                "FORM I-181 WORKS SHEET, I-181",
+                "Fingerprint Card, I-710",
+                "Designated Fingerprinting Service Certified to Take Fingerprints, I-950A",
+                "Registration for Classification as Refugee, I-590 ( (Rev. 11-13-92)Y",
+                "Immigration and Naturalization Service Form, N-4",
+                "Screened by NARA, 7/26/2023, FOIA (b)(6)",
+                "U.S. Department of Justice Immigration and Naturalization Service, FORM G-325C",
+                "Sworn Statement of Refugee Applying for Entry into the United States, Form G-64 ( (Rev. 4-30-83)N",
+                "Application for a, I-131A",
+                "Part 3. Processing Information ( (continued), NARA Form Number: NARA-19560243",
+                "REFugee application worksheet, A71666 754",
+                "Screened by NARA, 7/26/2023, 18 WVA 1982",
+                "LEGAL ANALYSIS/CONCLUSION",
+                "Medical Examination of Applicants for United States Visas, A# 71666 7544",
+                "Screeneded by NARA, 7/26/2023",
+                "Embassy of the United States of America Consular Section Immigrant Visa Unit, NARA-1023456",
+                "AFFIDAVIT OF RELATIONSHIP, FOIA ( (b)(6)",
+                "Screeneded by NARA, 7/26/2023, Catholic Social Services, Inc.",
+                "JOINT VOLUNTARY AGENCY, 09-15-1994",
+                "Affidavit of Relationship, FOIA (b)(6)",
+                "Screened by NARA, 7/26/2023, FOIA ( (b)(6) & UNHCR",
+                "Refugee Relatives of Wife's Employment Situation and FOIA Request for Exception,, FOIA ( (b)(6)",
+                "Screeneded by NARA, 7/26/2023, FOIA ( (b)(6)",
+                "Catholic Social Services, Inc., 680 West Peachtree St., NW, Atlanta, Georgia 30308-1984, 404/881-6571, FAX 404/888-7816",
+                "AFFIDAVIT OF RELATIONSHIP, # 16 ( (02)",
+                "Screened by NARA, 7/26/2023, FOIA ( (b)(6)",
+                "FOIA ( (b)(6), 1011/012",
+                "Catholic social services, inc., 680 West Peachtree St., NW, Atlanta, Georgia 30308-1984, 440/881-6571, FAX 404/888-7816",
+                "Screened by NARA, 7/26/2023, 26.05.94",
+                "Affidavit of Relationship, NARA-0123456789",
+                "AFFIDAVIT, FOIA ( (b)(6)",
+                "Personal History, A71 666 754",
+                "Report to I. O. M. on ..., FOIA (b)(6)",
+                "Joint Voluntary Agency Representative/KENYA, FACSIMILE",
+                "Joint Voluntary Agency Representative/KENYA, FOIA (b)(6)",
+                "Screened by U.S. Department of Justice, FOIA ( (b)(6)",
+                "Screened by the U.S. Department of Justice, FOIA (b)(6)",
+                "Title: MEDICAL EXAMINATION OF APPLICANTS FOR UNITED STATES VISAS, Form Number: 157",
+                "Medical Examination Report, NARA, 7/26/202",
+                "HIV TESTING FOR IMMIGRANT VISA APPLICATION",
+                "Marking Determined to be Administrative, ARSHO LABORATORY U.S. EMBASSY COMPOUND"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Kenya",
+                "Tanzania",
+                "Somalia",
+                "Georgia",
+                "Sudan",
+                "Ethiopia",
+                "Switzerland",
+                "Rwanda",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 115
+}

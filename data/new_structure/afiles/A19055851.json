@@ -1,0 +1,77 @@
+{
+    "id": "A19055851",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "CORRECTED INDEX CARD, G-361 ( (REV.-AVP.11-1-66)",
+                "CORRECTED INDEX CARD, G-361 ( (REV. AVP-11-1-66)",
+                "REPORT of Action\u2014Nonimmigrant, A 19 855 857",
+                "ROUTE SLIP, Form G-25",
+                "Alien Registration Form, A19 055 851",
+                "United States Department of Justice Immigration and Naturalization Service, Form N-4-70N",
+                "United States Department of Justice Immigration and Naturalization Service, I-100",
+                "Petition for Naturalization, 3732205",
+                "RESULTS OF EXAMINATION",
+                "APPLICATION TO FILE PETITION FOR NATURALIZATION, N-4 ( 5-1-73)N",
+                "Naturalization Application",
+                "STATEMENT OF FACTSS FOR PREPARATION OF PETITION, 316A",
+                "Immigration and Naturalization Service Application",
+                "APPLICATION FOR A SEARCH OF THE RECORDS OF THE IMMIGRATION AND NATURALIZATION SERVICE",
+                "INFORMATION AND INSTRUCTIONS, N\u2013585.",
+                "Title: MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, Form Number: I-151",
+                "APPLICATION FOR STATUS AS PERMANENT RESIDENT, Form Approved Budget Bureau No. 4-R400-5",
+                "Application for Adjustment of Status,, I-452A",
+                "NOTICE OF ENTRY OF APPEARANCE AS ATTORNEY OR REPRESENTATIVE, G-28",
+                "Letter of Employment Reference for Mr. and Mrs. George Wolfson",
+                "Marriage Certificate",
+                "Popkin and Shamir, A19 055 851",
+                "IN THE CIRCUIT COURT OF THE ELEVENTH JUDICIAL CIRCUIT IN AND FOR DADE COUNTY, FLORIDA. IN CHANCERY. NO. 125468-C",
+                "Book 909 Page 448, Circuit Judge Order",
+                "STATE OF FLORIDA",
+                "IMMIGRATION AND NATURALIZATION SERVICE, FORM I-4 468 A",
+                "U.S. DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, FORM I-4 468 A",
+                "REPORT of Radiologist, 44217",
+                "United States Department of Justice Immigration and Naturalization Service, FORM I-4",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, Form I-72 ( (Rev. 8-15-69)",
+                "Title of the image, The title is not clearly visible due to the low resolution and angle of the photograph. It can be inferred that it might relate to a the content or subject matter discussed in the document., Form number only in double quotes, RECEIVED MAR 20 1970",
+                "Petition to Classify Status of Alien Relative for Issuance of Immigrant Visa, Form I-130",
+                "Information About Alien Beneficiary, A19-055-851",
+                "Application to File Petition for Naturalization",
+                "INDEX CARD, G-361",
+                "REFERENCE REQUEST\u2014FEDERAL RECORDS REQUEST FORM, N-400",
+                "REFERENCE REQUEST\u2014FEDERAL RECORDS REQUEST FORM, 85-0018",
+                "NOTICE OF ENTRY OF APPEARANCE AS ATTORNEY OR REPRESENTATIVE, Form G-28",
+                "BIOGRAPHIC INFORMATION, FORM G-325 A ( (REV. 9-1-69)",
+                "United States Department of Justice Immigration and Naturalization Service, Form N-4",
+                "ALWAYS GIVE YOUR ALIEN REGISTRATION NUMBER WHEN COMMUNICATING WITH THIS SERVICE., GPO 880-170",
+                "United States Department of Justice Immigration and Naturalization Service, I-485",
+                "United States Department of Justice Immigration and Naturalization Service, G-325A",
+                "United States Department of Justice Immigration and Naturalization Service, G-325 A REV. 4-1-67",
+                "Title: UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service NEW YORK DISTRICT Officer's Review and Action Sheet, Form Number: I-130",
+                "DEportation Authorization Form, I-161 ( (Rev. 7-69)",
+                "NOTICE OF APPROVAL OR REVALIDATION OF IMMIGRANT VISA PETITION, A19 055 851",
+                "Petition to Classify Status of Alien Relative, I-130",
+                "United States Department of Justice Immigration and Naturalization Service, Form N-14 (Rev. 8/2/65",
+                "Naturalization Application, N-4"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Germany",
+                "Australia",
+                "Greece",
+                "Italy",
+                "Pakistan",
+                "Vietnam",
+                "Canada",
+                "India",
+                "South Africa",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 64
+}

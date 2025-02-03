@@ -1,0 +1,50 @@
+{
+    "id": "A27436780",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": null
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "U.S. DEPARTMENT OF JUSTICE Immigration and Naturalization Service, A27 436 780",
+                "Screened by NARA, 8/1/22023",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, A27 436 780",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, FORM I-468",
+                "NOTICE OF ENTRY OF APPEARANCE AS ATTORNEY OR REPRESENTATIVE, Form G-28",
+                "Screened by NARA, 8/1/22023, GPO 902-247",
+                "APPLICATION FOR STATUS AS PERMANENT RESIDENT, I-485 ( (Rev. 5-5-83) N",
+                "Screeneded by NARA, 8/1/2923, NARA-0546",
+                "Screened by NARA, 8/1/22023, GPO: 1983 O\u201445-897",
+                "U.S. Department of Justice Immigration and Naturalization Service BIOGRAPHIC INFORMATION, G-325A",
+                "DIOLOGY CONSULTATION REQUEST, 6075",
+                "LABORATORY REPORT, 01.024",
+                "DIAGNOSTIC POS",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, FORM I-486A ( REV. 12-29-79Y",
+                "MEDICAL Examination and Immigration Interview, A-2436780",
+                "MEDICAL Examination and Immigration Interview, FORM I-486",
+                "Affidavit of Support, I-134",
+                "Oath or Affirmation of Deponent, FOIA ( (b)(6)",
+                "Louisiana National Bank Letter, LNB",
+                "Screened by NARA, 8/1/2023",
+                "Petition to Classify Status of Alien Relative for Issuance of Immigrant Visa, FORM I-130",
+                "Title of the image, Screened by NARA, 8/1/2023, Form number, NARA Form A-4",
+                "CERTIFICATE OF MARRIAGE",
+                "HOUSEHOLD CERTIFICATE, Q0168111",
+                "Form 2, Q10027983",
+                "Population Registration Form, Q0168111",
+                "Screened by NARA, 8/1/2023, FOIA ( (b)(6)",
+                "Processing Sheet, I-485",
+                "Petition for Issuance of Immigrant Visa",
+                "United States Department of Justice, Immigration and Naturalization Service Processing Sheet, Form I-488 ( (ADIT)"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Taiwan",
+                "United States",
+                "China"
+            ]
+        }
+    },
+    "page_count": 43
+}

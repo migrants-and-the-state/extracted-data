@@ -1,0 +1,69 @@
+{
+    "id": "A17210305",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "ALIEN STATUS VERIFICATION, WR 6 (9/75",
+                "INSTRUCTIONS FOR USE OF ALIEN STATUS VERIFICATION FORM WR 6, FORM WR 6",
+                "Title: United States of America Immigrant Visa and Alien Registration\\nForm Number: 2641626",
+                "ANtrag auf Erteilung eines Einwanderungsvisums und die Ausl\u00e4ndermanmeldung, 4 Form Approved, Budget Bureau No. 4-7 R 150.2.",
+                "Form FS-510 ( German - 463, FS-510",
+                "Form FS-510 ( (German) - 4, Screened by NARA, 7/1/23",
+                "Form FS-510, German 4-63, Screeneded by NARA, 7/11/2023",
+                "PETITION TO CLASSIFY STATUS OF ALIEN RELATIVE FOR ISSUANCE OF IMMIGRANT VISA, Form 1-30",
+                "Information About Alien Beneficiary, A17 179 121",
+                "U.S. Treasury Department Internal Revenue Service District Director Los Angeles, California 90012-53 P.O. Box 391 May 4, 1967 Ad :P",
+                "UNITED CALIFORNIA BANK",
+                "COPY RECEIPT, No. 360",
+                "CERTIFICATE OF BIRTH REGISTRY",
+                "IN THE SUPREME COURT OF QUEENSLAND, No. 340 of 1960.",
+                "STadtkolN DER OBERSTAOTDIREKTOR, 5, 2621",
+                "FINGERPRINT REGISTRATION, AR-4",
+                "DEPARTMENT OF STATE FOREIGN SERVICE OF THE UNITED STATES OF AMERICA, FORM FS-552",
+                "DEPARTMENT OF STATE FOREIGN SERVICE OF THE UNITED STATES OF AMERICA MEDICAL EXAMINATION OF VISA APPLICANTS, FS-398",
+                "Screeneded by NARA, 7/11/2023, 447102 WLRBG",
+                "Screened by NARA, 7/11/2023, JINS LOS ANGELES, CALIFORNIA",
+                "NOTICE OF APPROVAL OR REVALIDATION OF VISA PETITION, I-171",
+                "Screeneded by NARA, 7/11/2023, A17 179 121",
+                "United States Department of Justice Immigration and Naturalization Service, I-171",
+                "Petition by United States Citizen for Issuance of Immigrant Visa, Form I-133",
+                "Immigration and Naturalization Service Form, 16-8283-7",
+                "Naturalization Application",
+                "Petition for Alien Relative,, NARA Form No. 1024.",
+                "INSTRUCTIONS INFORMATION CONCERNING THE FILM OF A PETITION BY A UNITED STATES CITIZEN FOR ISSUANCE OF IMMIGRANT VISA, 16-62883-7",
+                "Petition for Naturalization,, 16\u201452883-7",
+                "Office Memorandum, STANDARD FORM NO. 64",
+                "Public Voucher for Refunds, Standard Form No. 1048",
+                "RECEIPT OF OBLIGOR ON RETURN OF BONDS OR NOTES, Form I-303",
+                "RECEIPT OF OFFICER OF THE IMMIGRATION AND NATURALIZATION SERVICE FOR UNITED STATES BONDS OR NOTES ACCEPTED AS SECURITY, Form I-300",
+                "UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service, Form 16-258",
+                "United States Department of Justice Immigration and Naturalization Service, Form I-391 ( (Rev. 4-13-45)",
+                "United States Department of Justice Immigration and Naturalization Service, Form 16-232",
+                "Form I-387",
+                "FOR USE WHEN UNITED STATES BONDS OR NOTES ARE DEPOSITED AS SECURITY",
+                "RECEIPT OF DEPOSITORY FOR UNITED STATES BONDS OR NOTES DEPOSITED AS SECURITY, Form I-301",
+                "Power of Attorney, Form I-302",
+                "BOND DEPARTMENT SECURITIES DELIVERED, 44639",
+                "Screened by NARA, 7/11/2023, 0800-972239",
+                "BOND CASE, 1-94 (E) (REVISED 7-7-48)",
+                "Screened by NARA, 7/11/2023",
+                "United States Department of Justice, Immigration and Naturalization Service"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Germany",
+                "Australia",
+                "China",
+                "Romania",
+                "Canada",
+                "India",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 58
+}

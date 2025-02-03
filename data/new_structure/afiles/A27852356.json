@@ -1,0 +1,31 @@
+{
+    "id": "A27852356",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": null
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "COPY OF BIRTH CERTIFICATE",
+                "GIAY KHA SINH, HT3/P3",
+                "The Cauoc, 03504707",
+                "SO Y\u00caU LY L\u1ecaCH",
+                "QUAN H\u00c8 GIA B B\u00ccNH 51943",
+                "Registration for Classification as a Refugee Status, Section 2ment and Naturalization Service, I-590",
+                "Refugee Determination Application, I-589",
+                "APPLICATION AND AFFIDAVIT UNITED STATES ORDERLYLY DEPARTURE PROGRAM, S-1699 TO INS 17 Oct '85",
+                "PART THREE: IMPORTANT NOTICE, UNHCR WORKING GROUP",
+                "ALIEN REGISTRATION FINGERPRINT CHART, Form AR-4 ( (Rev. 8-30-72)N Form Approved. OMB No. 4-3-R 037.5",
+                "Sworn Statement of Refugee Applying for Entry into the United States, FORM G-64"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Thailand",
+                "United States",
+                "Vietnam"
+            ]
+        }
+    },
+    "page_count": 15
+}

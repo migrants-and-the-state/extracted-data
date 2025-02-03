@@ -1,0 +1,47 @@
+{
+    "id": "A17211293",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "REPORT of Action - Nonimmigrant, I-580 ( (Rev. 11-15-64)",
+                "INDEX CARD, G-361 ( (Rev.7-1-60)",
+                "MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, 17 211 293",
+                "INSTRUCTIONS, I-181",
+                "APPLICATION FOR STATUS AS PERMANENT RESIDENT, Form Approved Budget Bureau No. 4-400.5",
+                "Application for Adjustment of Status,, I-452.",
+                "Biographic Information, FORM G-325A REV. 4-1-67",
+                "MEDICAL EXAMINATION OF VISA APPLICANTS, FS-398",
+                "Screeneding by NARA, 7/10/2023, FILE# A17 211 295",
+                "Santa Ana Community Hospital, Screened by NARA, 7/10/2023",
+                "X-RAY Report, 68-1776",
+                "NOTICE OF APPROVAL OR REVALIDATION OF VISA PETITION, I-171",
+                "Affidavit of Support",
+                "FOIA ( (b)(6), Screened by NARA, 7/10/2023",
+                "THE IRVINE COMPANY, 92664",
+                "GREAT WESTERN SAVINGS AND LOAN ASSOCIATION, G 3022 (R7/66)",
+                "NOTICE OF APPROVAL OR REVALIDATION OF VISA PETITION, Form I-171",
+                "Petition to Classify Status of Alien Relative for Issuance of Immigrant Visa, Form I-130",
+                "Application for Alien Relative; Form I-130A",
+                "GUJARAT STATE, 3R$50nP",
+                "Affidavit",
+                "INDIA, 3R$50n",
+                "United States Department of Justice Immigration and Naturalization Service Officer's Review and Action Sheet, I-458",
+                "BIOGRAPHIC INFORMATION, FORM G-325A",
+                "BIOGRAPHIC INFORMATION, TC/245"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Germany",
+                "Italy",
+                "India",
+                "Greece",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 33
+}

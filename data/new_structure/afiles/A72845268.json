@@ -1,0 +1,46 @@
+{
+    "id": "A72845268",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Screened by NARA, 7/27/2023, I-181",
+                "Application for Permanent Residence, I-458",
+                "Biographic Information Form, G-325A",
+                "GENETIC DESIGN, PA\u2122 TRINITY EVALUATION REPORT",
+                "Explanation of Paternity Evaluation Results, NARA, 7/27/2023",
+                "Integrated Genetics, 7315 S.W. 87th Avenue Suite 200 Miami, FL 33173",
+                "Certificate of Naturalization, 1184460",
+                "Libert\u00e9, \u00c9galit\u00e9, Fraternit\u00e9, N\u00b057",
+                "EXCERPT FROM THE REGISTERS OF PORT AU PRINCE, NORTHERN COUNTY",
+                "STATE OF FLORIDA COUNTY OF DADE NOTARY PUBLIC IN AND FOR THE STATE OF FLORIDA, FL 1023",
+                "LIBERTY EQUALITY FRATERNITY REPUBLIC OF HAITI, 39698-AAA A9 No. 64197",
+                "STATE OF FLORIDA COUNTY OF DADE, NARA-FL-0123456789",
+                "FRATERNIT\u00c9, 64 197",
+                "Medical Examination of Aliens Seeking Adjustment of Status",
+                "Medical Clearance Requirements for Aliens Seeking Adjustment of Status, Form I-693 ( (Rev. 09/01/87) N",
+                "Affidavit of Support",
+                "FOIA ( (b)(6), OATH OR AFFIRMATION OF DEPONENT",
+                "NOTICE OF ENTRY OF APPEARANCE AS ATTORNEY OR REPRESENTATIVE, G-28",
+                "APPEARANCES - An appearance shall be filed on Form G-28 by the attorney or representative appearing in each case.",
+                "Title: UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, Form Number: A72-845268",
+                "Screeneded by NARA, 7/27/2023, I-10",
+                "U.S. Department of Justice Immigration and Naturalization Service BIOGRAPHIC INFORMATION, G-325 A ( (Rev. 10-1-82)",
+                "BIOGRAPHIC INFORMATION, G-325A",
+                "U.S. Department of Justice Immigration and Naturalization Service BIOGRAPHIC INFORMATION, G-325A",
+                "U.S. Department of Justice Immigration and Naturalization Service, G-325A",
+                "U.S. Department of Justice Immigration and Naturalization Service, FORM G-325A"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Haiti",
+                "Germany",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 40
+}

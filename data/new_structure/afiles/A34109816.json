@@ -1,0 +1,62 @@
+{
+    "id": "A34109816",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Naturalization Certificate, A34 109 816",
+                "Petition for Naturalization",
+                "Court Action",
+                "APPLICATION TO FILE PETITION FOR NATURALIZATION, N-400 ( (Rev. 5-2-82) Y",
+                "The Naturalization Application, N-4",
+                "Military Service Record",
+                "Naturalization Application,",
+                "COVER SHEET RECORD OF PROCEEDING, M-175 ( (Rev. 10-20-69)",
+                "RE-ENTRY PERMIT DOES NOT PROTECT NATURALIZATION RESIDENCE. SEE INSTRUCTIONS ATTACHED FOR INFORMATION CONCERNING EFFECT OF ABSENCE ON ELIGIBILITY FOR NATURALIZATION. READ THIS FORM AND ATTACHED INSTRUCTIONS CAREFULLY BEFORE FILLING IN THIS APPLICATION.",
+                "Alien Registration Application,, I-151",
+                "Screened by NARA, 9/22/2023, A 19 790 694",
+                "Immigration Visa Petition",
+                "Screened by NARA, 9/22/2023, A19 790 697",
+                "NOTICE OF APPROVAL OF RELATIVE IMMIGRANT VISA PETITION, 97205",
+                "Memorandum, 10",
+                "United States Department of Justice Immigration and Naturalization Service, Form Number: A 19 790 694",
+                "United States Department of Justice Immigration and Naturalization Service, Form G-56 ( (Rev. 4-29-70)",
+                "Naturalization Application Form, N-4 (form number not fully visible)",
+                "Notice of Preliminary Naturalization Hearing, 4\u20144\u2014 340A",
+                "Screened by NARA, 9/22/2023, G-361 (Rev. 10-1-70)",
+                "Biographic Information, G-325 ( (REV. 5-1-79)",
+                "Notice of Final Naturalization Hearing, N-445A",
+                "Petition for Naturalization,, N-455",
+                "Immigrant Visa and Alien Registration, FS-511",
+                "Immigrant Visa and Alien Registration Application, Form FS-510 ( (Chinese-English)",
+                "Form FS-510 ( (English) ( (2\u201368), Personal financial resources",
+                "Form FS-510 (English ( (2-68), Screeneded by NARA, 9/22/2023, Page 3",
+                "Form FS-510 ( (English) ( (2-68)",
+                "Petition to Classify Status of Alien Relative for Issuce of Immigrant Visa, Form 1-30",
+                "Petition for Alien Relative, I-130",
+                "Screened by NARA, 9/22/2023, A19 790 694 FOIA (b)(6)",
+                "CONSULATE GENERAL OF THE REPUBLIC OF CHINA, Hsi-Cheng-60-552",
+                "Screened by NARA, 9/22/2023, FOIA ( (b)(6)",
+                "Screened by NARA, 9/22/2023",
+                "TAIPEI MUNICIPAL POLICE HEADQUARTERS, 08113-1",
+                "CAPABILITIES IN STEEL",
+                "Certification of Employment Offer",
+                "Screened by NARA, 9/22/2023, A19 790 694",
+                "GOOD SAMARITAN HOSPITAL & MEDICAL CENTER, A 19 790 694",
+                "United States Department of Justice Immigration and Naturalization Service, A 19 790 694"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "China",
+                "Mexico",
+                "Canada",
+                "Taiwan",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 58
+}

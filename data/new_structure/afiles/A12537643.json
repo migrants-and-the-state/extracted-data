@@ -1,0 +1,26 @@
+{
+    "id": "A12537643",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": null
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "RE: Record of Required Departure, A 12 537 643",
+                "United States Department of Justice Immigration and Naturalization Service, A-12, 537, 643DP",
+                "United States Department of Justice Immigration and Naturalization Service, G-56 ( (11-1-56)",
+                "Fingerprint Card, None",
+                "Registration Card, SE 180",
+                "APPLICATION TO EXTEND TIME OF TEMPORARY STAY OR FOR PERMISSION TO ACCEPT EMPLOYMENT, Form approved Budget Bureau No. 4-R068.9",
+                "Temporary Employment Authorization for International Students in the United States, I-530"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Cuba",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 14
+}

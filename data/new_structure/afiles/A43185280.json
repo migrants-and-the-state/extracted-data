@@ -1,0 +1,42 @@
+{
+    "id": "A43185280",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Immigrant Visa and Alien Registration, IV-43, 185280",
+                "OPTIONAL FORM 220 ( (English) (Rev. 6-82), APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION",
+                "OPTIONAL FORM 2230 ( (English) ( (Rev. 6-82), Screened by NARA, 7/27/2023",
+                "Form I-4 (glish) (Rev. 6-82)",
+                "OPTIONAL FORM 2230 ( (English) (Rev. 6-82)",
+                "Petition for Alien Relative, I-130 ( (Rev. 02-28-87) N",
+                "Screened by NARA, 7/22023, G-28",
+                "Acte de naissance, 340512",
+                "Libert\u00e9, \u00c9galit\u00e9, Fraternit\u00e9, 906",
+                "Acte de Naissance, N\u00b0 49048",
+                "Marriage Record, HRS. FORM 743",
+                "IN RE: THE MARRIAGE OF MADELAINE P. BASTIEN, Petitioner/Wife, and EMMANUEL B. BASTIEN, Respondent/Husband., CASE NO.: 89-18465-FC",
+                "Certification of Originality and Completeness, NARA, 7/27/2023",
+                "Medical Examination of Applicants for United States Visas, NSN 7540-00-139-0058",
+                "LABOP 'TOIRE D'ANALYSES MEDICALES",
+                "Affidavit of Support",
+                "OATH OR AFFIRMATION OF DEPONENT, FOIA ( (b)(6)",
+                "Horansby, Sacher, Zelman & Stanton, CEH:cat",
+                "Montana Tennis Club, NARA, 7/27/2023",
+                "AmeriFirst Federal Savings and Loan Association, SD 1012",
+                "FOIA ( (b)(6), FOIA ( (b)(6)"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Haiti",
+                "Canada",
+                "United States",
+                "Mexico"
+            ]
+        }
+    },
+    "page_count": 28
+}

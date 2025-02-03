@@ -1,0 +1,43 @@
+{
+    "id": "A39230142",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "INTERFILE TRANSMITTAL SLIP",
+                "IMMIGRATION AND NATURALIZATION SERVICE, 039230142",
+                "Title: Abandonment of Lawful Permanent Resident Status, Form Number: I-407 ( (Rev. 5-15-81)N",
+                "Form I-407, I-151 No. A00 000 000 destroyed ( Serial No. 761 1449)",
+                "Immigrant Visa and Alien Registration, IV-9230142",
+                "APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION, F-230 ( (Rev. 6-82)",
+                "Personal financial resources, FORM OF-230 ( Rev. 6-82",
+                "Form 2-230 ( (Rev. 6-82), Screened by NARA, 9/25/2203",
+                "Form OF-230 ( (Rev. 6-82)",
+                "Individual Fee Register Receipt, G-711",
+                "Petition to Classify Status of Alien Relative for Issuance of Immigrant Visa, 130",
+                "AFFIDAVIT TO MARITAL RELATIONSHIP FACTS, 29803",
+                "Form 10928672, F10092800",
+                "Translation Certification",
+                "AFFIDAVIT TO MARITAL RELATIONSHIP FACTS, 8572",
+                "TAIWAN PROVINCIAL POLICE ADMINISTRATION, 37766",
+                "AFFIDAVIT, MS-4 (6/82)",
+                "Screeneded by NARA, 9/25/2023, TSS-236 ( (12/83)",
+                "MEDICAL Examination of Applicants for United States Visas",
+                "MEDICAL Examination of Applicants for United States Visas, 50157-102"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Japan",
+                "China",
+                "Mexico",
+                "Canada",
+                "Taiwan",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 34
+}

@@ -1,0 +1,66 @@
+{
+    "id": "A71668532",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Naturalization Application",
+                "Part 3. Information About You., Form N-4 (000",
+                "Information for Criminal Records Search",
+                "Part 7. Time Outside the United States,",
+                "Information About Your Marital History,",
+                "Information About Your Children, N-4 (000",
+                "Part 10. Additional Questions., Form N-4 ( Rev.10/26/05)",
+                "Part 10. Additional Questions.",
+                "Title: Part 10. Additional Questions. ( Continued",
+                "Oath of Allegiance",
+                "VILLAGE HEALTH CARE, 122 VILLAGE CENTER",
+                "Department of Homeland Security, U.S. Citizenship and Immigration Services, N-648, Medical Certification for Disability Exceptions",
+                "Alien Registration Number",
+                "Diagnosis of disability and/or impairments(s), Form N-648 (Rev. 01/13/06)Y Page 2",
+                "U.S. DEPARTMENT OF JUSTICE Immigration and Naturalization Service, I-94 ADMISSION NUMBER: 243467795 02",
+                "Screened by NARA, 4/18/2023, CO. COPY FILE TRANSFER",
+                "Screened by NARA, 4/18/2023, G \u2014 360 AD (Rev. 1-1-82) N",
+                "ROUTE SLIP, 360 AD (Rev. 1-1-82) N",
+                "Registration for Classification as Refugee",
+                "Screened by NARA, 4/18/2023, OMB No. 1115-0057",
+                "U.S. Department of Justice Immigration and Naturalization Service, G-325C",
+                "Sworn Statement of .efugee Applying for Entry into the United States",
+                "U.S. Department of Homeland Security, N-4 00 Continuation Processing Worksheet",
+                "U.S. Department of Homeland Security N-4 Adjudication Processing Worksheet, N-650B (Rev. 9/30/03",
+                "Request for Applicant to Appear for Naturalization Initial Interview, N400",
+                "U.S. Department of Homeland Security, N-4 00 Adjudication Processing Worksheet",
+                "U.S. Department of Homeland Security Bureau of Citizenship and Immigration Services N-4 Pre-Processing Worksheet, N-4",
+                "Record of IBIS Query (ROIQ), 071668532",
+                "Response on Applicant's Failure to Appear for Interview, NA0046",
+                "Notice of Action, I-797C",
+                "Screeneded by NARA, 4/18/2023, Form I-485, Application to Register Permanent Residence or Adjust Status.",
+                "Notice of Action, I-797CC",
+                "General Information and Instructions for Filing Petitions,, HU-001",
+                "Form N-659, Naturalization Interview Document Checklist, Department of Homeland Security U.S. Citizenship and Immigration Services",
+                "Screeneded by NARA, 4/18/2023",
+                "USE THIS 'IDE FOR TRANSActions' VS 2 THROUGH 7, FORM I-90 ( (Rev. 2/25/86) N SIDE 2",
+                "U.S. DEPARTMENT OF JUSTICE Immigration and Naturalization Service",
+                "U.S. Department of Justice, Immigration and Naturalization Service, G-325A",
+                "Medical Examination of Applicants for United States Visas, A 71 668 532",
+                "KENYA HOSPITAL ASSOCIATION LABORATORY, REF:66176/95",
+                "LABORATORY REPORT",
+                "X-RAY Report, 194",
+                "Immigration and Naturalization Service, A71668532"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Germany",
+                "Kenya",
+                "Somalia",
+                "Mexico",
+                "Canada",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 76
+}

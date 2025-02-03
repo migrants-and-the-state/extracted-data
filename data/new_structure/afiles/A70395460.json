@@ -1,0 +1,39 @@
+{
+    "id": "A70395460",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "U.S. Government Printing Office, G-360 A (Rev. 1-1-82) N",
+                "U.S. DEPARTMENT OF JUSTICE Immigration and Naturalization Service Memorandum of Creation of Record of Lawful Permanent Residence, A#70-395-460",
+                "Immigration and Naturalization Service, I-94",
+                "Departure Record, A70395460",
+                "Processing Sheet, I-48",
+                "BIOGRAPHIC INFORMATION, G-325 ( (Rev. 10-1-82) Y",
+                "COLOR PHOTOGRAPH SPECIFICATIONS, I-90 SUPPLEMENT FOR ISSUANCE OF I-551",
+                "REGISTRATION FOR CLASSIFICATION AS REFUGEE",
+                "Refugee Determination Application, I-589",
+                "U.S. Department of Justice Immigration and Naturalization Service BIOGRAPHIC INFORMATION, FORM G-325C",
+                "Sworn Statement of Refugee Applying for Entry into the United States",
+                "FEDERAL BUREAU OF INVESTIGATION UNITED STATES DEPARTMENT OF JUSTICE, FD-258 ( (REV. 12-29-82)",
+                "Screened by NARA, 5/12/2023, Form Number: 0254",
+                "Medical Examination of Applicants for United States Visas, NSN 7540-00-139-0058",
+                "KENYA HOSPITAL ASSOCIATION LABORATORY, 722160",
+                "PARASITOLOGY, NARA-1032",
+                "Family Relationship",
+                "Personal History, 395460",
+                "Immigration and Naturalization Service, A70 395 461"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "United States",
+                "Somalia",
+                "Kenya"
+            ]
+        }
+    },
+    "page_count": 34
+}

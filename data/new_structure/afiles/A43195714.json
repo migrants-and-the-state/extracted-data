@@ -1,0 +1,66 @@
+{
+    "id": "A43195714",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Application for Naturalization, N-4 (001",
+                "Information about your residences and employment., NARA, 6/13/2023",
+                "Part 7. Additional eligibility factors., Form N-400 ( (Rev 07/19)N",
+                "Screened by NARA, 6/13/2023, Form N-400 ( (Rev. C. 17'91)N",
+                "Certificate Preparation Sheet and Oath Declaration",
+                "U.S. Department of Justice Immigration and Naturalization Service, D-23",
+                "RECORD OF SWORN STATEMENT ( (FINGERPRINTS)",
+                "U.S. DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE CITIZENSHIP USA, A 43195714",
+                "Screeneded by NARA, 6/13/2023, 5/17/96",
+                "Medical Certification For Disability Expections, NARA # 1115-0205",
+                "Screened by NARA, 6/13/2023, Form N-648 ( (06/24/97) Page 4",
+                "Psychological Evaluation Report, A0431957144",
+                "Screeneded by NARA, 6/13/2023, Client Name: Manuel Javel",
+                "Screened by NARA, 6/13/2023, NARA Form Number: A0431957144",
+                "Screened by NARA, 6/13/2023, Page 5",
+                "Medical Certification For Disability Expections, N-648 ( (06/24/97)",
+                "Screened by NARA, 6/13/2023, 29/85633",
+                "Notice of Naturalization Oath Ceremony, N-445 (Rev. 1/8/92",
+                "Naturalization Oath Ceremony Mailer",
+                "Naturalization Certificate, N-4-105",
+                "U.S. Department of Justice Immigration and Naturalization Service, Form N-14 ( (Rev. 9 16'97)",
+                "Screeneded by NARA, 6/13/2023, Form N-14 ( (Rev. 9/16'97)",
+                "Screened by NARA, 6/13/2023",
+                "U.S. Department of Justice Immigration and Naturalization Service N-4 Adjudication Processing Worksheet, N-650B ( (Rev 1/1/98)",
+                "Screened by NARA, 6/13/2023, N-650(6/25/97)",
+                "Immigrant Visa and Alien Registration, IV-43, 1957144",
+                "APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION",
+                "OPTIONAL FORM 2 30 B, OPTIONAL FORM 230 B",
+                "FORMULARIO OFICIAL 230B, OPTIONAL FORM 230 B",
+                "OPTIONAL FORM 230 B, FORMULARIO OPCIONAL 230 B",
+                "Petition for Alien Relative, I-130 ( (Rev. 02-28-87) N",
+                "Information about your alien relative",
+                "Birth Certificate Translation, B 1 R T H C E R T I F C A T E   T R A N S L A T I O N",
+                "Birth Certificate Translation, B J R R T H C E R T I F C A T E   T R A N S L A T I O N",
+                "Certificaci\u00f3n de Certificaci\u00f3n Municipal, 0150638",
+                "Title: MEDICAL EXAMINATION OF APPLICANTS FOR UNITED STATES VISAS, Form Number: 157",
+                "LABORATORIO CLINICO PATOLOGICO 'ALVAREZ ALEMAN'",
+                "RADIOLOGOS, 155470",
+                "Certificado de Fallecimiento, 370",
+                "Affidavit of Support",
+                "Freedom of Information Act ((b)(6)",
+                "Screeneded by NARA, 6/13/2023, Contractor's License No. 553375",
+                "PRIDEMARK HOMES, INC.",
+                "Additional Questions to be Completed by All Applicants for Permanent Residence in the United States, 9003"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Nicaragua",
+                "Mexico",
+                "Canada",
+                "El Salvador",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 59
+}

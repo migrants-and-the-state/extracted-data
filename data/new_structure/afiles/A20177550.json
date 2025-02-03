@@ -1,0 +1,50 @@
+{
+    "id": "A20177550",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Immigration & Naturalization Service, M-180 ( (Rev. 7-1-71)",
+                "MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, A20177550",
+                "Form I-551, I-551",
+                "APPLICATION BY CUBAN REFUGEE FOR PERMANENT RESIDENCE SOLICITUD PARA RESIDENCIA PERMANENTE DE REFUGIADO CUBANO, C-14282",
+                "Form I-4-102, Alien Registration Application for Permanent Resident Status; Title: Alien Registration Application for Permanent Resident Status.",
+                "Form 2-104, F-1065",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, FORM 1\u2014468 A ( (REV.10-11-76Y)",
+                "Central Medical Laboratory, Inc., 01860",
+                "RADIOLOGY EXCLUSIVELY, A-20-177-550",
+                "Fingerprints and Biographical Information Form, GPO: 1970 Q-378-071",
+                "FEDERAL BUREAU OF INVESTIGATION UNITED STATES DEPARTMENT OF JUSTICE, 20537",
+                "CORRECTED INDEX CARD, G-361 ( (Rev. 4-76) N",
+                "APPLICANT, FORM G-325A",
+                "Immigration & Naturalization Service, M-180 (Rev. 7-71)",
+                "United States Department of Justice Immigration and Naturalization Service, G-325A",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, FORM 1\u2014486",
+                "INSTRUCCIONES PARA EL RECOGNICIMIENTO M\u00c9DICO",
+                "Title: United States Department of Justice, Immigration and Naturalization Service\\nForm Number: G-325A ( (Rev. 8-72-71N)",
+                "Passport Application, DS-11",
+                "Naturalization Certificate, FEB 1953",
+                "Immigration Form, SE-180",
+                "United States Department of Justice Immigration and Naturalization Service, A20177530",
+                "AVISO, SE-261 8-30-66 ( (10)",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, AM-1241-02",
+                "REvalidation",
+                "A Nonimmigrant Alien Who Accepts Unauthorized Employment Is Subject to Deportation, I-94",
+                "IMPORTANT NOTICE, FORM 1-94 ( (REV. 9-1-71)Y",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, FORM I-160 ( (Rev. 6-1-70) Y"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Switzerland",
+                "Cuba",
+                "United States",
+                "Mexico"
+            ]
+        }
+    },
+    "page_count": 36
+}

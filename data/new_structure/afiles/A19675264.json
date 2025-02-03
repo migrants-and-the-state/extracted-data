@@ -1,0 +1,55 @@
+{
+    "id": "A19675264",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, FORM I-181 ( (REV. 11-1-70) N",
+                "INSTRUCTIONS, NARA-132256",
+                "APPLICATION FOR STATUS AS PERMANENT RESIDENT",
+                "Screeneded by NARA, 7/13/2023, Form I-590A",
+                "Biographic Information for Naturalization Application",
+                "Screeneded by NARA, 7/13/2023, GPO 890-684-4",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE",
+                "BLOOD STROLOGIC TEST FOR S. HILIS ( (STS), 31705",
+                "RADIOLOGY CONSULTANTS, P.A., LI 9-4241",
+                "Affidavit of Support",
+                "Freedom of Information Act ( Dependent Affidavit, GPO 917.179",
+                "Germantown Savings Bank, 9-7000",
+                "Great Western Savings and Loan Association, FCG 3022 (R1/70)1",
+                "TEMPLE UNIVERSITY SCHOOL OF BUSINESS ADMINISTRATION OFFICE OF THE DEAN, slw/ci",
+                "BIOGRAPHIC INFORMATION, 2345 ( (REV. 5-1-68)",
+                "Petition to Classify Status of Alien Relative for Issuance of Immigrant Visa - Grant Visa, NARA. 4-3-R401.4",
+                "Application for Adjustment of Status",
+                "Affidavit of Trimbak Govind Phatak, 3 Rs. 50 np",
+                "Screened by NARARA, 7/13/2023, 65 COURT INDIA",
+                "AFFIDAVIT",
+                "INVASION, T1304930",
+                "Fingerprints and Identification Form, GPO: 1968 OF - 315-001",
+                "FEDERAL BUREAU OF INVESTIGATION UNITED STATES DEPARTMENT OF JUSTICE, FD-258 ( (Rev. 12-12-67)",
+                "Processing Sheet, I-485",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, FILE NO.: A 19 675 264",
+                "NOTICE OF APPROVAL OR REVALIDATION OF IMMIGRANT VISA PETITION"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Bahamas",
+                "Barbados",
+                "Haiti",
+                "Jamaica",
+                "Cuba",
+                "Netherlands",
+                "Bermuda",
+                "Mexico",
+                "Canada",
+                "India",
+                "United States",
+                "Dominican Republic"
+            ]
+        }
+    },
+    "page_count": 28
+}

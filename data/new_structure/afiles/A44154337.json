@@ -1,0 +1,65 @@
+{
+    "id": "A44154337",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "U.S. Citizenship and Immigration Services",
+                "FLORIDA CERTIFICATE OF DEATH, DH FORM 1947 (08/04)",
+                "FLORIDA CERTIFICATE OF DEATH, C2022536",
+                "Administratively Closed Pursuant to 8 CFR 335.6(a), N-4-000",
+                "Application for Naturalization, N-4",
+                "Part 3. Information About You, NARA, Form N-4 (05/31/01)N Page 2",
+                "Information for Criminal Records Search",
+                "Time Outside the United States (Including Trips to Canada, Mexico, and the Caribbean Islands), N-400",
+                "Information About Your Marital History ((Continued), N-4 05/31/01)N Page 5",
+                "Part 10. Additional Questions ( (Continued), N-4",
+                "Naturalization Application Form N-400",
+                "Certificate Preparation Sheet And Oath Declaration, Form N-649 ( (Rev. 1/1/98)",
+                "RECORD OF SWORN STATEMENT ( (FINGERPRINTS)",
+                "Civics and History Test",
+                "COVER SHEET RECORD OF PROCEEDING, M-175 ( (Rev. 10-20-69)",
+                "U.S. DEPARTMENT OF JUSTICE Immigration and Naturalization Service, Screeneded by NARA, 8/17/2023",
+                "MEMORANDUM FOR FILE, N-400",
+                "VOTer's Supplement",
+                "U.S. Department of Justice Immigration and Naturalization Service N-4 Adjudication Processing Worksheet, N-650B ( (Rev. 11/98)",
+                "Application for Naturalization, 6003",
+                "Naturalization Initial Interview Notice",
+                "Notice of Action, Form I-797C ( (Rev. 09/07/93) N.",
+                "Immigrant Visa and Alien Registration, IV-44,154337",
+                "Form 9003, Additional Questions to be Completed by All Applicants for Permanent Residence in the United States",
+                "Additional Questions to be Completed by All Applicants for Permanent Residence in the United States, 9003",
+                "APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION, FORM OF-230 PART II",
+                "U.S. Government Printing Office: 1992 \u2014 312/071/50076, Form I-458, Voluntary Resignation of U.S. Citizenship and Permanent Resident Status",
+                "APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION, 230 Part I ( BIOGRAPHIC DATA",
+                "Title of the image, Screened by NARA_ 8/17/2023, Form number, PAGE 2",
+                "Immigration and Naturalization Service Form I-4, G-28 ID Number",
+                "STATUTORY DECLARATION, A SOLICITOR AUTHORIZED TO ADMINISTER OATHSS.",
+                "Affidavit of Support",
+                "Oath or Affirmation of Deponent, FOIA ( (b)(6)",
+                "Title: MEDICAL EXAMINATION OF APPLICANTS FOR UNITED STATES VISAS\\nForm Number: NSN 7540-00-139-0058",
+                "MEDICAL EXAMINATION OF APPLICANTS FOR UNITED STATES VISAS, NSN 7540-00-139-0088",
+                "U.S. Department of Justice Immigration and Naturalization Service N-4 Adjudication Processing Worksheet, N-650B ( (Rev. 1/1/98)",
+                "ecord of IBIS Query ( (ROIQ)",
+                "Case Status, N400",
+                "CONTINUANCE",
+                "Screeneded by NARA, 8/17/2023",
+                "Naturalization Interview Results",
+                "PLEASE DO NOT REMOVE FROM FILE, N400"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Germany",
+                "Mexico",
+                "Canada",
+                "India",
+                "United States",
+                "United Kingdom"
+            ]
+        }
+    },
+    "page_count": 82
+}

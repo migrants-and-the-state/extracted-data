@@ -1,0 +1,51 @@
+{
+    "id": "A28766478",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "ADVERTENCIAScreened by NARA, 6/1/2023, 1-94",
+                "ADVERTENCIA IMPORTANTE",
+                "Immigration and Naturalization Service Arrival Record, I-94",
+                "Welcome to the United States, I-94 Arrival/Departure Record",
+                "Primary Inspection, 212A",
+                "Screened by NARA, 6/1/2023, G-56",
+                "U.S. DEPARTMENT OF JUSTICE Immigration and Naturalization Service, A29 766 4 48",
+                "Screeneded by NARA, 6/1/22023",
+                "United States Department of Justice Immigration and Naturalization Service",
+                "Application for Permanent Residence",
+                "Title of the image: 'Screened by NARA, 6/1/2023' Form number: 'NARA-23'",
+                "Biographic Information Form, G-228 ID Number",
+                "Screened by NARA, 6/1/2023",
+                "Biographic Information, G-325A",
+                "BIOGRAPHIC INFORMATION, G-325A ( (Rev. 10-1-82)",
+                "U.S. Department of Justice Immigration and Naturalization Service, A28 766 4",
+                "Departure Record, I-94",
+                "Record of Changes",
+                "Statistical Data, Form I-643 ( (10-31-81)",
+                "INSTRUCTIONS",
+                "Gobierno de Reconstrucci\u00f3n Nacional",
+                "ENGLISH TRANSLATION OF SPANISH LANGUAGE: BIRTH CERTIFICATE, 56-1",
+                "U.S. Departur of Justice Immigration and Naturalization Service",
+                "Screeneded by NARA, 6/1/2023",
+                "U.S. IMMIGRATION AND NATURALIZATION SERVICE, LOS 1006 AUG 3 1989",
+                "United States Department of Justice, Immigration and Naturalization Service Processing Sheet, I-485",
+                "DATA COLLECTION FOR ALIEN DOCUMENTATION, IDENTIFICATION & TELECOMMUNICATION SYSTEM (ADIT",
+                "Officer's Review and Action Sheet, I-589 ASYLUM REQUEST",
+                "BIOGRAPHIC INFORMATION, G-325A"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Germany",
+                "Nicaragua",
+                "Mexico",
+                "Canada",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 39
+}

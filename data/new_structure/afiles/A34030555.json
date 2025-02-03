@@ -1,0 +1,36 @@
+{
+    "id": "A34030555",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Alien Registration Receipt Card, 82",
+                "RECORD EXAMINED, NARA-427/2023",
+                "ION FOR VERIFICATION OF LAWFUL PERMANENT RESIDENCE OF AN ALIEN, A34-03 FORM APPROVED 1973",
+                "INSTRUCTIONS, NARA, 4/27/2023",
+                "Immigrant Visa and Alien Registration, FS-511",
+                "Form FS-510 ( (Spanish) ( (2-68), FS-510",
+                "Form FS-510 ( (Spanish) ( (2\u201368)",
+                "Form FS-510 ( Spanish ( (228)",
+                "Tesorer\u00eda General del Estado, 251092",
+                "Certificado de Certificaci\u00f3n, 243606",
+                "Registro Civil, 01234456",
+                "Carta de Policia, 012",
+                "CHANNEL DISPOSAL CO., INC.",
+                "AFFIDAVIT",
+                "Affidavit for Immigration Visa",
+                "AFFIDAVIT, SANTA BARBARA 120365"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Canada",
+                "United States",
+                "Mexico"
+            ]
+        }
+    },
+    "page_count": 23
+}

@@ -1,0 +1,57 @@
+{
+    "id": "A41624049",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "U.S. DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE CITIZENSHIP USA, A 41624049",
+                "Efficient Interview Process for Naturalization Applicants, NARA Form 1043A",
+                "Notice of Interview, N-340A (Rev. 5/23/94)Y",
+                "Screened by NARA, 6/2/2023, NARA-14589",
+                "U.S. Department of Justice Immigration and Naturalization Service CITIZENSHIP NOTICE, WR-821 (ELM",
+                "Screeneded by NARA, 6/2/2023, N-648",
+                "Application for Naturalization, N-400 ( (Rev. 07/19/IN)",
+                "Information about your residences and employment., N-400 ( (Rev 07/17-91)N",
+                "Part 7. Additional eligibility factors., Form N-400 ( Rev '07/19'N)",
+                "Part 9. Memberships and organizations., Form N-100 ( (Rev: 07/17'91)N",
+                "Certification Preparation Sheet And Oath Declaration, Form N-64(6.25/97)",
+                "Medical Certification for Disability Exceptions, N-648",
+                "Screened by NARA, 6/2/2023, N-4-1324",
+                "Medical Certification For Disability Expections, Form N-648 (06/24/97)",
+                "Screened by NARA, 6/2/2023, 7-729/85633",
+                "Durango Medical Clinic, NARA, 6/2/2023",
+                "U.S. Department of Justice Immigration and Naturalization Service CITIZENSHIP NOTICE",
+                "Naturalization Certificate, Form N-550 Rev. 6-91",
+                "Notice of Naturalization Oath Ceremony, N-445 (Rev. 1/8/92",
+                "Naturalization Oath Ceremony Mailer",
+                "N-4 Processing Worksheet, N-650(6/25/97)",
+                "Screened by NARA, 6/2/2023, N-650(6/2/97) Page 2",
+                "IMMIGRATION AND NATURALIZATION SERVICE FBI TRACKING SYSTEM, FDDSLT1",
+                "IV-4 16224049, IMMIGRANT VISA AND ALIEN REGISTRATION",
+                "APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION, 230 B",
+                "FORMULARIO OPCI\u00d3NAL 230 B, 130B",
+                "FORMULARIO OPCIONAL 2N30 B2, OPTIONAL FORM 230 B",
+                "OPTIONAL FORM 2, FORMULARIO OPCIONAL 230 B",
+                "PETITION TO CLASSIFY STATUS OF ALIEN RELATIVE FOR ISSUANCE OF IMMIGRANT VISA, FORM 1-130",
+                "Freedom of Information Act ((b)(6), FOIA ( (b)(6)",
+                "MARRIAGE CERTIFICATE",
+                "Certificaci\u00f3n de Matrimonio, 678896",
+                "MEDICAL Examination of Applicants for United States Visas, OPTIONAL FORM 157",
+                "CERTIFICADO DE TRAMITACI\u00d3N, FORMULARIO No. 1",
+                "AFFIDAVIT OF SUPPORT, OMB No. 4-3-R025",
+                "OATH OR AFFIRMATION OF DEPONENT, FOIA ( (b)(6)"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Canada",
+                "El Salvador",
+                "United States",
+                "Mexico"
+            ]
+        }
+    },
+    "page_count": 56
+}

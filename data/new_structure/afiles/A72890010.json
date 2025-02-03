@@ -1,0 +1,56 @@
+{
+    "id": "A72890010",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "U.S. DEPARTMENT OF JUSTICE Immigration and Naturalization Service, I-181 (Rev.(3-1-83) N",
+                "Application for Permanan. residence",
+                "Freedom of Information Act ( b)(6), FOIA ( (b)(6)",
+                "Biographic Information Form, G-325A",
+                "BIOGRAPHIC INFORMATION, G-325A ( (Rev. 10-1-82)",
+                "Petition for Alien Relative, I-130 ( (Rev. 10/01/99)",
+                "Information about your Relative",
+                "NOTICE TO PERSONSSS FILING FOR SPOUSES IF MARRIED LESS THAN TWO YEARS",
+                "CERTIFICACI\u00d3N, 1647818",
+                "ES CONFORME-CO SU ORIGINAL",
+                "CERTIFICACION DE ACTA DE NACIMIENTO, 0633795",
+                "Title: TRANSLATION EXTRACT OF A 'BIRTH' CERTIFICATE, Form Number: Not visible in the image provided.",
+                "Screened by NARA, 7/7/2023, FRANCISCO PAZ BONILLA",
+                "Affidavit of Support, Form 1-1344 ( (Rev. 12/8/95)",
+                "Oath or Affirmation of Deponent, FOIA (b)(6)",
+                "Additional Questions to be Completed by All Applicants for Permanent Residence in the United States, 9003",
+                "Medical Examination of Aliens Seeking Adjustment of Status",
+                "Medical Clearance Requirements for Aliens Seeking Adjustment of Status, Form I-693 ( (Rev. 09/01/87) N",
+                "COLORADO FAMILY HEALTH CENTER, 2415",
+                "Notice of Action",
+                "U.S. Department of Justice Immigration and Naturalization Service BIOGRAPHIC INFORMATION, G-325 A ( (Rev. 10-1-82)",
+                "CERTIFICACION, N\u00ba 1647818",
+                "SCREENED BY NARA, 7/7/2023, ES CONFORME \u2022 CON \u2022 SU \u2022 ORIGINAL",
+                "TRANSLATION EXTRACT OF A 'BIRTH' CERTIFICATE",
+                "Title: TRANSLATION EXTRACT OF A 'BIRTH' CERTIFICATE, Form Number: Not explicitly mentioned in the visible part of the image, but it can be inferred as a typical birth certificate form.",
+                "CERTIFICATE OF CITIZENSHIP, 11 302212",
+                "Screened by NARA, 7/7/2023, 1",
+                "PASAPORTE CORRIENTE, 176312",
+                "Visa for Departure and Reentry",
+                "U.S. Department of Justice Immigration and Naturalization Service, 72890010",
+                "U.S. Department of Justice Immigration and Naturalization Service, LOS/DIEXM/245",
+                "Servicio de Inmigraci\u00f3n y Naturalizaci\u00f3n, I-94",
+                "Aviso, 7772023",
+                "APPLICATION CLERK, I-485",
+                "DEPARTMENT OF JUSTICE Immigration & Naturalization Service, WR-702 2211",
+                "FEDERAL BUREAU OF INVESTIGATION UNITED STATES DEPARTMENT OF JUSTICE, FD-258 ( (REV. 12-29-82)"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Honduras",
+                "Germany",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 53
+}

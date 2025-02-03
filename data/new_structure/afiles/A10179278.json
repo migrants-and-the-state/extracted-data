@@ -1,0 +1,56 @@
+{
+    "id": "A10179278",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Screened by NARA, 6/28/2023, A 10 179 278-C RALS Phone 842-3612",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, Form G-34",
+                "APPLICATION FOR INFORMATION FROM OR COPIES OF IMMIGRATION AND NATURALIZATION RECORDS",
+                "INFORMATION AND INSTRUCTIONS, NARA-585",
+                "United States Department of Justice Immigration and Naturalization Service, Form N-14 ( (Rev. 8/2/65)",
+                "Naturalization Application Form N-4-26, NARA, 6/28/2023",
+                "APPLICATION FOR A NEW NATURALIZATION OR CITIZENSHIP, N-565",
+                "EXAMINER'S REPORT, 2551220",
+                "Issue certif. to:, NARA, 6/28/2023",
+                "Naturalization Application",
+                "Screeneded by NARA, 6/28/2023, Form No. GPO 963935",
+                "Naturalization Certificate, N-550",
+                "Petition for Naturalization, N-4",
+                "AFFIDAVIT OF WITNESSES, NARA-10739-L-16",
+                "STATEMENT OF FACTSS FOR PREPARATION OF PETITION, NARA REGISTRATION",
+                "Petition for Naturalization,, NARA-1025.",
+                "APPLICATION TO FILE PETITION FOR NATURALIZATION, N-400 ( (Rev. 10-20-59)",
+                "APPLICATION TO FILE PETITION FOR NATURALIZATION, N-4",
+                "Screeneded by NARA, 6/28/2023, NARA Form No. 145-197A",
+                "UNITED STATES DEPARTMENT OF JUSTICE, IMMIGRATION AND NATURALIZATION SERVICE, N-4-1023",
+                "United States Department of Justice Immigration and Naturalization Service, Form N-4",
+                "REQUEST FOR SEARCH OF CENTRAL OFFICE INDEX, G-180 (Rev. 3-24-60)",
+                "United States Department of Justice, FBI\u2014Identification Division, Form G-135b",
+                "Form G-135b., Screened by NARA, 6/28/2023",
+                "Title: UNITED STATES DEPARTMENT OF JUSTICE\\nForm Number: A10 179 278",
+                "New Post Office Building Chicago 7, Illinois July 26, 1961, FOIA ( (b)(6)",
+                "New Pest Office Building, Chicago 7, Illinois, A6 923 178 A10 179 278 FOIA (b)(6)",
+                "Screened by NARA, 6/28/2023, FOIA ( (b)(6)",
+                "FILE ROUTE SLIP, G-102 (Rev. 12-1-58)",
+                "The American Consulate General Hong Kong, 4",
+                "DEPARTMENT OF STREEM SCREENED BY NARA, 6/28/2023",
+                "Screened by NARA, 6/28/2023, Form Number: 1459-1",
+                "Supplemental Information (Cont.), NARA 6/28/2023",
+                "INSTRUCTIONS, U.S. GOVERNMENT PRINTING OFFICE: 1953 O - 282468",
+                "CERTIFICATE OF READMISSION, HONG KONG",
+                "APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION",
+                "United States of America Immigrant Visa and Alien Registration,, 9425"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "United States",
+                "China"
+            ]
+        }
+    },
+    "page_count": 44
+}

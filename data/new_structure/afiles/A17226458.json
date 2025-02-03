@@ -1,0 +1,20 @@
+{
+    "id": "A17226458",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": null
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "INDEX CARD, G-361 ( (Rev. 7-1-60)",
+                "Alien Registration Form, 523"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "India"
+            ]
+        }
+    },
+    "page_count": 3
+}

@@ -1,0 +1,42 @@
+{
+    "id": "A29362184",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, A29362184",
+                "Screened by NARA, 7/28/2023",
+                "Application for Permanent Residence, 1115-0053",
+                "Biographic Information Form, G-325A",
+                "Medical Examination of Aliens Seeking Adjustment of Status",
+                "Medical Clearance Requirements for Aliens Seeking Adjustment of Status, Form I-693 ( (Rev. 09/01/87) N",
+                "Affidavit of Support, Form I-134 ( (Rev. 12-1-84) Y",
+                "Title: FOIA ( (b)(6), Form Number: FOIA ((b)(6)",
+                "Petition for Alien Relative, Form I-130 ( (Rev. 02-28-87)N",
+                "Continued Information about your alien relative, G-28",
+                "NOTICE TO PERSONSSS FILING FOR SPOUSES IF MARRIED LESS THAN TWO YEARS",
+                "Screened by NARA, 7/28/2023, FOIA ( (b)(6)",
+                "LIBERTY EQUALITY FRATERNITY REPUBLIC OF HAITI, Screeneded by NARA, 7/28/2023",
+                "LIBERTY EQUALITY FRATERNITY, MARRIAGE CERTIFICATE OF THOMAS SIMON AND OF HOSANNA SAINT",
+                "LIBERTY EQUALITY FRATERNITY, 1267",
+                "LIBERTY EQUALITY FRATERNITY, Screeneded by NARA, 7/28/2023",
+                "LIBERTY EQUALITY FRATERNITY, MARRIAGE CERTIFICATE OF THOMAS SIMON AND OF HOSANNA SAINT-LOUIS",
+                "Natural Parent of USC",
+                "U.S. Department of Justice Immigration and Naturalization Service BIOGRAPHIC INFORMATION, G-325A",
+                "U.S. Department of Justice Immigration and Naturalization Service BIOGRAPHIC INFORMATION, FORM G-325A",
+                "Biographic Information, G-325A",
+                "U.S. Department of Justice Immigration and Naturalization Service, FORM G-325A"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Haiti",
+                "Germany",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 36
+}

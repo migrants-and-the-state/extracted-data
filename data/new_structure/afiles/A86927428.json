@@ -1,0 +1,63 @@
+{
+    "id": "A86927428",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Title of the image: 'Entry of Appearance as Attorney or Representative', Form number: 'G-28 ( (09/26/00)Y'",
+                "Title: Entry of Appearance as Attorney or Representative\\nForm Number: G-28 ( (09/26/00)Y",
+                "Permanent Residence or Adjust Status, I-445, Application to Register Permanent Residence or Adjust Status",
+                "Part 3. Processing information.",
+                "Part 3. Processing information. ( (Continued)",
+                "Part 4. Signature., Form I-485 ( (Rev. 07/24/06)Y Page 4",
+                "Department of Homeland Security, G-325A, Biographic Information",
+                "Department of Homeland Security U.S. Citizenship and Immigration Services, G-325A, Biographic Information",
+                "Immigration and Naturalization Service I-94 Department Record, 989097378 11",
+                "Immigration and Naturalization Service, I-94 Department Record",
+                "Affidavit of Support, I-864",
+                "Information on the Sponsor,, Form I-864 ( (Rev. 11/01/06)N Page 2",
+                "Form I-864 ( (Rev. 11/01/06)N Page 44",
+                "Part 8. Sponsor's Contract.",
+                "Screeneded by NARA, 7/17/2023",
+                "Affidavit of Support, Form 1-864 ( (Rev. 11/01/06)N Page 8",
+                "Department of Homeland Security, I-864A, Contract Between Sponsor and Household Member",
+                "Part 2. Sponsor's Promise.",
+                "Department of Homeland Security U.S. Citizenship and Immigration Services, Form 1-693, Medical Examination of Aliens Seeking Adjustment of Status",
+                "Supplemental Form to I-1",
+                "IMMUNIZATION RECORD, 867 S.W. 1ST ST",
+                "Petition for Alien Relative, I-130",
+                "Information about your alien relative ( (continued), I-130",
+                "Department of Homeland Security, U.S. Citizenship and Immigration Services, G-325A, Biographic Information",
+                "Birth Certificate, 13091229",
+                "Certification of Translation, 2#26213",
+                "CERTIFICACION DE ACTA DE NACIMIENTO, 1309129",
+                "Certificate of Naturalization, N-550 ( (REV. 11-1-87)Y",
+                "Certificate of Naturalization, N-550",
+                "Translation of a Document Written in Spanish and Presented to the Undersigned for Its Translation into English, 2928442",
+                "CERTIFICACION, 2 29284492",
+                "Translation of a Document Written in Spanish and Presented to the Undersigned for Its Translation into English., 3036885",
+                "CERTIFICACI\u00d3N, N\u00ba 3036885",
+                "Translation of a Document Written in Spanish and Presented to the Undersigned for its Translation into English., 3036885",
+                "CERTIFICADO, 3036885",
+                "NOTICE OF YOUR FINANCIAL PRIVACY RIGHTS, A6 80457 Jul 15, 2023",
+                "The Confidentiality, Security, and Integrity of Your Information, Form PRIV-DISC 2/4054",
+                "EXPRESS MAIL POSTAGE REQUIRED, Label 11-B",
+                "IR0, I-130",
+                "National Benefits Center-Contractor Processing Review Checklist for AOS I-485s, AOS I-485s",
+                "Petitioner\u2019s I-864, I-864",
+                "Petition for Alien Relative, I-129f",
+                "Appendix J: Processing Sheet, I-485 Processing Worksheet"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Cuba",
+                "Honduras",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 73
+}

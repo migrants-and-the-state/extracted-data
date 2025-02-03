@@ -1,0 +1,52 @@
+{
+    "id": "A70022932",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "U.S. DEPARTMENT OF JUSTICE Immigration and Naturalization Service Memorandum of Creation of Record of Lawful Permanent Residence, A70 022 932",
+                "U.S. DEPARTMENT OF JUSTICE Immigration and Naturalization Service, A70 022 932",
+                "Screened by NARA, 7/28/2023, Form I - 181a (Rev. 3-1-83) N",
+                "United States Department of Justice Immigration and Naturalization Service, A70 022 932",
+                "Application for Permanent Residence, I-485 ( (Rev. 06-23-86) Y",
+                "Screeneded by NARA, 7/28/2023, NARA Form 14-569",
+                "U.S. Government Printing Office : 1986 O - 159-025, Screened by NARA, 7/28/2023",
+                "Medical Examination of Aliens Seeking Adjustment of Status, I-693 ( (Rev. 09/01/87) N",
+                "Medical Clearance Requirements for Aliens Seeking Adjustment of Status",
+                "Medical Examination of Aliens Seeking Adjustment of Status",
+                "Medical Clearance Requirements for Aliens Seeking Adjustment of Status, Form I-693 ( (Rev. 09/01/87) N",
+                "Affidavit of Support, Form I-134 ( Rev. 12-1-84) Y",
+                "Oath or Affirmation of Deponent, FOIA ( (b)(6)",
+                "Screeneded by NARA, 7/28/2023",
+                "NOTICE OF ENTRY OF APPEARANCE AS ATTORNEY OR REPRESENTATIVE, Form G-28",
+                "BIOGRAPHIC INFORMATION, G-325A",
+                "Biographic Information, G-325A",
+                "U.S. Department of Justice Immigration and Naturalization Service, G-325A",
+                "FINGERPRINT CARD, NARA 28/2023",
+                "FEDERAL BUREAU OF INVESTIGATION UNITED STATES DEPARTMENT OF JUSTICE, FD-259 ( (REV. 7-13-77)",
+                "Petition for Alien Relative, I-130 ( (Rev. 02-28-87) N",
+                "Information about your alien relative, FOIA ( (b)(6)",
+                "NOTICE TO PERSONSSS FILING FOR SPOUSES IF MARRIED LESS THAN TWO YEARS",
+                "TRANSLATION OF A ' DEATH CERTIFICATE ''' and ",
+                "LA INF RSCRITA JFE DEL REGISTRO CIVIL, CERTIFCA:, T.R. 0911328",
+                "Translation of a Birth Certificate",
+                "Certificaci\u00f3n del Registro Civil, T.R. 0911329",
+                "Immigration and Naturalization Service, I-94",
+                "Immigration and Naturalization Service Departure Record, I-94",
+                "Warning - A nonimmigrant Screeneded by NARA, 7/28/2023 ployment is subject to deportation.",
+                "Application or Petition Form No. I-485, I-163",
+                "Application or Petition Form No. I-485, United States Department of Justice, Immigration and Naturalization Service"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "El Salvador",
+                "Germany",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 40
+}

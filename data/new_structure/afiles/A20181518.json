@@ -1,0 +1,53 @@
+{
+    "id": "A20181518",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Certificate of Citizenship, FORM N-560 ( (REV 12-1-69)",
+                "Oath of Allegiance, POD 3811",
+                "RECEIPT, A20181518",
+                "Memorandum, 5010-109",
+                "Application for Certificate of Citizenship, Form N-600 ( (Rev. 9\u20131\u201369)",
+                "Naturalization Application,, N-4-1025.",
+                "APPLICATION",
+                "U.S. DEPARTMENT OF COMMERCE Social and Economic Statistics Administration BUREAU OF THE CENSUS Washington, D.C. 20233 OFFICE OF THE DIRECTOR, 8-157-316",
+                "REQUEST FOR INFORMATION FROM NATURALIZATION FILE",
+                "U.S. Naturalization Certificate, 1520180",
+                "Petition for Naturalization, 8275",
+                "Naturalization Petition and Affidavits of Petitioner and Witnesses,, 6278",
+                "Declaration of Intention,, 8275",
+                "ROUTE SLIP",
+                "APPLICATION FOR CERTIFICATE OF CITIZENSHIP, G-14-62",
+                "Application for Certificate of Citizenship, Form N-600 ( (Rev. 9/1-83)",
+                "Naturalization Application,, N-4-1023.",
+                "Supporting of Question #14, Question 14 Support",
+                "TO WHOM IT MAY CONCERN:, Ex #4",
+                "To Whom it May Concern, GPO 943-662",
+                "Cincinnati Public Schools, GPO 943-682",
+                "U. S. DEPARTMENT OF COMMERCE BUREAU OF THE CENSUS, 568-271",
+                "Nathan Dwoskin's Letter of Citizenship, GPO 943-662",
+                "STATE OF OHIO DEPARTMENT OF HEALTH CERTIFICATE OF DEATH, Form G166-B (GPO 943-662",
+                "Certificate of Death, G146-B (C-254",
+                "Certificate of Death, 134-38-2860",
+                "APPLICATION FOR CERTIFICATE OF CITIZENSHIP, Form No. 4-105",
+                "EXAMINER'S REPORT OF TESTIMONY OF WITNESS",
+                "Exhibit Identification Form G166-8-042, GPO 943-662",
+                "MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE",
+                "STATUS N-600 APPLICATION, N-601 ( (Rev. 5-25-67)"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Russia",
+                "Germany",
+                "Ukraine",
+                "Lithuania",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 39
+}

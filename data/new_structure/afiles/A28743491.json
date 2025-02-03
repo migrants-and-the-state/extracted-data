@@ -1,0 +1,73 @@
+{
+    "id": "A28743491",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Notice of Naturalization Oath Ceremony",
+                "Naturalization Oath Ceremony, N-4",
+                "Certificate of Naturalization, N-550",
+                "Application for Naturalization",
+                "Information about your residences and employment., N-400 ( (Rev 07/17'91)N",
+                "Part 7. Additional eligibility factors., Form N-400 ( Rev 07/17/91)N",
+                "Form N-100 ( (Rev 07/19)N, Form N-100",
+                "CERTIFICATE PREPARATION SHEET and OATH DECLARATION",
+                "U.S. DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE CITIZENSHIP USA, A 287443491",
+                "Quick and Pleasant Interview Process, NARA-102435689",
+                "IMMIGRATION & NATURALIZATION SERVICES",
+                "Frank, Greenberg & Simone, A28 743 491",
+                "AFFIDAVIT OF MARRIAGE",
+                "Affidavit of Marriage",
+                "UNITED STATES DEPARTMENT OF JUSTICE, IMMIGRATION AND NATURALIZATION SERVICE",
+                "MEDICAL Examination and Immigration Interview, FORM 1-486",
+                "NOTICE OF ENTRY OF APPEARANCE AS ATTORNEY OR REPRESENTATIVE, G-28",
+                "IMMIGRATION AND NATURALIZATION SERVICE, A-28 743 491",
+                "MEDICAL Examination and Immigration Interview",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, FORM I-486A ( (REV. 12-29-79)Y",
+                "Azusa Family Healthcare ADMISSION FORM, 91702",
+                "Affidavit of Support",
+                "Oath or Affirmation of Deponent, NARA Form 1024",
+                "Western State Bank, 10000338",
+                "U.S. Department of Justice Immigration and Naturalization Service BIOGRAPHIC INFORMATION, G-325A ( (Rev. 10-1-82)",
+                "Petition for Alien Relative, I-130",
+                "I-130 Alien Relative Petition, I-130",
+                "Petition for Alien Relative Application for Permanent Residence, 12768707",
+                "AFFIDAVIT, 10-31-87",
+                "AFFIDAVIT, 55.",
+                "Pension Payment Order, FORM 4",
+                "Affidavit",
+                "Screened by NARA, 8/23/2023, ADJUSTMENT OF STATUS TO LEGAL IMMIGRANT",
+                "AFFIDAVIT",
+                "N-4 Processing Worksheet, N-650(6/25/97) Page 1",
+                "Screened by NARA, 8/23/2023, N-650(6/25/97)",
+                "Notice of Intent to Dismiss",
+                "NOTICE OF INTENT TO DISMISS, I-4013",
+                "Certificate of Naturalization, N-550 REV. 6-91",
+                "Certificate of Naturalization, FORM N-550 REV. 6-91",
+                "Screeneded by NARA, 8/23/2023, 287443491",
+                "APPLICATION CLERK, I-435",
+                "Data Collection for Alien Documentation, Identification & Telecommunication System ( (ADIT), I-485",
+                "FINGERPRINT CARD, NARA 82173024",
+                "U.S. DEPARTMENT OF JUSTICE Immigration and Naturalization Service, 181 (Rev.3-1-83) N",
+                "Your application for status as a permanent resident has been retained for processing., 181a (Rev. 3-1-83)",
+                "Application for Permanent Residence, I-458 ( (08-01-85) N",
+                "Screened by NARA, 8/23/2023",
+                "Biographic Information Form G-325A, G-325A ( Biographic Information is not attached because applicant is under 14 or over 70 years of age.",
+                "Immigration and Naturalization Service Alien Registration Receipt Card, I-942",
+                "DEPARTURE RECORD, 4-94 (Rev. 9-1-73) N"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Germany",
+                "Canada",
+                "India",
+                "Pakistan",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 87
+}

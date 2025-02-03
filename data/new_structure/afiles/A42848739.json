@@ -1,0 +1,44 @@
+{
+    "id": "A42848739",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Immigrant Visa and Alien Registration; Form IV-248,4739",
+                "DE Demande de Visa d'Immigrant et d'inscription \u00e0 titre d'\u00e9tranger, O.M.B. No. 4-70-R150",
+                "OPTIONAL FORM 2 (230 ( (French) (Rev. 6-82), 230",
+                "OPTIONAL FORM 2 ( (French) (Rev.6-82)",
+                "OPTIONAL FORM 2230 ( (French) (Rev. 6-82)",
+                "Petition to Classify Status of Alien Relative for Issuance of Immigrant Visa, FORM 1-130",
+                "Naturalization and Citizenship Application Form N-4,, N-658963.",
+                "EXTRAIT ACTE DE MAISSANCE DE LA COMUNE DU CAP-HA\u00cfTIEN POUR L'ANNEE 1901, 77777",
+                "Certificat de notaire",
+                "EXTRAIT ACTE DE MARIAGE DE LA COMMUNE DU CAP-HAITIEN, 14737",
+                "Marie-Rose Anna Robert Laroch\u00e9, sont unis.",
+                "N\u00b0 19979, Y N\u00b0 19979",
+                "Certificat d'identit\u00e9 et de nationalit\u00e9 de la R\u00e9publique d'Ha\u00efti, N\u00b0 33311-K",
+                "Extrait des registres des actes de naissance de la commune de Cap-Hati\u00e9, A6 N\u00b0 76133",
+                "ME CAL EXAMINATION OF APPLICANTS FOR UNITED STATES VISAS, NSN: 7540-00-139-0058",
+                "LABORATOIRE D'ANALYSES M\u00c9DICALES",
+                "Affidavit of Support",
+                "OATH OR AFFIRMATION OF DEPONENT, NARA Form 10-2345",
+                "Affidavit of Support, Form I-1344 ( (Rev. 12-1-84) Y",
+                "Screened by NARA, 7/27/2023",
+                "CHASE FEDERAL BANK, 07-001449-3",
+                "Screeneded by NARA, 7/27/2023, F200-LO-012 ( (Rev. 2/84)",
+                "1ST Nationwide Bank Letter of Account Information,, S044 (R01/0986",
+                "Screeneded by NARA, 7/27/2023, Pitney Bowes Miami Lakes Branch Office"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Haiti",
+                "Canada",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 25
+}

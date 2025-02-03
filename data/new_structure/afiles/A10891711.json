@@ -1,0 +1,53 @@
+{
+    "id": "A10891711",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "INDEX CARD, G-361",
+                "The United States of America, 834796",
+                "Petition for Naturalization, Form N-4",
+                "AFFIDAVIT OF WITNESSES",
+                "Application to File Petition for Naturalization, N-4 (00 ( (Rev. 3-1-61)",
+                "National Archives at Kansas City, NARA Form 18F-203A",
+                "STATEMENT OF FACTSS FOR PREPARATION OF PETITION, 10891711",
+                "National Archives at Kansas City, NARA Form 1810",
+                "Application to File Petition for Naturalization, Form N-4 (00 ( (Rev. 3-1-61)",
+                "Naturalization Application",
+                "United States Department of Justice Immigration and Naturalization Service, I-4",
+                "United States Department of Justice Immigration and Naturalization Service, Form N-4",
+                "United States Department of Justice, Immigration and Naturalization Service, G-135a",
+                "Census of the State of Illinois, 10-2",
+                "United States Department of Justice Immigration and Naturalization Service, Form G-135a",
+                "United States Department of Justice Form G-135aA",
+                "REPORT of Character Investigation, I-192A",
+                "Title: UNITED STATES DEPARTMENT OF JUSTICE\\nForm Number: G-135a",
+                "INMIGRATION AND NATURALIZATION SERVICE, I-139",
+                "United States Department of Justice Form G-135aA, Form G-135aA",
+                "Report of Character Investigation, I-174",
+                "IDENTIFICATION DIVISION, Form G-135",
+                "Form G-135, United States Department of Justice, Immigration and Naturalization Service",
+                "REPORT of Character Investigation, I-108A",
+                "Declaration of Intention, 7843",
+                "UNITED STATES OF AMERICA, 1045",
+                "APPLICATION TO FILE DECLARATION OF INTENTION, N-300",
+                "INSTRUCTIONS TO APPLICANT, I-151 Exhibited: Shows admission RECORDS EXAMINED FOUND",
+                "FOREIGN SERVICE MEDICAL EXAMINATION OF VISA APPLICANTS, FS-396",
+                "Fingerprints and Criminal Record, R.C.M.P. C-216",
+                "DETAILS OF CRIME (Modus Operandi), BUREAU USE ONLY",
+                "APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION, I-1948085",
+                "Immigrant Visa and Alien Registration, I-1297"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Canada",
+                "Austria",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 44
+}

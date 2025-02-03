@@ -1,0 +1,58 @@
+{
+    "id": "A21202116",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Certificate of Naturalization, 12 0624 452",
+                "Petition for Naturalization",
+                "RESULT OF EXAMINATION, I-551",
+                "APPLICATION TO FILE PETITION FOR NATURALIZATION, N-400 ( (Rev. 11-26-79)N",
+                "Naturalization Application,, N-4-102",
+                "Screened by NARA, 7/28/2023",
+                "Naturalization Application Form, N-4-1023",
+                "MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, A2 202 116",
+                "INSTRUCTIONS, NARA, 7/28/2023",
+                "APPLICATION BY INDOCHINESE REFUGEE FOR PERMANENT RESIDENCE, I-458C",
+                "Freedom of Information Act ((b)(6), NARA Form 325A",
+                "BIOGRAPHIC INFORMATION, FORM G-325A ( (REV. 10-1-74) Y",
+                "City of Lafayette Police Department Letterhead, POLICE DEPARTMENT CITY HALL",
+                "REQUEST FOR FINGERPRINTS AND/OR INFORMATION",
+                "CORRECTED INDEX CARD, G-361 (Rev. 4-1-76) N",
+                "INDEX CARD, G-361 (Rev. 10-1-70) N",
+                "Notice of Final Naturalization Hearing, N-4 45A",
+                "Petition for Naturalization,, N-455",
+                "American History Quiz, A21- 202-116",
+                "BIOGRAPHIC INFORMATION, FORM G-325 ( (REV. 5-1-79)",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE Processing Sheet, 21 202 116",
+                "FEDERAL INVESTIGATION, FD-258 ( (REV. 7-13-77)",
+                "FEDERAL INVESTIGATION UNITED STATES DEPARTMENT OF JUSTICE, PD-259 ( (REV. 7-13-77)",
+                "APPLICANT, FORM G-325A",
+                "United States Department of Justice, Federal Bureau of Investigation, 1-12 (Rev. 10-18-76",
+                "UNITED STATES DEPARTMENT OF JUSTICE FEDERAL BUREAU OF INVESTIGATION",
+                "PLEASE NOTE",
+                "Processing Sheet",
+                "DEPARTMENT OF STATE MEDICAL EXAMINATION OF VISA APPLICANTS, FORM FS-398",
+                "Sworn Statement of Refugee Applying for Parole into the United States, FORM 0-646(5-12-75)",
+                "AFFIDAVIT RE ASSETS AND LIABILITIES TO BE SUBMITTED BY EVERY REFUGEE 17 YEARS OF AGE OR OVER APPLYING FOR PAROLE INTO THE UNITED STATES, G-648 ( (6-275)",
+                "REFugee release by voluntary agency, 1117",
+                "Biographic Information, G-325A",
+                "BIOGRAPHIC INFORMATION, G-325A ( (REV. 8-27-72)N",
+                "Biographic Information Form G-325A (, Form Approved OMB No. 44-R46",
+                "FEDERAL BUREAU OF INVESTIGATION UNITED STATES DEPARTMENT OF JUSTICE, FD-258 ( Rev. 4-2571",
+                "DCII REQUEST / REPLY CARD, NECC/HP-2301"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Cambodia",
+                "Laos",
+                "United States",
+                "Vietnam"
+            ]
+        }
+    },
+    "page_count": 55
+}

@@ -1,0 +1,75 @@
+{
+    "id": "A34038282",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "The United States of America, 11 902882",
+                "Petition for Naturalization, N-4",
+                "APPLICATION TO FILE PETITION FOR NATURALIZATION, N-400 ( (Rev. 5-3-83) N",
+                "Freedom of Information Act ((b)(6), NARA Form 10-4283",
+                "Naturalization Application Form, N-4",
+                "U.S. Department of Justice Immigration and Naturalization Service, G-325 ( (Rev. 10-1-82)",
+                "APPLICATION BY A LAWFUL PERMANENT RESIDENT FOR AN ALIEN REGISTRATION RECEIPT CARD, FORM I-551, FORM I-90",
+                "INSTRUCTIONS, NARA 41092235",
+                "Notice of Final Naturalization Hearing, Form N-45",
+                "Petition for Naturalization,, I-412.",
+                "PUBLIC Voucher for Refunds, 1048",
+                "RECEIPT OF OBLICOR \u2014 RETURN OF UNITED STATES BONDS OR NOTES, Form 1-306",
+                "AFFIDAVIT IN LIEU OF LOST RECEIPT OF UNITED STATES IMMIGRATION AND NATURALIZATION SERVICE FOR COLLATERAL ACCEPTED AS SECURITY, FOM 8/8",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, WR 7138/73.35.2-C",
+                "United States Department of Justice Immigration and Naturalization Service, G-56",
+                "United States Department of Justice Immigration and Naturalization Service, Form G-56",
+                "OTice\u2014Immigration Bond Cancelled",
+                "U.S. DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE,, Form I-352 ( (Rev. 9-1-71) N",
+                "PLEDGE AND POWER OF ATTORNEY FOR USE WHEN UNITS BONDS OR NOTES ARE DEPOSITED*AS SECURITY, NARA-44/192023",
+                "RECEIPT OF RECEIPT OFFICER -- UNITED STATES BONDS OR NOTES, OR CASH, ACCEPTED AS SECURITY ON IMMIGRATION BOND, Form I-305",
+                "REceIPT OF DEPOSITORY FOR UNITED STATES BONDS OR NOTES DEPOSITED, I-301 ( (Rev. 1-1-66)",
+                "APPLICATION FOR VERIFICATION OF INFORMATION FROM IMMIGRATION AND NATURALIZATION SERVICE RECORDS,, N-4-19823",
+                "UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service, G 56",
+                "RE-EXAMINATION ON NATURALIZATION INTERVIEW, A34 038282",
+                "Immigrant Visa and Alien Registration, FS-511",
+                "DEPARTAMENTO DE ESTADO SOLICITUD DE VISA DE INMIGRANTE Y REGISTRO DE EXTRANJERO",
+                "Form FS-510 ( (Spanish) ( (2-68), FS-510",
+                "Form FS-S10 ( (Spanish) ( 2-68, EXCEPTO CUANDO LA LEY DISPONGA LO CONTRARIO, LOS EXTRER\u00d3NDEMPIDOS DE CUCUATRALLA",
+                "Form FS-510 ( (Spanish) ( (22\u201368)",
+                "GOBIERNO DEL ESTADO DE DURANGO, 4\u00f1o de juarez",
+                "CERTIFICADO DE BAPTISMO, N/A-19023",
+                "ESTADO DE DURANGO Registro Civil, N\u00ba 222365",
+                "VII AYUNTAMIENTO CONSTITUCIONAL TIJUANA, B. C., 9671",
+                "PRESIDENCIA MUNICIPAL de Tepetlpanes, Dgo.",
+                "El Decreto de Certificaci\u00f3n Municipal",
+                "AFFIDAVIT OF SUPPORT",
+                "Affidavit of Support",
+                "Bank of America",
+                "STATE OF CALIFORNIA",
+                "APPLICATION FOR VERIFICATION OF PERMANENT RESIDENCE OF AN ALIEN, FORM I-250 ( (REV. 6-1-69)",
+                "INSTRUCTIONS TO THE APPLICANT",
+                "American Consulate General Tijuana, Mexico, A19 925 596, A19 925 598",
+                "RECEIPT OF DEPOSITORY FOR UNITED STATES BONDS OR NOTES DEPOSITED AS SECURITY ( (To be held in Immigration and Naturalization Office; duplicate copy to be retained by the Depository), Form I-301 ( (Rev. 1-1-66)",
+                "RECEIPT OF IMMIGRATION OFFICER -- UNITED STATES BONDS OR NOTES, OR CASH, ACCEPTED AS SECURITY ON IMMIGRATION BOND",
+                "Immigration Bond, Form I-352",
+                "24019223, BOND CONDITIONED FOR THE DELIVERY OF AN ALIEN",
+                "PLEDGE AND POWER OF ATTORNEY FOR USE WHEN UNITED STATES BONDS OR NOTES ARE DEPOSITED AS SECURITY, NARA 2/198203",
+                "SUBSTITUTION OF SECURITY, FPI-LC-10-71-3M-6052",
+                "FOIA ( (b)(6), 7421",
+                "Immigration Bond",
+                "CONSULADO AMERICANO, FOIA ( (b)(6)",
+                "AMERICAN CONSULATE",
+                "Immigration and Naturalization Service, Form 1-356",
+                "REQUEST FOR CANCELLATION OF PUBLIC CHANGE BOND",
+                "United States Department of Justice, Immigration and Naturalization Service, I-356"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Canada",
+                "United States",
+                "Mexico"
+            ]
+        }
+    },
+    "page_count": 86
+}

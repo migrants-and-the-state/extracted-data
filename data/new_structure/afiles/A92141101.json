@@ -1,0 +1,83 @@
+{
+    "id": "A92141101",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Certificate of Naturalization, Form N-550 REV. 6-91",
+                "Notice of Naturalization Oath Ceremony, N-445 (Rev. 1/8/92",
+                "Naturalization Oath Ceremony Mailer",
+                "Application for Naturalization, N-4 (000",
+                "Information about your residences and employment., N-4 (Rev 07/19'91)",
+                "Part 7. Additional eligibility factors., Form N-400 ( Rev 07/17/91",
+                "Part 9. Memberships and organizations., Form N-100 ( (Rev 07/17'91N",
+                "Certificate Preparation Sheet and Oath Declaration, Form N-649 (Rev. 11/1/95",
+                "RECORD OF SWORN STATEMENT ( (FINGERPRINTS), 92144 FILE NO 101 DATE 11/12/98",
+                "U.S. Department of Justice Medical Certification for Disability Exceptions, Form N-468",
+                "Medical Examination Form",
+                "Quick and Pleasant Interview Process, U.S. GPO: 1999-779-163/81042",
+                "U.S. Department of Justice Immigration and Naturalization Service, 092 14 101",
+                "Application for Naturalization, N-4 (00",
+                "Information about your residences and employment., Part 4. Information about your residences and employment.",
+                "Continued on back, Form N-4 (0 Rev. 07/19)N",
+                "Memberships and organizations., Form N 100 ( (Rev 07-17-91)N",
+                "U.S. DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE CITIZENSHIP USA, A 92144101",
+                "Quick and Pleasant Interview Process for Family Members and Friends, GPO-1996-780-589",
+                "U.S. Department of Justice Immigration & Naturalization Service",
+                "APPLICATION FOR CHANGE OF NAME, N- 5 ( (1/96)",
+                "UNITED STATES DISTRICT COURT CENTRAL DISTRICT OF CALIFORNIA APPLICATION FOR CHANGE OF NAME, N- 5 ( (1/96)",
+                "U. S. Department of Justice Immigration and Naturalization Service N-4 Adjustment Processing Worksheet, N-4",
+                "Immigration and Naturalization Service, N-400",
+                "N-400 PROCESSING WORK SHEET, 921441701",
+                "BIOGRAPHIC DATA SHEET",
+                "Application for Naturalization ( (N-400), 9214/101, 3/31/97",
+                "Title: A-FILE COVER SHEET, Form Number: M-330 ( (4.05.90)",
+                "Application to Adjust Status from Temporary to Permanent Resident, I-698 ( (08/108) Page 1",
+                "Application for Adjustment of Status to Permanent Resident,, I-490.",
+                "Medical Examination of Aliens Seeking Adjustment of Status",
+                "Medical Examination of Aliens Seeking Adjustment of Status, I-693",
+                "Medical Examination of Aliens Seeking Adjustment of Status, OMB #1115-0134",
+                "Application for Status as a Under Section 2 of the Immigration and Naturalization Service, I-687",
+                "Nonimmigrant Visa Application, I-687 ( (04/01/87)",
+                "Form 1-687 ( (04/01/87) Page 3, Form 1-687",
+                "Temporary Residence Form I-687 ( 04/01/87, Form I-687",
+                "U.S. Department of Justice Immigration and Naturalization Service",
+                "Title: MEDICAL CLEARANCE REQUIREMENTS FOR ALIENS SEEKING ADJUSTMENT OF STATUS, Form Number: Not visible in the image provided.",
+                "NOTICE OF ENTRY OF APPEARANCE AS ATTORNEY OR REPRESENTATIVE, G-28",
+                "U.S. Department of Justice Immigration and Naturalization Service, I-696 ( (04/17/87)",
+                "Immigration and Naturalization Service",
+                "AFFIDAVIT OF WITNESS",
+                "Affidavit of Witness",
+                "PAYMENT RECEIPT, SC 0538529",
+                "PAYMENT RECEIPT, 02/06/86 16:34:09 TELCMAB OFC02, 04/06/86 13:33:13 TELCMAB OFC02",
+                "PAYMENT RECEIPT, 816 762-74439/661 RA0066 RES-L, 816 762-74439/661 RA0066 RES-L",
+                "BIRTH CERTIFICATE TRANSLATION",
+                "Certificado de Nacimiento, P. 0539",
+                "AFFIDAVIT OF WITNESS, Form No. 43-R343",
+                "PACIFIC BELL, 8116066000539",
+                "Customer Copy",
+                "Customer Copy, 6610660003329",
+                "PACIFIC BELL",
+                "PACIFIC BELL, 6610660000559",
+                "Pacific Telephone, 382-5601, 382-5629",
+                "BILLING INQUIRIES CALL ( (800) 382-5601 ORDER INQUIRIES CALL ( (800) 782-5629, 6610660002359",
+                "Pacific Telephone, 2",
+                "THE KEY DRUG CO., K 1370 ( (2-87)",
+                "South Mandie Medical Group, Inc., 1492",
+                "CUSTOMER COPY, 344184414549",
+                "Pacific Telephone, 34 18427442809",
+                "HUDSON'S JEWELERS, 7934"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "El Salvador",
+                "Germany",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 126
+}

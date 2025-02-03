@@ -1,0 +1,33 @@
+{
+    "id": "A36154795",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Immigrant Visa and Alien Registration, FS-511",
+                "Immigrant Visa and Alien Registration Application, Form FS-510 ( (Chines\u00e8-English)",
+                "Personal Financial Resources, FS-510 ( (English) (2\u201368",
+                "Form FS-510 ( (English) ( (2-68), Screened by NARA, 7/22/2023",
+                "Form FS-510 ( (English) ( (2\u201368), Screeneded by NARA, 7/27/2023, Page 4",
+                "Petition to Classify Status of Alien Relative for Issuance of Immigrant Visa, FORM I-130",
+                "Application for Adjustment of Status to Lawful Permanent Resident ( Form I-45, 27230168",
+                "AFFIDAVIT TO MARITAL RELATIONSHIP FACTS, 19638",
+                "TAIPEI MUNICIPAL POLICE HEADQUARTERS, 99594",
+                "Screeneded by NARA, 7/22023",
+                "Medical Examination of Visa Applicants"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "China",
+                "Mexico",
+                "Canada",
+                "Taiwan",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 16
+}

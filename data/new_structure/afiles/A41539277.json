@@ -1,0 +1,55 @@
+{
+    "id": "A41539277",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Application by Lawful Permanent Resident for New Alien Registration Receipt Card, OMB # 1115-0004",
+                "RECEIPT FOR CASH (MEMORANDUM), G-211",
+                "Application by Lawful Permanent Resident for New Alien Registration Receipt Card, GPO: 1988 O \u2013 206\u2013553",
+                "RECORD OF INFORMATION DISCLASSURE ( (PRIVACY ACT), G-658",
+                "Certificate of Death",
+                "Application or Petition Form No. I-90, A41539277",
+                "Immigrant Visa and Alien Registration, IV-41539277",
+                "APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION",
+                "OPTIONAL FORM 230 ( (English) ( Rev. 6-82",
+                "Form 230 ( (English) (Rev. 6-82)",
+                "OPTIONAL FORM 2230 ( (English) (Rev. 6-82)",
+                "Alien Relative, OMB No. 1115-0054",
+                "Petition for Alien Relative, I-130",
+                "Screened by NARA, 7/31/2023, G-28 ID Number",
+                "AFFIDAVIT",
+                "POLICE CLEARANCE CERTIFICATE, G9922",
+                "AMERICAN EMBASSY CONSULAR SECTION, RECEIPT# 4 6560",
+                "The Indian Witness, NARA-10 10/26/88",
+                "CERTIFICATE OF BAPTISM",
+                "Christ Methodist Church, 210282",
+                "CERTIFICATE OF MARRIAGE, 166",
+                "Christ Methodist Church",
+                "Screened by NARA, 7/31/2023, 888-932",
+                "Screened by NARA, 7/31/2023",
+                "Indian Christian Cemetery Committee, A 466",
+                "THE INDIAN WITNESS",
+                "CERTIFICATE OF BAPTISM.",
+                "POLICE CLEARANCE CERTIFICATE, 6992",
+                "Affidavit of Support",
+                "Oath or Affirmation of Deponent, FOIA ( b)(6)",
+                "Screeneded by NARA, 7/31/2023, Consular Section American Consulate General New Delhi",
+                "AL EXAMINATION OF APPLICANTS FOR UNITED STATES VISAS",
+                "DR. VED PRAKASH X-RAY CLINIC, Screened by NARA, 7/31/2023",
+                "Laboratory Collection and Testing Guidelines"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Canada",
+                "India",
+                "United States",
+                "Mexico"
+            ]
+        }
+    },
+    "page_count": 43
+}

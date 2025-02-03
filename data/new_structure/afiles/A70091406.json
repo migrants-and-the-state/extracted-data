@@ -1,0 +1,45 @@
+{
+    "id": "A70091406",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Memorandum or Creation of Record of Lawful Permanent Residence, FY-92",
+                "Immigration and Naturalization Service, G-56",
+                "Application for Perman. Residence, FORM I-4",
+                "Title: FOIA ( (b)(6), Form Number: NARA, 9/13/2023",
+                "Biographic Information Form G-325A, G-325A ( Biographic Information is not attached as part of this application.",
+                "For sale by the Superintendent of Documents, U.S. Government Printing Office",
+                "U.S. Department of Justice Immigration and Naturalization Service, G-325A",
+                "Affidavit of Support, Form I-134 ( Rev. 12-1-84) Y",
+                "OATH OR AFFIRMATION OF DEPONENT, FOIA ( (b)(6)",
+                "U.S. Department of Justice Immigration and Naturalization Service Medical Examination of Aliens Seeking Adjustment of Status, Form I-693 ( (Rev. 09/01/87) N",
+                "Medical Clearance Requirements for Aliens Seeking Adjustment of Status",
+                "Screeneded by NARA, 9/13/2023, U.S. Department of Justice Immigration and Naturalization Service",
+                "Notice of Action, I-130 Immigrant Petition for Relative",
+                "FOIA ( (b)(6) Additional Information for Applicants and Petitioners, Form 1-797 ( (6/29/88)",
+                "Affidavit of Support",
+                "Title: FOIA ( (b)(6) and Form Number: FOIA ((b)(6)",
+                "Immigration and Naturalization Service, I-485",
+                "Memorandum, I-130 Petition of behalf of CHI, JU CHUN IRR5",
+                "Petition for Alien Relative, I-130 ( Rev. 10/01/89",
+                "FOIA ( (b)(6), G-28",
+                "Taiwanese Household Register Extract, A10058081-5",
+                "Screened by NARA, 9/13/2023",
+                "APPLICATION CLERK, I-485",
+                "Immigration and Naturalization Service"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Germany",
+                "Taiwan",
+                "United States",
+                "China"
+            ]
+        }
+    },
+    "page_count": 38
+}

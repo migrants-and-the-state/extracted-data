@@ -1,0 +1,51 @@
+{
+    "id": "A76229988",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, FORM I-181",
+                "Application to Register Permanent Residence or Adjust Status",
+                "Processing Information",
+                "Processing Information ( (Continued), Form I-485 ( (Rev. 09-09-92)N",
+                "Petition for Alien Relative, I-130 (Rev. 4 11 '91)",
+                "Continued Information about your alien relative",
+                "NOTICE TO PERSONSSS FILING FOR SPOUSES IF MARRIED LESS THAN TWO YEARS",
+                "Acte de Mariage, 0063206",
+                "LIBERTY EQUALITY FRATERNITY, C-4 0063205",
+                "Acte de Ma\u00efssance de Marie Lucienne Matin, 0063205",
+                "Affidavit of Support",
+                "FOIA ( (b)(6), FOIA ((b)(6) Form",
+                "Jacques A. Victor, M.D., Screeneded by NARA, 8/7/2023",
+                "STATE OF FLORIDA DEPARTMENT OF Health & Rehabilitative Services DISTRICT ELEVEN, hrs",
+                "SIGNALEMENT DU TITULAIRE, 1023",
+                "Medical Examination of Aliens Seeking Adjustment of Status",
+                "Medical Clearance Requirements for Aliens Seeking Adjustment of Status, Form I-693 ( (Rev. 09/01/87) N",
+                "Medical Clearance Requirements for Aliens Seeking Adjustment of Status",
+                "Naturalization Certificate, N-550 ( (REV. 11-1-87)Y",
+                "LIBERTY EQUALITY FRATERNITY, Serial C-1 NO 0053205",
+                "Extrait des registres des actes de laissance de la commune a rad\u00e8res, d\u00e9pos\u00e9s au bureau des archives pr\u00e8s de la R\u00e9publique., 00632205",
+                "FOIA (b)(6), PS Form 3811",
+                "Immigration and Naturalization Service, FORM I-72 ( (REV 4-1-83)",
+                "Immigration and Naturalization Service",
+                "IMMIGRATION AND NATURALIZATION SERVICE FBI BILLING - QUERY ENTRY, CIXFBIY",
+                "Screeneded by NARA, 8/7/2023, I9510",
+                "Screeneded by NARA, 8/7/2023, I-145",
+                "Title: Clerical Worksheet, Form Number: Not explicitly mentioned in the provided image, but it can be inferred as 'Clerical Worksheet' based on the context.",
+                "BIOGRAPHIC INFORMATION, FORM G-325A",
+                "Biographic Information, G-325A",
+                "U.S. Department of Justice Immigration and Naturalization Service, G-325A"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Haiti",
+                "Cuba",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 48
+}

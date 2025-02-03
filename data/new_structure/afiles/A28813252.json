@@ -1,0 +1,79 @@
+{
+    "id": "A28813252",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Notice of Naturalization Oath Ceremony",
+                "Naturalization Oath Questionnaire, Form N-4-000",
+                "Certificate of Naturalization, N-550",
+                "Naturalization Application",
+                "Part 3. Information About You., Form N-4 (0000000000 Rev. 11/06/Y Page 2",
+                "Part 5. Information for Criminal Records Search, Form N-400 (Rev. 11/01/06)Y Page 3",
+                "Part 7. Time Outside the United States., Form N-4 (00 ( (Rev. 11/01/06)Y Page 44",
+                "Part 8. Information About Your Marital History., Form N-4 (00 ( (Rev. 11/01/06)Y Page 5",
+                "Part 9. Information About Your Children., N-4 (01/06/Y Page 6",
+                "Part 10. Additional Questions. ( (Continued), Form N-4 (00 ( (Rev. 11/01/06)Y Page 7",
+                "Part 10. Additional Questions. ( (Continued)",
+                "Title: Part 10. Additional Questions. ( (Continued), Form Number: Form N-4 (00 (Rev. 11/01/06)Y Page 9",
+                "Petition for Name Change, Form N-XXX ( (11/1/98)",
+                "U.S. Naturalization Test, Due Consideration Form 2",
+                "U.S. DEPARTMENT OF HOMELAND SECURITY IMMIGRATION SERVICES, I-1907",
+                "U.S. DEPARTMENT OF JUSTICE Immigration and Naturalization Service, A28 813 252",
+                "Your application for status as a permanent resident has been retained for processing. You will be notified when further action has been taken in your case. Your request to accept employment has been adjudicated and the result is shown below. This employment authorization is valid only for the time necessary to decide your application for permanent residence. an forwarded for the allocation of a visa number.",
+                "United States Department of Justice Immigration and Naturalization Service",
+                "Application for Permanent Residence, I-485 ( (Rev. 06-23-86) Y",
+                "Screened by NARA, 6/1/2023",
+                "Biographic Information Form G-325A, G-328J Number",
+                "U.S. DEPARTMENT OF JUSTICE Immigration & Naturalization Service, Form I - 181aiRev. 3-1-83",
+                "Affidavit of Support",
+                "Oath or Affirmation of Deponent, FOIA ( (b)(6)",
+                "OFFICINA CHAHIN TRAMITES DE IMMIGRACION, DIRECCION POSTAL P.O. BOX 6199 LOS ANGELES, CA. 90055",
+                "Medical Examination of Aliens Seeking Adjustment of Status, Form I-693 ( (Rev. 09/01/87) N",
+                "Medical Clearance Requirements for Aliens Seeking Adjustment of Status, I-693 ( (Rev. 09/01/87) N",
+                "Medical Examination of Aliens Seeking Adjustment of Status",
+                "Medical Clearance Requirements for Aliens Seeking Adjustment of Status, Form I-693 ( (Rev. 09/01/87) N",
+                "Medical Clearance Requirements for Aliens Seeking Adjustment of Status",
+                "Screeneded by NARA, 6/1/22023",
+                "Immigration and Naturalization Service",
+                "NOTICE OF TRY OF APPEARANCE AS ATTORNEY OR REPRESENTATIVE, Form G-28",
+                "U.S. Department of Justice Immigration and Naturalization Service BIOGRAPHIC INFORMATION, G-325A ( (Rev. 10-1-82)",
+                "BIOGRAPHIC INFORMATION, G-325A",
+                "Biographic Information, G-325A",
+                "U.S. Department of Justice Immigration and Naturalization Service, G-325A",
+                "Petition for Alien Relative, I-130",
+                "Information about your relative, I-130",
+                "Petition Approval Checklist, Form I-130 ( (Rev. 06-23-86) Y",
+                "TRANSLATION OF THE ATTACHED DOCUMENT, METROPOLITAN COUNCIL OF THE CENTRAL DISTRICT",
+                "CONCEJO METROPOLITANO DEL DISTRITO CENTRAL, 1",
+                "Translation of a Birth Certificate",
+                "CERTIFICACI\u00d3N DE ACTA DE NACIMIENTO, 001",
+                "CERTIFICATE OF REGISTRY OF MARRIAGE, 474",
+                "U.S. Department of Homeland Security Citizenship and Immigration Services N-4 Adjudication Processing Worksheet, N-650B ( (Rev. 9/30/03)",
+                "U.S. Department of Homeland Security Bureau of Citizenship and Immigration Services N-4 Pre-Processing Worksheet, N-4",
+                "Record of IBIS Query ( (ROIQ), A2 813 252",
+                "Naturalization Interview Results, N-652",
+                "OATH CEREMONY",
+                "Notice of Action, I-797CC",
+                "Screeneded by NARA, 6/1/22023, Form I-485, Application to Register Permanent Residence or Adjust Status.",
+                "KANSAS CITY FEDERAL ARCHIVES AND RECORDS CENTER, 00281",
+                "Processing Sheet, I-468",
+                "United States Department of Justice Immigration and Naturalization Service Processing Sheet",
+                "U.S. IMMIGRATION, I-94",
+                "Arrival-Departure Record, 443-R0496"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Honduras",
+                "Germany",
+                "Mexico",
+                "Canada",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 81
+}

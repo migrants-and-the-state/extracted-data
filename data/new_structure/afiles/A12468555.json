@@ -1,0 +1,31 @@
+{
+    "id": "A12468555",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "INSTRUCTIONS TO DELIVERING EMPLOYEE, C55-16-71548-4",
+                "Certificate of Citizenship, Form N-560 ( (REV. 10-1-56)",
+                "Oath of Allegiance, N-4-1203",
+                "APPLICATION FOR CERTIFICATE OF CITIZENSHIP, N-600 ( (Rev. 10\u201320\u201359)",
+                "Application for Naturalization,, N-4-1025.",
+                "Title: Application for Naturalization; Form Number: 10.",
+                "AFFIDAVIT",
+                "STATUS-600 APPLICATION, N-601 ( (Rev. 6-28-60)",
+                "STANDARD CERTIFICATE OF DEATH, 5421",
+                "Verification of Record of Naturalization, Form N-25",
+                "United States Department of Justice, Immigration and Naturalization Service, A12 468 555"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Canada",
+                "Italy",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 18
+}

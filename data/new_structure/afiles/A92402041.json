@@ -1,0 +1,63 @@
+{
+    "id": "A92402041",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Naturalization and Citizenship Branch, N-4-4-5-A",
+                "Application for Naturalization, Form N-400, Screened by NARA, 8/11/2023",
+                "Certificate of Naturalization, N-550 REV. 6-91",
+                "Application for Naturalization, N-4",
+                "Information about your residences and employment., NARA, 8/11/2023",
+                "Part 7. Additional eligibility factors., Form N-400 ( Rev 07/17/91)N",
+                "Immigration Naturalization Service ( Form N-4 1993, N-100",
+                "Certificate Preparation Sheet and Oath Declaration, Form N-649 ( (Rev. 1/1/98)",
+                "RECORD OF SWORN STATEMENT",
+                "U.S. DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, 92402441",
+                "Routing Checklist, NARA-0123456789",
+                "N-4 Adjudication Processing Worksheet, N-650B ( (Rev. 11/1/98)",
+                "N-4 Processing Worksheet, N-650(6/25/97)",
+                "OFFICER SCREENING FORM, N-650(6/25/97)",
+                "U.S. Department of Justice Immigration & Naturalization Service, A 92 402 OA1",
+                "Part 7. Additional eligibility factors., Form N-400 ( Rev 07/17/91N",
+                "Screened by NARA, 8/11/2023, Form N-460 ( (Rev. 07/19)N",
+                "RESIDENT ALIEN, A092402041",
+                "FEDERAL BUREAU OF INVESTIGATION UNITED STATES DEPARTMENT OF JUSTICE, FD-258 ( (REV. 12-29-82)",
+                "U.S. DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE CITIZENSHIP USA, A 92402041",
+                "U.S. DEPARTMENT OF JUSTICE IMMIGRATION & NATURALIZATION SERVICE, Form N-14B.2",
+                "Notice of Interview, N-340A",
+                "Screened by NARA, 8/11/2023",
+                "REQUEST FOR WITHDRAWAL OF APPLICATION FOR NATURALIZATION, 92-402-041",
+                "Legalization/Saw Application, M 330 (4 05.90",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE MEMORANDUM OF CREATION RECORD OF LAWFUL PERMANENT RESIDENCE, 92402041",
+                "Application to Adjust Status from Temporary to Permanent Resident, I-698 ( (08/10/88)",
+                "Naturalization and Citizenship Application Form, N-4",
+                "U.S. Department of Justice Immigration and Naturalization Service, A92402041",
+                "BASIS FOR LEGAL RECOMMENDATION, NARA 871023",
+                "Application for Status as a a Temporary Resident, I-1924",
+                "Screened by NARA, 8/11/2023, I-687 ( (04/01/87) Page 2",
+                "Screened by NARA, 8/11/2023, I-687 ( (04/01/87)",
+                "Temporary Residence, Form I-687 ( (04/01/87) - Page 4",
+                "Medical Examination of Aliens Seeking Adjustment of Status",
+                "Medical Clearance Requirements for Aliens Seeking Adjustment of Status, Form I-693 ( (Rev. 09/01/87) N",
+                "Screened by NARA, 8/11/2923, Form No. 4",
+                "CERTIFICACION, N\u00ba 3518907",
+                "Identification Card, A1257937",
+                "AIR & POWER TOOLS",
+                "Screened by NARA, 8/11/2930",
+                "Welcome to Western Dental Plan, Member Identification Card",
+                "United States Senate"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Germany",
+                "Nicaragua",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 87
+}

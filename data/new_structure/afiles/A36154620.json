@@ -1,0 +1,40 @@
+{
+    "id": "A36154620",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Screened by NARA, 7/14/2023, G-361 (VISA 4-1-76)",
+                "Immigrant Visa and Alien Registration, IV 6154420",
+                "APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION, Form 2-68",
+                "Form FS-510 ( (English) ( (2-68), Personal financial resources",
+                "Form FS-510 ( (English) ( (2-68), Screeneded by NARA, 7/14/2023",
+                "Form FS-510 ( (English) ( (2-68)",
+                "Petition to Classify Status of Alien Relative for Issuance of Immigrant Visa",
+                "Oath/Declaration of Beneficiary Alien,, IV-526A.",
+                "FOIA (b)(6), FOIA ( b(6)",
+                "Birth Registration Certificate, FOIA (b)(6)",
+                "FOIA (b)(6), FOIA ( (b)(6)",
+                "TAIPEI MUNICIPAL POLICE HEADQUARTERS, 06973-10",
+                "Certificate of No Criminal Record",
+                "Affidavit of Support",
+                "Affidavit of Support for Immigration and Naturalization Service, N-4-1026",
+                "STATEMENT OF SAVINGS DEPOSIT ACCOUNT, 905440",
+                "STATE OF CALIFORNIA COUNTY OF LOS ANGELES"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Japan",
+                "China",
+                "Mexico",
+                "Canada",
+                "Taiwan",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 19
+}

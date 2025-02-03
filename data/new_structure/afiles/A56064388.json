@@ -1,0 +1,48 @@
+{
+    "id": "A56064388",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "USE THIS SIDE FOR TRANSACTIONS 2 THROUGH 7, FORM 1-89 ( (Rev. 2/25/86) N SIDE 2",
+                "Title: I-551 OR I-586 CARD DATA COLLECTION FORM, Form Number: 1-551 ( (Rev. 2/25/86) N SIDE 1",
+                "U.S. IMMIGRATION, OPTIONAL FORM 1558 ( (REV. 11-95)",
+                "DE Demande de Visa d'Immigration et de Carte Verte, 230-1",
+                "Screened by NARA, 8/11/2023, FOIA ( (b)(6)",
+                "DEMANDE DE VISA D'IMMIGRATION ET DE CARTE VERTE, FORM 230 II",
+                "Screeneded by NARA, 8/11/2023, FOIA(b)(6)",
+                "Information about your alien relative",
+                "CERTIFICATE OF NATURALIZATION, FORM N-550 REV. 6-91",
+                "Certification, 91488",
+                "Archives Nationales d\u2019Haiti, 0028370 F",
+                "Screened by NARA, 8/11/2023, PTP20017344012",
+                "Liberty, Equality, Fraternity, E-4 91488",
+                "U.S. Department of State MEDICAL Examination for Immigrant or Refugee Applicant, DS-2053",
+                "Paperwork Reduction Act and Privacy Act Notices, DS-2053",
+                "Title: MEDICAL HISTORY AND PHYSICAL EXAMINATION WORKSSHEET, Form Number: DS-2053",
+                "Paperwork Reduction Act and Privacy Act Notices, DS-3026",
+                "BIOMED Laboratoire de Biologie M\u00e9dicale Section de s\u00e9rologie virale, 02070223",
+                "CHEST X-RAY AND CLASSIFICATION WORKS SHEET, DS-2053",
+                "VACCINATION DOCUMENTATION WORKSSHEET, DS-2053",
+                "Affidavit of Support Under Section 2 of the Act, I-864 ( (1/21/98)Y",
+                "Affidavit of Support Under Section 2(6) of the Act, I-864 ( (1/21/98)",
+                "Part 4. Eligibility to Sponsor",
+                "Part 4. Eligibility to Sponsor ( Continued",
+                "Use of the Affidavit of Support to Overcome Public Charge Grounds ( Continued",
+                "Part 7. Use of the Affidavit of Support to Overcome Public Charge Grounds ( (Continued), Form I-864 ( (1/21/98)Y Page 6",
+                "Contract Between Sponsor and Household Member, Form I-864A, Affidavit of Support Under Section 213A of the Immigration and Nationality Act ( (the Act).",
+                "Part 1. Information on Sponsor\u2019s Household Member or Sponsored Immigrant/Household Member, Form I-864A ( (1/21/98)Y Page 2",
+                "Form I-864A ( (1/298)Y Page 3"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Haiti",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 45
+}

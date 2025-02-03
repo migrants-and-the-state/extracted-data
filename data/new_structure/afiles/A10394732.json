@@ -1,0 +1,47 @@
+{
+    "id": "A10394732",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Certificate of Citizenship, Form N-560 ( (REV. 5-25-55)",
+                "Path of Allegiance, N-4-102A",
+                "EXAMINER'S REPORT\u2014CERTIFICATE OF CITIZENSHIP, Form No. 6-353",
+                "APPLICATION FOR CERTIFICATE OF CITIZENSHIP, Form approved. Budget Bureau No. 43-R105.7.",
+                "Naturalization Application,, N-4",
+                "Naturalization Application",
+                "Affidavit and Naturalization Service for the examination on this application, 17953-9",
+                "U.S. DEPARTMENT OF JUSTICE Immigration and Naturalization Service, Form I-404-A (Rev. 4-29-53)",
+                "REQUEST FOR INFORMATION FROM NATURALIZATION FILE, G-347",
+                "Petition for Naturalization, Form 860",
+                "IN THE PROBATE COURT, PC-183 10M 223-54",
+                "IN THE PROBATE COURT, PC-5 12M 419-55",
+                "CERTIFICATE\u2014Revised Statutes of the United States, Page 171, Section 905, Second Edition., CC-57-SM-2024-R",
+                "Journal 280-Page 3971",
+                "STATE OF OHIO IN THE COURT OF COMMON PLEAS CUYAHOGA COUNTY, NO. 504-095",
+                "Marriage Dissolution Decree,, 2-",
+                "The State of Ohio, Cuyahoga County, 63690",
+                "CERTIFICATE OF DEATH, 1803",
+                "Certificate of Admission of Alien, M-423",
+                "REQUEST FOR VERIFICATION OF ARRIVAL, Form I-423",
+                "U.S. Government Printing Office: 1953\u2014O-254691, INSTRUCTIONS"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Russia",
+                "Germany",
+                "Israel",
+                "Lithuania",
+                "Finland",
+                "Poland",
+                "Belgium",
+                "Palestine",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 28
+}

@@ -1,0 +1,43 @@
+{
+    "id": "A70108430",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "U.S. DEPARTMENT OF JUSTICE Immigration and Naturalization Service",
+                "Affidavit of Support",
+                "FOIA ( (b)(6), FOIA ( (b)(6) Oath or Affirmation of Deponent",
+                "Medical Examination of Aliens Seeking Adjustment of Status",
+                "Medical Clearance Requirements for Aliens Seeking Adjustment of Status, Form I-693 ( (Rev. 09/01/87) N",
+                "Screeneded by NARA, 7/20/2023",
+                "U.S. Department of Justice Immigration and Naturalization Service",
+                "Application for Permanent Residence, I-458 ( (REV. 2-27-87)N",
+                "FOIA ( (b)(6), 22.",
+                "Biographic Information Form G-325A, GPO: 1988 O - 208-577",
+                "Title: U.S. Department of Justice\\nForm Number: G-325 A ( (Rev. 10-1-82)",
+                "Petition for Alien Relative",
+                "C. ( (Continued) Information about your alien relative",
+                "NOTICE TO PERSONSS FILING FOR SPOUSES IF MARRIED LESS THAN TWO YEARS",
+                "ENGLISH EXTRACT TRANSLATION OF SPANISH LANGUAGE",
+                "Certificaci\u00f3n, 3203634",
+                "SINGLE STEP ADJUDICATIONS PROCESSING, WR-501 ( (Rev. 2/13/81)",
+                "U.S. Department of Justice Immigration and Naturalization Service, FOIA ( (b)(6)",
+                "IDENTIDAD, N\u00ba 4144682",
+                "REPUBLICa DE HONDURAS, N\u00ba 414862",
+                "Freedom of Information Act Certificate, FORM N-550 ( (REV. 11-1-87)",
+                "APPLICATION CLERK, I-435",
+                "Processing Sheet, I-468 (ADIT"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Honduras",
+                "Germany",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 38
+}

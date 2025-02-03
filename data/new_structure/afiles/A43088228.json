@@ -1,0 +1,79 @@
+{
+    "id": "A43088228",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Certificate of Naturalization, N-550",
+                "Quality Checklist - To Be Placed in Every Granted Case",
+                "Application for Naturalization, N-4",
+                "Information about your residences and employment., N-400 ( (Rev 07/17'91)N",
+                "Part 7. Additional eligibility factors., Form N-400 ( Rev 07/17/91N",
+                "Form N 100 ( (Rev 07/19)N, Form N 100",
+                "Certification Preparation Sheet And Oath Declaration, Form N-649(6/25/97)",
+                "Medical Certification for Disability Exceptions, NARA #1115-0205",
+                "Title: Medical Assessment Form, Form Number: N-648",
+                "U.S. DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE CITIZENSHIP USA, A 43088228",
+                "Effort to Provide a Quick and Pleasant Interview Process,, NARA Form 1045A-2",
+                "U.S. Department of Justice, Immigration and Naturalization Service, D-23",
+                "RESIDENT ALIEN, A043088228",
+                "HING WONG'S CLINIC, Screened by NARA, 8/18/2023",
+                "RADIOLOGY REPORT",
+                "LABORATORY REPORT, 0822174",
+                "U.S. Department of Justice IMMIGRATION AND NATURALIZATION SERVICE, FACT SHEET",
+                "THE FINAL RULE, N-648, Medical Certification for Disability Exceptions",
+                "Screeneded by NARA, 8/18/2023, Form N-644",
+                "Screened by NARA, 8/18/2023, INS Naturalization and Immigration Services",
+                "NOTICE, I-4-1023",
+                "RECORD OF INFORMATION DISCLASS (E (PRIVACY ACT), G-658 (11-1-75)",
+                "Interfile Request \u2014 Federal Records Center, G-1022",
+                "Naturalization and Citizenship Branch, N-445A",
+                "Naturalization Oath Ceremony Questions, N-4",
+                "N-4 Processing Worksheet, N-650(6/25/97)",
+                "Screened by NARA, 8/18/2023, N-650(6/25/97) Page 2",
+                "IMMIGRATION AND NATURALIZATION SERVICE FBI TRACKING SYSTEM, FDDSLT1",
+                "BIOGRAPHIC DATA SHEET",
+                "Cover Sheet Record of Proceeding, M-175 ( (Rev. 10-20-69)",
+                "Immigrant Visa and Alien Registration, IV-43,088228",
+                "Additional Questions to be Completed by All Applicants for Permanent Residence in the United States, 9003",
+                "APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION, 230 ( (English-Chinese)",
+                "OPTIONAL FORM 2 (230 ( (English-Chinese) (Rev.12-78), Screened by NARA, 8/18/22023",
+                "OPTIONAL FORM 230 ( (English-Chinese) (Rev. 12-78)",
+                "OPTIONAL FORM 220 ( (English-Chinese) (Rev.12-78)",
+                "Petition for Alien Relative, Form I-130 ( (Rev. 10/01/99) Y",
+                "Application for Adjustment of Status",
+                "Certificate of Naturalization, N-550 ( (REV. 11-1-87)Y",
+                "NOTICE, NARA-0123456789",
+                "Affidavit, NARA-0123456791-A3567591",
+                "DECLARATION, B891919(A)",
+                "Certificate of No Criminal Conviction",
+                "Certificate of Registered Particulars, RP 1/125 X.",
+                "\u5165\u5883\u4e8b\u52d9\u8655\u4eba\u4e8b\u767b\u8a18\u8655, Screeneded by NARA, 8/18/2023",
+                "AMERICAN CONSULATE GENERAL, 22 GARDEN ROAD, HONG KONG, HNK-2",
+                "Title: NARA Form 10a and 11, Page 2, Form Number: NARA Form 10a and 11",
+                "Application for Adjustment of Status,, I-412.",
+                "Screeneded by NARA, 8/18/2023, Page 4",
+                "Title of the image: 'DECLARATION' Form number: 'B891919CA'",
+                "AFFIDAVIT",
+                "FIRST PUBLIC SAVINGS BANK, FP127 ( (Rev. 5/85)",
+                "Affidavit of Support",
+                "OATH OR AFFIRMATION OF DEPONENT, Form Number: 91",
+                "Orient Express Restaurant, NARA Form 1023A",
+                "Import Notice, OF-167 Supplement",
+                "\u751f\u6d3b\u4fdd\u969c\u66f8 ( (OF-167), \u751f\u6d3b\u4fdd\u969c\u66f8",
+                "Title: MEDICAL EXAMINATION OF APPLICANTS FOR UNITED STATES VISAS, Form Number: NSN 7540-00--139-005b"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "United States",
+                "Canada",
+                "China",
+                "Mexico"
+            ]
+        }
+    },
+    "page_count": 73
+}

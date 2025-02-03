@@ -1,0 +1,55 @@
+{
+    "id": "A21202301",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "The United States of America, 11 587683",
+                "Petition for Naturalization",
+                "RESULT OF EXAMINATION, G-325",
+                "APPLICATION TO FILE PETITION FOR NATURALIZATION, N-400 ( (Rev. 4-14-81)Y",
+                "Naturalization and Citizenship Application Form, N-4",
+                "Military Service Record",
+                "Naturalization Application Form, N-4",
+                "MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, A- 21 202 30I",
+                "INSTRUCTIONS, 2",
+                "MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, A- 2T 202 30I",
+                "United States Department of Justice Immigration and Naturalization Service, Form I-180A ( (Rev. 4-77)",
+                "United States Department of Justice Immigration and Naturalization Service, Form 1 - 18Jb (Rev. 4-177)Y",
+                "APPLICATION FOR STATUS AS PERMANENT RESIDENT",
+                "Burbank Police Department Criminal Records Check, B320-36",
+                "Biographic Information, G-325A",
+                "Form G-325A ( (REV. 10-1-74) Y",
+                "Biographic Information, G-325A ( (REV. 10-1-74)",
+                "Screened by NARA, 8/22/2023, GPO 893-132",
+                "DCII REPLY, NEC/HP-23079",
+                "BIOGRAPHIC INFORMATION, G-325A ( (REV. 10-1-74) Y",
+                "Notice of Preliminary Naturalization Hearing, N-430A",
+                "Screened by NARA, 8/22/2023, NATURALIZATION AS THE SPOUSE OF A UNITED STATES CITIZEN; NATURALIZATION AS MEMBER OF THE UNITED STATES ARMED FORCES; CERTIFICATE OF CITIZENSHIP FOR CHILDREN",
+                "CORRECTED INDEX, G-361 (Rev. 4-1-76) N INDEX CARD",
+                "INDEX CARD, G-361 (Rev. 10-1-70) N",
+                "Refugee Visa, D-000",
+                "Notice of Final Naturalization Hearing, N-445A",
+                "Petition for Naturalization,, N-4-595",
+                "Biographic Information, G-325 ( (REV. 5-1-79)",
+                "United States Department of Justice Immigration and Naturalization Service Processing Sheet, I-485-C",
+                "DEPARTMENT OF STATE FOREIGN SERVICE OF THE UNITED STATES OF AMERICA MEDICAL EXAMINATION OF VISA APPLICANTS, FS-398",
+                "FORT CHAFFEE RESETTLEMENT OFFICE, 508852, 508853",
+                "Sworn Statement of Refugee Applying for Parole into the United States, 0-646(5-12-75",
+                "APPLICANT:, FORM G-325A",
+                "Biographic Information, G-325A ( (REV. 8-27-72N)"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Cambodia",
+                "Laos",
+                "United States",
+                "Vietnam"
+            ]
+        }
+    },
+    "page_count": 51
+}

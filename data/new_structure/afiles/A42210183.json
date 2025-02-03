@@ -1,0 +1,64 @@
+{
+    "id": "A42210183",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Notice of Naturalization Oath Ceremony",
+                "Application for Naturalization,",
+                "CERTIFICATE OF NATURALIZATION, N-550 REV. 6-91",
+                "Application for Naturalization",
+                "Part 3. Information About You, N-4 (A042183",
+                "Information for Criminal Records Search, N-400 (Rev. 05/31/01)N Page 3",
+                "Part 7. Time Outside the United States (Including Trips to Canada, Mexico, and the Caribbean Islands), A042 210 183",
+                "Information About Your Marital History ( Continued, Form N-4",
+                "Part 10. Additional Questions ( (Continued), Form N-4 (n",
+                "Oath of Allegiance",
+                "Certificate Preparation Sheet And Oath Declaration, N-649 ( (Rev. 1/1/98)",
+                "Naturalization Interview Results",
+                "U.S. Department of Justice Immigration and Naturalization Service",
+                "RECORD OF SWORN STATEMENT ( (MISSING ARC), A 042 210 183",
+                "RECORD OF SWORN STATEMENT ( (FINGERPRINTS), A042 210 183",
+                "Medical Certification for Disability Exceptions, OMB No. 1115-0205",
+                "Form Number: 1030, Title: Alien Registration Form.",
+                "Soly Melamed, M.D. General Practice, 1030 S. Glendale Ave. Suite 4, (818) 244-462 ( (9 TO 5)",
+                "PROFESSIONAL CERTIFIED OPINION, Form N-648 (Rev. 04/02 IN Page 3",
+                "Notice of Action",
+                "U.S. Department of Justice Immigration and Naturalization Service, 42 210 183",
+                "U.S. Department of Homeland Security U.S. Citizenship and Immigration Services",
+                "U.S. Department of Justice Immigration and Naturalization Service N-4 Adjudication Processing Worksheet, N-4",
+                "U. S. Department of Justice Immigration and Naturalization Service N-4 Clerical Processing Worksheet, N-400",
+                "Record of IBIS Query ( (ROIQ), N-4",
+                "U.S. Department of Justice Task B - Continued Cases Quality Assurance Checklist, 04 2210183",
+                "Immigrant Visa and Alien Registration, IV-42210,183",
+                "APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION",
+                "OPTIONAL FORM 230 ( (English) (Rev. 7-79",
+                "Form 230 ( (English) (Rev. 7\u201379",
+                "OPTIONAL FORM 2230 ( (English) (Rev. 7\u201379, Page 4",
+                "Petition for Alien Relative, I-130 ( (Rev. 02-28-87) N",
+                "Information about your alien relative",
+                "Petition for Adjustment of Status to Permanent Resident ( Form I-430",
+                "U.S. Department of Justice Immigration and Naturalization Service, FORM I-72 ( (REV 4-1-83)",
+                "U.S. Department of Justice, Immigration and Naturalization Service, FORM I-72 ( (REV 4-1-83)",
+                "U.S. Department of Justice Immigration and Naturalization Service Western Adjudication Center, I-130's (",
+                "DEPARTMENT OF STATE BIOGRAPHIC DATA FOR VISA PURPOSES, Form Approved Budget Bureau No. 4-R151-2",
+                "Certificato Penale-Penal Certificate, 4 4 4",
+                "Final Hearing File Review, 42 210 183",
+                "Affidavit of Support, Form I-1344 ( (Rev. 12-1-84) Y",
+                "OATH OR AFFIRMATION OF DEPONENT",
+                "MEDICAL EXAMINATION OF APPLICANTS FOR UNITED STATES VISAS, OPTIONAL FORM 157"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Canada",
+                "Somalia",
+                "United States",
+                "Mexico"
+            ]
+        }
+    },
+    "page_count": 76
+}

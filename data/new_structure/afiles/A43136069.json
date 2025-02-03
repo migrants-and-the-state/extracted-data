@@ -1,0 +1,66 @@
+{
+    "id": "A43136069",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Certificate of Naturalization, N-550",
+                "Certificate of Naturalization, N-550 REV. 8-91",
+                "Application for Naturalization, N-4",
+                "Information about your residences and employment., N-400 ( (Rev. 07/17/91)N",
+                "Part 7. Additional eligibility factors., Form N-4 (000 ( Rev. 07/19/91)N",
+                "Part 9. Memberships and Organizations",
+                "Certificate Preparation Sheet and Oath Declaration, Form N-649 ( (Rev. 11/1/98)",
+                "RECORD OF SWORN STATEMENT",
+                "Medical Certification for Disability Exception, NARA, 7/25/2023",
+                "Medical Certification for Disability Exception",
+                "Screened by NARA, 7/25/2023",
+                "Naturalization Interview Notice, A 43136069",
+                "Quick and Pleasant Interview Process",
+                "PK SCREENING QUESTIONNAIR, CC001",
+                "REFund of immigration and naturalization fees, G-266",
+                "U.S. Department of Justice immigration and Naturalization Service, NARA, 7/25/2023",
+                "REF_1638420957_1, REF_1638220957_1",
+                "Notice of Naturalization Oath Ceremony",
+                "Naturalization Oath Ceremony Mailer",
+                "Naturalization Oath Ceremony Notice and Enclosing Certificate of Death of the County of Los Angeles, 612-50-6046",
+                "CERTIFICATE OF DEATH, 0615",
+                "Notice of Naturalization Oath Ceremony, N-4-55",
+                "N-400 Continuation Processing Worksheet, N-650C ( (Rev. 11/1/98)",
+                "N-4 Adjudication Processing Worksheet, N-650B ( (Rev. 11/1/98)",
+                "N-4 Clerical Processing Worksheet, A# 043136069",
+                "Immigrant Visa and Alien Registration, IV-43,136069",
+                "CERTIFICA, 0,813,973",
+                "MINISTERIO DEL EXTERIOR DIRECCI\u00d3N CONSULAR",
+                "APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION, Form 230",
+                "OPTIONAL FORM 2, FORMULARIO OPCIONAL 230",
+                "OPTIONAL FORM 2, FORMULARIO OPTIONAL 030",
+                "OPTIONAL FORM 220, FORMULARIO OPCIonal 230",
+                "Petition for Alien Relative, I-130",
+                "Information about your alien relative",
+                "Additional Questions to be Completed by All Applicants for Permanent Residence in the United States, 9003",
+                "ALCALDIA MUNICIPAL DE JUIGALPA",
+                "Junia de Reconstruccion Municipal",
+                "CERTIFICADO DE NACIMIENTO, 26055 MNRxh",
+                "Affidavit of Support",
+                "Oath or Affirmation of Deponent, NARA-7/25/2023",
+                "UCLA EXTENSION, DEPARTMENT OF EMPLOYEE SERVICES",
+                "COAST SAVINGS, SV2320 5-88",
+                "Medical Examination of Applicants for United States Visas, NSN 7540-00-139-0058",
+                "LABORATORIO CLINICO Y DE VIROLOGIA 'CENTRO MEDICO'",
+                "INSTITUTO DE RADI\u00d3LOGIA, 33-GREGORIANA ALVAREZ G. TORAX. SEPTIEMBRE 30 de 1991"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Canada",
+                "Nicaragua",
+                "United States",
+                "Mexico"
+            ]
+        }
+    },
+    "page_count": 60
+}

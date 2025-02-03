@@ -1,0 +1,43 @@
+{
+    "id": "A43185511",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Immigrant Visa and Alien Registration",
+                "DEMANDE DE VISA D'IMMIGRANT ET D'INSCRIPTION A L'ETRANGER, Form Approved O.M.B. No. 4-70-R150",
+                "OPTIONAL FORM 2 ( (French) (Rev. 6-82), 230",
+                "OPTIONAL FORM 2 (30 ( (French) (Rev. 6-82",
+                "OPTIONAL FORM 2 (30 ( (French) ( (Rev. G-82)",
+                "Petition for Alien Relative, 1115-0054",
+                "Screened by NARA, 8/2/2023",
+                "Libert\u00e9, Fraternit\u00e9, \u00c9galit\u00e9, A6 N\u00b0 9908",
+                "Libert\u00e9 \u00c9galit\u00e9 Fraternit\u00e9, N\u00b0 89037",
+                "VU: uniquement pour la l\u00e9gislation de la signature de Mr. \u00c9m\u00e9rance ines Officer de l'Etat Civil de la Section Sud de la Capitale., Re\u00e7uept No. 26081",
+                "Marriage Certificate, N\u00b0 144504",
+                "ACTE DE DECES, 18196",
+                "Medical Examination of Applicants for United States Visas, NSN 7540-00-139-0058",
+                "TEST DE GROSSESSE, 149",
+                "BIOMED Laboratoire de Biologie M\u00e9dicale, Num\u00e9ro de Code 9109037",
+                "Affidavit of Support",
+                "Oath or Affirmation of Deponent, NARA Form 10-235",
+                "Affidavit of Support, Form I-134 ( (Rev. 12-1-84) Y",
+                "Oath or Affirmation of Deponent, NARA-1023",
+                "Screeneded by NARA, 8/22023, Nursing Administration Form #6",
+                "Title: B. G. HOSPITAL FEDERAL CREDIT UNION\\nForm Number: FOIA (b(6)",
+                "Screeneded by NARA, 8/2/2023, North Broward Hospital District",
+                "Financial Federal Trust & Savings Bank"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Haiti",
+                "Canada",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 26
+}

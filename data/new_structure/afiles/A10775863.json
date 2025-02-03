@@ -1,0 +1,41 @@
+{
+    "id": "A10775863",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Memo, C 3645015",
+                "APPLICATION FOR A NEW NATURALIZATION OR CITIZENSHIP PAPER, 3645015",
+                "EXAMINER'S REPORT, GPO 945159",
+                "Registration of Marriages (Ireland) Act, 1863, 220",
+                "EMBASSY OF THE UNITED STATES OF AMERICA, PPT 9-16:0'NEILL Mrs. Margaret",
+                "Letter from the Assistant District Director for Citizenship, BOS 30/3 (O'Neill",
+                "UNITED STATES GOVERNMENT Memorandum, 5010-108",
+                "Operations Memorandum, FORM 05-682",
+                "Certificate of the Loss of the Nationality of the United States, F-324",
+                "Foreign Service Regulations and Reporting Procedures for Consular Officers in Ireland,, PM-1600/23",
+                "APPLICATION FOR REGISTRATION",
+                "AFFIDAVIT BY NATURALIZED AMERICAN TO OVERCOME PRESUMPTION OF NONCITIZENSHIP, 1-170",
+                "OPinion of Officer Taking Affidavit, N-14023",
+                "Naturalization, 30184",
+                "OATH OF ALLEGIANCE",
+                "The Acting Secretary of State presents his compliance to the Minister of the Irish Free State and has the honor to enclose for his disposal a passport which was issued to Margaret Horgan by the Government of the Irish Free State., PD-010-MR D",
+                "REQUEST FOR INFORMATION FROM NATURALIZATION FILE ( (N-585 is attached, fill in items 2, 3 and 6 only)",
+                "IMMIGRATION AND NATURALIZATION SERVICE, C 3 645 015 Temp.",
+                "CERTIFICATE OF THE LOSS OF NATIONALITY OF THE UNITED STATES, Form No. 568",
+                "United States Naturalization Certificate",
+                "United States of America Naturalization Certificate, 345016",
+                "Naturalization Petition,, N-4-1025"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Jamaica",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 31
+}

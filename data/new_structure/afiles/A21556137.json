@@ -1,0 +1,50 @@
+{
+    "id": "A21556137",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE",
+                "INSTRUCTIONS",
+                "MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, A21 556 137",
+                "APPLICATION FOR STATUS AS PERMANENT RESIDENT, O.M.B. No. 43-R0400",
+                "Screeneded by NARA, 7/31/2023, I-4",
+                "Screeneded by NARA, 7/31/2023, Form I-590A",
+                "BANK OF AMERICA",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, FOIA ( (b)(6)",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, FORM 1-486 A ( (REV. 6-1-73)Y",
+                "MEDICAL Examination and Immigration Interview, A21 556 137 DIEXM/245",
+                "RADIOLOGY REPORT, KAMBOS, SANTO (73)-19670-I",
+                "Screened by NARA, 7/31/2023, FORM 3A",
+                "Biographic Information, G-325A ( (REV. 8-27-72N)",
+                "NOTICE OF APPROVAL OF RELATIVE IMMIGRANT VISA PETITION, Form I-171Y",
+                "Petition to Classify Status of Alien Relative for Issuance of Immigrant Visa, 443-RO41",
+                "Application for Adjustment of Status to Lawful Permanent Resident ( Form I-4",
+                "Affidavit of Santosh Kumar Kamboj",
+                "Letter from the Ministry of Foreign Affairs, 83-12 W",
+                "GENERAL ACKNOWLEDGMENT FORM",
+                "Screeneded by NARA, 7/31/2023, NARA Form No. 4-5689",
+                "OM ENGINEERING ASSOCIATES, SUITE 112",
+                "FEDERAL BUREAU OF INVESTIGATION UNITED STATES DEPARTMENT OF JUSTICE, 20537",
+                "APPLICANT, FORM G-325A",
+                "Screened by NARA 7/31/2023, A-21 556 137",
+                "Screened by NWARAF, 7/31/2023, A21 556 137",
+                "Processing Sheet, I-468",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE",
+                "INSTRUCCIONES PARA EL RECOGNICIMIENTO M\u00c9DICO, I-94",
+                "MEDICAL Examination and Immigration Interview, FORM 1-468",
+                "APPLICATION FOR A SOCIAL SECURITY NUMBER, FORM SS-5 (2-73)",
+                "INSTRUCTIONS FOR DISTRICT OFFICE USE, 54616/6"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "India",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 38
+}

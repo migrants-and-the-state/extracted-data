@@ -1,0 +1,47 @@
+{
+    "id": "A90662047",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "LEGALIZATION FEE RECEIPT, I-689 5/87",
+                "Application for Status as a a Temporary Resident, A90662047",
+                "Title of the image, I-687 ( (04/01/87) Page 2, Form number only in double quotes separately, 21440044",
+                "Screened by NARA, 7/7/2023, I-687 ( (04/01/87) Page 3",
+                "Temporary Residence Form I-687 ( (04/01/87) Page 44",
+                "U.S. Department of Justice Immigration and Naturalization Service, I-696 ( (04/17/87)",
+                "The Civilian Personnel Records System, Form 1-693 ( (02/1478)",
+                "Medical Clearance Requirements for Aliens Seeking Adjustment of Status, NARA-01234",
+                "Medical Examination of Aliens Seeking Adjustment of Status (",
+                "Medical Clearance Requirements for Aliens Seeking Adjustment of Status, NARA-2023",
+                "Medical Clearance Requirements for Aliens Seeking Adjustment of Status, NARA-1035.428.967",
+                "CLINICAL EVALUATION FOR AIDS, 10-159",
+                "CHEST X RAY REPORT, 10-159",
+                "CASE REVIEW WORKSSheet, I-687",
+                "CERTIFICATION OF DOCUMENTS, N-214004",
+                "QDE Transmittal Sheet, 03-0044",
+                "Visa, 0690744",
+                "Form I-94, I-520",
+                "Arrival-Departure Record, 4-94-173",
+                "Screeneded by NARA, 7/7/2023, 06907444",
+                "OBSERVACIONES, 00088000",
+                "FOIA ( (b)(6), A90 662 04",
+                "Screened by NARA, 7/7/2023",
+                "Affidavit of Support, Form I-134 ( (Rev. 12-1-84) Y",
+                "Oath or Affirmation of Deponent, FOIA ( (b)(6)"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Germany",
+                "Mexico",
+                "India",
+                "El Salvador",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 40
+}

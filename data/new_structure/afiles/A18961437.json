@@ -1,0 +1,53 @@
+{
+    "id": "A18961437",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Petition for Naturalization, Form N-4",
+                "RESULT OF EXAMINATION, G-325B",
+                "APPLICATION TO FILE PETITION FOR NATURALIZATION, N-4 (000 Rev. 10-1-85Y",
+                "Naturalization and Citizenship Application Form, N-4",
+                "Naturalization and Citizenship Application,, N-4-102.",
+                "Naturalization Application Form, N-4",
+                "APPLICATION FOR VERIFICATION OF LAWFUL PERMANENT RESIDENCE OF AN ALIEN",
+                "INSTRUCTIONS TO THE APPLICANT",
+                "Notice of Preliminary Naturalization Hearing, A18 961 437",
+                "Title: Naturalization and Citizenship Application Form, Form Number: N-4 (, Form Number: N-4",
+                "ROUTE SLIP, G-360B ( (Rev. 1 - 1 - 72)",
+                "DECISION ON VP. SECTION OF LAW, MO.-DAY-YEAR, A-620, A-18 961 437",
+                "Naturalization Certificate, N-550",
+                "Notice of Final Naturalization Hearing, N-4 445A",
+                "Petition for Naturalization,, N-4-550",
+                "BIOGRAPHIC INFORMATION, G-325 ( (Rev. 10-1-82) Y",
+                "Immigrant Visa and Alien Registration, FS-511",
+                "Title: SOLICITUD DE VISA DE INMIGRATE Y REGISTRO DE EXTRANGERO\\nForm number: FS-513 ( (Spanish)",
+                "Form FS-510 (Spanish, Screeneded by NARA. 6/1/2023",
+                "Form FS-S10 ( (Spanish), Screeneded by NARA, 6/1/2023",
+                "Form FS-510 ( (Spanish), Screeneded by NAA, 6/1/2023",
+                "Petition to Classify Status of Alien Relative for Issuance of Immigrant Visa,, 4-130",
+                "Application for Alien Relative; Form I-130A",
+                "VARIOS, 151005",
+                "El Oficial del Registro Civil",
+                "Marriage, 8010, 927",
+                "Marriage License, 8010",
+                "WISCONSIN STATE BOARD OF HEALTH ORIGINAL CERTIFICATE OF DEATH, 2015",
+                "JEFATURA DE POLICIA DEL DISTrito FEDERAL, 262312",
+                "Screened by NARA, 6/1/2023, STATE OF WISCONSIN (SS.) MILWAKEE COUNTY",
+                "Screened by NARA, 6/1/2023",
+                "Motor Castingsings Company, 1322 50th Street Milwaukee, Wisconsin 53214",
+                "First Wisconsin National Bank of Milwaukee, FOIA ( (b)(6)"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Canada",
+                "United States",
+                "Mexico"
+            ]
+        }
+    },
+    "page_count": 38
+}

@@ -1,0 +1,75 @@
+{
+    "id": "A90409169",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Surrender This copy when leaving the United States - see reverse, R-560",
+                "ARRIVAL-DEPARTURE RECORD, FORM 1-94 (REV. 7-1-64)",
+                "INDEX CARD, G-361 ( (Rev. 4-76) N",
+                "INDEX CARD, G-361",
+                "Routing and Transmittal Slip, 5041-102",
+                "United States Department of Justice Immigration and Naturalization Service",
+                "DECISION, I-290 A",
+                "ATTACHMENT, I-2292",
+                "Petition to Classify Status of Alien Relative for Issuance of Immigrant Visa, FORM 1-130",
+                "Application for Adjustment of Status to Lawful Permanent Resident,, I-452",
+                "Disposiciones de la Ley de Pasaportes desaparecidos, 19541",
+                "CERTIFICATION",
+                "CERTIFICACION, 0075863",
+                "CERTIFICACI\u00d3N, 1565820",
+                "CERTIFICA CION, 2976592",
+                "U.S. Department of Justice, Immigration and Naturalization Service A-File Cover Sheet, M 330 ( (4.05 90)",
+                "Application to Adjust Status from Temporary to Permanent Resident, Form I-698 ( (08/10/88) Page 1",
+                "Screeneded by NARA, 7/7/2023, Form I-690",
+                "Medical Examination of Aliens Seeking Adjustment of Status",
+                "Medical Clearance Requirements for Aliens Seeking Adjustment of Status",
+                "Medical Clearance Requirements for Aliens Seeking Adjustment of Status, Form I-693 ( (Rev. 09/01/87) N",
+                "Screened by NARA, 7/7/2023, 800013446",
+                "Medical Examination of Aliens Seeking Adjustment of Status ( Form 1-693 ( (02/1478)",
+                "Medical Clearance Requirements for Aliens Seeking Adjustment of Status, NARA-01234",
+                "Medical Clearance Requirements for Aliens Seeking Adjustment of Status, NARA-1039",
+                "U.S. Department of Justice Medical Examination of Aliens Seeking Adjustment of Status",
+                "Medical Clearance Requirements for Aliens Seeking Adjustment of Status, NARA-0123456789",
+                "Screeneded by NARA, 7/7/2023",
+                "Screened by NARA, 7/7/2023, I-18",
+                "U.S. DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, I-689 5/87",
+                "Application for Replacement of Form I-688A, Employment Authorization, or Form I-688, Temporary Residence Card ( (Under PL. 99-603)",
+                "INSTRUCTIONS",
+                "CASE REVIEW WORKS, I-687",
+                "U.S. Department of Justice Immigration and Naturalization Service, Form I-687 ( (04/01/87) Page 1",
+                "Title of the image, Screened by NARA, 7/7/2023, Form number only in double quotes, Form I-687 ( (04/01/87)",
+                "Military Selective Service Registration Form, Form I-687 ( (04/ 01/ 87) Page 3",
+                "Temporary Residence Application, Form I-687 ( (04/01/87)",
+                "Legalization/SA Examinations Worksheet, Form I-696 ( (04/17/87)",
+                "BASIS FOR LEGALIZATION OFFICE RECOMMENDATION, Form I-696 ( (04/17/87)",
+                "ORIGINAL DOCUMENTS ATTACHED HAVE BEEN AND RETURNED.",
+                "Screened by NARA, 7/7/2023, Francisco Mugueria, M.D., P.A.",
+                "Affidavit of Support",
+                "Oath or Affirmation of Deponent, NARA Form 1024",
+                "Screeneded by NARA, 7/7/2023, 44232056A 6-79",
+                "Screeneded by NARA, 7/7/2023, NARA Form Number: 1987-0504-0000",
+                "Disposiciones del Ley de Pasaportes Decreto por el Congreso Nacional el 3 de Febrero de 1971., 19541",
+                "TRANSLATION OF BIRTH CERTIFICATE, 0075863",
+                "CERTIFICACION, N\u00ba 0075863",
+                "Naturalization Fee Receipt, I-689 5/87",
+                "DEPORTATION CHARGE RECORD OF REQUIRED DEPARTURE, 24 1-80 N",
+                "Decision on Petition for Alien Relative Immigrant Visa,, I-290 A",
+                "ATTACHMENT TO FORM I-292, I-292",
+                "United States Department of Justice Immigration & Naturalization Service, I-298 A",
+                "Screeneded by NARA, 7/7/2023, I-292"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Honduras",
+                "Germany",
+                "United States",
+                "Japan"
+            ]
+        }
+    },
+    "page_count": 89
+}

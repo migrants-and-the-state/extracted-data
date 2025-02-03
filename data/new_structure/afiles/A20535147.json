@@ -1,0 +1,57 @@
+{
+    "id": "A20535147",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "male"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Naturalization Certificate, A20 535 147",
+                "Petition for Naturalization",
+                "RESULTS OF EXAMINATION",
+                "APPLICATION TO FILE PETITION FOR NATURALIZATION, 44 63",
+                "Nationality and Naturalization Application",
+                "Title of the image, Screened by NARA, 8/17/2023, Form number, FOIA (b)(6)",
+                "FOIA ( (b)(6), NARA, 8/17/2023",
+                "Naturalization Hearing Notice, N-4-353",
+                "UNITED STATES DEPARTMENT OF JUSTICE Immigration and Naturalization Service",
+                "BIOGRAPHIC INFORMATION, G-325 ( (REV. 8-1-74)",
+                "Nonimmigrant Document, A20 535 147",
+                "COVER SHEET RECORD OF PROCEEDING, M-175 ( (4-1-69)",
+                "MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, A2 535 147",
+                "INSTRUCTIONS, VSO 20R 175",
+                "APPLICATION FOR STATUS AS PERMANENT RESIDENT, O.M.B. No. 4-RO4",
+                "Alien Certification Form, NARA-81720",
+                "INDEX CARD, G-361 ( (Rev. 10-1-70) N",
+                "Triplicate, G-361 ( (Rev. 10-1-70) N",
+                "CALIFORNIA FEDERAL SAVINGS AND LOAN ASSOCIATION",
+                "Notice of Entry of Appearance as Attorney or Representative, G-28",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, FORM 1-486A ( (Rev. 9/72)N",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, FORM 1-485A ( (REV. 9-9-72IN",
+                "DEPARTMENT OF STATE FOREIGN SERVICE OF THE UNITED STATES OF AMERICA MEDICAL EXAMINATION OF VISA APPLICANTS, FS-398",
+                "RADIOLOGY REPORT, 3/11/74",
+                "The Adjustment of Status Application Granted, FORM I-181 (b ( (REV. 10-1-71) N",
+                "NOTICE OF APPROVAL OF RELATIVE IMMIGRANT VISA PETITION",
+                "Petition to Classify Status of Alien Relative for Issuance of Immigrant Visa, 4-3-R041",
+                "Screened by NARA, 8/17/2023",
+                "TAIWAN HOUSEHOLD REGISTERED RECORD",
+                "Consulate General of the Republic of China, Yokohama, Japan, SG-3922",
+                "Screened by NARA, 8/17/2023, Form I-130",
+                "UNITED STATES DEPARTMENT OF JUSTICE IMMIGRATION AND NATURALIZATION SERVICE, A20 535 147 TC/245",
+                "INSTRUCCIONES PARA EL RECOGNICIMIENTO MEDICO, I-94",
+                "MEDICAL Examination and Immigration Interview, FORM 1-460",
+                "Biographic Information, G-325A ( (REV. 8-27-72)",
+                "FEDERAL BUREAU OF INVESTIGATION UNITED STATES DEPARTMENT OF JUSTICE, WASHINGTON, D.C. 2 20537"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "United States",
+                "Japan",
+                "Taiwan",
+                "China"
+            ]
+        }
+    },
+    "page_count": 59
+}

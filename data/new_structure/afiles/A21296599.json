@@ -1,0 +1,47 @@
+{
+    "id": "A21296599",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "FILE CHARGE COPY, A23 296 599",
+                "INDEX CARD, G-361 ( (Rev. 4-1-76) N",
+                "Screened By NARA, 8/18/2023, H-500",
+                "ARRIVAL-DEPARTURE RECORD, 4194 ( 443-R311.7",
+                "Title: MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, Form Number: A2 296 599",
+                "INSTRUCTIONS, I-181",
+                "APPLICATION E, A21396 596",
+                "FOIA ( (b)(6), 16.",
+                "BIOGRAPHIC INFORMATION, Form G-325B ( (Rev. 6-1-74N)",
+                "Screened by NARA, 8/18/2023, GPO 877-682",
+                "Department of Defense Personnel Security Records Review Board Form 1025A, GPO 877-682",
+                "Screeneded by NARA, 8/18/2023, City of Salem, Massachusetts Police Department Headquarters",
+                "Affidavit, A- 21 - 296 - 599",
+                "Biographic Information, A21 296 599",
+                "Biographic Information Form G-325A ( (REV. 10-1-74), Form Approved OMB No. 4-43-R46",
+                "Title: UNITED STATES DEPARTMENT OF JUSTICE\\nForm Number: G-643, G-645, FD-258, G-325C",
+                "AFFIDAVIT RE ASSETS AND LIABILITIES TO BE SUBMITTED BY EVERY REFUGEE 17 YEARS OF AGE OR OVER APPLYING FOR PAROLE INTO THE UNITED STATES, G-648 ( (2-275)",
+                "SWORN STATEMENT OF REFUGEE APPLYING FOR PAROLE INTO THE UNITED STATES, FORM G-640(5.12.75)",
+                "FEDERAL BUREAU OF INVESTIGATION UNITED STATES DEPARTMENT OF JUSTICE, FD-258 ( (Rev. 4-25-72)",
+                "Application or Petition Form No. VIETNAMESE PROGRAM, A21 296 599",
+                "Screened by NARA, 8/18/2023, FOIA ( (b)(6)",
+                "Application or Petition Form No. I-485 ( (245), I-485 ( (245)",
+                "United States Department of Justice, Immigration and Naturalization Service",
+                "United States Department of Justice Immigration and Naturalization Service",
+                "BIOGRAPHIC INFORMATION, G-325A ( (REV. 10-1-74) Y",
+                "DCII REQUEST / REPLY CARD, FORM II"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Cambodia",
+                "Laos",
+                "United States",
+                "Vietnam"
+            ]
+        }
+    },
+    "page_count": 44
+}

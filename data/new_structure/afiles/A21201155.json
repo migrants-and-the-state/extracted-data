@@ -1,0 +1,78 @@
+{
+    "id": "A21201155",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Naturalization Certificate of Alien, 1157458",
+                "Petition for Naturalization",
+                "RESULT OF EXAMINATION",
+                "APPLICATION TO FILE PETITION FOR NATURALIZATION, 44 3-R0079",
+                "Naturalization and Citizenship Application Form, N-4",
+                "Naturalization and Citizenship Application Form, N-4-100",
+                "Naturalization and Citizenship Application Form",
+                "Naturalization Application",
+                "Naturalization Application Form, N-4",
+                "APPLICATION TO FILE PETITION FOR NATURALIZATION, N-4 (000",
+                "Screeneded by NARA, 9/21/2023, N-4-568",
+                "APPLICATION TO FILE PETITION FOR NATURALIZATION",
+                "COVER SHEET RECORD OF PROCEEDING, M-175 ( (Rev. 10-20-69)",
+                "Individual Fee Register Receipt, G-711",
+                "APPLICATION FOR ISSUANCE OR EXTENSION OF PERMIT TO REENTER THE UNITED STATES, OMB No 4-R0052",
+                "Screened by NARA, 9/21/2023, L-000",
+                "Application for Alien Registration Receipt Card and Permit to Reenter,, I-151",
+                "Cover Sheet, M-175 ( (Rev. 10-20-69)",
+                "DEparure Record, 4-94 (Rev. 4-1-67) (Parole Edition)",
+                "MEMORANDUM OF CREATION OF RECORD OF LAWFUL PERMANENT RESIDENCE, A21-201-155",
+                "INSTRUCTIONS, I-181",
+                "United States Department of Justice Immigration and Naturalization Service",
+                "IMMIGRATION AND NATURALIZATION SERVICE",
+                "APPLICATION BY INDOCHINESE REFUGEE FOR PERMANENT RESIDENCE, Form Approved OMB No. 4-0596",
+                "FOIA ( (b)(6), FOIA ( (b)(6)",
+                "BIOGRAPHIC INFORMATION, FORM G-325A (REV. 10-1-74)Y",
+                "BIOGRAPHIC INFORMATION, G-325A ( (REV. 10-1-74) Y",
+                "Title: United States Department of Justice Immigration and Naturalization Service\\nForm Number: G-325A ( (REV. 10-1-74)",
+                "AFFIDAVIT TO MAKE CORRECTION OF INFORMATION, A21.201-155",
+                "City of Huntington Beach, 586-40-8672",
+                "Screened by NARA, 9/21/2023",
+                "Screened by NARA, 9/21/2023, A2-24-155",
+                "United States Department of Justice Immigration and Naturalization Service Processing Sheet, I-485",
+                "NOTICE OF APPROVAL OF RELATIVE IMMIGRANT VISA PETITION, Form 1-171",
+                "REQUEST FOR POST AUDIT OF CITIZENSHIP OR LAWFUL ENTRY AFTER APPROVAL, I-171D",
+                "Visas Forty ( (I-130 Approvals) ( (Mother, Father, Children)",
+                "Petition to Classify Status of Alien Relative for Issuance of Immigrant Visa, I-130A",
+                "Information About Alien Beneficiary ( (Continued)",
+                "Screened by NARA, 9/21/2023, FORM I-94 (Rev. 9-1-73)N",
+                "Naturalization Application Form, N-4-1234",
+                "Notice of Preliminary Naturalization Hearing, N-430A",
+                "Notice of Final Naturalization Hearing, N-4 445A",
+                "Petition for Naturalization,, N-455",
+                "United States Department of Justice Immigration and Naturalization Service, A21 201 155",
+                "Application or Petition Form No. N400/N405, N400/N105",
+                "Title: BIOMETRIC INFORMATION; Form Number: FORM G-325 (, Title: BIOMETRIC INFORMATION; Form Number: FORM G-325 ( (REV. 5-1-79)",
+                "Affidavit re Assets and Liabilities to be Submitted by Every Refugee 17 Years of Age or Over Applying for Parole into the United States, G-648 ( (G-275)",
+                "Sworn Statement of Refugee Applying for Parole into the United States, FORM G-646(5.12-75)",
+                "Screened by NARA, 9/21/2023, AR-11 (Rev. 9-27-75)N",
+                "DCII REPLY REQUEST / REPLY CARD, NECC/HP-23079",
+                "United States of America Immigration and Naturalization Service, G-325A",
+                "DEPARTMENT OF STATE FOREIGN SERVICE OF THE UNITED STATES OF AMERICA MEDICAL EXAMINATION OF VISA APPLICANTS, FS-398",
+                "APPLICANT:, FORM G-325A",
+                "Biographic Information, G-325A ( (REV. 8-27-72N)",
+                "Title: BIOGRAPHIC INFORMATION\\nForm Number: G-325A ( (REV. 8-27-72N)"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Laos",
+                "Cambodia",
+                "Mexico",
+                "Canada",
+                "Vietnam",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 81
+}

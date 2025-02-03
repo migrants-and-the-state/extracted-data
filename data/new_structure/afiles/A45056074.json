@@ -1,0 +1,75 @@
+{
+    "id": "A45056074",
+    "fields": {
+        "sex": {
+            "ms_sex_llm_v1": "female"
+        },
+        "form_titles": {
+            "ms_form_titles_llm_v1": [
+                "Application for Naturalization, N-4",
+                "Part 3. Information About You, N-4 (Rev. 07/23/02)N Page 2",
+                "Part 5. Information for Criminal Records Search, Form N-4 (00",
+                "Part 8. Information About Your Marital History ( (Continued), Form N-400 ( (Rev. 07/23/02)N",
+                "Part 9. Information About Your Children, Form N-4 (07/23/02)N Page 6",
+                "Title: Part 10. Additional Questions ( Form Number: N-4 -000",
+                "Title: Part 10. Additional Questions ( Form Number: NARA, 7/24/2023",
+                "Naturalization Application",
+                "Certificate Preparation Sheet And Oath Declaration, Form N-649 ( (Rev. 11/1/98)",
+                "Naturalization Interview Results, N-652",
+                "OATH-CEREMONY Information Sheet",
+                "Medical Certification for Disability Exceptions",
+                "Screened by NARA, 7/244223",
+                "Professional Certified Opinion, Form N-648 ( (Rev. 04/09/02)N Page 3",
+                "PLEASE DISREGARD 09/28/05 INTERVIEW NOTICE, N400",
+                "U.S. Citizenship and Immigration Services, FOIA ( (b)(6)",
+                "Naturalization without the presence of my attorney,",
+                "Title: Entry of Appearance or Representative\\nForm Number: G-28 ( (09/26/00)Y",
+                "DELGGA & ASSOCIATES",
+                "Notice of Naturalization Oath Ceremony, N-4-4-5-0-1-1-5-0-0-5-2",
+                "Naturalization Application,",
+                "Certificate of Naturalization, N-550",
+                "U.S. Department of Homeland Security N-4 Continuation Processing Worksheet, N-650C ( Rev. 9/30/03",
+                "U.S. Department of Homeland Security, N-400 Adjudication Processing Worksheet",
+                "U.S. Department of Homeland Security, N-4 400 Pre-Processing Worksheet",
+                "Record of IBIS Query ( (ROIQ), A045 056 074",
+                "Immigrant Visa and Alien Registration",
+                "APPLICATION FOR IMMIGRANT VISA AND ALIEN REGISTRATION, Formulario Opcional 230 Ing./Esp.",
+                "NARA Form 4, 2",
+                "Formulario 220 Eng/Span, Solicitud de Visa de Inmigrante y Registro de Extranjero",
+                "Screeneded by NARA, 7/24023, I-1 - I-9465",
+                "II-3, I-129",
+                "Screeneded by NARA, 7/244/2023, Form I-129F",
+                "Petition for Alien Relative, I-130 ( Rev. 10/01/99",
+                "Freedom of Information Act ((b)(6), Form 24-1035",
+                "NOTICE TO PERSONSSS FILING FOR SPOUSES IF MARRIED LESS THAN TWO YEARS, Form I-751, Joint Petition to Remove Conditional Basis of Alien\u2019s Permanent Resident Status",
+                "REpublica De Honduras Registro Nacional De Las Personas, 260116 - B",
+                "IMPUESTOS Y SERVICIOS VARIOS, 0923275",
+                "Translation of Birth Certificate",
+                "NOTICE, Screened by NARA, 7/24/2023",
+                "Certificate of Naturalization, N-550 REV. 8-91",
+                "REpublica De Honduras Registro Nacional De Las Personas Certificaci\u00f3n De Acta De Nacimiento, 02-02-03",
+                "CERTIFICACION DE ACTA DE DEFUNCION, 00039",
+                "CERTIFICACI\u00d3N DE ACTA DE NACIMIENTO, FORMA -02-02-03",
+                "Affidavit of Support",
+                "OATH OR AFFIRMATION OF DEPONENT, NNA1",
+                "Screeneded by NARA, 7/24/2023, Form Number: 1025 S. Norton Avenue #3 , Los Angeles, California",
+                "Screeneded by NARA, 7/24/2023, Giffin Consulting Services",
+                "Screened by NARA, 7/24/2023, Giffin Consulting Services",
+                "HOSPITAL Y CL\u00cdNICAS VIERA, S. A., FORMA RX-01",
+                "HOSPITAL Y CL\u00cdNICAS VIERA, S. A., 32",
+                "Title: MEDICAL EXAMINATION OF APPLICANTS FOR UNITED STATES VISAS, Form Number: NSN 7540-00-139-0058",
+                "Additional Questions to be Completed by All Applicants for Permanent Residence in the United States, 9003"
+            ]
+        },
+        "countries": {
+            "ms_countries_nlp_v1": [
+                "Honduras",
+                "Germany",
+                "Mexico",
+                "Canada",
+                "United States"
+            ]
+        }
+    },
+    "page_count": 73
+}
